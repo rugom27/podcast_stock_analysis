@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  app:
+    build: .
+    container_name: hedge_fund_reports
+    ports:
+      - "8501:8501"
+    volumes:
+      # Map the outputs folder so the app sees new reports instantly
+      - ./outputs:/app/outputs
+      # (Optional) Map the python file if you want to edit code live
+      - ./streamlit_app.py:/app/streamlit_app.py
+    restart: unless-stopped

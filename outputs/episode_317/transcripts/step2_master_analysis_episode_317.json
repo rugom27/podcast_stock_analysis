@@ -1,0 +1,281 @@
+{
+  "episode_number": "Not applicable",
+  "episode_date": "Not applicable",
+  "executive_summary": "Tom Hayes expresses caution regarding the AI trade, suggesting a shift towards AI beneficiaries rather than cost centers. He remains bullish on energy and healthcare, particularly National Oil Well Varco (NOV) and Coterra (CTRA), and highlights opportunities in GXO Logistics and QXO, emphasizing Brad Jacobs' expertise. He also notes potential in Diageo (DAGIO) due to new management and its strong cash flow.",
+  "tom_current_conviction": {
+    "overall_market": "Cautious, with a preference for value outside the Magnificent 7.",
+    "score_1_to_10": 6,
+    "key_reasons": [
+      "Froth in the AI trade due to retail investors buying call options.",
+      "Declining cash flows for hyperscalers.",
+      "High capital expenditure as a percentage of operating cash flow for hyperscalers.",
+      "Overweighting of tech companies in the S&P 500 relative to their earnings power."
+    ]
+  },
+  "macro_thesis_summary": "The market is experiencing froth in specific sectors like AI, while other sectors offer better value. Economic data suggests a weakening jobs picture, which could influence the Federal Reserve's actions. There's a potential shift towards value stocks and small-cap companies. Consumer sentiment is low, which historically precedes significant recoveries.",
+  "key_macro_data_points": [
+    {
+      "indicator": "Hyperscalers Free Cash Flow Decline",
+      "value": "Down 43% between Q4 2024 and Q1 2025",
+      "tom_interpretation": "This decline raises concerns about the return on invested capital in the AI buildout."
+    },
+    {
+      "indicator": "Challenger US Job Cuts Announcements",
+      "value": "Cyclical sectors starting to increase",
+      "tom_interpretation": "Positive for cyclicals."
+    },
+    {
+      "indicator": "Small Cap PE Ratio",
+      "value": "16x earnings for S&P 600 vs 26x for non-profitable small caps",
+      "tom_interpretation": "Focus on profitable small-cap areas."
+    },
+    {
+      "indicator": "Healthcare Underperformance",
+      "value": "Cumulative 70 percentage points of healthcare underperformance in the last 50 years",
+      "tom_interpretation": "This is unprecedented and reminiscent of 1999 before healthcare dramatically outperformed in 2000."
+    },
+    {
+      "indicator": "Consumer Sentiment Index",
+      "value": "Consistent with recession levels",
+      "tom_interpretation": "Tends to lead to huge recoveries."
+    }
+  ],
+  "featured_company_deep_dives": {
+    "GXO": {
+      "thesis_summary": "GXO is well-positioned to benefit from the logistics upcycle, driven by strong organic growth, new business wins, and a focus on higher-margin services. New CEO Patrick Kellaher is a major catalyst, particularly for expansion in North America. The company is on track for a structurally higher margin base.",
+      "key_metrics": [
+        "Record quarterly revenues of $3.44 billion, up 8% year-on-year",
+        "Organic growth of 4%",
+        "New business wins of $280 million, up 24% year-on-year",
+        "Sales pipeline stands at $2.3 billion",
+        "Adjusted EBITDA margins of 6.5% with a long-term target of 9%+",
+        "Net leverage ratio improved to 2.7 times"
+      ],
+      "price_target_or_valuation": "Rerating toward the multiple a high quality doubledigit growing cash machine deserves.",
+      "conviction": "9",
+      "action": "Buy"
+    },
+    "QXO": {
+      "thesis_summary": "QXO presents a compelling opportunity due to its aggressive M&A strategy, led by Brad Jacobs, and the structural tailwinds in the housing market. The company is focused on improving efficiency and driving organic growth at Legacy Beacon, with a long-term goal of doubling EBITDA and achieving significant margin expansion.",
+      "key_metrics": [
+        "Q3 sales of $2.73 billion, down 1% year-on-year",
+        "Adjusted EBITDA margins of 11.1%",
+        "On track to organically grow legacy Beacons IBIDA to more than $2 billion",
+        "Robust M&A pipeline",
+        "Targeting $50 billion in annual revenue within a decade"
+      ],
+      "price_target_or_valuation": "$43 price target (Wolf Research)",
+      "conviction": "9",
+      "action": "Buy"
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "LULU",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Lulu, the jury is still out, but uh it continues to be on front of top of mind.",
+        "I continue to say, \"Why am I not buying the stock?\" and and sometimes there's something just in the back of your head holding you back from doing it."
+      ]
+    },
+    {
+      "ticker": "NOV",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "Energy looks like it's breaking out of a large cup and handle...you're seeing our national oil well Varco and our comm stock taking off"
+      ]
+    },
+    {
+      "ticker": "CTRA",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "Energy looks like it's breaking out of a large cup and handle...you're seeing our national oil well Varco and our comm stock taking off"
+      ]
+    },
+    {
+      "ticker": "BAX",
+      "tom_sentiment": "Neutral to Bullish",
+      "conviction": 7,
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "Baxter not so much yet, but uh we added some on Friday, so we're we're comfortable there.",
+        "We confront problems headon. We don't run from problems and we address Baxter uh head on. and uh in doing that uh grew our conviction to add to the position."
+      ]
+    },
+    {
+      "ticker": "GXO",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "Those drivers lay the foundation for a strong recovery back to normalized earnings power and a rerating toward the multiple a high quality doubledigit growing cash machine deserves.",
+        "North America will be the engine to get it done."
+      ]
+    },
+    {
+      "ticker": "QXO",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "We're making excellent progress optimizing Beacon and continue to find new avenues for growth.",
+        "We outperform the market this quarter and are firmly on track to organically grow legacy Beacons IBIDA to more than$2 billion dollars.",
+        "This momentum combi combined with a very robust acquisition pipeline primes us to reach 50 billion in annual revenue within a decade"
+      ]
+    },
+    {
+      "ticker": "DAGIO",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Buy",
+      "key_quotes": [
+        "Now you're going to get a competent jockey at the reigns and this thing over the next 3 to 5 years is going to double",
+        "Buy a business that's so good that a ham sandwich can run it because one day a ham sandwich will run it.",
+        "Dagio is in the the leader in premiumization drinking less but drinking better which means higher margin higher quality stuff"
+      ]
+    },
+    {
+      "ticker": "BA",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Consider Buying",
+      "key_quotes": [
+        "Boeing bets big on South Carolina plant to double 787 output and people are selling the stock.",
+        "When we were buying on Friday, uh we actually thought about putting new money to work in Boeing at 195. We didn't do it because we have such a lower basis, but uh it's getting tempting."
+      ]
+    },
+    {
+      "ticker": "JHX",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Due Diligence",
+      "key_quotes": [
+        "I like this one between, you know, 15 and 1750."
+      ]
+    },
+    {
+      "ticker": "PYPL",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "The catalyst is time...It's a time arbitrage game.",
+        "The price always catches up to the fundamentals sooner or later."
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "The catalyst is time...It's a time arbitrage game.",
+        "The price always catches up to the fundamentals sooner or later."
+      ]
+    },
+    {
+      "ticker": "TVU",
+      "tom_sentiment": "Bearish",
+      "conviction": 2,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "They got to pay off the half a billion dollars of debt.",
+        "For me it's a no."
+      ]
+    },
+    {
+      "ticker": "RXO",
+      "tom_sentiment": "Neutral",
+      "conviction": 4,
+      "actionable": "Hold",
+      "key_quotes": [
+        "I don't like it. I don't I mean I think it'll do fine for the next few years. I think their mode is going to get eroded um because it's basically just Uh, I picked the best two that I wanted to be exposed with."
+      ]
+    },
+    {
+      "ticker": "WEN",
+      "tom_sentiment": "Bearish",
+      "conviction": 3,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "I don't like Wendy's. If um Nelson Peltz couldn't turn it around, no one can."
+      ]
+    },
+    {
+      "ticker": "DHI",
+      "tom_sentiment": "Neutral",
+      "conviction": 4,
+      "actionable": "Hold",
+      "key_quotes": [
+        "DHI hasn't come in enough. Um, too early on that one."
+      ]
+    },
+    {
+      "ticker": "HUM",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "I think Humana is probably a better way to play it. um as I continue to remind myself, but we're not going to run a a 20 stock portfolio, so you know, we have to be selective and we like what we have."
+      ]
+    }
+  ],
+  "new_or_recent_additions": [
+    "BAX"
+  ],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy National Oil Well Varco (NOV) and Coterra (CTRA) to capitalize on the energy sector breakout.",
+      "conviction": 9
+    },
+    {
+      "rank": 2,
+      "idea": "Buy GXO Logistics (GXO) based on strong organic growth, new business wins, and expansion in North America.",
+      "conviction": 9
+    },
+    {
+      "rank": 3,
+      "idea": "Buy QXO, leveraging Brad Jacobs' expertise in M&A and the structural tailwinds in the housing market.",
+      "conviction": 9
+    },
+    {
+      "rank": 4,
+      "idea": "Buy Diageo (DAGIO) due to new management and its strong cash flow.",
+      "conviction": 8
+    },
+    {
+      "rank": 5,
+      "idea": "Consider buying Boeing (BA) as it bets big on South Carolina plant to double 787 output.",
+      "conviction": 7
+    },
+    {
+      "rank": 6,
+      "idea": "Hold PayPal (PYPL) and Alibaba (BABA) and wait for the market to recognize their intrinsic value.",
+      "conviction": 7
+    },
+    {
+      "rank": 7,
+      "idea": "Perform due diligence on James Hardy (JHX) for potential investment.",
+      "conviction": 7
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Risk in clothing and apparel if a brand hasn't been around forever.",
+    "Leveraged equity ETF launches are a sign of froth.",
+    "Private equity and private credit crowded trades with potential for hidden risks.",
+    "AI could erode the moat of software companies."
+  ],
+  "technical_takeaways": "The S&P is back at the bottom of the trend channel in place over the last three years. If it can hold this, that's very positive. It points towards 7,000. If it cracks, there's probably going to be a little bit of work to do before it gets back up there."
+}

@@ -1,0 +1,464 @@
+{
+  "episode_number": "Unknown",
+  "episode_date": "Unknown",
+  "executive_summary": "Tom Hayes expresses a bullish outlook for the intermediate and long term, but cautions about short-term turbulence due to the shutdown, China deal, and geopolitical risks. He advises using any volatility as a buying opportunity, particularly in small caps and neglected sectors like staples and energy. He warns about the Magnificent 7 being priced for perfection and identifies potential selling pressure from insiders.",
+  "tom_current_conviction": {
+    "overall_market": "Constructive into 2026, but cautious in the short term.",
+    "score_1_to_10": 7,
+    "key_reasons": [
+      "Historical data suggests secondary corrections after a 15% drop followed by all-time highs average 6.4%.",
+      "MAG 7 earnings growth is slowing, creating potential turbulence.",
+      "Shutdown, China deal, and geopolitical risks create short-term uncertainty."
+    ]
+  },
+  "macro_thesis_summary": "The market is generally strong, but overbought in certain sectors. Small caps and neglected sectors offer better value. Expect a potential pullback before a year-end rally. Lower rates are coming, benefiting housing and certain sectors.",
+  "key_macro_data_points": [
+    {
+      "indicator": "Small Cap vs. Large Cap Relative Valuation",
+      "value": "Implies excess returns of small caps relative to large caps at 10% annualized for the next 5 years.",
+      "tom_interpretation": "Small caps should outperform large caps significantly."
+    },
+    {
+      "indicator": "Demand for Commercial Aircraft",
+      "value": "Expected to double in 20 years, reaching 43,000+ aircraft by 2044.",
+      "tom_interpretation": "Positive for Boeing."
+    },
+    {
+      "indicator": "10-Year Treasury Yield",
+      "value": "Below 4%.",
+      "tom_interpretation": "Confirms our minority call. Expect it to be in the 3s before year-end."
+    },
+    {
+      "indicator": "Mortgage Rates",
+      "value": "Below 6%.",
+      "tom_interpretation": "Confirms our call. Expect further declines."
+    },
+    {
+      "indicator": "China Consumer Confidence",
+      "value": "Hasn't recovered yet.",
+      "tom_interpretation": "Opinion will follow trend. Wait until it comes back up to 105 and beyond, where the Alibabas of the world will be by client."
+    }
+  ],
+  "featured_company_deep_dives": {
+    "CCI": {
+      "thesis_summary": "Crown Castle is a buy due to declining interest rates, removal of overhangs (new CEO, fiber business sale), and a focus on its core tower business. The company is well-positioned to benefit from increased mobile data usage and spectrum auctions.",
+      "key_metrics": [
+        "Organic revenue growth excluding sprint turn: 5.2%",
+        "Full-year discretionary capex guidance lowered to $155 million",
+        "84% of debt fixed",
+        "Long-term agreement in place to 2036 with EchoStar"
+      ],
+      "price_target_or_valuation": "Material price appreciation from here.",
+      "conviction": "Strong",
+      "action": "Buy"
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "GOOS",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "Stock price will catch up with the growing fundamentals.",
+      "actionable": "Buy",
+      "key_quotes": [
+        "It's not just about the thousand parkas anymore. They're doing 365 wear from t-shirts to hats to eyewear to footwear.",
+        "These are the type of divergences that we built our career on when fundamentals are improving and the stock is down."
+      ]
+    },
+    {
+      "ticker": "Cooper Standard",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "Probably going to triple again from here over the next three years. A 10 times multiple is a $100 stock. If you go back to a 20 times multiple could be a lot higher.",
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "This stock was down from $146 down to five. When we started buying it in 2022, it's subsequently dropped to 3 a.5. We bought more and uh and now it's at $3536.",
+        "When it was $146 it was earning $7.20 on um 17.5 million US sell through they provide to US OEMs like Ford like GM etc. It's a play on the recovery in auto volumes.",
+        "We like Cooper Standard."
+      ]
+    },
+    {
+      "ticker": "NOV",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "I like this massive divergence in oil. As you know, we have exposure through national oil well Varco through comtock uh etc. And um and I definitely think that this is getting washed out."
+      ]
+    },
+    {
+      "ticker": "BA",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "Demand for commercial aircraft to double in 20 years. 43,000 plus passenger and freighter aircraft by 2044 continues to be great for Boeing."
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "Alibaba will trade up to a 20 or 30 times when everyone is in the frenzy and it's closer to mid200s or 300s and um and that'll be a good good point to start laying off.",
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "Wait till this comes back up to 105 and beyond where the Alibabas will be of the world will be by client.",
+        "Chinese equities could be in the process of transitioning to growth where earnings realization will be the main propeller of equity returns."
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "AI is accelerating demand for commute and creating attractive opportunities across our portfolio.",
+        "You couldn't give it away at $18 or $19 and now it's starting to get interesting for a lot of people and it's just getting started."
+      ]
+    },
+    {
+      "ticker": "ETSY",
+      "tom_sentiment": "Bullish",
+      "conviction": 6,
+      "actionable": "Hold",
+      "key_quotes": [
+        "The e-commerce app has taken the energy of a good thrift store online. Etsy owns it. We're excited about that."
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "tom_sentiment": "Neutral",
+      "conviction": 4,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Apple hasn't done anything since the beginning of the year. As a matter of fact, it's down to break even year to date. Huge round trip back to nowhere."
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "tom_sentiment": "Neutral",
+      "conviction": 4,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Amazon, it's actually down on the year."
+      ]
+    },
+    {
+      "ticker": "GOOG",
+      "tom_sentiment": "Bullish",
+      "conviction": 6,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Google has actually rose. This was the most hated one. And that's up about 20% year to date."
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "tom_sentiment": "Bullish",
+      "conviction": 6,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Microsoft is a is a bigger winner up about 20% maybe a little bit less than 20% maybe about 13% from 453 to 520."
+      ]
+    },
+    {
+      "ticker": "META",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Meta is down since February, up a little bit since the beginning of the year, been grinding sideways uh for some time."
+      ]
+    },
+    {
+      "ticker": "NFLX",
+      "tom_sentiment": "Bearish",
+      "conviction": 3,
+      "actionable": "Sell/Avoid",
+      "key_quotes": [
+        "Netflix is basically 1,00 that's basically where it was back in March.",
+        "If your number one show is called K-pop Demon Hunters, it may be time for your stock to take a rest."
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Nvidia has basically been sideways for two years."
+      ]
+    },
+    {
+      "ticker": "PLTR",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Palunteer was 125 in February. It's 180. So that's been a Momo stock. We'll see how that continues with all the selling."
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "tom_sentiment": "Bearish",
+      "conviction": 3,
+      "actionable": "Sell/Avoid",
+      "key_quotes": [
+        "Tesla is down year to date."
+      ]
+    },
+    {
+      "ticker": "TMUS",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "actionable": "Hold",
+      "key_quotes": [
+        "You're seeing a lot of companies like T-Mobile, Hasbro raise their outlooks today."
+      ]
+    },
+    {
+      "ticker": "HAS",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "actionable": "Hold",
+      "key_quotes": [
+        "You're seeing a lot of companies like T-Mobile, Hasbro raise their outlooks today."
+      ]
+    },
+    {
+      "ticker": "F",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Ford profit more than doubles on pickup SUV sales growth in the US."
+      ]
+    },
+    {
+      "ticker": "GM",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "actionable": "Hold",
+      "key_quotes": [
+        "GM soarses the most in 5 years as truck demand spurs outlook boost."
+      ]
+    },
+    {
+      "ticker": "PYPL",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "actionable": "Hold",
+      "key_quotes": [
+        "They've got a moat of 430 million people in many countries around the world."
+      ]
+    },
+    {
+      "ticker": "UNH",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "actionable": "Hold",
+      "key_quotes": [
+        "UNH is probably a better play"
+      ]
+    },
+    {
+      "ticker": "MOLINA",
+      "tom_sentiment": "Negative",
+      "conviction": 2,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "Molina is bottom of the barrel. I don't think I'd mess around with this one yet."
+      ]
+    },
+    {
+      "ticker": "OIS",
+      "tom_sentiment": "Negative",
+      "conviction": 3,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "I wouldn't want to own this."
+      ]
+    },
+    {
+      "ticker": "NETFLIX",
+      "tom_sentiment": "Negative",
+      "conviction": 3,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "Might get taken out by Netflix because Netflix growth is slowing and that's what people are worried about."
+      ]
+    },
+    {
+      "ticker": "PEDEX",
+      "tom_sentiment": "Negative",
+      "conviction": 2,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "Now I wouldn't mess with this one."
+      ]
+    },
+    {
+      "ticker": "NVO",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "actionable": "Hold",
+      "key_quotes": [
+        "I think both biomarin, NVO, and PF are probably okay."
+      ]
+    },
+    {
+      "ticker": "PF",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "actionable": "Hold",
+      "key_quotes": [
+        "I think both biomarin, NVO, and PF are probably okay."
+      ]
+    },
+    {
+      "ticker": "CGNX",
+      "tom_sentiment": "Neutral",
+      "conviction": 4,
+      "actionable": "Hold",
+      "key_quotes": [
+        "I just think there are higher better uses of capital."
+      ]
+    },
+    {
+      "ticker": "TEO",
+      "tom_sentiment": "Neutral",
+      "conviction": 4,
+      "actionable": "Hold",
+      "key_quotes": [
+        "I think they're better uses of cash. It's It's a lowquality business."
+      ]
+    },
+    {
+      "ticker": "HAIN",
+      "tom_sentiment": "Negative",
+      "conviction": 2,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "I think I'd stay away from this one unless you can listen to the calls and understand what is the catalyst for change or if there's a new CEO."
+      ]
+    },
+    {
+      "ticker": "TGT",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "actionable": "Hold",
+      "key_quotes": [
+        "If I had to buy a retailer, I'd probably be looking hard at that one."
+      ]
+    },
+    {
+      "ticker": "FMC",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "actionable": "Hold",
+      "key_quotes": [
+        "I like FMC."
+      ]
+    },
+    {
+      "ticker": "EMN",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "actionable": "Hold",
+      "key_quotes": [
+        "I think this is probably okay."
+      ]
+    },
+    {
+      "ticker": "TPL",
+      "tom_sentiment": "Neutral",
+      "conviction": 4,
+      "actionable": "Hold",
+      "key_quotes": [
+        "I think it's okay. This is a great business at a good price, but I need a double or triple in a few years. I'm not There's no way I'm getting it off that."
+      ]
+    },
+    {
+      "ticker": "HNST",
+      "tom_sentiment": "Negative",
+      "conviction": 2,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "Nah, not for me."
+      ]
+    },
+    {
+      "ticker": "TREX",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "actionable": "Hold",
+      "key_quotes": [
+        "This probably works."
+      ]
+    }
+  ],
+  "new_or_recent_additions": [],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy Cooper Standard (CPS)",
+      "conviction": 9
+    },
+    {
+      "rank": 2,
+      "idea": "Buy Canada Goose (GOOS)",
+      "conviction": 8
+    },
+    {
+      "rank": 3,
+      "idea": "Hold National Oil Well Varco (NOV)",
+      "conviction": 7
+    },
+    {
+      "rank": 4,
+      "idea": "Hold Boeing (BA)",
+      "conviction": 7
+    },
+    {
+      "rank": 5,
+      "idea": "Hold Alibaba (BABA)",
+      "conviction": 8
+    },
+    {
+      "rank": 6,
+      "idea": "Hold Intel (INTC)",
+      "conviction": 7
+    },
+    {
+      "rank": 7,
+      "idea": "Hold Etsy (ETSY)",
+      "conviction": 6
+    },
+    {
+      "rank": 8,
+      "idea": "Hold T-Mobile (TMUS)",
+      "conviction": 6
+    },
+    {
+      "rank": 9,
+      "idea": "Hold Hasbro (HAS)",
+      "conviction": 6
+    },
+    {
+      "rank": 10,
+      "idea": "Hold Ford (F)",
+      "conviction": 6
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Magnificent 7 are priced for perfection and insiders are selling.",
+    "Market is whistling past the graveyard regarding shutdown, China deal, and geopolitical risks.",
+    "Retail investors buying record calls indicates potential short-term exhaustion."
+  ],
+  "technical_takeaways": "Gold to oil ratio suggests an upcoming uptrend in oil prices. Weakness in market breadth foreshadows potential weakness in indices."
+}

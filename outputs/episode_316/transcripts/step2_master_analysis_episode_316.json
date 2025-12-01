@@ -1,0 +1,270 @@
+{
+  "episode_number": "Various",
+  "executive_summary": "Tom Hayes expresses caution about the frothy AI market, highlighting extreme retail call buying, high bullish sentiment, and active managers' full equity exposure. He suggests focusing on reasonably valued stocks outside the AI hype, particularly in small and mid-caps. He favors playing the AI revolution with less expensive stocks like Alibaba and Intel, and identifies opportunities in energy (Comstock Resources) and data center infrastructure (Generac). He also emphasizes the importance of value investing and free cash flow generation, drawing parallels to Warren Buffett's approach and historical market cycles.",
+  "tom_current_conviction": {
+    "overall_market": "Cautiously Optimistic, expecting a 6-9% pullback before year-end strength.",
+    "score_1_to_10": 6,
+    "key_reasons": [
+      "Retail sentiment is super high.",
+      "Active managers are at 100% equity exposure.",
+      "Breadth is weakening with a spike in 52-week lows.",
+      "Global liquidity remains high with numerous central bank cuts."
+    ]
+  },
+  "macro_thesis_summary": "Hayes believes global liquidity and earnings growth support the market, but frothy sentiment and stretched valuations in certain sectors warrant caution. He anticipates a pullback, driven by profit-taking and a potential Fed rate cut in December, creating a buying opportunity in undervalued areas.",
+  "key_macro_data_points": [
+    {
+      "indicator": "Retail Call Buying",
+      "value": "Longest streak since 2020 (25 weeks).",
+      "tom_interpretation": "Sign of excessive bullishness and potential for a pullback."
+    },
+    {
+      "indicator": "NAAIM Equity Exposure",
+      "value": "100%",
+      "tom_interpretation": "Active managers are fully invested, leaving little room for further upside."
+    },
+    {
+      "indicator": "Global Liquidity",
+      "value": "Multi-year high with 313 interest rate cuts globally.",
+      "tom_interpretation": "Supports the market and limits downside risk."
+    },
+    {
+      "indicator": "S&P 500 Forward PE",
+      "value": "Above 23",
+      "tom_interpretation": "Highest since 2000, indicating stretched valuations."
+    },
+    {
+      "indicator": "Hyperscaler Capex Spending",
+      "value": "60% of operating cash flow",
+      "tom_interpretation": "High spending raises questions about future returns and sustainability."
+    }
+  ],
+  "featured_company_deep_dives": {
+    "Cooper Standard": {
+      "thesis_summary": "Temporary disruptions have created a buying opportunity in this auto supplier. Management is focused on cost efficiency and execution, with strong growth expected in hybrid and EV programs.",
+      "key_metrics": [
+        "Secured $96.4 million in net new business awards during the quarter.",
+        "83% of new awards are tied to battery electric or hybrid programs.",
+        "Free cash flow during the quarter totaled $27.4 million, up $10.5 million year-over-year.",
+        "Gross profit margins came in at 12.5% during the quarter, up 140 basis points year-over-year."
+      ],
+      "conviction": "Strong",
+      "action": "Buy"
+    },
+    "Baxter": {
+      "thesis_summary": "Temporary issues are creating a buying opportunity in this healthcare company. New CEO Andrew Hitter is implementing a continuous improvement system, and the company is working to resolve the Novam IQ recall and IV solutions softness.",
+      "key_metrics": [
+        "Revenue of $2.84 billion up 2% year-over-year.",
+        "Adjusted EPS of 69 cents, up 41% year-over-year.",
+        "Generated $126 million of free cash flow during the quarter.",
+        "Operating margins for the quarter came in at 14.9%, up 40 basis points year-over-year."
+      ],
+      "conviction": "Strong",
+      "action": "Buy"
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "PLTR",
+      "tom_sentiment": "Bearish",
+      "conviction": 8,
+      "actionable": "Do not buy the dip. Michael Burry shorted it.",
+      "key_quotes": [
+        "Michael Bur who's famous for calling bubbles, the housing bubble in particular, bought puts on 5 million shares of Palunteer",
+        "Palunteer is doing a lot of great things. They're going to continue to do a lot of great things. The question is, how much are we already paying for? 10 years worth of good things, 15 years of good things.",
+        "Rule number one is don't lose money. Rule number two is don't forget rule number one."
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "tom_sentiment": "Bearish",
+      "conviction": 7,
+      "actionable": "Take profits. Consider rotating into Intel.",
+      "key_quotes": [
+        "Michael Bur who's famous for calling bubbles...bought puts on 1 million shares of Nvidia. So he's saying this AI pocket is a little overvalued.",
+        "Nvidia relies on the kindness of strangers.",
+        "I'm not a buyer at these levels."
+      ]
+    },
+    {
+      "ticker": "ORCL",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold, but monitor capex spending and return on invested capital.",
+      "key_quotes": [
+        "Price is what you pay. Value is what you get.",
+        "Oracle's CDS spread the cost to ensure their debt is at two-year highs."
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "Mid-200s to low-300s",
+      "actionable": "Buy on dips. Cheapest AI play in the world.",
+      "position_status": "Largest holding",
+      "key_quotes": [
+        "We have not sold a share of Alibaba.",
+        "It was so cheap that we we have not sold a share of Alibaba.",
+        "It's now 160 170 bucks probably going back to 300 over the next few years.",
+        "It's the cheapest AI play in the world right now. By the way, you get the e-commerce business and the cloud business for free."
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Buy on dips. Key supplier for AI chip designers.",
+      "key_quotes": [
+        "Intel needs to succeed because they need supply.",
+        "Intel is going to fill that gap.",
+        "Intel's stock has outperformed Nvidia this year.",
+        "The best thing that can happen to Nvidia is that Intel continues to succeed."
+      ]
+    },
+    {
+      "ticker": "PYPL",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "actionable": "Buy aggressively. Sentiment is at peak aversion.",
+      "key_quotes": [
+        "The stock price is still down 78% is PayPal. You can't give it away.",
+        "That price when this thing turns, it's going to be aggressive.",
+        "PayPal will be no different.",
+        "We need to be buying even more of this is what we need to be doing."
+      ]
+    },
+    {
+      "ticker": "CS",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Buy. Turnaround story with strong upside.",
+      "key_quotes": [
+        "26 is actually going to be better than we originally planned.",
+        "Volumes are recovering. Leading indicators remain strong.",
+        "Hybrid and EV demand is through the roof."
+      ]
+    },
+    {
+      "ticker": "BAX",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Buy. Temporary issues create a buying opportunity.",
+      "key_quotes": [
+        "This pessimism in our opinion creates opportunity.",
+        "The market is treating these temporary issues as permanent.",
+        "This is by no means a permanently impaired business."
+      ]
+    },
+    {
+      "ticker": "GPRE",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Buy. Natural gas play with Jerry Jones involved.",
+      "key_quotes": [
+        "Jerry Jones says he's unlocked a hundred billion dollar gas bounty in this drilling inferno.",
+        "Texas gas giant sitting on the holy grail of supply."
+      ]
+    },
+    {
+      "ticker": "GNRC",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Buy. Backdoor way to play the AI boom.",
+      "key_quotes": [
+        "They have data center backup generator demand as far as the eye can see.",
+        "This is a great backdoor way to play AI data centers."
+      ]
+    },
+    {
+      "ticker": "ADBE",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Buy. Software stock that is cheap.",
+      "key_quotes": [
+        "Now, you can't give away a software stock. Look at Adobe. They're in the gutter. No one no one will even buy them. They're probably cheap at this point."
+      ]
+    },
+    {
+      "ticker": "DIS",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Buy. A sleeper.",
+      "key_quotes": [
+        "Disney has been a sleeper. That one's going to be fine. We still own it every single share, albeit from much lower levels."
+      ]
+    },
+    {
+      "ticker": "ZIMMER BIOMET",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Buy. Healthcare and pretty cheap.",
+      "key_quotes": [
+        "I like this one a lot."
+      ]
+    }
+  ],
+  "new_or_recent_additions": [
+    "Cooper Standard",
+    "Baxter",
+    "Zimmer Biomet"
+  ],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy PayPal (PYPL) aggressively due to peak aversion and strong fundamentals.",
+      "conviction": 9
+    },
+    {
+      "rank": 2,
+      "idea": "Buy Alibaba (BABA) on dips as the cheapest AI play with significant upside.",
+      "conviction": 9
+    },
+    {
+      "rank": 3,
+      "idea": "Buy Cooper Standard (CS) due to temporary disruptions creating a buying opportunity.",
+      "conviction": 8
+    },
+    {
+      "rank": 4,
+      "idea": "Buy Intel (INTC) on dips as a key supplier for AI chip designers.",
+      "conviction": 8
+    },
+    {
+      "rank": 5,
+      "idea": "Buy Baxter (BAX) due to temporary issues creating a buying opportunity.",
+      "conviction": 8
+    },
+    {
+      "rank": 6,
+      "idea": "Buy Comstock Resources (GPRE) as a natural gas play powering the data center boom.",
+      "conviction": 7
+    },
+    {
+      "rank": 7,
+      "idea": "Buy Generac (GNRC) as a backdoor way to play the AI boom.",
+      "conviction": 7
+    },
+    {
+      "rank": 8,
+      "idea": "Buy Adobe (ADBE) as a cheap software stock.",
+      "conviction": 7
+    },
+    {
+      "rank": 9,
+      "idea": "Buy Disney (DIS) as a sleeper.",
+      "conviction": 7
+    },
+    {
+      "rank": 10,
+      "idea": "Buy Zimmer Biomet as a cheap healthcare stock.",
+      "conviction": 7
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "High retail call buying and active manager equity exposure suggest potential for a pullback.",
+    "Hyperscaler capex spending raises questions about future returns.",
+    "AI pocket is frothy and requires careful stock selection."
+  ],
+  "technical_takeaways": "Expect a 6-9% pullback in the market before year-end strength. Monitor 52-week lows and breadth for signs of market weakness."
+}

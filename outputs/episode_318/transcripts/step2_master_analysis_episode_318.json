@@ -1,0 +1,312 @@
+{
+  "episode_number": "N/A",
+  "episode_date": "N/A",
+  "executive_summary": "Tom discusses the AI trade, retail vs. institutional investors, and potential accounting issues with Nvidia. He highlights opportunities in unloved sectors like consumer discretionary, healthcare, and energy, emphasizing the importance of margin of safety and buying businesses with improving fundamentals at discounted prices. He expresses caution about crowded trades and the potential for a market correction, while also identifying specific companies with turnaround potential.",
+  "tom_current_conviction": {
+    "overall_market": "Cautiously Optimistic",
+    "score_1_to_10": 6,
+    "key_reasons": [
+      "AI trade is overheated in certain names.",
+      "Retail investors are chasing the story while institutions are selling.",
+      "Potential accounting issues with Nvidia raise concerns.",
+      "Opportunities exist in unloved sectors with improving fundamentals.",
+      "Market correction is possible, but long-term opportunities remain."
+    ]
+  },
+  "macro_thesis_summary": "The market is in a state of rotation, with crowded trades like AI potentially facing a correction. Opportunities exist in unloved sectors like consumer discretionary, healthcare, and energy. The US consumer remains resilient, and a potential Fed easing cycle could further support these sectors. Emerging markets, particularly China, offer value. A focus on margin of safety and businesses with improving fundamentals is crucial.",
+  "key_macro_data_points": [
+    {
+      "indicator": "Fund Manager Survey - Consumer Discretionary Allocation",
+      "value": "Cut by the most on record, lowest since December 2022",
+      "tom_interpretation": "Contrarian indicator suggesting opportunity in consumer discretionary stocks. \"Betting against the US consumer when they have jobs rarely works out.\""
+    },
+    {
+      "indicator": "Fund Manager Survey - Cash Levels",
+      "value": "Dropped to 3.7%, lowest in 15 years",
+      "tom_interpretation": "Implies yields are going to compress which will help rates and defensives."
+    },
+    {
+      "indicator": "Healthcare Sector PE vs. S&P 500",
+      "value": "Lowest relative multiple since 2009",
+      "tom_interpretation": "A once in a 25-year opportunity in healthcare."
+    },
+    {
+      "indicator": "Energy Sector Market Cap Weight in S&P 500",
+      "value": "Down to 2020 lows",
+      "tom_interpretation": "Opportunity in energy services, particularly National Oil Well Varco (NOV)."
+    }
+  ],
+  "featured_company_deep_dives": {
+    "VF Corp": {
+      "thesis_summary": "VF Corp is a turnaround story with improving fundamentals, a strong management team (Bracken Daryl), and a clear path to margin expansion. The market is currently undervaluing the company's potential due to short-term macro noise.",
+      "key_metrics": [
+        "Revenues up 2% year-on-year",
+        "Adjusted operating margins expanded by 40 basis points year on year to 11.8%",
+        "Net debt down 1.5 billion or 21% year-on-year",
+        "Medium-term targets of 55% gross margins and 10% operating margins remain firmly on track"
+      ],
+      "price_target_or_valuation": "Consensus still modeling a little over 8% operating margins for fiscal year 2028, presenting upside.",
+      "conviction": "8",
+      "action": "Buy. \"We sit on our hands, stay patient, and let Turnaround Bracken, or growth bracken as he prefers, do what he does best.\""
+    },
+    "Canada Goose": {
+      "thesis_summary": "Canada Goose is a four-season brand with record free cash flow and revenues, but a low stock price. The company is cleaning up its inventory position and has a strong direct-to-consumer business.",
+      "key_metrics": [
+        "Q2 direct to consumer revenues up 21.8%",
+        "Gross margin expanding 110 basis points year-on-year to 62.4%",
+        "Net debt fell to 77 million",
+        "Inventory down 3% year-on-year"
+      ],
+      "price_target_or_valuation": "N/A",
+      "conviction": "7",
+      "action": "Buy. \"Record free cash flow, record revenues, low stock price. We love these all day long.\""
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "META",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "key_quotes": [
+        "I'm not a Meta. Listen, I don't own Meta. I never did. I was not a Facebook person. I never was. Um, so so I'm not in that game, right? I I got I got no skin in the Meta game.",
+        "Facebook has yet to show or meta has yet to show the return on invested capital just like when they were investing in the metaverse and then all of a sudden he cried uncle and he said okay the stock's down too much we're going to stop spending on metaverse and all of a sudden the stock recovered right I don't know that we're at that point you know from a trading perspective you say do I buy uh meta today sell meta today I don't think in those terms"
+      ]
+    },
+    {
+      "ticker": "NFLX",
+      "tom_sentiment": "Negative",
+      "conviction": 6,
+      "price_target_or_upside": "N/A",
+      "actionable": "Sell/Avoid",
+      "key_quotes": [
+        "The biggest detractor was communication services because of Meta and because of Netflix."
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Positive",
+      "conviction": 8,
+      "price_target_or_upside": "Double again over the next 3 to 5 years",
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "We started buying above 100. It went down to 60. We bought every share we could buy until our fingers bled... And then when it turns, it goes up overnight to 180. Tripled off the lows in less than a year, right? And it's probably going to double again over the next 3 to 5 years as the AI story actualizes versus theorizes.",
+        "Love it. AI puts the wind in the sales of single day as China's e-commerce giant hits records."
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "tom_sentiment": "Positive",
+      "conviction": 8,
+      "price_target_or_upside": "Five bagger plus if AI story plays out",
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "So, I got a double if AI fails and the fabs fail. And then uh if they actually produce advanced chips, which Nvidia needs more than anything in the world, uh then I could have a five beggger plus, right? So downside's protected, upside is is good and possibly unlimited if the story plays out"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "tom_sentiment": "Negative",
+      "conviction": 7,
+      "price_target_or_upside": "Downside risk due to accounting concerns",
+      "actionable": "Sell/Avoid",
+      "key_quotes": [
+        "Price is what you pay, value is what you get.",
+        "If 5% of what that author was saying about Nvidia's accounting proves to be problematic, and we probably won't know for a year, year and a half, um, that's not ideal."
+      ]
+    },
+    {
+      "ticker": "NOV",
+      "tom_sentiment": "Positive",
+      "conviction": 8,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "The better play than the EMP or the integrated is uh the national oil well Varco because you're less sensitive to the price of oil.",
+        "How do I play what I think is going to be a resurgence in the sector without overpaying for the opportunity? And that came in servicesers.  And the best balance sheet with the most exposure was a national oil wellvarco."
+      ]
+    },
+    {
+      "ticker": "CTRA",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "The natural gas play being compoc resources which will fuel the whole to whatever extent AI turns out to be the big deal which it will but but in a tempered way."
+      ]
+    },
+    {
+      "ticker": "VFC",
+      "tom_sentiment": "Positive",
+      "conviction": 8,
+      "price_target_or_upside": "N/A",
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "We're really trying to think in terms of driving growth longer term, not just what we can do this holiday... We're going to systematically put the building blocks in place that are going to deliver for years to come."
+      ]
+    },
+    {
+      "ticker": "PYPL",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Buy",
+      "position_status": "Adding",
+      "key_quotes": [
+        "Yes, we've been adding uh very very meaningfully."
+      ]
+    },
+    {
+      "ticker": "CLX",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Consider",
+      "key_quotes": [
+        "Clorox was up a lot today. That's one to keep in mind."
+      ]
+    },
+    {
+      "ticker": "HRL",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Consider",
+      "key_quotes": [
+        "Hormel I think was even green today."
+      ]
+    },
+    {
+      "ticker": "XOM",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Consider",
+      "key_quotes": [
+        "Those of you who were with us in the beginning of the podcast five years ago know we were monster buyers of Exxon at 33 bucks the last time it got this low made a ton of money on that"
+      ]
+    },
+    {
+      "ticker": "DIN",
+      "tom_sentiment": "Negative",
+      "conviction": 3,
+      "price_target_or_upside": "N/A",
+      "actionable": "Avoid",
+      "key_quotes": [
+        "We almost bought Dine Brands... but we don't like the CEO."
+      ]
+    },
+    {
+      "ticker": "UA",
+      "tom_sentiment": "Negative",
+      "conviction": 2,
+      "price_target_or_upside": "N/A",
+      "actionable": "Avoid",
+      "key_quotes": [
+        "If Under Armour can't sell shoes with Steph Curry and Tom Brady, there's no hope for them."
+      ]
+    },
+    {
+      "ticker": "BWXT",
+      "tom_sentiment": "Negative",
+      "conviction": 1,
+      "price_target_or_upside": "N/A",
+      "actionable": "Avoid",
+      "key_quotes": [
+        "Absolutely not. I I wouldn't be a buyer this year at all."
+      ]
+    },
+    {
+      "ticker": "TMDX",
+      "tom_sentiment": "Negative",
+      "conviction": 1,
+      "price_target_or_upside": "N/A",
+      "actionable": "Avoid",
+      "key_quotes": [
+        "No, we don't buy things up."
+      ]
+    },
+    {
+      "ticker": "SLB",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "price_target_or_upside": "N/A",
+      "actionable": "Consider",
+      "key_quotes": [
+        "Slumberge is another good option but it's not as good as national oil well vvarco in terms of upside"
+      ]
+    }
+  ],
+  "new_or_recent_additions": [
+    "VF Corp",
+    "PayPal",
+    "Restaurant Stock (Unspecified)"
+  ],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy Alibaba (BABA)",
+      "conviction": 8
+    },
+    {
+      "rank": 2,
+      "idea": "Hold Intel (INTC)",
+      "conviction": 8
+    },
+    {
+      "rank": 3,
+      "idea": "Buy VF Corp (VFC)",
+      "conviction": 8
+    },
+    {
+      "rank": 4,
+      "idea": "Buy National Oil Well Varco (NOV)",
+      "conviction": 8
+    },
+    {
+      "rank": 5,
+      "idea": "Buy Comstock Resources (CTRA)",
+      "conviction": 7
+    },
+    {
+      "rank": 6,
+      "idea": "Buy PayPal (PYPL)",
+      "conviction": 7
+    },
+    {
+      "rank": 7,
+      "idea": "Consider Clorox (CLX)",
+      "conviction": 7
+    },
+    {
+      "rank": 8,
+      "idea": "Consider Hormel (HRL)",
+      "conviction": 7
+    },
+    {
+      "rank": 9,
+      "idea": "Consider Exxon Mobil (XOM)",
+      "conviction": 7
+    },
+    {
+      "rank": 10,
+      "idea": "Consider Schlumberger (SLB)",
+      "conviction": 6
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "AI trade is crowded and may be due for a correction.",
+    "Retail investors are chasing momentum while institutions are selling.",
+    "Potential accounting issues with Nvidia raise concerns.",
+    "Market may be overreacting to consumer gloom.",
+    "Midterm years tend to be weaker for the market."
+  ],
+  "technical_takeaways": "N/A"
+}
