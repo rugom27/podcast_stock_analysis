@@ -6,34 +6,16 @@
     "found_in_chunk": 0
   },
   {
+    "timestamp_seconds": 180,
+    "description": "chip market chart",
+    "confidence": 0.9,
+    "found_in_chunk": 0
+  },
+  {
     "timestamp_seconds": 429,
-    "description": "Stock Charts",
+    "description": "stock charts, macro tables, and financial slides.",
     "confidence": 0.9,
     "found_in_chunk": 1
-  },
-  {
-    "timestamp_seconds": 542,
-    "description": "Stock Charts",
-    "confidence": 0.9,
-    "found_in_chunk": 1
-  },
-  {
-    "timestamp_seconds": 616,
-    "description": "Stock Charts",
-    "confidence": 0.9,
-    "found_in_chunk": 1
-  },
-  {
-    "timestamp_seconds": 687,
-    "description": "Financial Slides",
-    "confidence": 0.75,
-    "found_in_chunk": 1
-  },
-  {
-    "timestamp_seconds": 600,
-    "description": "Stock Chart",
-    "confidence": 0.95,
-    "found_in_chunk": 2
   },
   {
     "timestamp_seconds": 609,
@@ -42,50 +24,68 @@
     "found_in_chunk": 2
   },
   {
-    "timestamp_seconds": 707,
+    "timestamp_seconds": 634,
     "description": "Stock Chart",
     "confidence": 0.95,
     "found_in_chunk": 2
   },
   {
-    "timestamp_seconds": 712,
+    "timestamp_seconds": 708,
+    "description": "Stock Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 713,
     "description": "Macro Table",
     "confidence": 0.95,
     "found_in_chunk": 2
   },
   {
     "timestamp_seconds": 743,
-    "description": "Financial Slides",
+    "description": "Stock Chart",
     "confidence": 0.95,
     "found_in_chunk": 2
   },
   {
     "timestamp_seconds": 756,
-    "description": "Financial Slides",
+    "description": "Financial Slide",
     "confidence": 0.95,
     "found_in_chunk": 2
   },
   {
-    "timestamp_seconds": 833,
-    "description": "Financial Slides",
-    "confidence": 0.95,
-    "found_in_chunk": 2
-  },
-  {
-    "timestamp_seconds": 955,
+    "timestamp_seconds": 771,
     "description": "Stock Chart",
     "confidence": 0.95,
     "found_in_chunk": 2
   },
   {
-    "timestamp_seconds": 966,
+    "timestamp_seconds": 834,
+    "description": "Financial Slide",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 834,
+    "description": "Financial Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 964,
     "description": "Stock Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 964,
+    "description": "Financial Slide",
     "confidence": 0.95,
     "found_in_chunk": 2
   },
   {
     "timestamp_seconds": 1014,
-    "description": "Financial Slides",
+    "description": "Stock Chart",
     "confidence": 0.95,
     "found_in_chunk": 2
   },
@@ -97,103 +97,79 @@
   },
   {
     "timestamp_seconds": 1200,
-    "description": "Stock Charts",
+    "description": "Stock Chart",
     "confidence": 0.9,
     "found_in_chunk": 4
   },
   {
     "timestamp_seconds": 1214,
-    "description": "Stock Charts",
+    "description": "Stock Chart",
     "confidence": 0.9,
     "found_in_chunk": 4
   },
   {
     "timestamp_seconds": 1225,
-    "description": "Stock Charts",
+    "description": "Stock Chart",
     "confidence": 0.9,
     "found_in_chunk": 4
   },
   {
     "timestamp_seconds": 1239,
-    "description": "Stock Charts",
+    "description": "Stock Chart",
     "confidence": 0.9,
     "found_in_chunk": 4
   },
   {
     "timestamp_seconds": 1244,
-    "description": "Stock Charts",
+    "description": "Stock Chart",
     "confidence": 0.9,
     "found_in_chunk": 4
   },
   {
     "timestamp_seconds": 1255,
-    "description": "Stock Charts",
+    "description": "Stock Chart",
     "confidence": 0.9,
     "found_in_chunk": 4
   },
   {
-    "timestamp_seconds": 1546,
-    "description": "Stock Charts",
-    "confidence": 0.9,
-    "found_in_chunk": 4
-  },
-  {
-    "timestamp_seconds": 1550,
-    "description": "Stock Charts",
-    "confidence": 0.9,
-    "found_in_chunk": 4
-  },
-  {
-    "timestamp_seconds": 1557,
-    "description": "Stock Charts",
-    "confidence": 0.9,
-    "found_in_chunk": 4
-  },
-  {
-    "timestamp_seconds": 1559,
-    "description": "Stock Charts",
-    "confidence": 0.9,
-    "found_in_chunk": 4
-  },
-  {
-    "timestamp_seconds": 1616,
-    "description": "Stock Charts",
-    "confidence": 0.9,
-    "found_in_chunk": 4
-  },
-  {
-    "timestamp_seconds": 1619,
-    "description": "Stock Charts",
-    "confidence": 0.9,
-    "found_in_chunk": 4
-  },
-  {
-    "timestamp_seconds": 1623,
-    "description": "Stock Charts",
-    "confidence": 0.9,
-    "found_in_chunk": 4
-  },
-  {
-    "timestamp_seconds": 1626,
-    "description": "Stock Charts",
+    "timestamp_seconds": 1622,
+    "description": "Stock Chart",
     "confidence": 0.9,
     "found_in_chunk": 4
   },
   {
     "timestamp_seconds": 1633,
-    "description": "Stock Charts",
+    "description": "Stock Chart",
     "confidence": 0.9,
     "found_in_chunk": 4
   },
   {
-    "timestamp_seconds": 1642,
-    "description": "Stock Charts",
+    "timestamp_seconds": 1701,
+    "description": "Stock Chart",
     "confidence": 0.9,
     "found_in_chunk": 4
   },
   {
-    "timestamp_seconds": 1650,
-    "description": "Stock Charts",
+    "timestamp_seconds": 1708,
+    "description": "Stock Chart",
+    "confidence": 0.9,
+    "found_in_chunk": 4
+  },
+  {
+    "timestamp_seconds": 1255,
+    "description": "Stock Chart",
+    "confidence": 0.9,
+    "found_in_chunk": 4
+  },
+  {
+    "timestamp_seconds": 1651,
+    "description": "Stock Chart",
+    "confidence": 0.9,
+    "found_in_chunk": 4
+  },
+  {
+    "timestamp_seconds": 1550,
+    "description": "Stock Chart",
     "confidence": 0.9,
     "found_in_chunk": 4
   },
@@ -204,146 +180,158 @@
     "found_in_chunk": 5
   },
   {
-    "timestamp_seconds": 1511,
-    "description": "Stock Chart",
-    "confidence": 0.9,
-    "found_in_chunk": 5
-  },
-  {
-    "timestamp_seconds": 1522,
-    "description": "Stock Chart",
+    "timestamp_seconds": 1512,
+    "description": "Earnings Chart",
     "confidence": 0.9,
     "found_in_chunk": 5
   },
   {
     "timestamp_seconds": 1524,
+    "description": "Free Cash Flow",
+    "confidence": 0.9,
+    "found_in_chunk": 5
+  },
+  {
+    "timestamp_seconds": 1540,
     "description": "Stock Chart",
     "confidence": 0.9,
     "found_in_chunk": 5
   },
   {
-    "timestamp_seconds": 1539,
-    "description": "Stock Chart",
-    "confidence": 0.9,
-    "found_in_chunk": 5
-  },
-  {
-    "timestamp_seconds": 1539,
-    "description": "Financial Slides",
+    "timestamp_seconds": 1543,
+    "description": "Chart",
     "confidence": 0.9,
     "found_in_chunk": 5
   },
   {
     "timestamp_seconds": 1557,
-    "description": "Stock Chart",
+    "description": "Lean hogs chart",
     "confidence": 0.9,
     "found_in_chunk": 5
   },
   {
     "timestamp_seconds": 1558,
-    "description": "Stock Chart",
-    "confidence": 0.9,
-    "found_in_chunk": 5
-  },
-  {
-    "timestamp_seconds": 1559,
-    "description": "Stock Chart",
-    "confidence": 0.9,
-    "found_in_chunk": 5
-  },
-  {
-    "timestamp_seconds": 1559,
-    "description": "Financial Slides",
+    "description": "Chart",
     "confidence": 0.9,
     "found_in_chunk": 5
   },
   {
     "timestamp_seconds": 1602,
-    "description": "Stock Chart",
+    "description": "Consumer Sentiment",
     "confidence": 0.9,
     "found_in_chunk": 5
   },
   {
-    "timestamp_seconds": 1603,
-    "description": "Stock Chart",
+    "timestamp_seconds": 1616,
+    "description": "Consumer Sentiment",
     "confidence": 0.9,
     "found_in_chunk": 5
   },
   {
     "timestamp_seconds": 1631,
-    "description": "Stock Chart",
+    "description": "Consumer Sentiment",
     "confidence": 0.9,
     "found_in_chunk": 5
   },
   {
     "timestamp_seconds": 1648,
-    "description": "Stock Chart",
+    "description": "Prime Book Chart",
     "confidence": 0.9,
     "found_in_chunk": 5
   },
   {
-    "timestamp_seconds": 1668,
-    "description": "Stock Chart",
+    "timestamp_seconds": 1654,
+    "description": "Prime Book",
+    "confidence": 0.9,
+    "found_in_chunk": 5
+  },
+  {
+    "timestamp_seconds": 1656,
+    "description": "Health care chart",
+    "confidence": 0.9,
+    "found_in_chunk": 5
+  },
+  {
+    "timestamp_seconds": 1697,
+    "description": "Chart",
     "confidence": 0.9,
     "found_in_chunk": 5
   },
   {
     "timestamp_seconds": 1716,
-    "description": "Stock Chart",
+    "description": "Consumer Price Chart",
     "confidence": 0.9,
     "found_in_chunk": 5
   },
   {
     "timestamp_seconds": 1719,
-    "description": "Macro Tables",
+    "description": "Valuation Chart",
     "confidence": 0.9,
     "found_in_chunk": 5
   },
   {
-    "timestamp_seconds": 1742,
+    "timestamp_seconds": 1741,
+    "description": "Price Chart",
+    "confidence": 0.9,
+    "found_in_chunk": 5
+  },
+  {
+    "timestamp_seconds": 1754,
+    "description": "Table",
+    "confidence": 0.9,
+    "found_in_chunk": 5
+  },
+  {
+    "timestamp_seconds": 1770,
+    "description": "Price Chart",
+    "confidence": 0.9,
+    "found_in_chunk": 5
+  },
+  {
+    "timestamp_seconds": 1793,
+    "description": "Table",
+    "confidence": 0.9,
+    "found_in_chunk": 5
+  },
+  {
+    "timestamp_seconds": 1812,
     "description": "Stock Chart",
     "confidence": 0.9,
     "found_in_chunk": 5
   },
   {
-    "timestamp_seconds": 1846,
-    "description": "Stock Chart",
+    "timestamp_seconds": 1827,
+    "description": "Earnings Chart",
     "confidence": 0.9,
     "found_in_chunk": 5
   },
   {
-    "timestamp_seconds": 1852,
-    "description": "Stock Chart",
+    "timestamp_seconds": 1845,
+    "description": "1Y returns chart",
     "confidence": 0.9,
     "found_in_chunk": 5
   },
   {
     "timestamp_seconds": 1853,
-    "description": "Stock Chart",
+    "description": "call volume graph",
     "confidence": 0.9,
     "found_in_chunk": 5
   },
   {
-    "timestamp_seconds": 1893,
-    "description": "Stock Chart",
+    "timestamp_seconds": 1867,
+    "description": "stimulus chart",
     "confidence": 0.9,
     "found_in_chunk": 5
   },
   {
-    "timestamp_seconds": 1918,
-    "description": "Stock Chart",
+    "timestamp_seconds": 1939,
+    "description": "Average annual perform",
     "confidence": 0.9,
     "found_in_chunk": 5
   },
   {
-    "timestamp_seconds": 1919,
-    "description": "Stock Chart",
-    "confidence": 0.9,
-    "found_in_chunk": 5
-  },
-  {
-    "timestamp_seconds": 1941,
-    "description": "Stock Chart",
+    "timestamp_seconds": 1942,
+    "description": "P/E chart",
     "confidence": 0.9,
     "found_in_chunk": 5
   },
@@ -355,97 +343,127 @@
   },
   {
     "timestamp_seconds": 2100,
-    "description": "Stock Chart",
+    "description": "Stock chart",
     "confidence": 0.9,
     "found_in_chunk": 7
   },
   {
     "timestamp_seconds": 2105,
-    "description": "Stock Chart",
+    "description": "Stock chart",
     "confidence": 0.9,
     "found_in_chunk": 7
   },
   {
-    "timestamp_seconds": 2107,
-    "description": "Stock Chart",
-    "confidence": 0.9,
-    "found_in_chunk": 7
-  },
-  {
-    "timestamp_seconds": 2110,
-    "description": "Stock Chart",
-    "confidence": 0.9,
-    "found_in_chunk": 7
-  },
-  {
-    "timestamp_seconds": 2114,
-    "description": "Stock Chart",
+    "timestamp_seconds": 2109,
+    "description": "Stock chart",
     "confidence": 0.9,
     "found_in_chunk": 7
   },
   {
     "timestamp_seconds": 2115,
-    "description": "Stock Chart",
+    "description": "Stock chart",
+    "confidence": 0.9,
+    "found_in_chunk": 7
+  },
+  {
+    "timestamp_seconds": 2122,
+    "description": "Stock chart",
     "confidence": 0.9,
     "found_in_chunk": 7
   },
   {
     "timestamp_seconds": 2123,
-    "description": "Stock Chart",
+    "description": "Stock chart",
     "confidence": 0.9,
     "found_in_chunk": 7
   },
   {
     "timestamp_seconds": 2135,
-    "description": "Stock Chart",
+    "description": "Stock chart",
     "confidence": 0.9,
     "found_in_chunk": 7
   },
   {
-    "timestamp_seconds": 2142,
-    "description": "Stock Chart",
-    "confidence": 0.9,
-    "found_in_chunk": 7
-  },
-  {
-    "timestamp_seconds": 2128,
-    "description": "Stock Chart",
+    "timestamp_seconds": 2141,
+    "description": "Stock chart",
     "confidence": 0.9,
     "found_in_chunk": 7
   },
   {
     "timestamp_seconds": 2426,
-    "description": "Stock Chart",
+    "description": "Stock chart",
     "confidence": 0.9,
     "found_in_chunk": 7
   },
   {
-    "timestamp_seconds": 2596,
-    "description": "Stock Chart",
+    "timestamp_seconds": 2557,
+    "description": "Stock chart",
     "confidence": 0.9,
     "found_in_chunk": 7
   },
   {
-    "timestamp_seconds": 2520,
-    "description": "SP500 Chart",
+    "timestamp_seconds": 2419,
+    "description": "Stock Charts",
     "confidence": 0.9,
     "found_in_chunk": 8
   },
   {
-    "timestamp_seconds": 2829,
-    "description": "Stock Chart",
-    "confidence": 0.7,
+    "timestamp_seconds": 2425,
+    "description": "Stock Charts",
+    "confidence": 0.9,
+    "found_in_chunk": 8
+  },
+  {
+    "timestamp_seconds": 2433,
+    "description": "Stock Charts",
+    "confidence": 0.9,
+    "found_in_chunk": 8
+  },
+  {
+    "timestamp_seconds": 2618,
+    "description": "Macro Tables",
+    "confidence": 0.9,
+    "found_in_chunk": 8
+  },
+  {
+    "timestamp_seconds": 2825,
+    "description": "Financial Slides",
+    "confidence": 0.9,
+    "found_in_chunk": 8
+  },
+  {
+    "timestamp_seconds": 2820,
+    "description": "SP500 Chart",
+    "confidence": 0.9,
     "found_in_chunk": 9
   },
   {
-    "timestamp_seconds": 3203,
+    "timestamp_seconds": 3003,
+    "description": "Financial Slide",
+    "confidence": 0.9,
+    "found_in_chunk": 10
+  },
+  {
+    "timestamp_seconds": 3039,
     "description": "Stock Chart",
-    "confidence": 0.7,
-    "found_in_chunk": 9
+    "confidence": 0.9,
+    "found_in_chunk": 10
   },
   {
     "timestamp_seconds": 3120,
-    "description": "SP500 Chart",
+    "description": "Stock Chart",
+    "confidence": 0.9,
+    "found_in_chunk": 10
+  },
+  {
+    "timestamp_seconds": 3168,
+    "description": "Macro Table",
+    "confidence": 0.9,
+    "found_in_chunk": 10
+  },
+  {
+    "timestamp_seconds": 3438,
+    "description": "Macro Table",
     "confidence": 0.9,
     "found_in_chunk": 10
   },
@@ -463,234 +481,12 @@
   },
   {
     "timestamp_seconds": 3600,
-    "description": "Stock Chart",
+    "description": "Financial Slides",
     "confidence": 0.9,
     "found_in_chunk": 12
   },
   {
-    "timestamp_seconds": 3603,
-    "description": "Stock Chart",
-    "confidence": 0.9,
-    "found_in_chunk": 12
-  },
-  {
-    "timestamp_seconds": 3603,
-    "description": "Stock Chart",
-    "confidence": 0.9,
-    "found_in_chunk": 12
-  },
-  {
-    "timestamp_seconds": 3604,
-    "description": "Stock Chart",
-    "confidence": 0.9,
-    "found_in_chunk": 12
-  },
-  {
-    "timestamp_seconds": 3605,
-    "description": "Stock Chart",
-    "confidence": 0.9,
-    "found_in_chunk": 12
-  },
-  {
-    "timestamp_seconds": 3606,
-    "description": "Stock Chart",
-    "confidence": 0.9,
-    "found_in_chunk": 12
-  },
-  {
-    "timestamp_seconds": 3607,
-    "description": "Stock Chart",
-    "confidence": 0.9,
-    "found_in_chunk": 12
-  },
-  {
-    "timestamp_seconds": 3608,
-    "description": "Stock Chart",
-    "confidence": 0.9,
-    "found_in_chunk": 12
-  },
-  {
-    "timestamp_seconds": 3609,
-    "description": "Stock Chart",
-    "confidence": 0.9,
-    "found_in_chunk": 12
-  },
-  {
-    "timestamp_seconds": 3610,
-    "description": "Stock Chart",
-    "confidence": 0.9,
-    "found_in_chunk": 12
-  },
-  {
-    "timestamp_seconds": 3611,
-    "description": "Stock Chart",
-    "confidence": 0.9,
-    "found_in_chunk": 12
-  },
-  {
-    "timestamp_seconds": 3612,
-    "description": "Stock Chart",
-    "confidence": 0.9,
-    "found_in_chunk": 12
-  },
-  {
-    "timestamp_seconds": 3613,
-    "description": "Stock Chart",
-    "confidence": 0.9,
-    "found_in_chunk": 12
-  },
-  {
-    "timestamp_seconds": 3614,
-    "description": "Stock Chart",
-    "confidence": 0.9,
-    "found_in_chunk": 12
-  },
-  {
-    "timestamp_seconds": 3616,
-    "description": "Stock Chart",
-    "confidence": 0.9,
-    "found_in_chunk": 12
-  },
-  {
-    "timestamp_seconds": 3617,
-    "description": "Stock Chart",
-    "confidence": 0.9,
-    "found_in_chunk": 12
-  },
-  {
-    "timestamp_seconds": 3618,
-    "description": "Stock Chart",
-    "confidence": 0.9,
-    "found_in_chunk": 12
-  },
-  {
-    "timestamp_seconds": 3619,
-    "description": "Stock Chart",
-    "confidence": 0.9,
-    "found_in_chunk": 12
-  },
-  {
-    "timestamp_seconds": 3621,
-    "description": "Stock Chart",
-    "confidence": 0.9,
-    "found_in_chunk": 12
-  },
-  {
-    "timestamp_seconds": 3622,
-    "description": "Stock Chart",
-    "confidence": 0.9,
-    "found_in_chunk": 12
-  },
-  {
-    "timestamp_seconds": 3623,
-    "description": "Stock Chart",
-    "confidence": 0.9,
-    "found_in_chunk": 12
-  },
-  {
-    "timestamp_seconds": 3624,
-    "description": "Stock Chart",
-    "confidence": 0.9,
-    "found_in_chunk": 12
-  },
-  {
-    "timestamp_seconds": 3625,
-    "description": "Stock Chart",
-    "confidence": 0.9,
-    "found_in_chunk": 12
-  },
-  {
-    "timestamp_seconds": 3626,
-    "description": "Stock Chart",
-    "confidence": 0.9,
-    "found_in_chunk": 12
-  },
-  {
-    "timestamp_seconds": 3627,
-    "description": "Stock Chart",
-    "confidence": 0.9,
-    "found_in_chunk": 12
-  },
-  {
-    "timestamp_seconds": 3628,
-    "description": "Stock Chart",
-    "confidence": 0.9,
-    "found_in_chunk": 12
-  },
-  {
-    "timestamp_seconds": 3636,
-    "description": "Stock Chart",
-    "confidence": 0.9,
-    "found_in_chunk": 12
-  },
-  {
-    "timestamp_seconds": 3637,
-    "description": "Stock Chart",
-    "confidence": 0.9,
-    "found_in_chunk": 12
-  },
-  {
-    "timestamp_seconds": 3638,
-    "description": "Stock Chart",
-    "confidence": 0.9,
-    "found_in_chunk": 12
-  },
-  {
-    "timestamp_seconds": 3639,
-    "description": "Stock Chart",
-    "confidence": 0.9,
-    "found_in_chunk": 12
-  },
-  {
-    "timestamp_seconds": 3640,
-    "description": "Stock Chart",
-    "confidence": 0.9,
-    "found_in_chunk": 12
-  },
-  {
-    "timestamp_seconds": 3641,
-    "description": "Stock Chart",
-    "confidence": 0.9,
-    "found_in_chunk": 12
-  },
-  {
-    "timestamp_seconds": 3642,
-    "description": "Stock Chart",
-    "confidence": 0.9,
-    "found_in_chunk": 12
-  },
-  {
-    "timestamp_seconds": 3643,
-    "description": "Stock Chart",
-    "confidence": 0.9,
-    "found_in_chunk": 12
-  },
-  {
-    "timestamp_seconds": 3644,
-    "description": "Stock Chart",
-    "confidence": 0.9,
-    "found_in_chunk": 12
-  },
-  {
-    "timestamp_seconds": 3645,
-    "description": "Stock Chart",
-    "confidence": 0.9,
-    "found_in_chunk": 12
-  },
-  {
-    "timestamp_seconds": 3646,
-    "description": "Stock Chart",
-    "confidence": 0.9,
-    "found_in_chunk": 12
-  },
-  {
-    "timestamp_seconds": 3648,
-    "description": "Macro Table",
-    "confidence": 0.9,
-    "found_in_chunk": 12
-  },
-  {
-    "timestamp_seconds": 3649,
+    "timestamp_seconds": 3650,
     "description": "Stock Chart",
     "confidence": 0.9,
     "found_in_chunk": 12
@@ -702,26 +498,26 @@
     "found_in_chunk": 12
   },
   {
-    "timestamp_seconds": 3726,
+    "timestamp_seconds": 3738,
     "description": "Stock Chart",
     "confidence": 0.9,
     "found_in_chunk": 12
   },
   {
-    "timestamp_seconds": 3731,
-    "description": "Stock Chart",
-    "confidence": 0.9,
-    "found_in_chunk": 12
-  },
-  {
-    "timestamp_seconds": 3737,
-    "description": "Stock Chart",
+    "timestamp_seconds": 3809,
+    "description": "Financial Slides",
     "confidence": 0.9,
     "found_in_chunk": 12
   },
   {
     "timestamp_seconds": 4015,
-    "description": "Bar Chart",
+    "description": "Macro Table",
+    "confidence": 0.9,
+    "found_in_chunk": 12
+  },
+  {
+    "timestamp_seconds": 4053,
+    "description": "Koyfin Chart",
     "confidence": 0.9,
     "found_in_chunk": 12
   },
@@ -732,7 +528,13 @@
     "found_in_chunk": 13
   },
   {
-    "timestamp_seconds": 4226,
+    "timestamp_seconds": 4220,
+    "description": "Stock Charts",
+    "confidence": 0.9,
+    "found_in_chunk": 13
+  },
+  {
+    "timestamp_seconds": 4230,
     "description": "Stock Charts",
     "confidence": 0.9,
     "found_in_chunk": 13
@@ -744,92 +546,128 @@
     "found_in_chunk": 13
   },
   {
-    "timestamp_seconds": 4315,
+    "timestamp_seconds": 4297,
     "description": "Stock Charts",
     "confidence": 0.9,
     "found_in_chunk": 13
   },
   {
-    "timestamp_seconds": 4355,
+    "timestamp_seconds": 4314,
+    "description": "Stock Charts",
+    "confidence": 0.9,
+    "found_in_chunk": 13
+  },
+  {
+    "timestamp_seconds": 4324,
+    "description": "Macro Tables",
+    "confidence": 0.9,
+    "found_in_chunk": 13
+  },
+  {
+    "timestamp_seconds": 4354,
+    "description": "Stock Charts",
+    "confidence": 0.9,
+    "found_in_chunk": 13
+  },
+  {
+    "timestamp_seconds": 4369,
+    "description": "Stock Charts",
+    "confidence": 0.9,
+    "found_in_chunk": 13
+  },
+  {
+    "timestamp_seconds": 4398,
     "description": "Stock Charts",
     "confidence": 0.9,
     "found_in_chunk": 13
   },
   {
     "timestamp_seconds": 4200,
-    "description": "Stock Chart",
+    "description": "Stock Charts",
     "confidence": 0.9,
     "found_in_chunk": 14
   },
   {
     "timestamp_seconds": 4245,
-    "description": "Stock Chart",
+    "description": "Stock Charts",
     "confidence": 0.9,
     "found_in_chunk": 14
   },
   {
-    "timestamp_seconds": 4305,
-    "description": "Stock Chart",
+    "timestamp_seconds": 4250,
+    "description": "Stock Charts",
     "confidence": 0.9,
     "found_in_chunk": 14
   },
   {
-    "timestamp_seconds": 4316,
-    "description": "Macro Table",
+    "timestamp_seconds": 4257,
+    "description": "Stock Charts",
     "confidence": 0.9,
     "found_in_chunk": 14
   },
   {
-    "timestamp_seconds": 4364,
-    "description": "Macro Table",
+    "timestamp_seconds": 4306,
+    "description": "Stock Charts",
     "confidence": 0.9,
     "found_in_chunk": 14
   },
   {
-    "timestamp_seconds": 4410,
-    "description": "Financial Slides",
+    "timestamp_seconds": 4308,
+    "description": "Macro Tables",
     "confidence": 0.9,
     "found_in_chunk": 14
   },
   {
-    "timestamp_seconds": 4432,
-    "description": "Financial Slides",
+    "timestamp_seconds": 4320,
+    "description": "Macro Tables",
     "confidence": 0.9,
     "found_in_chunk": 14
   },
   {
-    "timestamp_seconds": 4497,
-    "description": "Stock Chart",
+    "timestamp_seconds": 4378,
+    "description": "Macro Tables",
     "confidence": 0.9,
     "found_in_chunk": 14
   },
   {
     "timestamp_seconds": 4511,
-    "description": "Stock Chart",
+    "description": "Stock Charts",
     "confidence": 0.9,
     "found_in_chunk": 14
   },
   {
     "timestamp_seconds": 4515,
-    "description": "Stock Chart",
+    "description": "Stock Charts",
     "confidence": 0.9,
     "found_in_chunk": 14
   },
   {
-    "timestamp_seconds": 4525,
-    "description": "Macro Table",
+    "timestamp_seconds": 4519,
+    "description": "Macro Tables",
     "confidence": 0.9,
     "found_in_chunk": 14
   },
   {
-    "timestamp_seconds": 4568,
-    "description": "Macro Table",
+    "timestamp_seconds": 4534,
+    "description": "Stock Charts",
     "confidence": 0.9,
     "found_in_chunk": 14
   },
   {
-    "timestamp_seconds": 4646,
-    "description": "Macro Table",
+    "timestamp_seconds": 4536,
+    "description": "Macro Tables",
+    "confidence": 0.9,
+    "found_in_chunk": 14
+  },
+  {
+    "timestamp_seconds": 4645,
+    "description": "Financial Slides",
+    "confidence": 0.9,
+    "found_in_chunk": 14
+  },
+  {
+    "timestamp_seconds": 4649,
+    "description": "Macro Tables",
     "confidence": 0.9,
     "found_in_chunk": 14
   },
@@ -846,38 +684,8 @@
     "found_in_chunk": 16
   },
   {
-    "timestamp_seconds": 5100,
-    "description": "Stock Charts",
-    "confidence": 0.9,
-    "found_in_chunk": 17
-  },
-  {
-    "timestamp_seconds": 5152,
-    "description": "Macro Tables",
-    "confidence": 0.9,
-    "found_in_chunk": 17
-  },
-  {
-    "timestamp_seconds": 5202,
-    "description": "Financial Slides",
-    "confidence": 0.9,
-    "found_in_chunk": 17
-  },
-  {
-    "timestamp_seconds": 5254,
-    "description": "Stock Charts",
-    "confidence": 0.9,
-    "found_in_chunk": 17
-  },
-  {
-    "timestamp_seconds": 5344,
-    "description": "Macro Tables",
-    "confidence": 0.9,
-    "found_in_chunk": 17
-  },
-  {
-    "timestamp_seconds": 5410,
-    "description": "Stock Charts",
+    "timestamp_seconds": 5220,
+    "description": "SP500 Chart",
     "confidence": 0.9,
     "found_in_chunk": 17
   },
@@ -888,8 +696,38 @@
     "found_in_chunk": 18
   },
   {
-    "timestamp_seconds": 5820,
-    "description": "SP500 Chart",
+    "timestamp_seconds": 5700,
+    "description": "Stock Charts",
+    "confidence": 0.9,
+    "found_in_chunk": 19
+  },
+  {
+    "timestamp_seconds": 5709,
+    "description": "Macro Tables",
+    "confidence": 0.9,
+    "found_in_chunk": 19
+  },
+  {
+    "timestamp_seconds": 5743,
+    "description": "Financial Slides",
+    "confidence": 0.9,
+    "found_in_chunk": 19
+  },
+  {
+    "timestamp_seconds": 5750,
+    "description": "Macro Tables",
+    "confidence": 0.9,
+    "found_in_chunk": 19
+  },
+  {
+    "timestamp_seconds": 5834,
+    "description": "Stock Charts",
+    "confidence": 0.9,
+    "found_in_chunk": 19
+  },
+  {
+    "timestamp_seconds": 5850,
+    "description": "Financial Slides",
     "confidence": 0.9,
     "found_in_chunk": 19
   }
