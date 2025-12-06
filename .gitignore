@@ -14,3 +14,7 @@ wheels/
 .env
 notebooks/*
 transcripts/*
+
+
+outputs/episode_319/video_source/*
+outputs/episode_320/video_source/*

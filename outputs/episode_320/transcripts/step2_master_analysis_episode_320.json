@@ -1,0 +1,525 @@
+{
+  "episode_number": "weekending December 4th, 2025",
+  "episode_date": "December 4th, 2025",
+  "executive_summary": "Tom Hayes is extremely bullish on healthcare, dividend payers, and small caps, particularly in the face of a potentially choppy midterm election year. He emphasizes buying 'good businesses at great prices,' focusing on companies with strong cash flow and turnaround potential. He highlights Fizer, Papa John's, Crown Castle, Baxter International, Comstock Resources, and Cooper Standard as key opportunities.",
+  "tom_current_conviction": {
+    "overall_market": "Bullish, but selective",
+    "score_1_to_10": 8,
+    "key_reasons": [
+      "90% chance of a Fed cut",
+      "Quantitative tightening is over",
+      "316 global central bank cuts in 2025",
+      "Double-digit earnings growth for 2026"
+    ]
+  },
+  "macro_thesis_summary": "Hayes believes that the market has already priced in much of the expected volatility, and that the Fed is likely to cut rates, providing further liquidity and support for growth. He anticipates a rotation into defensive sectors and dividend-paying stocks as rates recompress and investors seek yield. He also sees a potential for small caps to outperform as the Fed eases.",
+  "key_macro_data_points": [
+    {
+      "indicator": "Midterm Election Years S&P Performance",
+      "value": "Historically up 2.4% with a 17.3% drawdown",
+      "tom_interpretation": "Believes this time will be different due to corrections already experienced."
+    },
+    {
+      "indicator": "Global Central Bank Cuts",
+      "value": "316 in 2025",
+      "tom_interpretation": "Hard to fight that amount of liquidity."
+    },
+    {
+      "indicator": "Money Market Funds",
+      "value": "$7 trillion earning 4%",
+      "tom_interpretation": "This money will be forced into the market looking for yield as rates recompress."
+    }
+  ],
+  "featured_company_deep_dives": {
+    "PFE": {
+      "thesis_summary": "Fizer is undervalued due to COVID hangover and patent fears, but has a strong pipeline, cost-cutting measures, and a high dividend yield, making it a compelling turnaround story.",
+      "key_metrics": [
+        "7% dividend yield",
+        "8 times forward earnings",
+        "$7.2 billion cost cuts",
+        "Metsera deal for monthly GLP1",
+        "CGEN oncology drugs"
+      ],
+      "price_target_or_valuation": "Potential double over the next few years.",
+      "conviction": "High",
+      "action": "Buy"
+    },
+    "PAPA": {
+      "thesis_summary": "Papa John's is a turnaround story with a new CEO, refranchising efforts, and a focus on franchising fees, making it a compelling consumer discretionary play with a solid dividend yield.",
+      "key_metrics": [
+        "4.5% dividend yield",
+        "New CEO from Wendy's",
+        "Refranchising 85 units in the UK",
+        "Comp store sales up 2%"
+      ],
+      "price_target_or_valuation": "Meaningful upside",
+      "conviction": "High",
+      "action": "Buy"
+    },
+    "BAX": {
+      "thesis_summary": "Baxter International is a self-help story facing temporary headwinds due to an ill-timed acquisition, but is now priced as if it's on life support. With a new CEO and divestitures taking solveny risk off the table, it presents an attractive entry point.",
+      "key_metrics": [
+        "Global leader in IV fluids and hospital essentials",
+        "CEO Andrew Hitter as a catalyst",
+        "Divestitures of BioPharma and Kidney businesses",
+        "Topline growth of 4-5% expected"
+      ],
+      "price_target_or_valuation": "Stock can work back towards $60 over the next few years.",
+      "conviction": "High",
+      "action": "Buy"
+    },
+    "CTRA": {
+      "thesis_summary": "Comstock Resources is a leading pureplay Haynesville gas producer with prime access to the Gulf Coast LNG corridor, offering a backdoor way to play rising AI and power demand in data center alley.",
+      "key_metrics": [
+        "Lowest cost producer in the industry",
+        "Prime access to Gulf Coast LNG corridor",
+        "Acreage 100 miles from Dallas and Houston",
+        "Jerry Jones as a major investor"
+      ],
+      "price_target_or_valuation": "Can work its way up to 45 to 50 over the next few years.",
+      "conviction": "High",
+      "action": "Buy"
+    },
+    "CPS": {
+      "thesis_summary": "Cooper Standard is an auto parts supplier poised for a turnaround as the average car on the road is 14.5 years old. With significant cost reductions and a return to peak earnings power, it offers substantial upside.",
+      "key_metrics": [
+        "$680 million of cost reductions",
+        "Potential to earn $10 a share this cycle",
+        "Auto parts supplier to Ford, GM, Stellantis",
+        "Average car on the road is 14.5 years old"
+      ],
+      "price_target_or_valuation": "A trough multiple of 10 times, which is a $100 stock.",
+      "conviction": "High",
+      "action": "Buy"
+    },
+    "GXO": {
+      "thesis_summary": "GXO Logistics is a Brad Jacobs company with a new CEO, reacelerating margins and revenues, and a focus on AI and robotics, making it a compelling logistics play.",
+      "key_metrics": [
+        "New CEO Patrick Keller",
+        "75% of revenues outside the US",
+        "Reacelerating margins and revenues",
+        "Return on operating capital north of 30%"
+      ],
+      "price_target_or_valuation": "Can be a double over the next three years at least.",
+      "conviction": "High",
+      "action": "Buy"
+    },
+    "PYPL": {
+      "thesis_summary": "PayPal is generating record free cash flow and buying back shares, with a new CEO and growth in Venmo and buy now pay later, making it an attractive turnaround story.",
+      "key_metrics": [
+        "Record free cash flow",
+        "Buying back 10% of the company every year",
+        "438 million users",
+        "Venmo with 100 million users"
+      ],
+      "price_target_or_valuation": "Stock is going to be $60 now. It probably be 120 to 150.",
+      "conviction": "High",
+      "action": "Buy"
+    },
+    "CCI": {
+      "thesis_summary": "Crown Castle is a high-quality Tower REIT that is a pure play on the rate easing cycle with lower rates cutting interest costs, improving refinancing terms, strengthening tenant activity, and drawing investors back to dividend payers.",
+      "key_metrics": [
+        "40,000 wireless towers nationwide",
+        "Leases space to the big three carriers",
+        "5% organic same tower revenue growth",
+        "Total shareholder yield above 6%"
+      ],
+      "price_target_or_valuation": "50% price upside",
+      "conviction": "High",
+      "action": "Buy"
+    },
+    "HORMEL": {
+      "thesis_summary": "Hormel is a dividend aristocrat with a high dividend yield and a clear path to margin recovery as input costs ease and pricing actions catch up.",
+      "key_metrics": [
+        "Dividend aristocrat",
+        "5% dividend yield",
+        "Uninterrupted quarterly dividend since 1928",
+        "Exposure to perishable inputs"
+      ],
+      "price_target_or_valuation": "Material upside",
+      "conviction": "High",
+      "action": "Buy"
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "PFE",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "Potential double over the next few years",
+      "actionable": "Buy",
+      "position_status": "New Addition",
+      "key_quotes": [
+        "They're paying a dividend of 7% while you wait.",
+        "It's trading at eight times forward earnings.",
+        "Cheap. It's cheap.",
+        "Margins are reacelerating. growth is reacelerating."
+      ]
+    },
+    {
+      "ticker": "PAPA",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "Meaningful upside",
+      "actionable": "Buy",
+      "position_status": "New Addition",
+      "key_quotes": [
+        "You get a 4.5% dividend yield while you wait.",
+        "Your downside is protected with these inexpensive stocks.",
+        "Your upside is is meaningful."
+      ]
+    },
+    {
+      "ticker": "LLY",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Fiser doesn't have a weight loss drug contender to compete with, you know, Eli Liy."
+      ]
+    },
+    {
+      "ticker": "VF",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Last year I sent them van shoes for VF court."
+      ]
+    },
+    {
+      "ticker": "S&P 500",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "The bad news is midterm election years tend to be the worst year of the 4-year presidential cycle. Uh S&P 500 up on average 2.4% only."
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Buy",
+      "key_quotes": [
+        "We played it through the least popular play which was Intel which happened to be the second best AI performer this year. Outperformed Nvidia this year."
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "We played it through the least popular play which was Intel which happened to be the second best AI performer this year. Outperformed Nvidia this year."
+      ]
+    },
+    {
+      "ticker": "QXO",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Buy",
+      "key_quotes": [
+        "Play the nonobvious players where you're going to see margin expansion. You're going to see revenue growth and you're going to see earnings go go really accelerate and the stock go up."
+      ]
+    },
+    {
+      "ticker": "BAX",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "$60",
+      "actionable": "Buy",
+      "key_quotes": [
+        "This is an $18 stock, ladies and gentlemen.",
+        "We think the stock can work back towards $60 over the next few years."
+      ]
+    },
+    {
+      "ticker": "CRK",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "$45-$50",
+      "actionable": "Buy",
+      "key_quotes": [
+        "Comtock is the leading pureplay Hannesville gas producer with prime access to the Gulf Coast LG corer and a backdoor way to play rising AI and power demand in data center alley"
+      ]
+    },
+    {
+      "ticker": "CTRA",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "$45-$50",
+      "actionable": "Buy",
+      "key_quotes": [
+        "Comtock is also the lowest cost producer in the industry which gives a tremendous opportunity."
+      ]
+    },
+    {
+      "ticker": "CPS",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "$100",
+      "actionable": "Buy",
+      "key_quotes": [
+        "We think they're going to earn $10 a share this cycle.",
+        "A trough multiple of 10 times, which is a $100 stock"
+      ]
+    },
+    {
+      "ticker": "F",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Buy",
+      "key_quotes": [
+        "They are an auto parts supplier to Ford, GM, Stellantis."
+      ]
+    },
+    {
+      "ticker": "GM",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Buy",
+      "key_quotes": [
+        "They are an auto parts supplier to Ford, GM, Stellantis."
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Amazon stock was down 90%. Even though their revenues grew those years, their free cash flow grew those years, their earnings grew those years."
+      ]
+    },
+    {
+      "ticker": "GXO",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "Double over the next three years",
+      "actionable": "Buy",
+      "key_quotes": [
+        "This is going to be a double double plus. It's going to be a $100 stock.",
+        "They are now uh reacelerating in terms of margins, in terms of revenues."
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "We've only been going for six, but okay. I like it a lot."
+      ]
+    },
+    {
+      "ticker": "PAYPAL",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "$120-$150",
+      "actionable": "Buy",
+      "key_quotes": [
+        "This stock is going to be $60 now. It probably be 120 to 150.",
+        "They are hitting on all cylinders."
+      ]
+    },
+    {
+      "ticker": "CCI",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "50% price upside",
+      "actionable": "Buy",
+      "key_quotes": [
+        "CCI is a pure play on the rate easing cycle with lower rates cutting interest costs, improving refinancing terms, strengthening tenant activity, and drawing investors back to dividend payers"
+      ]
+    },
+    {
+      "ticker": "HORMEL",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Buy",
+      "key_quotes": [
+        "Hormel is entering a new phase of growth supported by durable c customer shifts toward lean high protein eating, a core competitive advantage for Hormell with a decade low valuation"
+      ]
+    },
+    {
+      "ticker": "SPY",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "In that these conditions it tends to be 2%. So we'll see if that holds true this year."
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Microsoft's capex to sales ratio dwarfs Exxons."
+      ]
+    },
+    {
+      "ticker": "XOM",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Microsoft's capex to sales ratio dwarfs Exxons."
+      ]
+    },
+    {
+      "ticker": "DIS",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Zootopia 2 opens to more than half a billion dollars globally. Another Disney win."
+      ]
+    },
+    {
+      "ticker": "BA",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Boeing stock jumps 10% as CFO says company expects higher 737 787 deliveries next year."
+      ]
+    },
+    {
+      "ticker": "GENERRACK",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Buy",
+      "key_quotes": [
+        "We bought a highquality secular compounder with 75% plus share in a market where US house household penetration is still only 6.5%."
+      ]
+    },
+    {
+      "ticker": "STANLEY BLACK & DECKER",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Buy",
+      "key_quotes": [
+        "Enabled us to increase our position."
+      ]
+    },
+    {
+      "ticker": "BMY",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Bristol Meyers uh it's not for us, but um like Fizer, but thank you."
+      ]
+    },
+    {
+      "ticker": "SBAC",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "SBAC. Uh, I mean, it's a lower quality, similar story. We prefer what we have um in terms of management, in terms of assets, etc."
+      ]
+    },
+    {
+      "ticker": "ATI",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Welcome Nathan ATI. Welcome to the foldy technologies."
+      ]
+    },
+    {
+      "ticker": "HQY",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Yeah, everything's good and everyone already knows it. It's up 5x off the lows or 4x three 4x off the lows."
+      ]
+    },
+    {
+      "ticker": "TTWO",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "This one has already run. And it's not what we like to do. We like to buy it when no one wants it."
+      ]
+    },
+    {
+      "ticker": "DH ER",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "I love the financials. I hate the business, so I'm going to pass."
+      ]
+    }
+  ],
+  "new_or_recent_additions": [
+    "PFE",
+    "PAPA"
+  ],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy Comstock Resources (CTRA) for exposure to natural gas and the data center buildout.",
+      "conviction": 9
+    },
+    {
+      "rank": 2,
+      "idea": "Buy PayPal (PYPL) as a turnaround story with strong free cash flow and growth potential.",
+      "conviction": 9
+    },
+    {
+      "rank": 3,
+      "idea": "Buy Fizer (PFE) for its high dividend yield and turnaround potential.",
+      "conviction": 9
+    },
+    {
+      "rank": 4,
+      "idea": "Buy GXO Logistics for its new CEO, reacelerating margins, and focus on AI and robotics.",
+      "conviction": 9
+    },
+    {
+      "rank": 5,
+      "idea": "Buy Baxter International (BAX) as a self-help story with a new CEO and divestitures taking solveny risk off the table.",
+      "conviction": 8
+    },
+    {
+      "rank": 6,
+      "idea": "Buy Crown Castle (CCI) as a pure play on the rate easing cycle with a high dividend yield.",
+      "conviction": 8
+    },
+    {
+      "rank": 7,
+      "idea": "Buy Cooper Standard (CPS) for its potential to earn $10 a share this cycle.",
+      "conviction": 8
+    },
+    {
+      "rank": 8,
+      "idea": "Buy Papa John's (PAPA) as a consumer discretionary play with a new CEO and refranchising efforts.",
+      "conviction": 8
+    },
+    {
+      "rank": 9,
+      "idea": "Buy Generrack for its exposure to the data center buildout and AI infrastructure arms race.",
+      "conviction": 8
+    },
+    {
+      "rank": 10,
+      "idea": "Buy Hormel (HORMEL) for its high dividend yield and a clear path to margin recovery.",
+      "conviction": 7
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Midterm election years tend to be the worst year of the 4-year presidential cycle.",
+    "Healthcare sector has been underperforming and is at its lowest weight in the S&P 500 in years.",
+    "Consumer staples are washed out with exposure sitting about one standard deviation below its historical average."
+  ],
+  "technical_takeaways": "Small caps being the strongest during this time of year starting on the 15th of the month and going through March."
+}

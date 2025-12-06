@@ -1,0 +1,840 @@
+[00:00:00] Welcome to Hedge Fund Tips with Tom Hayes. I'm Tom Hayes and this is your
+[00:00:05] 319th videocast podcast for the week ending November 26, 2025. Happy
+[00:00:12] Thanksgiving to everyone. Uh lot to be grateful for this year. Obviously
+[00:00:18] grateful for my family, grateful to my incredible clients at Great Hill Capital. Super grateful. Uh grateful for
+[00:00:25] the the returns, grateful for uh all of the supporters of hedge fund tips and
+[00:00:31] hedge fund tips with Tom Hayes, uh all the employees, family, etc. So, a lot to
+[00:00:37] be grateful for this year. Uh and as always, let's start with family first, then we'll get down to business. Got to
+[00:00:43] spend some great time with the fam at the beach this weekend after being gone
+[00:00:48] so much in November. We had a great weekend at the beach together riding
+[00:00:54] bikes. And that's the girls at the playground. Uh there's Mimi and Annabelle.
+[00:01:01] There's Caitlyn with Lucky, our dog. So really special time. Uh then this
+[00:01:07] morning I had the privilege to join the great Stu Vney on Fox Business thanks to
+[00:01:13] Payton Jennings. We're going to listen in here. The only guy pre-market that is Dow up 100, NASDAQ up 103. Same again. Tom
+[00:01:20] Hayes is with me. Do you see any pullbacks greater than 10% in the next 6
+[00:01:26] months? I don't think so, Stu. You know, on average since 1928, you get a 20%
+[00:01:33] pullback every 3 and 1/2 years. We have had three in the last 5 years. So, we've pulled forward a lot. We're suffering
+[00:01:40] from recency bias. We think another one is coming. I think more modest. You know, you get a normal 10% correction
+[00:01:46] every 13 months on average. That's realistic. Maybe you go 13, 14, 15% uh
+[00:01:52] midyear correction, but I wouldn't expect that 20% that everyone's looking for. I think we've got a strong economy.
+[00:01:59] We've got an easing Fed. We've got 316 central bank rate cuts this year. A lot
+[00:02:06] of liquidity and quantitative tightening is ending in December. So 10% corrections normal. 1520 maybe not so
+[00:02:14] much. Okay. Meta is buying chips from Google. Is this a breaking point in the AI chip
+[00:02:21] market? I think this is close to a deepseek
+[00:02:27] moment. And what's important about this is the TPUs, tensor processing units are
+[00:02:35] cheaper and they take up less energy. And most importantly, they are outside
+[00:02:40] Nvidia's ecosystem, which tells you costs are going to come down. the monopoly may be going away for Nvidia
+[00:02:48] and you're seeing that in the market cap of Google almost 4 trillion the market cap of Nvidia down to 4 trillion so
+[00:02:54] they're almost par pu and everyone knows Gemini 3 was trained on these TPU chips
+[00:03:02] and it's faster sharper and deeper reasoning than open AI so uh a lot to be
+[00:03:08] interested in here moving forward okay here's the question which a lot of people are asking especially at this
+[00:03:13] time of here is do you have any reason to believe that stocks will go down and
+[00:03:18] stay down for a period of years? See, I remember the 1970s which were awful for
+[00:03:24] stock market investors. Is there any chance we'll get the same thing this time? Stocks down, stay down. What do
+[00:03:30] you think? Zero chance. The average age of the millennials is 34. And historically,
+[00:03:38] when you have the bulk of your population at that age, this is when they start fmation, housing formation,
+[00:03:45] they make babies, they spend money, you tend to have boom times, and that's going to continue for at least another 5
+[00:03:51] to seven years. Uh so we remain constructive. You have progrowth policies. You have an accommodative Fed
+[00:03:58] that is coming into power. Uh we've heard the rumblings about the new picks for 2026. Uh and you have an easing
+[00:04:05] cycle just beginning. So any weakness now, we've got an 85% chance baked in of
+[00:04:11] a cut in December. I think you want to get through that Fed meeting and ensure that cut is in place and then you can
+[00:04:17] start to get uh put some money to work and put it to work selectively. Okay. We're very glad to have you on the
+[00:04:22] show right before Thanksgiving and we hope you're right. Tom Hayes, see you again soon. You have a good Thanksgiving. We'll see you later.
+[00:04:28] Happy Thanksgiving. Take a look. I've got And we're back. Uh, and on to our quotes
+[00:04:36] of the week, uh, from the great Peter Lynch. Everyone has the brain power to make money in stocks. Not everyone has
+[00:04:43] the stomach. If you're susceptible to selling everything in a panic, you ought to avoid stocks and mutual funds
+[00:04:50] altogether. And I can't emphasize this enough. The smart people know uh, the
+[00:04:55] entrepreneurs who made money in the real world know that action is the name of
+[00:05:00] the game in the real world. That's what made them rich. Inaction is the name of
+[00:05:05] the game in the investment world. Uh and that's why they hire me to do it for them because uh they became rich through
+[00:05:13] massive action and that's the opposite of what gets you incredible results in
+[00:05:20] the markets. So moving along, uh Bruce Greenwald, there are no bad days in the
+[00:05:26] market. When the market is down, you've got bargains. And it's lovely to think of what you are buying at low prices.
+[00:05:32] When the market is up, the bargains have been gone, but you're rich. So, that's
+[00:05:37] the way it works. Thanks to the continued support on the hedge fund tips merch. All we ask for is that you
+[00:05:45] continue to share it with one person you care about that loves the markets or
+[00:05:50] could use this education each week. And as we keep growing, we're going to keep doing this for a long time uh for
+[00:05:57] clients and non-clients alike. So, keep spreading the word. Easy way to do that,
+[00:06:02] get a hat or a mug. People will ask you about it. And uh you know, we're getting a lot more orders than we are getting
+[00:06:08] pictures. So, please send in your pictures so you can be part of the hedge
+[00:06:13] fun community on the website. Uh email them into info@hedgefundtips.com
+[00:06:19] with your hat, your mug, your hoodie. Uh it's hoodie season. And those are incredible hoodies. So, try that out.
+[00:06:26] Uh, let's get down to data. How often does the stock market decline? A 1% drop
+[00:06:32] happens 50 to 60 times a year. A 3% drop happens seven or eight times a year. 5%
+[00:06:39] pullbacks happen three to four times a year. 10% drops happen every 13 months.
+[00:06:45] A lot of people forget that. They think it's, oh my goodness, this is the end of the world. No, it's the end of 13
+[00:06:51] months. basically on average since 1928. Uh 15% drop happens every two years. A
+[00:06:57] 20% drop happens every 3 and a half years. I touched on that with Stu today. Basically,
+[00:07:04] um we've had three of those 20% in the last 5 years. We've pulled forward 10
+[00:07:10] years of 20% drops, which is why I don't think we're going to see a bigger correction in the near term.
+[00:07:17] There's a lot of recency bias. every everyone looking for what just happened is usually when it doesn't. We had it in
+[00:07:23] 20 uh 2020, 2022, and 2025 in April. Uh
+[00:07:30] and a 25% drop every 5 to 7 years. So
+[00:07:35] that's the average since 1928. Here is oil prices adjusted for money supply. As
+[00:07:42] you can see, we are the cheapest in the oil patch since it went negative in 2020. Prior to that was 2014, which was
+[00:07:50] the one of the biggest oil depressions we've seen in our lifetime. And then prior to that was 992000, right before
+[00:07:56] you had a six, seven-year commodity bull run. So, we've got our exposure there.
+[00:08:01] Uh, as we've discussed with National Oil Well, Varco and Commtock is already taken off. Um, uh, National Oil Oil
+[00:08:09] Varco is starting to take off. Here's the flow of funds. uh tend to start to see some strength in
+[00:08:16] the month end, which we're seeing in tech. Uh 30-year mortgage rate.
+[00:08:24] Let's see. Uh that is inverted to
+[00:08:29] existing home sales. Okay, mortgage rates are coming down. Uh let's see. 4.03
+[00:08:36] on the 10-year if we get that Fed cut, which is 85% odds right now.
+[00:08:44] Uh we could see that 6% just below 6% mortgage before year end. Let's see. Uh
+[00:08:51] China 3% of MSCI all world index US 65%.
+[00:08:57] That's kind of crazy when you consider the um uh GDP of each country being so
+[00:09:02] close. This is going to play catch-up in a material way. Emerging markets at secular turning point versus the US. We
+[00:09:10] haven't seen anything like this since this is one standard deviation below the mean. We haven't seen anything like this
+[00:09:15] since 2000. Generational opportunity uh prior to that in the 80s when you had a
+[00:09:21] huge uh bull run in emerging markets in the early 90s while the US was in a recession by the way and uh going all
+[00:09:29] the way back to the late60s opportunity of a lifetime. So we started to see
+[00:09:35] emerging markets outperformance 2 to1 this year. It is early days in that trend.
+[00:09:42] We will benefit from Baba. By the way, um some of you have said like, "Oh,
+[00:09:48] there aren't a lot of people in Alibaba." What you're missing is that most
+[00:09:55] institutional managers own Baba or at least some of their
+[00:10:00] position. I think we own 90% of our position uh in the Hong Kong shares 9988. So you're not going to see it on
+[00:10:08] their US filings because US filings is not representative of the portfolio. It's representative of those positions
+[00:10:16] in the portfolio that are required to be reported on the list provided by the
+[00:10:22] SEC. So your portfolio is scrubbed against a predefined list of securities
+[00:10:28] from the SEC and what's remaining is what gets reported. And that's why you
+[00:10:33] don't see it from a lot of managers that are now in it. Um, and you won't see the
+[00:10:39] magnitude because it's it's held in Hong Kong. Uh, US Midcap's trading at PE of
+[00:10:45] 15 times versus the S&P at 22 times. Again, you have to go all the way back
+[00:10:51] to 20201 when everyone was chasing the concentrated stocks. They got their
+[00:10:56] asses handed to them and for the next few years you dramatically outperform small caps, midcaps, international
+[00:11:02] value. Same setup today. US stock market breath of the market is low right now.
+[00:11:09] That's starting to turn around. Uh don't fight the Fed. global central bank policy uh 24-month cumulative 316
+[00:11:19] global central bank cuts uh as of November 2025 which tops August 2010
+[00:11:28] which was the last time there was this much liquidity in the system post great financial crisis. We didn't even come
+[00:11:34] close during COVID and you know what happened with the market. So, a lot of
+[00:11:39] gas and liquidity in the tank. S&P 500 debt at record lows, government debt
+[00:11:46] near record highs. So, um
+[00:11:52] balance sheets are super super healthy on the private sector side. Uh
+[00:11:58] meaningfully unhealthy on the public sector side. Breath hasn't been this narrow since the tech bubble. again
+[00:12:06] pointing to a normalization of weights and you're seeing signs of some of those stocks come in and come in materially.
+[00:12:14] Uh tech makes up 50% of the S&P versus 40% in 2000. So, you know, again, if you
+[00:12:23] chase what's crowded, you're going to get hurt. We've seen it in recent weeks with the Core Weeaves,
+[00:12:28] with the Palunteers, and with the Nvidias. Uh you knew it was coming. Most people were blindsided and um what was
+[00:12:37] the six and a half percent pullback in the S&P that we had been calling for which is called a secondary correction.
+[00:12:43] On average in years you get 15% corrections or more and then reach all-time highs. The secondary correction
+[00:12:51] averages 6.5%. That's exactly where we were intraday last Thursday.
+[00:12:58] Is it over? I'm not sure. We still have a little bit of hedge on uh but as you
+[00:13:04] know we were putting more money to work and um the names that we're putting money to work we don't really care what
+[00:13:11] happens with the general indices because we're just grateful to buy them at the current prices. Um if the Fed cut
+[00:13:18] happens as is 85% expected probably the most pain is in the rear view mirror. I
+[00:13:25] think you'll probably get one more scare before the December 10th meeting. Maybe a retest, maybe a cut through just to
+[00:13:32] really mess with people. Uh but if that cut goes through, should be okay from there. Uh stuff is old, we're due for a
+[00:13:40] reinvestment cycle. That's capex that helps cyclicals. Weaker dollar equals EPS tailwind. We
+[00:13:46] estimate for every 10% drop in the US dollar represents about a 3 percentage point boost to S&P earnings. We're
+[00:13:54] seeing that in estimates for next year go up to 308 from 305. So that's
+[00:14:00] positive. Uh on track for a record year in healthc care M&A. So that's gone
+[00:14:06] straight through the roof
+[00:14:12] and the stocks are now starting to follow despite having record low
+[00:14:18] performance since 2000 to the S&P 500.
+[00:14:23] uh near record low waiting in the S&P 500 and record low multiple
+[00:14:31] uh PE multiple relative to the S&P 500. All formulas for massive generational
+[00:14:38] inflections, which is why we added another position in healthcare, uh which
+[00:14:43] we will disclose. Uh we're getting close to everyone being fully invested and
+[00:14:49] we'll disclose it at some point in the future along with our restaurant
+[00:14:54] uh well food
+[00:14:59] consumer discretionary business. We'll leave it at that. um clients know what it is from the ones
+[00:15:08] who can look in their portfolio uh and see and the most people we've been been
+[00:15:14] able to find some room for it. If you haven't, we've told you what it was and uh and you can get some on your own if
+[00:15:20] you if you were in a cash account and didn't have any room. uh but you've received a Christmas gift
+[00:15:29] gift card so that you could do your own due diligence on our newest position.
+[00:15:36] So, uh pretty excited on that front. Dividends should contribute more than over last year's ZERP environment.
+[00:15:43] Dividend payers, there are three areas I wanted to cover this morning for Vney,
+[00:15:50] but we didn't have time. The key was be selective. Healthc care uh we we just covered consumer discretionary. We had
+[00:15:57] the biggest cut on record, two standard deviations below the mean. Uh and that's creating massive opportunities. The
+[00:16:03] common denominator between our two new holdings is they are massive uh if not
+[00:16:10] the highest dividend payers in their respective sectors. uh and dividend
+[00:16:18] payers will be massive beneficiaries of the ongoing easing cycle. Remember
+[00:16:26] number one 316 cuts globally. Number two, quantitative tightening uh
+[00:16:33] discontinues on December 1st, meaning uh quantitative easing is probably on the
+[00:16:41] table in coming months. And three, we are at the early stages of our easing
+[00:16:47] cycle getting back to the neutral rate of 3% or lower.
+[00:16:54] Next, oh, so here's what you see. From 1936 to 2013,
+[00:17:01] the dividend provided 39% of the total return of the S&P 500. During the zero
+[00:17:08] interest rate policy, when uh tech and Momo stocks outperformed 2014 to 2024,
+[00:17:16] dividends only provided 16% of the total return. Get ready for a reversion back
+[00:17:21] to dividend payers dramatic outperformance. And if you look across our positions, we got a quite a quite a
+[00:17:27] few of them that are going to benefit from this situation. Uh low expectations, consensus, long-term
+[00:17:33] growth forecast near a record low. That was evidenced in the question that Stuart posed to me. Could stocks stay
+[00:17:40] down for 10 years? And uh I that was off-the- cuff question that he asked and
+[00:17:47] I gave an off-the cuff answer. The thing that I would add is that what he was calling for, namely
+[00:17:55] or asking if we could have uh 10 years where stocks don't go nowhere like the 70s. We just had it from 2000 to 2012.
+[00:18:06] Uh there were basically no net returns in the stock market to get back up to the watermark and then it broke out and
+[00:18:13] continued. So, uh, I think that's more of a mid 2030s to mid 2040s story. Uh,
+[00:18:20] and I think we've got at least, you know, six, seven, eight years of super
+[00:18:26] gas left in the tank right now. Uh, long only exposure to consumer dress
+[00:18:33] discretionary is low versus history. This is a generational opportunity, which is why we added some exposure with
+[00:18:40] the new position there. And uh in years where small cap profits growth is
+[00:18:47] outpacing large cap profits growth and accelerating, small caps have outperformed 75% of the time and by an
+[00:18:53] average of 9 percentage points. That's the story for next year.
+[00:19:00] Non-farm payrolls. The upturn in payrolls in September was mostly due to imprecise seasonal adjustments. Non-farm
+[00:19:05] seasonal was the most generous for September on record due to very very different previous years. Okay.
+[00:19:14] Wall of worry. Which worry do equities overcome first? AI capex mania and the
+[00:19:20] credit undercurrent. Valuations remain stretched. Fed still leaning hawkish. Repo market stress. Liquidity tightens.
+[00:19:27] US election watch sentiment risk ahead. Crypto deleveraging positioning for rebound. Private credit and early signs
+[00:19:34] of strain. Breath breakdown concentration at extremes. K-shaped economy and divergent consumers. data
+[00:19:40] blackout and policy blind spot. So, you can go through those one by one. Just pause your video player.
+[00:19:49] Number of stocks lagging 10% behind the S&P 500 year to date. We are at near a
+[00:19:55] record not seen since 1999.
+[00:20:00] So, something to keep in mind if you were overweight. The most highly concentrated stocks,
+[00:20:09] [Music]
+[00:20:15] percent of stocks raising earnings guidance. This is up to 37
+[00:20:20] or 38%. So that's a positive thing. We're seeing it in the overall number.
+[00:20:26] Analysts expect S&P 500 margins to expand to 15.5% by the end of 2027,
+[00:20:34] which would be an all-time high. Rare to see multiples compress when
+[00:20:40] margins expand. We agree. November and December performance by day. So, we're
+[00:20:47] seeing some end of November strength and then maybe some chop in the middle of December and finish up strong. Small
+[00:20:53] caps tend to outperform in December, by the way. Um,
+[00:20:59] here we got put volume at levels near historic uh points where
+[00:21:07] where you see rebounds. Uh, whether Thursday was it or not, it did meet the
+[00:21:12] number that we had been calling for when everyone was super bulled up in in October and we kept saying going to get
+[00:21:17] a 6 and a half% correction. uh we got it or pullback. Uh is that all? I think
+[00:21:25] that's going to be dependent on the Fed. But if we get more, it will be concentrated in those names that have
+[00:21:32] already been hit the hardest. Um namely um the highf flyers. Uh so it won't
+[00:21:38] affect you uh nearly as much. And if it doesn't happen, you're already
+[00:21:44] positioned and taking advantage of the any year-end strength.
+[00:21:50] How large could cloud international revenue be? Alibaba cloud is undergoing rapid international expansion in Asia,
+[00:21:57] Europe, Latin America, tapping AI compute, sovereign AI demand with increasing capex build up into higher
+[00:22:03] data center density internationally. 900 of Ali cloud's nodes are located overseas versus 2,300 nodes located in
+[00:22:10] China and sticky multi-year revenue growth outlook. We estimate international to contribute 1/4 of
+[00:22:16] Alibaba cloud's external revenue by fiscal year 28 estimate from mids single
+[00:22:21] digit in fiscal year 2025 growing at high double digits from 25 to 28 kagger
+[00:22:29] uh on the back of one full stack AI plus cloud hyperscaler offerings two
+[00:22:34] accelerating data center buildout globally three its international pricing premium measured by Quen token relative
+[00:22:41] to domestic and four targeted sector clients, five global enterprise client win. So this is pretty exciting bullcase
+[00:22:48] here. 76% upside on our revised bullcase implied valuation of $280
+[00:22:55] US per share of uh Baba and 271
+[00:23:00] in Hong Kong 9988. Scarcity value of China's AI full stack exposure,
+[00:23:06] exponential growth in inference, and everything we've been talking about. So,
+[00:23:12] I love this note. Uh, we don't have a source here. Uh, Goldman
+[00:23:18] Sachs. Okay, great. There's your source. Goldman Sachs with a $280 price target
+[00:23:24] on Baba. Opinion follows trend. These were part of the uninvestable camp just
+[00:23:30] a short year and a half ago. Now, they're climbing on board. Uh, it will
+[00:23:35] overshoot that target. Uh, and when everyone is all in at 300 plus, we will
+[00:23:40] be helping them out with our shares. But for the time being, enjoy the ride and
+[00:23:45] get some popcorn. Mostly fair winds. Global cruise industry has been steadily growing except for pandemic years.
+[00:23:52] That's going to help Disney. Russell 2000 relative to Russell 1000
+[00:23:58] seasonal pattern since 1979. Ah, here it is the data. Okay. Small cap outperformance from mid December through
+[00:24:05] March. This is from Yale Hirs over at Stock Traders Almanac. The best part of the year for small caps tends to be mid
+[00:24:12] December through March. Uh so that's that extreme fear here. So that's what
+[00:24:17] what you're seeing with the bounce. Uh let's see revenue growth.
+[00:24:28] Public companies history favors above average returns
+[00:24:34] even over one-year periods, especially when you don't have a recession.
+[00:24:39] That's from Carson. There are 37% more home sellers than
+[00:24:45] buyers. You lower rates a little bit. They're going to clamor in. New home price now
+[00:24:51] lower than existing home price. Haven't
+[00:24:58] seen that since 1982. The last time you had an aggressive hike and then a easing
+[00:25:05] cycle uh and then it took off after that. So I think we're setting the stage for another bull market there. Uh
+[00:25:12] discretionary investors are implicitly pricing that earnings growth is about to drop sharply and turn negative. Um
+[00:25:21] except that's not happening and they're going to be pleasantly surprised. Maybe it'll be because of the $2,000 checks from Trump if the Supreme Court does
+[00:25:28] something silly with tariffs. But uh more likely than not, the consumer is stronger than anticipated. Uh
+[00:25:34] Magnificent 7 free cash flow growth has turned negative. Uh that's uh what we've
+[00:25:39] been calling for. China bulls 30% in two years. Uh we forecast Chinese equities
+[00:25:47] to rise 30% over the next two years is from Goldman Sachs driven by low teen trend profit growth and moderate PE
+[00:25:54] expansion. Uh we agree Alibaba will be the big beneficiary of that.
+[00:26:01] Meat prices coming down on the bacon side with lean hogs also coming down on feeder and on um
+[00:26:11] live cattle contracts. Michigan consumer sentiment index lowest since uh the
+[00:26:17] COVID lows prior to that the 1980 vulkar tightening cycle very similar history
+[00:26:24] rhymes doesn't repeat to the Powell tightening and easing cycle
+[00:26:31] uh is this still a contrarian signal University of Michigan consumer sentiment index
+[00:26:38] S&P average forward 12-month returns when you have the lowest 5% of consumer
+[00:26:43] readings 12-month returns are up 18.7%. We are in the lowest 5% right now. Prime
+[00:26:51] Book percent of total US net exposure.
+[00:26:56] Healthcare biotech just getting started.
+[00:27:03] Health healthcare XBiotech just getting started. Biotech has been off the charts. Our XBI is crushing it. Uh super
+[00:27:09] grateful. That one took a long time, couple of years, but now we're getting paid like it's going out of style. So,
+[00:27:15] we're excited to see that. Uh, valuation rally contracts in periods above the median EPS growth and accommodative
+[00:27:22] monetary policy. So forward 12 uh PE 12-month rate of change in
+[00:27:29] greater than median EPS growth plus accommodative Fed policy uh 91%
+[00:27:38] chance of retaining the high multiples is what they're basically implying
+[00:27:44] consumer price index is right at the mean which has been 3% since 1915.
+[00:28:13] more cuts coming. They're expecting a move to 3% on the Fed funds rate by July
+[00:28:21] 2026. That would be amazing. Earnings are expected to remain strong.
+[00:28:28] Yeah, as I said, $38. That's up from 305. Earnings growth year-on-year mag 7
+[00:28:35] versus other $493.
+[00:28:43] That's current forward is going to they're going to be parry pursue and the multiple spread is huge.
+[00:28:50] We like to play those type of divergences. Uh pockets of momentum chasing have reversely uh pockets of
+[00:28:57] momentum chasing have reversed sharply. Performance of a basket of stocks with the most net call volume in the previous
+[00:29:04] week. So remember all those calls I said record for 23. None of those got paid. They all got smoked the last minute in
+[00:29:09] November. Uh there's still a decent amount of volume in December, but nothing like November, which is why I
+[00:29:14] think we might get one more scare. Uh but we shall see. Policy stimulus index
+[00:29:29] is as low as it was since 2000 2001 and then it turned up. So we'll see what
+[00:29:35] happens there.
+[00:29:52] valuations become less stretched as you move down the S&P 500. So, uh, based on
+[00:29:57] waiting, the S&P is at 22 times. Basically, the top 10 weights are at 27 and a half
+[00:30:04] times, but the bottom 10 weights are at 14.8 times. That's where you're finding
+[00:30:10] some bargains. Uh, speculative short ETF volume. Uh,
+[00:30:16] you know, it's at the level where you could be bottoming here. It could also get a little higher and, you know, have one more leg down. Um,
+[00:30:24] I I think you're guessing. I mean, it
+[00:30:29] wouldn't surprise me if we have one more leg down. Uh I I'm agnostic to either
+[00:30:35] way. I'm positioned fine irrespective of of the outcome. Um but there's an awful
+[00:30:42] lot of confidence in that cut and I think maybe you get a little shakiness ahead of the meeting.
+[00:30:49] percent of large cap mutual funds expect 245 billion in M&A supply in
+[00:30:57] 2026. So that's talking to animal spirits.
+[00:31:03] We had 73% corrections so far in
+[00:31:08] 2025. This is from Fundstrat with the one 21.4%
+[00:31:14] intrayear correction, the third in 5 years when that should be only happening once every three and a half years. So I
+[00:31:19] think we pulled forward a lot of the pain. Um short ETF volume really extreme which
+[00:31:28] points to potentially uh Thursday having been the bottom. We we will see
+[00:31:35] median S&P 500 carries above average short
+[00:31:41] interest. So there's still a lot of pessimism there.
+[00:31:47] average equity fund flow by calendar month over the past decade excluding US election years. Uh December
+[00:31:56] is the largest. So just keep that in mind. And finally, what else do we have?
+[00:32:06] Top 1,00 universe by market cap percentage of stocks with greater greater than 10% draw down over the past
+[00:32:12] six months. 66% of the top 10,000 stocks are down more than 10%.
+[00:32:19] Uh which no Morgan Stanley is pointing out is a lot of damage. The damage under
+[00:32:25] the surface is notable. Healthcare had the most earnings beach since 2021.
+[00:32:31] That is a key another key reason that we uh added another major position in
+[00:32:37] healthcare uh in the last week and a half plus. And let's see here.
+[00:32:45] Uh, driven tightness, ESS driven tightness and China mine suspensions have reduced
+[00:32:51] inventory days and pushed lithium prices higher. As I told you, we took all the profits on our Albamaro spreads at three
+[00:33:00] and between three and 4x across the board and um kept 100% of the stock.
+[00:33:09] So, we often do that when one of our names has a parabolic move and um you
+[00:33:16] know, we know the stock is going to pull back and consolidate for six months before it takes the next leg leg higher or at least we we know that's a risk.
+[00:33:23] So, we'll take the multibag on the spreads andor the straight options. Uh
+[00:33:29] lock that down and then just ride out the consolidation with the stock until
+[00:33:34] we get to uh predetermined intrinsic value. uh you know down down the road.
+[00:33:40] We did that with Boeing, we did that with uh Generrack, we did that with um a
+[00:33:46] lot of the stocks where the you know uh BABA uh between six and 7X on those option spreads. That was a huge huge hit
+[00:33:53] for us this year. Uh but we we still keep 100% of the stock because they're not anywhere near uh full intrinsic
+[00:34:00] value. Okay, this next one, energy storage to account for 44% of global lithium demand
+[00:34:08] growth in 2025 estimated nearly 30% of total lithium demand. So you can see
+[00:34:14] here electric vehicles largely driven by China uh and energy storage systems
+[00:34:19] picking up huge amounts of demand over the over the coming years. uh OpenAI
+[00:34:24] estimated balance sheet total cost of cloud compute
+[00:34:30] negative200 billion revenue positive 200 billion uh
+[00:34:36] so you can get a sense of what's happening there downloads attributed to developer okay
+[00:34:43] the dominance of Google Meta and open AI has declined in favor of smaller and
+[00:34:50] unaffiliated developers and recently Chinese models Deep Seek and Quen. You
+[00:34:57] can see Quen is absolutely ripping in the last 12 months while the others are declining.
+[00:35:07] Healthc care versus the S&P, you're starting to see it rip higher. This has been a key theme since summer. Um
+[00:35:15] and then Atlanta Fed GDP real GDP estimate for Q3 still above 4%.
+[00:35:23] Case Schiller home price index now uh headed toward the flatline uh just 1.3%
+[00:35:32] growth. So it's starting to normalize. Uh Baba inflows, lots of buying in the
+[00:35:38] last few weeks. uh more buying coming back into US equities with the US Prime book. And uh
+[00:35:46] one thing that I wanted to cover also on the family front uh is Annabelle. Each
+[00:35:53] year in Southern California, swimming selects the top eight swimmers per age
+[00:35:58] group to compete against other regions in the Pacific. Annabelle was picked for the 11 and 12 girls roster and will
+[00:36:06] compete in January in San Francisco to determine who is the best in the west.
+[00:36:12] So, uh, congratulations on that front. Uh, on to the headlines.
+[00:36:19] Alibaba shares rise as AI drives 34% cloud sales jump. Alibaba's Quen chatbot
+[00:36:27] exceeds 10 million downloads faster than chat GPT and DeepSeek. China leaprogs US
+[00:36:34] in global market for open AI models. Alibaba draws mainland buyers as AI
+[00:36:40] frenzy cloud drive outlook. How Alibaba overcame Beijing's crackdown to become
+[00:36:46] an AI giant. Early days, ladies and gentlemen. Bessant says Trump and Xi may
+[00:36:52] meet four times next year. Uh uh so this
+[00:36:58] is you know the the one thing that you started to see leaked uh
+[00:37:05] this uh gosh it must have been about six months ago when Trump was getting nowhere with the China deal uh and he
+[00:37:12] wanted Xi to meet him. I think it was in Korea or whatever. They started saying uh they started pulling they had that
+[00:37:19] senator start uh leaking oh dellisting dellisting dellisting. So now Trump's
+[00:37:25] not getting as far fast a deal as quickly as he wants with China. So you had this leak from the Pentagon that
+[00:37:32] Baba should be on the military list etc. These are just negotiating tactics to
+[00:37:38] get to a deal. They're desperate to get to a deal. uh they have leverage but not
+[00:37:44] as much leverage as they thought that they did. And um so now you're you're
+[00:37:49] seeing that type of stuff. My sense is they'll either get to a deal or pretend
+[00:37:55] that they got to a deal before they go nuclear on something like that.
+[00:38:01] Uh and that's been the case all along. China's AI stock rally has room to run as valuations lag. US Giants Goldman
+[00:38:07] Sachs says with the $280 price target by the way on Alibaba. I mean there you go.
+[00:38:13] The next China is China. Estee Lauder Chief doubles down in the east. Committed to the country at the center
+[00:38:19] of beauty groups recent troubles. They're starting to rebound in spades
+[00:38:24] and uh we're excited to see that. Holiday shoppers boost spending as consumer resilience persists. Here's the
+[00:38:32] big story on uh VF Corp. Our VF Corp stock stock is starting to rock again.
+[00:38:38] Uh K-pop Demon Hunters and Vans collaboration is happening. This was the hottest show on Netflix and they're
+[00:38:45] doing a collaboration with Vans
+[00:38:51] and uh it's supposed to be in time for the holidays. Vans Warp Tour adds 2026
+[00:38:57] international stops in Montreal and Mexico City. The Punk Rock Festival will also return to Washington DC, Long
+[00:39:03] Beach, California, and Orlando. So, they're rocking and rolling back to the roots of the company. PayPal and
+[00:39:09] Perplexity launch instant buy ahead of Black Friday. Excited to see that. Texas data center expansion raises blackout
+[00:39:16] risk during extreme winter weather. That's going to help the Generax and the Comtock resources of the world. Um,
+[00:39:25] US home purchase applications surged to highest since 2023. that says rates are
+[00:39:30] coming back in. Fed chair Powell's allies provide opening for December rate cut. Uh they were outsp speaking before
+[00:39:37] the blackout period. So that's positive to see. Ford says the latest fire at aluminum plant won't hurt 2025 profits.
+[00:39:45] That's good for Cooper Standard. Uh hedge funds pile into health stocks
+[00:39:51] leading market rotation. So they're now getting the message after they've started to uh rock and roll in the last
+[00:39:58] few months and that trend is and theme is going to continue. Boeing tackles quality with a war on defects two years
+[00:40:05] after a panel flew off 737 Max. Boeing is doing more inspections completing work in its intended order and making
+[00:40:12] other change. Can the company keep up? So that's a move in the right direction. Disney stock has struggled. One solution
+[00:40:18] go big on cruise ships. Uh we're going to cover Disney in the article of the week this week.
+[00:40:25] Okay. So, uh getting their groove back, stock market and sentiment results. Disney
+[00:40:31] update. Each week we try to cover one to two companies we've discussed in previous podcast vida video casts and or
+[00:40:37] own for clients including personally. Uh Disney posted another solid quarter earlier this month and closed out what
+[00:40:44] was by all measures a very strong fiscal year 2025. Revenue rose 3% to 94.4 4
+[00:40:49] billion for the full year. Adjusted EPS increased 19% to $5.93
+[00:40:55] making a 19% Kagger over the past three fiscal years. Free C that's compounded
+[00:41:02] annual growth rate for new listeners. Free cash flow reached $10 billion,
+[00:41:08] finally surpassing the precoid water mark and setting new all-time highs
+[00:41:14] after six years. Even more importantly, guidance points to continued strength in the year ahead. Exactly the signs we
+[00:41:20] want to see in any turnaround. Rather than focusing on the fundamentals that actually move the needle, the market
+[00:41:26] chose to fixate on a few short-term one-off headlines from cruise pre-opening expenses to theatrical
+[00:41:32] timing that created tough comps. Of course, that kind of quarterly choppiness has zero bearing on our
+[00:41:39] long-term thesis or the strength of the turnaround, which is why we view the market's reaction as complete silly
+[00:41:45] season. That brings us back to why we own the name in the first place. When we originally built our position, we essentially underwrote Disney at a level
+[00:41:52] where we were praying for, excuse me, where we were paying for the experiences segment alone. Parks, cruises, and
+[00:41:59] consumer products together generated close to $10 billion of operating income. and we believed were worth close
+[00:42:06] to $80 per share on a standalone basis. That meant the rest of the business, whether ESPN, DTC, the studio assets, or
+[00:42:13] the linear networks, was essentially being thrown in as a free flyer.
+[00:42:21] So, you can see here experiences uh 11% Kagger sports operating income
+[00:42:27] and the entertainment operating income is really starting to take off. At the time, Mr. market had assigned these
+[00:42:33] segments close to zero value simply because Disney hit a few bumps and took its eye off the ball. But with a
+[00:42:40] 1000year plus operating history and a long record of navigating cycles, we
+[00:42:45] were more than willing to take the other side. With a margin of safety that large
+[00:42:52] with a margin of safety that large and a business this durable, it didn't take rocket science to see the value. We
+[00:42:59] expected that once I returned, he would write the ship and get these segments back on track so Disney could get back
+[00:43:05] to doing what it does best. In the meantime, the experiences segment would buy the company time to work through the
+[00:43:10] hiccups, build out its next growth engine, DTC, and squeeze the remaining
+[00:43:16] juice out of the linear networks. Fast forward today, and our original thesis remains firmly intact. The only
+[00:43:22] difference is that those same businesses once written off as having zero value have come roaring back and are stronger
+[00:43:28] than ever. DTC just posted 1.3 billion of operating income and is on track for 10% operating margins in fiscal year
+[00:43:35] 2026 after posting a $4 billion loss only three years ago. The film slate is
+[00:43:41] the strongest it has been in years with the studio delivering four one plus billion dollar releases over the past
+[00:43:47] two years while no other studio delivered a single one. Again, none of this required a stroke of genius. It
+[00:43:54] simply required knowing what we owned, understanding the cycles, and recognizing that sentiment swings to extremes and eventually reverts to the
+[00:44:00] mean. So, it should be no surprise that our confidence continues to grow with or without Mr. Market's manic reaction in
+[00:44:08] the short term. We continue to see Disney as one of the most durable businesses with some of the strongest IP
+[00:44:13] on the planet. As a double-digit earnings compounder that lets us sleep like a baby at night, Disney remains a
+[00:44:18] no-brainer. And sooner or later the market will come around to that reality.
+[00:44:24] So here are the key points from the earnings breakdown and the
+[00:44:29] you can go through at hedge funips.com. And by the way, while you're at hedge funip.com, click on terms. This is all
+[00:44:35] opinion, not advice. Here are the 10 key points. Number one, DTC posted another
+[00:44:42] strong quarter with revenue up 8% to $6.25 25 billion and operating income up
+[00:44:47] 39% to 352 million point uh 5.6% EBIT margins that brings fullear operating
+[00:44:54] income to 1.3 billion compared with 143 million last year and initial guidance
+[00:44:59] of 1 billion. Management expects DTC to reach 10% operating margins for the full
+[00:45:04] year and sees sustained double-digit topline growth ahead as the segment takes the baton as Disney's next growth
+[00:45:11] engine with significant room for further margin expansion still to come. Number two, the experiences segment. Disney's
+[00:45:17] breadandbut business posted 6% growth in Q4 to 8.77 billion and delivered record
+[00:45:23] Q4 operating income of 1.9 billion, up 13% year-onear. For the full year, the
+[00:45:28] segment generated 3.16 billion in revenue, up 6%, and a record 10 billion
+[00:45:35] in operating income, up 8%, accounting for just under 60% of the company's
+[00:45:40] total operating income. Management expects another strong year ahead for experiences, guiding to a high
+[00:45:46] singledigit operating income growth with domestic bookings already up 3% in the first quarter and up for the full year,
+[00:45:52] showing no signs of a weakening consumer. Three, the sports segment posted 17.67 billion in revenue for the
+[00:45:59] full year flat yearon-year, while operating income grew 20% to 2.88 billion, coming in 7 percentage points
+[00:46:06] ahead of prior guidance. The new ESPN full DTC service and enhanced ESPN app
+[00:46:11] are off to a strong start with 80% of ESPN subscribers opting for the trio bundle that includes Disney Plus and
+[00:46:17] Hulu. A very positive sign for meaningfully reduced churn. Four, Disney's big bet on cruises continues to
+[00:46:25] pay off with demand remaining very high uh and new capacity filling as quickly
+[00:46:30] as they can bring it online. Utilization has held in line with historical levels despite a 60% increase in capacity.
+[00:46:37] Disney has two new ships launching in coming months, bringing the fleet to eight ships with five additional ships
+[00:46:43] scheduled beyond 2026 that are expected to be meaningful contributors to Experienc's growth in the years ahead.
+[00:46:49] By the way, this is their highest return on invested capital business. While
+[00:46:54] management doesn't break out crises separately, cruises separately, they
+[00:47:00] continue to highlight the segments highly attractive margins and the highest guest
+[00:47:06] satisfaction ratings across the company, which provides significant pricing power. Management sees the upcoming
+[00:47:13] slate as the strongest in years, led by Zootopia 2 and Avatar Fire and Ash in 2025, and followed by The Mandalorian
+[00:47:20] and Grou Toy Story 5 and the liveaction Moana and Avengers Doomsday in 2026.
+[00:47:28] Disney has already cleared four billion at the global box office for the fourth consecutive year and has produced four 1
+[00:47:34] billion plus films over the past two years, while no other studio has delivered a single one. Disney generated
+[00:47:40] 18.1 billion in operating cash flow for the full year with free cash flow reaching 10.77 billion up 18% yearonear
+[00:47:48] and a record high for fiscal year 2026. Management expects operating cash flow of 19 billion which includes 1.7 billion
+[00:47:56] tax impact that had been previously deferred. Backing that out, operating cash flow would grow 28% yearonear.
+[00:48:05] Management remains confident in strong free cash flow going forward as investment levels begin to taper. Seven,
+[00:48:11] subscriber growth came in better than expected with total Disney Plus and Hulu subscriptions reaching
+[00:48:16] 196 million, an increase of 12.4 million sequentially, driven mainly by higher
+[00:48:22] wholesale Hulu subscriptions. Disney Plus added 3.8 million subscribers organically, up 3% sequentially with
+[00:48:29] average revenue per user up 2% to $84. Eight management is doubling planned
+[00:48:36] share repurchases for fiscal year 2026. Doubling planned share repurchases,
+[00:48:42] bringing total buybacks to $7 billion and is also increasing the cash dividend to $1.50 per share, up 50% year-on-year
+[00:48:50] with a 1.5% yield. Nine, Disney continues to invest heavily in the experiences segment with
+[00:48:57] expansion projects underway at every theme park. Five additional cruise ships scheduled for launch beyond fiscal year
+[00:49:03] 2026. And a new theme park plan for Abu Dhabi. Fullear capex for 2025 came in at
+[00:49:10] 8 billion, up from 5.4 billion in the prior year and is expected to rise to 9 billion in fiscal year 2026. Most
+[00:49:16] importantly, the returns on invested capital for the segment remain highly attractive and reached record highs
+[00:49:22] earlier this year. 10. management's Q1 guidance came in
+[00:49:29] weaker than expected due to a handful of one-time expenses, including 90 million in pre-opening costs for cruises, 60
+[00:49:35] million in dry dock expenses, theatrical slate timing, and lower political advertising revenue for the full year.
+[00:49:42] Management still expected to deliver doubledigit adjusted EPS and reiterated
+[00:49:47] confidence in double-digit EPS growth for fiscal year 2027. Here are the earnings call highlights. We uh started
+[00:49:55] the most important things from the earnings call transcript
+[00:50:00] and on to Alibaba. Okay, what a long way we have come
+[00:50:06] ladies and gentlemen. So Alibaba just reported his quarter. We've highlighted some of the key points
+[00:50:14] and here are the 10 key points. Number one, the cloud segment posted its
+[00:50:20] fastest growth in more than three years. accelerating to 34% year-onear to $5.6
+[00:50:27] billion compared with 26% in the prior quarter. Adjusted Ibida rose 35% to $56
+[00:50:34] million with margins holding steady at 9% on improved operating efficiency.
+[00:50:39] Alibaba cloud remains the market leader, holding 35.8% 8% share of China's AI
+[00:50:45] cloud market, larger than the combined total of the second through fourth largest providers and continues to take
+[00:50:52] share in both the hybrid cloud and financial cloud markets with more developers and enterprises increasingly
+[00:50:58] seeking full stack AI providers. A key advantage for Alibaba, demand is out now
+[00:51:03] outpacing the pace at which the company can add new servers. Unbelievable. two
+[00:51:11] AI related product revenue posted tripledigit growth for the ninth straight quarter and now accounts for
+[00:51:17] more than 20% of the cloud segment's external revenue. Alibaba's flagship AI model Quen 3 ranks among global leaders
+[00:51:26] across multiple benchmarks with the newly launched Quen app already surpassing 10 million downloads in the
+[00:51:32] first week. As of the end of October, more than 180,000 derivative models had
+[00:51:37] been built on the Quen family on hugging face, more than two times the second
+[00:51:43] largest player. Three, over the past four quarters, management has developed a 16.9 billion in capex
+[00:51:50] toward AI and cloud infrastructure as part of Alibaba's three-year 53 billion
+[00:51:55] capex plan. Given current demand for commute, compute and AI management won't rule out further scaling capex,
+[00:52:00] suggesting the $53 billion target may end up being on the small side. Four, the China e-commerce group which
+[00:52:07] includes Tao, T- Mall, Lime, Fliggy posted 16% revenue growth to $18.6 6
+[00:52:14] billion with customer management revenue up 10% driven by higher take rate added
+[00:52:20] software service fee 60 basis point introduced last September and increasing penetration in Quan zun Thai Alibaba's
+[00:52:30] marketing and ads platform segment adjusted IBI e i e i e i e i e i e i e i e i e i e i e i e i e i e i e i e i e i
+[00:52:36] e i e i e i e i e i decreased 76% to 1.5 billion primarily due to increased quick
+[00:52:43] commerce Mer investments excluding the losses from quick commerce. China e-commerce adjusted Ibida would have
+[00:52:49] grown at a mid singledigit rate for the quarter. 88 VIP members, Alibaba's
+[00:52:55] highest spending customers and its closest equivalent to Amazon Prime grew
+[00:53:01] by double digits during the quarter and now exceed 56 million subscriptions.
+[00:53:07] Five. Alibaba's Quickcommerce segment posted 60% revenue growth to 3.2 2
+[00:53:12] billion supported by the accelerating onboarding of T- mall brands which now total 3500. Most importantly, unit
+[00:53:18] economic losses have been reduced by 50% compared with levels seen in July and August driven by higher average order
+[00:53:25] size up double digits and improved scale efficiencies while narrowing UE
+[00:53:31] uh losses. management noted that both user retention and purchase frequency have exceeded expectations with order
+[00:53:38] share holding stable and gross merchandise volume share steady to trending higher. Management believes
+[00:53:44] this quarter marks the peak of investment intensity for the P platform and expects significant scaling down of
+[00:53:50] investment next quarter. Instant commerce is still expected to deliver 140 billion in incremental annual gross
+[00:53:57] merchandise volume within 3 years. Six profitability in the current period remained under pressure due to ongoing
+[00:54:02] investments mainly in quick commerce with adjusted IBIDA down 78% year-on-year to 1.27 billion and
+[00:54:08] expected to fluctuate in the near-term sales and marketing expenses year-to- date risen to 24% of revenue compared
+[00:54:14] with 13.4% at this point last year driven by intense competition in the segment seven. Alibaba's strong balance
+[00:54:21] sheet gives us plenty of confidence in the ramped up investment cycle into quick commerce and AI plus cloud with
+[00:54:27] cash and other liquid investments totaling 80.6 6 billion, 21.5% of the
+[00:54:34] market cap and a net cash position of 41.1 billion. 8 management repurchased 2
+[00:54:41] million shares during the quarter for a total of 253 million, bringing year-to- date repurchases to $1.1 billion with
+[00:54:49] 19.1 billion remaining in the authorization effective through March 2027. This is exactly what we want to
+[00:54:57] see from management. Last year when the stock was at $80 and below, they were consistently repurchasing 4 to5 billion
+[00:55:03] per quarter. Now the stock is significantly higher and capital has better uses. They have rightly pulled
+[00:55:08] back on buybacks. The total sharebased compensation also decreased 20% year-on-year to $467 during the quarter.
+[00:55:15] Another positive sign. Nine free cash flow for the quarter was an outflow of 3.1 billion, bringing year-to- date free
+[00:55:22] cash flow to an outflow of 5.7 billion. in line with expectations as Alibaba invests into the quickcommerce business
+[00:55:29] and AI plus cloud infrastructure. And 10, Alibaba AIDC, the international
+[00:55:35] business, delivered 10% year-on-year revenue growth to 4.89 billion and for the first time posted adjusted EBIDA
+[00:55:41] profit of 23 million driven by substantially improved unit economics in the AliExpress choice business and
+[00:55:47] stronger operating efficiency. So, we started the key points in the earnings call. You can review that at hedge
+[00:55:52] funips.com. Fear and greed index down to 14 extreme fear. That's why you're seeing more buying follow through. Want
+[00:55:59] to get to some technical charts we did we didn't cover in the beginning from our friends over at RBC.
+[00:56:06] This is uh Sloomer stuff, Robert Sloomer.
+[00:56:15] Um, so you can see here, I mean, it's hard to get like massively bulled up when you can barely even see the 6%
+[00:56:22] correction on the monthly chart. Um, it would would have never surprised us to see the S&P go down to 6,200,
+[00:56:29] probably not 5,600, uh, but on the monthly. It doesn't appear that that is
+[00:56:37] going to happen based on uh the liquidity that's coming into the market. If you look uh with a more sober eye at
+[00:56:44] the weekly chart, you can see how it hit this major level at 6552.
+[00:56:50] Uh does it go to 6147? Probably not. It's showing oversold here. You'd have
+[00:56:56] to see them do a rug pull at the December 10th meeting to get a move down to 6,200. Not impossible, but at the
+[00:57:04] moment, not probable. The advanced decline line um is is showing oversold
+[00:57:12] according to Sloomer stuff. The equal weight showing oversold with weakening
+[00:57:18] breath. Uh the Russell 2000 if you look at this chart which is five years
+[00:57:26] um you basically have this monstrous cup and handle which implies upside to uh
+[00:57:33] 3,400. It's at 2500 now. So that that's a big move over the next few years. Uh
+[00:57:38] here's a different view of the Russell. Same type of chart on the shorter term basis that we're seeing on the longer
+[00:57:44] term basis. Uh this is a long building base that we've had in small caps and now is ready
+[00:57:50] to break out. Same with uh EPHA now breaking out relative performance the
+[00:57:56] S&P emerging market index. Talk about a
+[00:58:02] 17-year base here, ladies and gentlemen. Uh with an upside target of 2400 now at
+[00:58:08] 1449 MSCI emerging market index. Look at this base that has been building as this
+[00:58:14] breaks out. Uh this is definitely going to persist for years to come.
+[00:58:19] Here's the European index again looking to find it find a new high.
+[00:58:25] Uh, and I think Hang Sang, what a monster move we've had here. Uh, but we
+[00:58:31] got more to go. Here's some support at 24847. We'll see if we have to hit that before
+[00:58:36] making the next leg higher. Uh, here is the more daily. It's broken out retest
+[00:58:43] and that tends to move higher from there. Uh, after retesting 10-year
+[00:58:48] yield, everyone was calling for it to break through five. We took the opposite side.
+[00:58:55] Now it's going to break through four on the downside. 30-year yield went up here. We had a counter trend bounce that
+[00:59:01] we talked about. Now it's rolling back over. And the dollar looks like it's going to break this counter trend move
+[00:59:07] yet again and start to weaken once more. Here's the resistance line on the weekly
+[00:59:14] chart and here it is on the daily chart. So, expect the dollar to reverse lower
+[00:59:20] in coming months, euro to reverse higher in coming months. Uh, all my friends
+[00:59:26] with the Canadian looney, here's your support. You're going back up, not down.
+[00:59:31] Uh, the Canadians are going to be buying golden hockey sticks in the next few years. They're going to be, you know, so
+[00:59:37] rich on a relative basis. uh
+[00:59:42] or as your friend Trump likes to say, you're going to be winning so much you're going to get tired of it. And uh
+[00:59:49] talk about salt in the wounds type joke, but I think it's going to prove to be correct and Canada is going to start
+[00:59:56] winning like they've never won before. So, um so that's that. Some other charts
+[01:00:04] here. You can see all the pain in the tech stocks. Oracle, Nvidia,
+[01:00:11] Google's been the outlier. Netflix breaking the trend line. Meta getting smacked after earnings. Disney showing
+[01:00:18] support here. Um, and I think that was all that we needed
+[01:00:25] to cover from this book. And then there was another essay louder here. Huge move off the bottom. Almost doubled. Now it's
+[01:00:32] been consolidating, ready to move next next target 125.
+[01:00:39] And I think we've got them all.
+[01:00:46] Okay, so that's that. Couple other charts. This is the daily as of today.
+[01:00:52] It's right at the 6774 level. If it could push through that and and move to new highs, we're we're off to races. It
+[01:00:58] looks that way. Um, but if we got some rug pull from the Fed uh and break
+[01:01:05] through this, you know, that's where the 6147 comes into play. I'd assign that like a 30% uh probably like a 20%
+[01:01:13] probability, 80% probability we stay above this recent low and uh push to new
+[01:01:18] highs in 2026. But this is not completely off the table yet.
+[01:01:28] covered the yields. Semiconductor index trying to make a move off that low. That
+[01:01:33] was a pretty big move down. Uh we'll see if it holds.
+[01:01:39] Medical devices, medical equipment is now starting. Look at this long base. Four-year base been consolidating.
+[01:01:46] There's your cup. There's your handle. Measured moves implies 36,000 to 56
+[01:01:52] implies 76,000. next stop uh at the extension 68,000. That's that's our
+[01:01:58] backers of the world. So when they go, you get that Noam IQ announcement and you're up 10 points overnight and you
+[01:02:05] can't get in. So uh so that's that insider buying in National Oil Wellvarco
+[01:02:11] this week. The uh one of the director bought 70,000 shares uh for a million
+[01:02:16] bucks. And uh let's see
+[01:02:23] what were the earnings this week. I actually clicked off those tabs while those come up. Let's see those are
+[01:02:31] probably yesterday. I think we had the reason I want to cover them is because yeah consumer
+[01:02:39] staples I think they were down 50 basis points and consumer discretionary a lot of opportunity in both of these sectors.
+[01:02:46] uh 2026 estimates down 41 basis points. The stocks are down a lot more. Let's
+[01:02:53] see where the biggest drops were. Clorox, the the recent low in Clorox was
+[01:03:00] probably generational buy. That's slow steady money, but that that's a compounder. Uh
+[01:03:07] constellations probably washed out. Craftind's probably washed out.
+[01:03:15] target probably probably going to find a bottom here.
+[01:03:25] And that's that. Let's take a look at discretionary top 30 weights revisions up 17 basis points for next year.
+[01:03:34] And let's take a look here. Tesla had a big downgrade.
+[01:03:42] Donald Starbucks.
+[01:03:49] Nike's earnings are going up by the way.
+[01:03:57] G Chipotle down pretty meaningful down
+[01:04:05] and alt is up. Okay. Uh economic data there's not much PPI came in lower than
+[01:04:11] expected. That's good for the Fed. uh earnings as I said up to 308. So now
+[01:04:16] let's get on to the ask me anything questions. We've got a lot and then we'll get you to your turkeys and your
+[01:04:23] football games. Uh and uh be grateful for an incredible year and everything
+[01:04:29] else. Jake at Primac uh is asking about FMC, the gift that keeps giving. A lot
+[01:04:36] of people want to bottom uh catch a falling knife on this one. Look, I mean
+[01:04:42] this stock is pricing in bankruptcy. I think that
+[01:04:49] bankruptcy is uh not
+[01:04:58] the greater probability. It is a probability but not the greater probability. So you flip a coin three
+[01:05:04] times, you're going to wind up okay. You flip it once. Let's see here. Let's take a look at the
+[01:05:11] balance sheet.
+[01:05:16] So, you got 2.8 billion in cash and receivables,
+[01:05:22] 3.2 billion in debt,
+[01:05:27] and uh that's that cash flow turned
+[01:05:34] negative. Let's see what it is for the last 12 months. Yeah, negative half a bill. So that's that's what's got
+[01:05:40] everyone worried. Uh that and the fact that revenues won't
+[01:05:45] turn around yet
+[01:05:51] on a sequential basis. They're showing some lines, some
+[01:05:58] signs of hope.
+[01:06:03] Share count stayed pretty steady. Historically, it had been a high return
+[01:06:09] on capital business. So, you know, you're effectively playing.
+[01:06:15] I mean, this is this is the type of stock you throw in your personal portfolio.
+[01:06:21] You size it. If you're right, you treat it, you want to treat this one
+[01:06:28] like, you know, a $13 call option with without an expiration date. Because if
+[01:06:33] you're right and this thing works back to normalized volumes, you get an 8 to 10 bagger. If you're wrong, you're at
+[01:06:39] zero. Um, we can't do that with uh meaningful amounts of money. Uh
+[01:06:45] certainly not for clients. Take that kind of risk. But I do think there's probably some opportunity here uh if
+[01:06:52] you're willing to size it appropriately relative to the risk. But this is the whole a basket. The business has been
+[01:06:57] around since 1883. I think you're probably uh gonna wind up making really
+[01:07:02] good money over the next few years, but it's not a risk I can take across the board, but it is a risk that I would uh
+[01:07:10] explore on a sized correctly basis in a speculative bucket of a personal
+[01:07:16] portfolio. So, hope that's helpful. York uh bourgeoa
+[01:07:32] He wants to play Sprouts, UNFI, and GO as a play on GLP1s. I don't
+[01:07:38] like any supermarket business, so pass. We'll save you some Thanksgiving time on that one. Uh,
+[01:07:46] Revenant Arian, what is your 10-year outlook on Baba? I don't have one. We'll be out probably in three to four years
+[01:07:53] from now. uh at uh 4x off our initial basis. We already made six to 7x on the
+[01:08:01] options and call it a day. So um that's that.
+[01:08:07] Stain at longtime follower and listener happily sharing your podcast among
+[01:08:14] friends and financial colleagues. Thank you very much. uh besides already having a nice
+[01:08:19] position comtock and national oilco I was looking at APA
+[01:08:25] Apache it's the same trade so I'm not sure why you would even want it either you know lean into what you've done the
+[01:08:31] work on um this will work it'll absolutely work fine we've covered that one a million times on the podcast thank
+[01:08:38] you for the question and thank you for sharing Sprouts Farmers Market why is everyone bringing this thing up is this getting promoted on social or something
+[01:08:45] oh absolutely Not that. This one's done. Supermarkets are Okay, let me just put it in English. Supermarkets are
+[01:08:52] Don't ever buy them. If you get caught in one of these moves, get the hell out because there's nothing to
+[01:08:57] bases. There's a low margin, terrible business. And uh it's kind of like the airlines. You can catch cycles here and
+[01:09:04] there, but uh on balance, good luck. ZTS.
+[01:09:15] This is a broken momentum stock. I don't like this. Um,
+[01:09:23] for years and years and years, everything about this looks great. Okay. And for years and years and years, I've
+[01:09:30] been hearing about animal health, animal insurance, animal this, animal that, veterinary rollups,
+[01:09:38] all this It never works because the second you get a recession, the dog starves. So, uh, I'm going to
+[01:09:44] just pass. Maybe you can get another puff out of this cigar, but, uh, it's not for me. Tim D, Target thoughts. I
+[01:09:51] think I think you can probably buy it here. Um,
+[01:09:59] yeah. I mean, if it goes to 70 or 60 before it goes
+[01:10:04] back to 140, so what? I I think you can probably buy it here. We've covered that a million times. I don't have to look at
+[01:10:09] it. Will G, uh, been a listener for a few years now. Thank you very much. Share it with
+[01:10:15] friends and family every chance I get. Appreciate that. Uh
+[01:10:22] uh used to listen to the pod each week when I walked or worked out. Per your advice, I've begun watching it instead and have gained so much more value for
+[01:10:28] that. I thank you. You're welcome. Uh curious on your thoughts on AMRZ
+[01:10:34] Amrize spin-off from Wholesome's North American business this past June.
+[01:10:39] Largest cement producer in the US. One of the largest roofing suppliers as well. AMRZ
+[01:11:09] I think you're a little late on this move. See,
+[01:11:19] looks like the revenue's been flat for a while. Uh, I think it's a little early to tell on this.
+[01:11:25] I'd rather play Brad Jacobs QXO.
+[01:11:45] It's got a lot of free cash flow though.
+[01:12:23] It's trading at 27 times earnings
+[01:12:33] 20 times. Okay. I think it's okay. I think they're
+[01:12:39] better plays in the building supply um sector, but um probably worth doing some
+[01:12:45] more work on. Thanks for sending that in. Tim
+[01:12:50] Kwin, hey Tom, what's your view on Jack?
+[01:12:56] CEO recently bought some shares.
+[01:13:01] Yeah, I think this one's going to be okay. Uh, we've been looking in the restaurant area.
+[01:13:13] We did come across this one. We didn't act on this one, but I think you're probably okay with that. Let me just
+[01:13:18] take a look at the balance sheet. I mean, this one's obviously not without
+[01:13:24] risk, but I think you'll have massive upside. I'd probably put this in the your FMC speculative PA bucket and treat
+[01:13:30] it like a $18 option versus a stock. It could go to zero, but if you're right,
+[01:13:35] you make five bags on it. Um 140 in cash and receivables.
+[01:13:45] 1.6 billion in debt. The the key is the leverage.
+[01:14:10] They just haven't been able to get out of their way with sales either.
+[01:14:20] I don't I don't love it, but I think you can make a good amount of money with it. So,
+[01:14:26] um, let me see here. Let me see how many
+[01:14:32] shares he bought. Might just be token or is it real?
+[01:14:58] He bought $86,000 worth of stock. That's kind of a joke. I mean, it's better than zero, but you know.
+[01:15:06] Okay, Bill Mcgru, longtime listener. Love the pod. Tell all my friends what do you
+[01:15:12] think about Wirehouser. Thank you for telling all your friends.
+[01:15:18] That has been that's what's kept this thing growing is your word of mouth.
+[01:15:39] There's no sign of a turnaround yet.
+[01:15:56] I'd be more interested at 1750 than I am at 22.
+[01:16:05] Let's take a look at the balance sheet.
+[01:16:13] I mean, all you're betting is can they make it through the cycle. So, they're burning cash,
+[01:16:23] but they can make it through this cycle, I think.
+[01:16:30] Yeah, they're they're they'll I think they'll manage. Um
+[01:16:36] I think you're okay. I'd like it in the high teens if I could wait, but he may not get it. Eric F.
+[01:16:43] Oh, everyone keeps asking about Fever Tree. I think you're late on that, partner.
+[01:16:54] They make selzer water.
+[01:17:09] Yeah, wait for a quarter where revenues actually start to inflect. Let's just see here.
+[01:17:18] Yeah, not yet. It's not really showing signs of
+[01:17:24] inflection yet. At 500, I'd take another look. I don't
+[01:17:30] know if you'll get it.
+[01:17:39] Robert's asking about Proctor and Gamble. I don't know what software it is, but
+[01:17:46] you can get any screencast type thing. Um,
+[01:17:52] PG
+[01:17:58] too early. I mean, this is kind of a waste of time. You
+[01:18:03] could probably do better in T bills over time from these levels. So, not not yet.
+[01:18:08] Uh, Rick Richard, how you doing, buddy? Uh, Nova Nordisk, thanks for great
+[01:18:15] content. Buying back stock AI tech enhanced drug development. Yeah,
+[01:18:23] I mean look, uh, there is I don't want to spend a lot
+[01:18:28] of time talking about this right yet, but there's an oral drug GLP-1 in phase
+[01:18:34] two uh, that they don't have. Uh, I think
+[01:18:40] the $30 $40 range, if you can get it, you get it. You may not be able to get it. If you buy it here and it goes to
+[01:18:45] $30, buy more. Uh, I'm not in a rush to get this one. This one's a broken Momo
+[01:18:50] stock, so it's going to take some time to rebuild a base and to rebuild the confidence. That doesn't mean the
+[01:18:56] fundamentals aren't sound. I think it's generally fine, if not good. But, uh,
+[01:19:02] they're kind of monopoly on the weight losses in the rearview mirror despite having a lot of other good drugs. So,
+[01:19:08] would I buy it here? Yeah. Would I like it better at 40 or 30? A lot more. Um,
+[01:19:15] I'm in no rush to take any action on this one, but we've covered that one pretty much every week. And I continue to say the same exact thing. Jackson
+[01:19:22] Matthews, Novo. Same story. You can buy it here. Just be ready to
+[01:19:29] buy it lower. Theo DJardan Aker Solutions.
+[01:19:48] You got to send me a ticker, partner. If it's not a US stock,
+[01:19:54] I'm going to assume this is what you're talking about.
+[01:20:21] No, not for me. Next. Jim D.
+[01:20:28] Uh, Jim, I can't answer that question. Hope that's helpful.
+[01:20:34] You can reverse engineer that response. FND.
+[01:20:53] Not yet. soon. I like it in the high 40s.
+[01:21:00] I don't know if you get that, but this is not going to rebound like overnight.
+[01:21:07] Oscar Slater, long time listener, first- time caller. Thank you.
+[01:21:14] Uh
+[01:21:22] oh. Uh, Pinterest
+[01:21:30] B I N S
+[01:21:36] I don't even know why this thing exists, but let's see what the financials tell me.
+[01:21:43] P I N S
+[01:21:50] H record free cash flow.
+[01:21:56] Ah
+[01:22:23] They have increased the share count a little bit more than I like. I don't like that tendency,
+[01:22:28] but
+[01:22:35] we're starting to generate a lot of cash.
+[01:23:15] broken growth story.
+[01:23:23] I think between 20 and 25, you could probably start to build a long-term position, but you got to do a lot more
+[01:23:28] work. I I don't really understand the business, so it wouldn't be something for me, but on the financial basis, you
+[01:23:34] know, it's like Zoom and some of these other left for dead things. You probably get a puff out of it, and there's no
+[01:23:41] reason not to like it other than it's a hard business to understand and predict. uh
+[01:23:48] watching some of your old episodes from 2022, came across your episode where you were looking at Carvana when it was sub
+[01:23:53] $10. You ended up saying, "I'm more bullish on new car sales versus new car sales right now, but at the share price
+[01:23:59] this low, I have to start considering a company like Carvana." Uh, did you ever wind up a billing
+[01:24:06] position? No, I did not. Um,
+[01:24:14] that was a speculative gamble. That would be something you put in a personal account. You can't put other people's money in that. Milan Kersner
+[01:24:22] been following your podcast. That's a complicated story because one fund controlled most of the stock along with
+[01:24:29] the owners. So, if one of those two blew up or had uh margin calls, the the whole
+[01:24:35] story, it would have been over overnight. And that's why I couldn't put meaningful money in it. Oh, it worked. They were able to manage their way
+[01:24:42] through, but those guys can get taken. You know, rule number one is don't ever get taken out
+[01:24:48] on a stretcher. Both the fund and the principles were very close to be taken out on a stretcher. So, yes, it was
+[01:24:55] attractive, but it could have also been a zero. And um uh rule number one is don't lose money. Rule number two, don't
+[01:25:01] lose don't don't forget rule number one. And if I had to do it all over again, I'd make the exact same decision. Uh,
+[01:25:08] and here I am five years later or three years later, not on a stretcher. Uh, not
+[01:25:14] with all the roadkill that happened, all the tech businesses, all the VC businesses that went to zero, uh, that
+[01:25:20] no one writes about, no one talks about because those people are all now Walmart greeters. So, um, that's that. Milan
+[01:25:27] Kersner, been following your podcast for over
+[01:25:33] four years now from Canada. Look forward to hearing your market take on every Thursday. Thank you very much for that loyal support. I'm very grateful for
+[01:25:39] that. Uh family topic every week was wondering if you could take a look at Trans Ocean rig and share your thoughts
+[01:25:45] on it. Yeah, rig is lower quality. I'd rather do national oil well Varco but um
+[01:25:53] I think rig will work. Uh, the problem I had with Rig, I think they were
+[01:25:59] pigs on stock and deluded their owners at certain points in their history, which I really don't like. They might
+[01:26:06] have had to do it to survive, but I don't like that they even put themselves in a position to have to do it. So, I'm
+[01:26:12] very unforgiving when it comes to uh lack of respect to to the equity.
+[01:26:18] And uh yeah, they're still doing it. The share count's up 50%. So, a hard pass
+[01:26:24] cuz the underlying business could double and if they double the share count, it doesn't help you. Uh,
+[01:26:32] yeah, and they're they're giving a lot of it to themselves. So, they're they're animals here. Uh, hard pass.
+[01:26:37] Doesn't mean the stock won't go up when the when the whole group turns. Um, and
+[01:26:43] Kristoff is asking about PayPal and he's worried about stockbased comp
+[01:26:48] and CA cash flow and he's wrong. And I'm going to show you why.
+[01:26:56] So,
+[01:27:05] just so you know, we gleefully have been buying a lot more in the market. Um, revenues continue to grow.
+[01:27:12] Share count has collapsed from 1.2 billion down to 986 million. They're
+[01:27:19] buying stock when the price is low. That's what we like to see from management. And what's happened to
+[01:27:24] stockbased compensation? It has also declined from 1.4 billion 5 years ago
+[01:27:31] down to 1.1. I'm not saying that's the greatest thing ever. I'm just saying that it's on the right trend. Share
+[01:27:38] count's going down and stockbased comp is going down at the exact same time.
+[01:27:43] and free cash flow has been
+[01:27:50] robust
+[01:27:56] five to six to7 billion per year. So um so that's that you're overthinking it
+[01:28:02] because the price is down and you think that you know something that you don't. The po the point is this next move will
+[01:28:08] take all these weak sisters out and then the next move will be straight to 100 and then beyond.
+[01:28:16] I told you guys the max pain would be to take it down to 49, take it below this low and get absolutely everyone out. I
+[01:28:23] don't know whether it'll go that low before it rebounds. I think we're probably closer to the end of the pain
+[01:28:28] than the beginning, but uh this would be max pain. We would back up the truck and
+[01:28:34] uh see you at 150. But uh for now I'll leave it to these guys. Next is from
+[01:28:40] Joel Sarah Bransky.
+[01:28:54] Yeah, he's talking about margin decline in the hyperscalers. We agree.
+[01:28:59] Paul Wy, hey buddy. one of the best putters in Southern
+[01:29:04] California. Thanks for taking the time and effort putting into the program each week. Your perspective and recommendations help us
+[01:29:10] better prepared informed investors. Lionel Basil LYB.
+[01:29:17] Okay. He's asking about the dividend. I wouldn't be buying it for the dividend. I would just assume they're going to cut the dividend and then if you still want
+[01:29:24] to buy the stock, you're probably right. Let's take a look here.
+[01:29:36] All right. So, the problem we have here is that we're not yet showing signs of
+[01:29:41] recovery really in free cash flow or in revenues.
+[01:29:50] But if we can get comfort around the balance sheet, I think this is one you could probably
+[01:29:56] take a flyer on.
+[01:30:05] Talk about I mean the revenues have been almost cut in half.
+[01:30:10] Talk about a cyclical business.
+[01:30:22] So you got 10 billion of debt. You got two billion of cash, three billion of receivables.
+[01:30:29] What you really need to know is when does each tranch mature?
+[01:30:36] Uh but in the meantime, you still have 730 million of free cash
+[01:30:43] flow.
+[01:31:00] and management that has been buying in stock
+[01:31:05] and giving themselves a lot of stock at the same time. So, uh I think you're okay with this one. Uh as far as the
+[01:31:13] dividend, let's see what the dividend is.
+[01:31:27] It's just leverage. I mean, that the market's afraid of their ability to refinance. Um, dividend yield is 11%. I wouldn't be
+[01:31:35] surprised if that got cut in half, but that would actually be positive for the
+[01:31:41] stock. So, I would say I kind of like it here. I like it. I I kind of like it
+[01:31:47] here. you know, 40 to 47 48. Uh, I think
+[01:31:52] you're probably okay and I kind of like the pick. So, uh, there you go, Paul. Good one. Uh, next is
+[01:32:03] Thomas Bar says, "Hey Tom, thanks for all you do. Of all the financial experts
+[01:32:09] in the media, your methodology makes the most sense by far. Buffett would be proud." Thank you for that. That's a
+[01:32:14] kind compliment. When when you own companies with significant margin of safety as you do,
+[01:32:20] do you do you expect them to still significantly outperform even if the MAG 7 see a magnific massive selloff in 1999
+[01:32:27] to 2000? So many small cap and midcap consumer discretionary companies saw their stock price bottom and then rally
+[01:32:32] all through 2000 to 2001 despite the broader index collapsing. Uh yes, they will outperform on a
+[01:32:40] relative basis. If everything goes down, they'll go down less. But as you saw with Buffett buying the things that no
+[01:32:45] one wanted, kind of like what we've been doing this year, uh, when the others got hit, his actually went up as the indices
+[01:32:51] were collapsing. We think that'll be a similar situation. Aluminina we've looked at a bunch of times. Uh, I think
+[01:32:58] we're at the point where you can probably step in. Icon had gotten in too
+[01:33:03] early and he got hurt. I think this was a problem with China and that is kind of
+[01:33:10] rearview mirror stuff at this point. Uh does look like an inflection here. Let's
+[01:33:15] just take a look. Reason I think we didn't do anything with this.
+[01:33:20] Yeah, genetic solutions.
+[01:33:26] Yeah, I think this one's okay. Let's take a look at the balance sheet.
+[01:33:40] Yeah. Cash flow.
+[01:34:06] Yeah, I mean this falls under like medical devices healthcare. You're probably okay here. It's come up a lot
+[01:34:11] off the bottom, but I think you could buy pullbacks on
+[01:34:17] this one. You just really have to understand their competitive advantage, and we could never get comfortable around it, but I generally think you're
+[01:34:22] okay there. Uh, Jimmy Jones,
+[01:34:28] UTF for dividend income.
+[01:34:34] That's not for me. No. Pass. Uh, Goran.
+[01:34:43] Uh, Goran, I can't answer that question. You can read into that what you want. Maybe give you a little edge, but I'm
+[01:34:50] not answering that one yet. ZBH medical devices. I generally This is
+[01:34:58] from Woody P. Oh, hey Woody. All right. Uh Zimmer
+[01:35:04] Biotech. Zimmer Biomet. Uh I like medical
+[01:35:10] devices. Let's see how this is one's looking.
+[01:35:35] Reconstructive knee knee and hip. Yeah, I like that secular play. Let's take a
+[01:35:41] look at some of this stuff here.
+[01:36:03] low compounder. But let's take a look at free cash.
+[01:36:20] Yeah, I like this one, Woody. This is a good This is a good pick
+[01:36:25] for sure. Um,
+[01:36:31] it's it's a low compounder, but it's it's a compounder nonetheless. And if I can buy it at 2014 prices
+[01:36:56] with more revenues, more cash flow margins are a little bit compressed. Those look like they're reacelerating. I
+[01:37:02] I think you're okay. I think I like this one. Good idea. Um, Michael Gibbon.
+[01:37:09] Okay, that's for investing. Robert,
+[01:37:14] uh, that's for investing. Okay, with that said, we'll be back next week uh,
+[01:37:20] live from New York. Actually, we'll be see some of you in Florida at the Money Show on uh, Sunday, Monday, and Tuesday.
+[01:37:28] Uh then we'll be in New York for a few days and then back to beautiful, sunny
+[01:37:33] California for the remainder of the year. Uh so uh with that said, everyone
+[01:37:39] have a wonderful Thanksgiving. Very grateful for your support uh over the
+[01:37:45] years. And for those of you who are newer, God bless you and your family. Make it a great Thanksgiving. Bye for
+[01:37:52] now. [Music]
+[01:38:11] Heat. Heat.
+[01:38:17] [Music]
+[01:38:23] [Music]
+[01:38:29] Heat. Heat.
+[01:38:35] [Music]
+[01:38:41] [Music]

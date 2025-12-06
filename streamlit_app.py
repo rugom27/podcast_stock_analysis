@@ -1,7 +1,7 @@
 import streamlit as st
 import os
+import json
 from pathlib import Path
-import re
 
 # === CONFIGURATION ===
 st.set_page_config(page_title="Hedge Fund Tips Reports", page_icon="📈", layout="wide")
@@ -23,28 +23,26 @@ def get_available_episodes():
     if not OUTPUTS_DIR.exists():
         return []
 
-    # Iterate through all items in the output directory
     for item in OUTPUTS_DIR.iterdir():
         if item.is_dir() and item.name.startswith("episode_"):
             try:
-                # Extract the episode number (e.g., "319" from "episode_319")
                 ep_num = item.name.split("_")[1]
-
-                # Verify the report file actually exists
+                # Check for either the text report OR the visual analysis
                 report_path = (
                     item / "transcripts" / f"hedge_fund_tips_episode_{ep_num}_report.md"
                 )
+                visual_path = item / "step5_visual_analysis_complete.json"
 
-                if report_path.exists():
+                if report_path.exists() or visual_path.exists():
                     episodes.append(ep_num)
             except IndexError:
-                continue  # Skip folders that don't match the expected format
+                continue
 
-    # Sort episodes numerically descending (newest first)
+    # Sort episodes numerically descending
     try:
         episodes.sort(key=lambda x: int(x), reverse=True)
     except ValueError:
-        episodes.sort(reverse=True)  # Fallback if non-numeric ids exist
+        episodes.sort(reverse=True)
 
     return episodes
 
@@ -64,13 +62,25 @@ def load_report(episode_number):
         return None
 
 
+def load_visual_analysis(episode_number):
+    """Reads the Visual Analysis JSON (Step 5 output)."""
+    path = (
+        OUTPUTS_DIR
+        / f"episode_{episode_number}"
+        / "step5_visual_analysis_complete.json"
+    )
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except FileNotFoundError:
+        return None
+
+
 # === MAIN UI ===
 
 # Sidebar
 with st.sidebar:
     st.header("🗂️ Library")
-
-    # Get list of episodes
     available_episodes = get_available_episodes()
 
     if not available_episodes:
@@ -78,31 +88,100 @@ with st.sidebar:
         st.info("Run the notebook pipeline first to generate reports.")
         selected_episode = None
     else:
-        # Dropdown selection
         selected_episode = st.selectbox("Select Episode:", available_episodes, index=0)
-
         st.markdown("---")
         st.caption(f"Found {len(available_episodes)} episodes.")
 
 # Main Content Area
-st.title("📈 Hedge Fund Tips Analysis")
+st.title(f"📈 Hedge Fund Tips Analysis")
 
 if selected_episode:
-    # Load content
-    content = load_report(selected_episode)
+    # 1. LOAD DATA
+    text_content = load_report(selected_episode)
+    visual_data = load_visual_analysis(selected_episode)
 
-    if content:
-        # We create a container for the report
-        with st.container():
-            # Render the markdown
-            # unsafe_allow_html=True is useful if your markdown has raw HTML tables or color formatting
-            st.markdown(content, unsafe_allow_html=True)
-    else:
-        st.error(
-            f"Error: Report file for Episode {selected_episode} was found during scan but could not be loaded."
-        )
+    # 2. RENDER TABS
+    # We use tabs to keep the interface clean
+    tab1, tab2 = st.tabs(["📄 Executive Report", "📊 Visual Intelligence"])
+
+    # --- TAB 1: TEXT REPORT ---
+    with tab1:
+        if text_content:
+            st.markdown(text_content, unsafe_allow_html=True)
+        else:
+            st.warning("Text report not found for this episode.")
+
+    # --- TAB 2: VISUAL GALLERY ---
+    with tab2:
+        if visual_data:
+            st.info(f"AI analyzed {len(visual_data)} visual artifacts from the video.")
+
+            for item in visual_data:
+                # Layout: Image (Left) | Analysis (Right)
+                with st.container():
+                    col1, col2 = st.columns([1, 1.5], gap="large")
+
+                    with col1:
+                        # Construct image path
+                        img_path = (
+                            OUTPUTS_DIR
+                            / f"episode_{selected_episode}"
+                            / "images"
+                            / item["original_filename"]
+                        )
+                        if img_path.exists():
+                            st.image(str(img_path), use_container_width=True)
+
+                            # Timestamp and filename details
+                            minutes = item["timestamp_seconds"] // 60
+                            seconds = item["timestamp_seconds"] % 60
+                            st.caption(
+                                f"⏱️ **Timestamp:** {minutes}m {seconds}s | 📂 {item['original_filename']}"
+                            )
+                        else:
+                            st.error(f"Image not found: {item['original_filename']}")
+
+                    with col2:
+                        # Title and Sentiment Badge
+                        st.subheader(item.get("chart_title", "Untitled Chart"))
+
+                        sentiment = item.get("sentiment", "NEUTRAL").upper()
+                        if sentiment == "BULLISH":
+                            st.success(f"**SENTIMENT:** {sentiment}")
+                        elif sentiment == "BEARISH":
+                            st.error(f"**SENTIMENT:** {sentiment}")
+                        else:
+                            st.info(f"**SENTIMENT:** {sentiment}")
+
+                        # Analysis Body
+                        st.markdown(
+                            f"**🧠 Analysis:** {item.get('analysis_summary', 'No summary available.')}"
+                        )
+
+                        # Key Data Points
+                        if item.get("key_data_points"):
+                            st.markdown("**Key Levels:**")
+                            for kp in item["key_data_points"]:
+                                st.markdown(f"- {kp}")
+
+                        # Confirmation status
+                        confirm = item.get("visual_confirmation", "UNCLEAR")
+                        if confirm == "CONFIRMED":
+                            st.caption("✅ Image visually confirms transcript")
+                        elif confirm == "CONTRADICTED":
+                            st.caption("⚠️ Image appears to contradict transcript")
+
+                        # Context Quote
+                        with st.expander("🗣️ Transcript Context"):
+                            st.markdown(
+                                f"*{item.get('transcript_context', 'No text context matched.')}*"
+                            )
+
+                    st.divider()
+        else:
+            st.info("No visual analysis found. Ask the owner to get to work.")
+
 else:
-    # Empty state
     st.info("👈 Please select an episode from the sidebar to view the analysis.")
 
 # Footer
