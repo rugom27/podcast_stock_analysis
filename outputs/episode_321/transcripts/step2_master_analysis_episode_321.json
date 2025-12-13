@@ -1,0 +1,371 @@
+{
+  "episode_number": "Not applicable",
+  "episode_date": "December 13, 2024",
+  "executive_summary": "Tom Hayes is extremely bullish on small caps, healthcare, and defensive stocks, particularly dividend payers, as the Fed pivots to quantitative easing. He emphasizes that the market is mispricing these sectors, creating significant opportunities for outperformance in 2026. He highlights GXO as a key AI beneficiary and identifies specific stocks like Pfizer, Papa John's, and Hormel as attractive investments. He is also bullish on Alibaba and other international stocks as the dollar weakens.",
+  "tom_current_conviction": {
+    "overall_market": "Bullish",
+    "score_1_to_10": 9,
+    "key_reasons": [
+      "Fed pivot to quantitative easing",
+      "Mispricing of defensive and healthcare stocks",
+      "Strong earnings growth expected in 2026",
+      "Small caps poised to outperform",
+      "Weaker dollar benefiting international stocks"
+    ]
+  },
+  "macro_thesis_summary": "The Fed's pivot to quantitative easing and the expected weakening of the dollar will create a favorable environment for small caps, healthcare, and defensive stocks. The market is currently mispricing these sectors, presenting significant opportunities for outperformance. Midterm election years are volatile, favoring defensives and dividend payers.",
+  "key_macro_data_points": [
+    {
+      "indicator": "Fed Policy",
+      "value": "Pivot to Quantitative Easing",
+      "tom_interpretation": "QE is back. Small cap stocks may be ready to outperform after 5 years of lagging. Amen."
+    },
+    {
+      "indicator": "Small Cap Performance",
+      "value": "Breaking Out",
+      "tom_interpretation": "Small caps just breaking out. No one's paying attention. This is going to be the theme for the next two years. If you don't have small cap exposure, you are asleep at the wheel."
+    },
+    {
+      "indicator": "Consumer Sentiment",
+      "value": "Low",
+      "tom_interpretation": "This is why we had to get some discretionary and get some pizza on the plate."
+    },
+    {
+      "indicator": "Earnings Growth",
+      "value": "Double Digit",
+      "tom_interpretation": "Bottom up S&P earnings estimates continue to go up. Double digit earnings growth for next year 13%. That is good."
+    },
+    {
+      "indicator": "Healthcare Outperformance",
+      "value": "Expected",
+      "tom_interpretation": "S&P 500 performance during the presidential soci cycle worst year is the midterm year for indices average max draw down is 17% average returns are low single digits what outperforms by 9% healthc care staples defensives dividend payers be prepared amigos and amigos"
+    }
+  ],
+  "featured_company_deep_dives": {
+    "GXO": {
+      "thesis_summary": "GXO is a key AI beneficiary, leveraging automation and robotics to drive margin expansion and productivity gains. The company is well-positioned to capitalize on the reshoring trend and the increasing complexity of supply chains.",
+      "key_metrics": [
+        "Organic growth",
+        "Margin expansion",
+        "Reverse logistics market share",
+        "Automation and robotics deployment"
+      ],
+      "conviction": "High",
+      "action": "Buy"
+    },
+    "Advanced Auto Parts (AAP)": {
+      "thesis_summary": "AAP is undergoing a successful turnaround, driven by a new CEO and improved store-level execution. The company is poised to benefit from operating leverage and normalized earnings power.",
+      "key_metrics": [
+        "Comp store sales growth",
+        "Adjusted operating margins",
+        "Free cash flow",
+        "Store upgrades"
+      ],
+      "conviction": "High",
+      "action": "Buy"
+    },
+    "Etsy (ETS)": {
+      "thesis_summary": "Etsy is undervalued, with free cash flow and revenues near all-time highs. The company is well-positioned to benefit from the growth of e-commerce and the increasing demand for unique and handmade goods.",
+      "key_metrics": [
+        "Revenue growth",
+        "Gross merchandise sales",
+        "Free cash flow",
+        "Share repurchases"
+      ],
+      "conviction": "High",
+      "action": "Buy"
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "PFE",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "Multibagger potential",
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "This is a no-brainer. We love Fizer. We positioned it in a way for clients that is unconventional so that they can make a multibagger off a very small move in the stock over the next two or three years.",
+        "As we always say, Stu, when the downside is protected, the upside takes care of itself. This appears to be a boring stock...healthcare is in the gutter and it's coming out like a phoenix from the ash."
+      ]
+    },
+    {
+      "ticker": "PYPL",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "Significant upside potential",
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "This reminds me of a company that we bought two years ago when no one wanted it that was generating huge free cash flow. you couldn't give it away. It was called Alibaba. No one wanted to buy it. The thing took off. It's tripled off the bottom. PayPal is going to be a very similar situation, generating 6 to 7 billion a year of free cash flow.",
+        "This is going to be this is going to be a great stock over the next two years."
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "250-300",
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "China political bureau makes boosting domestic demand top goal in 2026. AI Alibaba is the toll taker for China consumption. Expect more great things there.",
+        "Now at 160, they're saying it's going higher. And they're actually going to be right uh this time. Uh they were completely wrong last time. And they'll and uh when it's at 250 300 and they're pounding the table, we will be laying off all of our shares."
+      ]
+    },
+    {
+      "ticker": "META",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "The stock is up. The market likes it. They're cutting their spend on the metaverse, which was a flop. They're investing in AI. The market likes it. The stock's going to continue to follow the theme."
+      ]
+    },
+    {
+      "ticker": "GXO",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 9,
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "GXO is the embodiment of playing the AI beneficiaries that will have margin expansion and increased productivity as a result of utilizing the tool versus the hyperscalers whose capex is now higher uh than big oil.",
+        "I think this is the the quintessential AI beneficiary and robotics theme moving forward. All these technologies applied in real time. GXO is ahead of the curve and the good days are just beginning."
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "What has been one of the top performing AI stocks is Intel has dramatically outperformed all AI stocks with the exclusion, I believe, of AMD, but that may no longer be the case, in which case Intel is the number one AI stock."
+      ]
+    },
+    {
+      "ticker": "UPS",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Watch",
+      "position_status": "Potential",
+      "key_quotes": [
+        "I'm waiting on UPS to replace the CEO"
+      ]
+    },
+    {
+      "ticker": "BA",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "We have Boeing which has been great off the April lows uh we continue to Love that stock."
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "Alibaba keen to order an Nvidia H200 chips after Trump greenlight."
+      ]
+    },
+    {
+      "ticker": "PZZA",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Buy",
+      "position_status": "New Addition",
+      "key_quotes": [
+        "All my happy billionaire and centillionaire and decillionaire clients that got their Papa John's gift card are smiling so wide they could eat a banana sideways."
+      ]
+    },
+    {
+      "ticker": "HRL",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "Dividend payers are going to dramatically benefit. Just look out through history. And you know that helps the Stanley's, that helps the Papa John's, that helps the Fizers, that helps the Hormel's dividend aristocrat paying for 60 plus years"
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "While those were crashing, Buffett had record performance because he was buying all these staples that no one wanted in 2000. And then as tech rolled over, he made money like crazy. Similar things will be in the future."
+      ]
+    },
+    {
+      "ticker": "LXS",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "actionable": "Research",
+      "position_status": "Potential",
+      "key_quotes": [
+        "I think it's worth doing some more work on. Um it wouldn't be my f first choice in the uh chemicals area, but I think you're on to something."
+      ]
+    },
+    {
+      "ticker": "GIS",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Buy",
+      "position_status": "Potential",
+      "key_quotes": [
+        "I think you're got no problems here buying this. Subdued multiple dividend yield. I mean, this this strikes it on all fronts. I don't think you're going to get hurt with this."
+      ]
+    },
+    {
+      "ticker": "WFG",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "actionable": "Research",
+      "position_status": "Potential",
+      "key_quotes": [
+        "I think you guys are both on to something."
+      ]
+    },
+    {
+      "ticker": "AMCR",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "actionable": "Research",
+      "position_status": "Potential",
+      "key_quotes": [
+        "Yeah, this has been a compounder. Uh, I like it. it. You know, we're not going to make a double on this, and that's kind of a requirement for us to commit any capital, but I think you're going to make money over time."
+      ]
+    },
+    {
+      "ticker": "MCO",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "actionable": "Research",
+      "position_status": "Potential",
+      "key_quotes": [
+        "Yeah, this has been a compounder. Uh, I like it. it. You know, we're not going to make a double on this, and that's kind of a requirement for us to commit any capital, but I think you're going to make money over time."
+      ]
+    },
+    {
+      "ticker": "DAGIO",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "They're going to drink better. Dagio's perfectly positioned. It was mismanaged. Now they have an adult in the room. Uh we love this story and uh we're sticking to it."
+      ]
+    },
+    {
+      "ticker": "PAYPAL",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "I hate buy now pay later. I think it's a crappy product that works until it doesn't. and um it's small enough in the scheme of PayPal that it will be beneficial in the long term.",
+        "I wish PayPal would go to 49 so we could get all the whiny little out of this stock."
+      ]
+    },
+    {
+      "ticker": "BAH",
+      "tom_sentiment": "Negative",
+      "conviction": 3,
+      "actionable": "Avoid",
+      "position_status": "None",
+      "key_quotes": [
+        "This is a consulting play. I don't really like these businesses. Uh I think they're at further uh concern with the um advent of AI. A lot of this stuff can be done without them. This is a broken Momo stock."
+      ]
+    },
+    {
+      "ticker": "AKBA",
+      "tom_sentiment": "Negative",
+      "conviction": 2,
+      "actionable": "Avoid",
+      "position_status": "None",
+      "key_quotes": [
+        "There's a place in hell reserved for management that does this to their owners. So they've increased the share count from 118 million to 245. Uh no thank you."
+      ]
+    },
+    {
+      "ticker": "MQ",
+      "tom_sentiment": "Negative",
+      "conviction": 3,
+      "actionable": "Avoid",
+      "position_status": "None",
+      "key_quotes": [
+        "Increase the share count from 100 million to 500 million. Even if their business works, they're going to f you. So dump it on their heads. Let them have it themselves and dilute themselves till the cows come home."
+      ]
+    }
+  ],
+  "new_or_recent_additions": [
+    "Papa John's (PZZA)"
+  ],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy Pfizer (PFE)",
+      "conviction": 9
+    },
+    {
+      "rank": 2,
+      "idea": "Buy GXO Logistics (GXO)",
+      "conviction": 9
+    },
+    {
+      "rank": 3,
+      "idea": "Buy PayPal (PYPL)",
+      "conviction": 8
+    },
+    {
+      "rank": 4,
+      "idea": "Buy Alibaba (BABA)",
+      "conviction": 8
+    },
+    {
+      "rank": 5,
+      "idea": "Buy Papa John's (PZZA)",
+      "conviction": 8
+    },
+    {
+      "rank": 6,
+      "idea": "Buy Hormel (HRL)",
+      "conviction": 8
+    },
+    {
+      "rank": 7,
+      "idea": "Buy General Mills (GIS)",
+      "conviction": 7
+    },
+    {
+      "rank": 8,
+      "idea": "Hold Meta (META)",
+      "conviction": 7
+    },
+    {
+      "rank": 9,
+      "idea": "Hold Boeing (BA)",
+      "conviction": 7
+    },
+    {
+      "rank": 10,
+      "idea": "Research Huntsman (Hunts)",
+      "conviction": 6
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Potential for the Fed to surprise the market with a hold on rate cuts",
+    "PCE inflation report could upset the apple cart",
+    "Trump's potential appointment of Walsh as Fed chair",
+    "Buy now pay later is a crappy product that works until it doesn't"
+  ],
+  "technical_takeaways": "Small caps start to take off midmon in December and tend to outperform through March. Small cap ETF flows. Russell on the verge of a breakout. Want to be paying attention to this."
+}
