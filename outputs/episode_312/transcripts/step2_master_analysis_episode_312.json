@@ -1,0 +1,374 @@
+{
+  "episode_number": "312",
+  "episode_date": "2025-10-09",
+  "executive_summary": "Tom Hayes turns cautious due to record call buying, decelerating earnings growth in MAG 7, and high capex among hyperscalers. He suggests raising cash and rotating into defensive stocks like Diageo and Estee Lauder, which are trading at historically low valuations relative to the S&P 500. He also highlights opportunities in healthcare and small caps, anticipating a year-end rally after some short-term volatility. He remains bullish on Canada Goose and QXO.",
+  "tom_current_conviction": {
+    "overall_market": "Cautious",
+    "score_1_to_10": 6,
+    "key_reasons": [
+      "Record call buying indicates excessive froth.",
+      "MAG 7 earnings growth is decelerating.",
+      "Hyperscalers' capex is impacting margins and earnings growth."
+    ]
+  },
+  "macro_thesis_summary": "Hayes anticipates short-term market volatility due to earnings season and overbought conditions, followed by a year-end rally. He favors defensive sectors like consumer staples and healthcare, as well as small caps and international stocks, which he believes will outperform the overvalued MAG 7. He also sees potential in beaten-down restaurant stocks and energy.",
+  "key_macro_data_points": [
+    {
+      "indicator": "Consumer Staples to S&P 500 Relative Performance",
+      "value": "Lowest since 2000",
+      "tom_interpretation": "This is a four three four times in a 100redyear opportunity which is why we were talking about our holdings uh Diagio and Estee Lauder."
+    },
+    {
+      "indicator": "MAG 7 Earnings Growth",
+      "value": "Expected to be below 15% this quarter, down from 32% last year",
+      "tom_interpretation": "People are starting to see all investment, no return on that investment, no imminent return on that investment. So, guidance will have to be absolutely spectacular uh for the multiple to stay where it is with the earnings growth having."
+    },
+    {
+      "indicator": "Call Volume",
+      "value": "40 million contracts per day for the last 20 sessions",
+      "tom_interpretation": "We haven't seen anything close to this since late 2021 to early 2022. Uh where there was a pullback in the high-flying stocks. And that's why you're seeing staples."
+    },
+    {
+      "indicator": "Hyperscalers Capital Spending",
+      "value": "60% of free cash flow, up from 10% a few years ago",
+      "tom_interpretation": "This is impacting margins and it's impacting earnings growth."
+    },
+    {
+      "indicator": "Homeowner Equity",
+      "value": "Highest since the late 1950s",
+      "tom_interpretation": "All this equity is going to hit the market at once. And that's why as rates go down, supply price prices prices are actually going to go down, which will be the first time, which is counterintuitive."
+    },
+    {
+      "indicator": "Russell 2000",
+      "value": "Breaking out of a long-term consolidation period",
+      "tom_interpretation": "After some maybe short-term consolidation into year end we should see a lot of strength in small caps which we love."
+    }
+  ],
+  "featured_company_deep_dives": {
+    "Diageo": {
+      "thesis_summary": "Defensive play on a recovery story, benefiting from premiumization and returning to growth after a COVID hangover. Management is targeting $3 billion of free cash flow, and the non-alcoholic business is growing rapidly.",
+      "key_metrics": [
+        "$3 billion free cash flow target",
+        "40% growth in non-alcoholic business",
+        "Sales are rising again after the COVID hangover"
+      ],
+      "price_target_or_valuation": "Double over 3-5 years",
+      "conviction": "8",
+      "action": "Buy on weakness as a defensive play"
+    },
+    "Estee Lauder": {
+      "thesis_summary": "Turnaround story driven by a shift to online e-commerce and increasing margins. The company is a leading aggregator of high-end skincare brands and is returning to growth.",
+      "key_metrics": [
+        "31% of business online, up from 20%",
+        "Margins are increasing dramatically",
+        "2-5% organic sales growth"
+      ],
+      "price_target_or_valuation": "Potential doubles over the next 3-4 years",
+      "conviction": "8",
+      "action": "Buy on weakness as a turnaround story"
+    },
+    "Canada Goose": {
+      "thesis_summary": "Turnaround story with record high cash flow, shifting to high margin DTC stores, and expanding into a four-season brand. Management owns a significant stake and is focused on shareholder value.",
+      "key_metrics": [
+        "Record high cash flow",
+        "DTC revenue up 24%",
+        "DTC now represents nearly 73% of overall revenue"
+      ],
+      "conviction": "9",
+      "action": "Hold.  Management has since publicly declined the takeover speculation, noting they have no intention of being taken private. Thank God. Hallelujah. That is music to our ears, and we're happy the board came to its senses."
+    },
+    "QXO": {
+      "thesis_summary": "Levered arms dealer play on housing, led by Brad Jacobs, a CEO with a proven track record of creating massive shareholder value. The company is focused on digital transformation and operational efficiency.",
+      "key_metrics": [
+        "Management team owns 35% of total equity",
+        "Rolling out a digital pricing platform to address $200 million of pricing leakage",
+        "Embedded AI into quoting, routing, and sales workflows"
+      ],
+      "conviction": "9",
+      "action": "Hold. So, not only is this one of our favorite levered arms dealer plays on housing, it's also a bet on one of the best jockeyies out there."
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "EL",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "Potential doubles over the next 3-4 years",
+      "actionable": "Buy on weakness",
+      "position_status": "Existing",
+      "key_quotes": [
+        "We love these turnaround stories as potential doubles over the next 3 to four years, and we think the time is right when when no one wants them.",
+        "As it relates to Estee Lauder, one of the best uh aggregators of high-end skincare brands and and personal care brands."
+      ]
+    },
+    {
+      "ticker": "DEO",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "Double over 3-5 years",
+      "actionable": "Buy on weakness",
+      "position_status": "Existing",
+      "key_quotes": [
+        "We like to buy straw hats in winter and sell them in summer when everyone wants them.",
+        "Management's targeting $3 billion of free cash flow."
+      ]
+    },
+    {
+      "ticker": "GOOS",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "3-4x potential",
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "Thankfully, Goose is led by a CEO and chairman from the founding family who owns 39.5% of the company. With that kind of skin in the game, management tends to respect shareholder equity and think beyond tomorrow's newspaper.",
+        "We believe it has all the right pieces to return to that growth story as management executes its turnaround plan and gets a little help from the ongoing China recovery and pivot toward consumption."
+      ]
+    },
+    {
+      "ticker": "QXO",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 9,
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "So, not only is this one of our favorite levered arms dealer plays on housing, it's also a bet on one of the best jockeyies out there.",
+        "What separates Brad from the rest is that he's obsessed with value creation. He feeds off of it. He's the type of leader who works seven days a week and never lets up."
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "$430",
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "FOMO bills as Alibaba extends $250 billion AI fueled comeback.",
+        "I think it's very, very low probability. I think there's no chance of Trump doing a deal with China and delisting their stocks."
+      ]
+    },
+    {
+      "ticker": "UPS",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Pass for now",
+      "key_quotes": [
+        "We want to invest in UPS. We think UPS will be great.",
+        "I don't think she's a good CEO and we won't be making any investment in um UPS until she retires."
+      ]
+    },
+    {
+      "ticker": "GPRK",
+      "tom_sentiment": "Neutral",
+      "conviction": 4,
+      "actionable": "Do more research",
+      "key_quotes": [
+        "You might have a play here. I'm I'm not going to I'm not going to say no.",
+        "Find out what their cost of production is. If it's competitive, maybe you got something there."
+      ]
+    },
+    {
+      "ticker": "ANF",
+      "tom_sentiment": "Very Bearish",
+      "conviction": 2,
+      "actionable": "Pass",
+      "key_quotes": [
+        "This was a 30 bagger from the COVID lows. Now it's come back 25% and everyone wants to buy it. Hard pass.",
+        "This has always been a garbage business and, uh, this time will be no different."
+      ]
+    },
+    {
+      "ticker": "FMX",
+      "tom_sentiment": "Neutral",
+      "conviction": 3,
+      "actionable": "Pass",
+      "key_quotes": [
+        "The bottlers are generally so so businesses. You really want a huge discount.",
+        "I've just never found any success investing in Mexico."
+      ]
+    },
+    {
+      "ticker": "IFFF",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Pass for now",
+      "key_quotes": [
+        "My preference would be IFFF just because I know the company for many many years."
+      ]
+    },
+    {
+      "ticker": "GIVN",
+      "tom_sentiment": "Neutral",
+      "conviction": 4,
+      "actionable": "Pass for now",
+      "key_quotes": [
+        "Givodin is probably okay as well, but my preference would be IFFF if I was going to get involved, which we're not at the moment."
+      ]
+    },
+    {
+      "ticker": "CIVI",
+      "tom_sentiment": "Very Bearish",
+      "conviction": 1,
+      "actionable": "Pass",
+      "key_quotes": [
+        "I think these are the low lives who have completely decimated shareholder value ongoingly for decades.",
+        "This is just a a history of shareholder wealth destruction."
+      ]
+    },
+    {
+      "ticker": "FMC",
+      "tom_sentiment": "Bullish",
+      "conviction": 6,
+      "actionable": "Do more research",
+      "key_quotes": [
+        "I I I I like this one. I'm I'm I'm I I kind of like this one."
+      ]
+    },
+    {
+      "ticker": "PZZA",
+      "tom_sentiment": "Bullish",
+      "conviction": 6,
+      "actionable": "Do more research",
+      "key_quotes": [
+        "I kind of like this. I kind of like this."
+      ]
+    },
+    {
+      "ticker": "MGM",
+      "tom_sentiment": "Neutral",
+      "conviction": 4,
+      "actionable": "Pass",
+      "key_quotes": [
+        "I don't think there's enough margin of safety or upside relative to the leverage on their balance sheet."
+      ]
+    },
+    {
+      "ticker": "HWM",
+      "tom_sentiment": "Bearish",
+      "conviction": 3,
+      "actionable": "Pass",
+      "key_quotes": [
+        "Great company, terrible price."
+      ]
+    },
+    {
+      "ticker": "UA",
+      "tom_sentiment": "Very Bearish",
+      "conviction": 1,
+      "actionable": "Pass",
+      "key_quotes": [
+        "That business has been destroyed.",
+        "If you can't sell sneakers with Tom Brady promoting them, you you're done."
+      ]
+    },
+    {
+      "ticker": "DIS",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "box office is headed for its best co postcoid hall as winter releases heat up. We love that for Disney um which has been consolidating but uh quite up a lot off of its lows."
+      ]
+    },
+    {
+      "ticker": "BAX",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Here is  a chart from Seth Goldening to the same thing. staples relative to the S&P 500, cheapest since 2000. That's why we have our Dagios, that's why we have our Estee Lauder. That's why we have our Hormells, uh, Baxers on the Healthcare."
+      ]
+    },
+    {
+      "ticker": "HRL",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Here is  a chart from Seth Goldening to the same thing. staples relative to the S&P 500, cheapest since 2000. That's why we have our Dagios, that's why we have our Estee Lauder. That's why we have our Hormells, uh, Baxers on the Healthcare."
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "tom_sentiment": "Caution",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "circularity of some of the deals. We've seen Nvidia giving money to their clients and investing in their clients and that money comes back to Nvidia as the form of chips."
+      ]
+    },
+    {
+      "ticker": "GXO",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 9,
+      "actionable": "Hold",
+      "key_quotes": [
+        "the type of CEOs Buffett talks about. And when you find them, you bet on them. Both GXO and QXO, we've done exactly that. So, not only is this one of our favorite levered arms dealer plays on housing, it's also a bet on one of the best jockeyies out there."
+      ]
+    },
+    {
+      "ticker": "F",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "I can tell you for damn sure, Ford is working day and night to get new sources of aluminum. And I can guarantee you they're going to find new sources of aluminum uh at whatever price to keep the production up because the demand is there."
+      ]
+    },
+    {
+      "ticker": "XBI",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Hold",
+      "key_quotes": [
+        "corporate insider buy to sell ratio for healthcare. Uh you can see this dip in healthcare and insiders have been buying it like nobody's business and that's historically been a good time to buy. Biotech now breaking out of this long multi-year base. We own X a basket of biotech XBI."
+      ]
+    }
+  ],
+  "new_or_recent_additions": [],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy Canada Goose (GOOS) on dips",
+      "conviction": 9
+    },
+    {
+      "rank": 2,
+      "idea": "Buy QXO on dips",
+      "conviction": 9
+    },
+    {
+      "rank": 3,
+      "idea": "Buy Diageo (DEO) on weakness",
+      "conviction": 8
+    },
+    {
+      "rank": 4,
+      "idea": "Buy Estee Lauder (EL) on weakness",
+      "conviction": 8
+    },
+    {
+      "rank": 5,
+      "idea": "Hold XBI",
+      "conviction": 8
+    },
+    {
+      "rank": 6,
+      "idea": "Do more research on FMC",
+      "conviction": 6
+    },
+    {
+      "rank": 7,
+      "idea": "Do more research on PZZA",
+      "conviction": 6
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Record call buying indicates excessive froth in the market.",
+    "Decelerating earnings growth in MAG 7 may lead to a correction.",
+    "High capex among hyperscalers could impact margins and earnings growth.",
+    "Potential government shutdown could negatively impact GDP."
+  ],
+  "technical_takeaways": "The Russell 2000 is breaking out of a long-term consolidation period, suggesting strength in small caps. The S&P 500 is diverging with skew, implying a catch-up or catch-down. Transports look like they're breaking out of a long-term cup and handle."
+}

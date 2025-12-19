@@ -1,0 +1,274 @@
+{
+  "episode_number": "255",
+  "episode_date": "2024-09-05",
+  "executive_summary": "Tom Hayes is extremely bullish on value stocks, small caps, and emerging markets, particularly China. He believes the Fed will cut rates, leading to a weaker dollar and a rotation out of the Magnificent 7 into undervalued sectors. He is pounding the table on Alibaba, seeing it as a generational opportunity due to its dual listing and the potential for mainland Chinese investors to buy the stock. He also likes Boeing, viewing it as a duopoly with a new CEO poised to turn the company around. He is selling Google and is cautious on Nvidia.",
+  "tom_current_conviction": {
+    "overall_market": "Bullish, expecting a rally into the first rate cut followed by seasonal weakness and then a year-end rally.",
+    "score_1_to_10": 8,
+    "key_reasons": [
+      "Fed is likely to cut rates, which is historically positive for markets.",
+      "Earnings estimates are up 15% for next year.",
+      "Market breadth is improving, with a rotation out of the Magnificent 7.",
+      "Household balance sheets are deleveraged, with potential for releveraging."
+    ]
+  },
+  "macro_thesis_summary": "The Fed will cut rates due to concerns about the labor market, leading to a weaker dollar, lower treasury yields, and a rotation into value stocks, small caps, and emerging markets. The consumer is generally healthy, but there is a tale of two cities, with lower-income consumers struggling. A restock cycle is beginning, and housing will recover as mortgage rates fall.",
+  "key_macro_data_points": [
+    {
+      "indicator": "Jobs Report",
+      "value": "Expected to be weak enough to guarantee a 25 basis point cut, possibly 50.",
+      "tom_interpretation": "A Goldilocks jobs report will lead to equity strength into the first cut."
+    },
+    {
+      "indicator": "Consumer Spending",
+      "value": "Revised GDP up to 2.5% due to consumer spending.",
+      "tom_interpretation": "The consumer is not dead, despite some weakness at the lower end."
+    },
+    {
+      "indicator": "Household Debt to Disposable Income",
+      "value": "At historic lows.",
+      "tom_interpretation": "Households are deleveraged and can releverage, boosting the economy."
+    },
+    {
+      "indicator": "China's Economic Protests",
+      "value": "Increasing in top cities.",
+      "tom_interpretation": "This will cause a bazooka-type stimulus from the Chinese government."
+    },
+    {
+      "indicator": "US Pending Home Sales",
+      "value": "At historic lows.",
+      "tom_interpretation": "This will change quickly as mortgage rates drop into a five handle."
+    }
+  ],
+  "featured_company_deep_dives": {
+    "Boeing": {
+      "thesis_summary": "Boeing is a duopoly with a new CEO poised to turn the company around. The market is under supplied and the company has a massive backlog.",
+      "key_metrics": [
+        "Backlog of $516 billion",
+        "New CEO Kelly Ortberg doubled sales and quadrupled the value of Rockwell Collins"
+      ],
+      "price_target_or_valuation": "$436",
+      "conviction": "Strong",
+      "action": "Buy on dips"
+    },
+    "Costco": {
+      "thesis_summary": "Costco is showing strong sales and e-commerce growth, indicating a healthy consumer.",
+      "key_metrics": [
+        "Total company sales up 5% year-over-year",
+        "E-commerce up 22%"
+      ],
+      "price_target_or_valuation": "N/A",
+      "conviction": "Positive",
+      "action": "Hold"
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "INTC",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "Legacy business alone is worth $40 a share, potential to get back to $30-$35 in 12-24 months.",
+      "actionable": "Buy",
+      "key_quotes": [
+        "It is a buy, you know it's got to $21 a share or it's reached 20 is it a buy it is a buy you know it's G down a lot it's trading a tangible book okay the government has back stopped this they need Intel's Foundry to succeed to compete with Taiwan semiconductor so they've given them money they're going to stand behind The Foundry and they announced today they might separate The Foundry business they're going to be activists around this stock they've hired someone to defend against activists which means stuff is going to start to happen so they've got their legacy business the aipc business they're going to ship 40 million still a leader in that business and the gouty 3 competes with the Nvidia 100 chip it's half the price for twice the performance 40% more energy efficient so if you think Nvidia is going to have a monopoly on this think again we've gone through the semiconductor cycle sooner or later it becomes a commodity product Intel is going to be able to compete and chip away at Nvidia going to get back to 30 or 35 I think over the next 12 to 24 months this stock can get not only to 30 I think the Legacy business excluding the promise of GP pus I think their legacy business alone is worth $40 a share okay"
+      ]
+    },
+    {
+      "ticker": "GEN",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "Potential to go much higher, was a $500 stock.",
+      "actionable": "Buy",
+      "key_quotes": [
+        "Generate people 70% of the market the stock is down 70% from its covid highs why they over inventoried because they thought they couldn't get parts they worked through that inventory it troughed in the fourth quarter of last year it's reacel ating it's up off off the lows of $780 it's up to 155 we think this can go much higher this was a $500 stock they'll be generating similar cash flows within the next 12 to 24 months that they were at their Peak interest rates lowering is going to help this because people Finance the per purchases and we've got hurricane season right around the corner so that's good for Gen 70% of the market yeah and the grid ain't doing too well is it so nice to have a gen in the backyard you got it exactly okay"
+      ]
+    },
+    {
+      "ticker": "PYPL",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Buy",
+      "key_quotes": [
+        "I think one of the stocks that has become a value stock is called uh that we own is called PayPal and and we own it lower from from these levels it's had a recent move but we think just getting started and the name of the game t",
+        "margins are reaccelerating and you know he came in and cleared the deck he's he's uh uh barely coming on one year and um you know he he basically took took expectations down he said we're going to do five billion of free cash for we'll buy back five billion of stock well he just came out this quarter and he said you know that five billion I I I got that wrong we're actually going to generate billion of free cash flow this year and we're going to buy $6 billion worth of stock then you got this other business called venmo which is basically the kleenex of peer-to-peer payments that's growing like a weed they've got a a a venmo for teens that's growing like a weed and there's a lot to do there so it's really just the beginning so some of these Fallen Angels uh are really a tremendous opportunity here"
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Extremely Bullish",
+      "conviction": 10,
+      "actionable": "Buy",
+      "key_quotes": [
+        "I think the time is now and alibaba's proxy for emerging markets but more than that a proxy for China it's the national champion",
+        "For the first time ever mainland China investors and there are 220 million of them they anticipate about 180 million as a potential Market to buy Alibaba stock uh will be able to buy Alibaba stock for the first time ever starting September 9th",
+        "Alibaba's got about 80 billion dollars of cash on their balance sheet and rather than they couldn't get that cash out of China to do buyback so they would have to issue non-dilutive convertible uh stock uh in order to get US dollars to buy the stock back back even though they had $80 billion sitting at home they will now be able to buy back stock through the southbound connect",
+        "This is the kind of stuff where dreams are made of ladies and gentlemen when you can buy the mean two standard deviations out and even if it doesn't even get back to the mean you double and triple your money and that's where we are with China right now."
+      ]
+    },
+    {
+      "ticker": "BA",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "$436",
+      "actionable": "Buy on dips",
+      "key_quotes": [
+        "This time will be no different because it's a duopoly and people like to fly and they can only get their planes from two companies which have 99% of the market",
+        "You got a160 stock that over time will be a $436 stock at least and probably higher than that",
+        "Key catalyst is the new CEO Kelly ortberg who started on August 8th as CEO of Rockwell Collins he doubled sales in six years and quadrupled 4x the value of the company for shareholders before selling it at a price premium to United Technologies in 2019"
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Sold",
+      "key_quotes": [
+        "We bought a lot of Amazon in October of 2022 and then again in March of 2023 that has more than double we took off a uh the majority of the position in uh July as we talked about on the podcast and we've taken off the rest of the position"
+      ]
+    },
+    {
+      "ticker": "BAC",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Sold",
+      "key_quotes": [
+        "Bank of America I mean this was nearly a double off the lows uh and we took off the final 25% around 40"
+      ]
+    },
+    {
+      "ticker": "C",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Sold",
+      "key_quotes": [
+        "City were fully out of uh this was a monster lows were 36 in change took off most of that and took off the rest this week at you know in the around 60 so that was close to a double"
+      ]
+    },
+    {
+      "ticker": "GOOG",
+      "tom_sentiment": "Neutral to Bearish",
+      "conviction": 4,
+      "actionable": "Sold majority, will extinguish the rest on strength",
+      "key_quotes": [
+        "Google is one that we took off the majority of the position again in July perfectly timed right after we put that article out on Nvidia where we said uh the next pain trade",
+        "We still have that 25 30% tiny small stub in Google we're not going to sell Down in the Hole here but on the next strength up to 170 180 maybe it makes new highs if we get a rally into the the uh first cut but I doubt it uh will'll probably extinguish the rest of that position"
+      ]
+    },
+    {
+      "ticker": "SMTC",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Sold",
+      "key_quotes": [
+        "SMTC entered below 20 we took off the full position with a for handle some in July some in the last week"
+      ]
+    },
+    {
+      "ticker": "MMM",
+      "tom_sentiment": "Neutral",
+      "conviction": 6,
+      "actionable": "Sold, will consider re-entering below $100",
+      "key_quotes": [
+        "3M we already told you uh this has been a monster we took we got out of this at 125 it went up to 135 now it's back to 130 would we consider reing this below 100 yes may we get that opportunity we don't know"
+      ]
+    },
+    {
+      "ticker": "AAP",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Buy",
+      "key_quotes": [
+        "The difference between Advanced Auto Parts and Dollar General and Dollar Tree is Advanced Auto Parts has a new jockey that's turning it around",
+        "What Shane o Kelly did in the last few weeks by selling off world pack is he took solvy risk off the table in other words bankruptcy is off the table"
+      ]
+    },
+    {
+      "ticker": "WHR",
+      "tom_sentiment": "Watching",
+      "conviction": 6,
+      "actionable": "Monitor for potential entry",
+      "key_quotes": [
+        "We keep keeping an eye on Whirlpool that's one in our sites um that'll be a function of the housing recovery"
+      ]
+    },
+    {
+      "ticker": "SWK",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "We're kind of levered to that with j and Stanley Black and& Decker anyway"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "tom_sentiment": "Cautious",
+      "conviction": 4,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "We had talked about you may have caught our note in June of this year when we said envidia was the new pain trade it opened at 136 it went up to 140 against us and has since Fallen about 30 40% because you know it's a great business but at $3.2 trillion valuation when you have a a total GDP of 28 trillion and an expected growth rate from the sell side of 40% a year what they're basically trying to convince you is that it's going to be half of GDP in four years which is absolutely makes no sense if you're interested and believe in something called math"
+      ]
+    },
+    {
+      "ticker": "ASOS",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "actionable": "Monitor for potential addition",
+      "key_quotes": [
+        "Asos is up 15% today um we still haven't leaned into the position but we were really happy to see that with our existing position this thing starting to move we've been talking about the turn around in UK"
+      ]
+    },
+    {
+      "ticker": "GXO",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Hold",
+      "key_quotes": [
+        "We've played it through a real siiz position in gxo logistics which gets 50% of their revenues over there"
+      ]
+    }
+  ],
+  "new_or_recent_additions": [
+    "AAP",
+    "BA"
+  ],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy Alibaba (BABA)",
+      "conviction": 10
+    },
+    {
+      "rank": 2,
+      "idea": "Buy Boeing (BA) on dips",
+      "conviction": 9
+    },
+    {
+      "rank": 3,
+      "idea": "Buy Intel (INTC)",
+      "conviction": 8
+    },
+    {
+      "rank": 4,
+      "idea": "Buy Generate (GEN)",
+      "conviction": 8
+    },
+    {
+      "rank": 5,
+      "idea": "Buy PayPal (PYPL)",
+      "conviction": 8
+    },
+    {
+      "rank": 6,
+      "idea": "Buy Advanced Auto Parts (AAP)",
+      "conviction": 7
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Potential for seasonal weakness in late September and October.",
+    "Risk of a larger correction if the Fed cuts rates too aggressively.",
+    "Uncertainty surrounding the US election."
+  ],
+  "technical_takeaways": "N/A",
+  "publish_date": "2024-09-05"
+}

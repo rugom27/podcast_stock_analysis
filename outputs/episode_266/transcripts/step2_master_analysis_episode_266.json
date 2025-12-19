@@ -1,0 +1,246 @@
+{
+  "episode_number": "266",
+  "episode_date": "2024-11-21",
+  "executive_summary": "Tom Hayes is extremely bullish on the market, particularly small caps, emerging markets, and China, under a Trump administration. He anticipates a weaker dollar, lower yields, and a resurgence in manufacturing. He emphasizes mean reversion and contrarian investing, identifying opportunities in undervalued sectors and companies. He is very bullish on Advanced Auto Parts and Alibaba.",
+  "tom_current_conviction": {
+    "overall_market": "Bullish",
+    "score_1_to_10": 9,
+    "key_reasons": [
+      "Historical patterns suggest continued strength into the inauguration.",
+      "Anticipation of pro-business policies and deregulation under a Trump administration.",
+      "Mean reversion opportunities in undervalued sectors and emerging markets.",
+      "Expected weakening of the dollar and compression of yields."
+    ]
+  },
+  "macro_thesis_summary": "Hayes believes that the market is misinterpreting the potential impact of a Trump administration. He expects a weaker dollar, lower yields, and a resurgence in manufacturing, benefiting small caps, emerging markets, and China. He emphasizes that the first move is often the wrong move and that the market will be surprised by the performance of these asset classes.",
+  "key_macro_data_points": [
+    {
+      "indicator": "US 10-Year Treasury Yield",
+      "value": "Expected to decline in 2025",
+      "tom_interpretation": "Hayes anticipates an unexpected rally in the 10-year bond, compressing yields and positively impacting mortgages, banks, and small caps. He notes that commercials are aggressively long treasuries, while hedge funds are short."
+    },
+    {
+      "indicator": "US Dollar",
+      "value": "Expected to weaken in 2025",
+      "tom_interpretation": "Hayes expects the dollar to resume its weakening trend, benefiting emerging markets and ex-US equities. He points to commercial positioning and historical patterns following Trump's election in 2016."
+    },
+    {
+      "indicator": "China Retail Sales",
+      "value": "Ticking up",
+      "tom_interpretation": "Hayes sees this as a positive sign, indicating a recovery in the Chinese consumer market, which will benefit companies like Alibaba."
+    },
+    {
+      "indicator": "US Motor Vehicle Sales",
+      "value": "Tracking towards 16 million SAAR",
+      "tom_interpretation": "Hayes believes that auto sales are poised to break out and move towards 17 million, benefiting companies like Cooper Standard."
+    },
+    {
+      "indicator": "Empire State Manufacturing Index",
+      "value": "Surging to the highest level in nearly three years",
+      "tom_interpretation": "Hayes views this as a strong indicator of a manufacturing recovery, benefiting small caps and industrials."
+    }
+  ],
+  "featured_company_deep_dives": {
+    "AAP": {
+      "thesis_summary": "Advanced Auto Parts is a turnaround story with new management fixing years of bad decisions. Solvency risk is off the table, and the company is poised to benefit from a recovery in the US consumer and a focus on core markets.",
+      "key_metrics": [
+        "7% operating margin targeted by 2027",
+        "500 basis points in operating margin expansion",
+        "2.5 times debt to leverage ratio",
+        "Closing 500 stores and opening new stores in concentrated markets"
+      ],
+      "price_target_or_valuation": "Potential to triple, with a stock price of $140 if they achieve $7 EPS.",
+      "conviction": "9",
+      "action": "Strong Buy"
+    },
+    "BABA": {
+      "thesis_summary": "Alibaba is undervalued due to negative sentiment surrounding Chinese stocks. The company is well-positioned to benefit from a recovery in the Chinese consumer market, with strong growth in cloud computing and international commerce. They are crushing the competition.",
+      "key_metrics": [
+        "Cloud business AI-related revenue delivering triple-digit growth",
+        "International commerce growing 30%",
+        "4.1 billion share buyback",
+        "80 billion gross cash on balance sheet"
+      ],
+      "price_target_or_valuation": "Jefferies price target of 42% upside, implying a 60% upside.",
+      "conviction": "9",
+      "action": "Strong Buy"
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "NVDA",
+      "tom_sentiment": "Negative",
+      "conviction": 8,
+      "price_target_or_upside": "None",
+      "actionable": "Avoid",
+      "position_status": "Not in portfolio",
+      "key_quotes": [
+        "Nvidia is priced for Perfection at around 40 times earnings and around 40 times sales.",
+        "Growth is slowing, profitability is slowing, and they price as if it's never going to slow.",
+        "Not for us."
+      ]
+    },
+    {
+      "ticker": "IWM",
+      "tom_sentiment": "Positive",
+      "conviction": 8,
+      "price_target_or_upside": "None",
+      "actionable": "Buy",
+      "position_status": "Existing position",
+      "key_quotes": [
+        "I think the easiest way to play small caps as a basket which worked very well in Trump 1.0 after the election and into 2017 is iwm that's the Russell 2000 ETF easy to get broad broad-based exposure."
+      ]
+    },
+    {
+      "ticker": "VF CORP",
+      "tom_sentiment": "Positive",
+      "conviction": 8,
+      "price_target_or_upside": "$27 initial upside target",
+      "actionable": "Buy",
+      "position_status": "Existing position",
+      "key_quotes": [
+        "They put a Buy Signal with a $27 Target and they're looking at $2 a share with no growth they say what if you do get growth it's going to be a lot more so their initial upside Target is $27"
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Very Positive",
+      "conviction": 9,
+      "price_target_or_upside": "Jefferies price target of 42% upside, implying a 60% upside.",
+      "actionable": "Strong Buy",
+      "position_status": "Existing position",
+      "key_quotes": [
+        "We are going to crush these little batches who have come up from out of nowhere and that's exactly what they did and that's exactly what you saw today which is you know um which is why pindu Duo got shellacked Baba said no Moss we got $880 billion on our balance sheet we're going to bury you and you're starting to see that"
+      ]
+    },
+    {
+      "ticker": "AAP",
+      "tom_sentiment": "Very Positive",
+      "conviction": 9,
+      "price_target_or_upside": "Potential to triple, with a stock price of $140 if they achieve $7 EPS.",
+      "actionable": "Strong Buy",
+      "position_status": "Existing position",
+      "key_quotes": [
+        "This could be another major turnaround Tom special in coming years not some easy double like vernado in six months or whatever I'm talking about major"
+      ]
+    },
+    {
+      "ticker": "QXO",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "price_target_or_upside": "Potential for a Monster Run for the next seven to eight years",
+      "actionable": "Hold",
+      "position_status": "Existing position",
+      "key_quotes": [
+        "He'll work his United Rentals Playbook his qxo Playbook his waist connections Playbook one more time and that'll be a Monster Run for the next seven to eight years"
+      ]
+    },
+    {
+      "ticker": "CPS",
+      "tom_sentiment": "Very Positive",
+      "conviction": 9,
+      "price_target_or_upside": "$146",
+      "actionable": "Buy",
+      "position_status": "Existing position",
+      "key_quotes": [
+        "Cooper standard is going to Mint money like uh tra you could call Cooper standard the new treasury secretary they're going to print so much money it's going to be insane"
+      ]
+    },
+    {
+      "ticker": "NESTLE",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "None",
+      "actionable": "Watch for a pullback",
+      "position_status": "Not in portfolio",
+      "key_quotes": [
+        "I'd want to see like low 80s to mid 70s before I got more interested to do work"
+      ]
+    },
+    {
+      "ticker": "OXY",
+      "tom_sentiment": "Neutral",
+      "conviction": 4,
+      "price_target_or_upside": "Potential bounce to 75-80",
+      "actionable": "Pass",
+      "position_status": "Not in portfolio",
+      "key_quotes": [
+        "It's probably going to bounce up to 7580 over the next six months it's not a good risk reward trade so pass"
+      ]
+    },
+    {
+      "ticker": "SHLS",
+      "tom_sentiment": "Neutral",
+      "conviction": 3,
+      "price_target_or_upside": "None",
+      "actionable": "Pass",
+      "position_status": "Not in portfolio",
+      "key_quotes": [
+        "This one would be one I'd put in my speculative bucket but I don't really have a speculative bucket because uh rule number one is don't lose money rule number two is don't forget rule number one"
+      ]
+    }
+  ],
+  "new_or_recent_additions": [
+    "AAP"
+  ],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy Advanced Auto Parts (AAP)",
+      "conviction": 9
+    },
+    {
+      "rank": 2,
+      "idea": "Buy Alibaba (BABA)",
+      "conviction": 9
+    },
+    {
+      "rank": 3,
+      "idea": "Buy Cooper Standard (CPS)",
+      "conviction": 9
+    },
+    {
+      "rank": 4,
+      "idea": "Buy IWM (Small Cap ETF)",
+      "conviction": 8
+    },
+    {
+      "rank": 5,
+      "idea": "Hold VF Corp (VFC)",
+      "conviction": 8
+    },
+    {
+      "rank": 6,
+      "idea": "Hold QXO",
+      "conviction": 7
+    },
+    {
+      "rank": 7,
+      "idea": "Watch for a pullback in Nestle",
+      "conviction": 5
+    },
+    {
+      "rank": 8,
+      "idea": "Pass on Occidental Petroleum (OXY)",
+      "conviction": 4
+    },
+    {
+      "rank": 9,
+      "idea": "Pass on Solar Stocks",
+      "conviction": 3
+    },
+    {
+      "rank": 10,
+      "idea": "Avoid Nvidia (NVDA)",
+      "conviction": 8
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "The market is misinterpreting the potential impact of a Trump administration.",
+    "Consensus is positioned for US exceptionalism, while Hayes expects emerging markets and China to outperform.",
+    "Most analysts are bearish on Advanced Auto Parts, while Hayes is extremely bullish.",
+    "The market is crowded into the Magnificent 7, while Hayes sees opportunities in undervalued sectors."
+  ],
+  "technical_takeaways": "Small caps are just breaking out, with a measured move that would take them up to 2,000. Emerging markets are pulling back to a support line and will likely work back higher after the inauguration. The US dollar is up against upper support and will likely roll back over.",
+  "publish_date": "2024-11-21"
+}

@@ -1,0 +1,374 @@
+{
+  "episode_number": "265",
+  "episode_date": "2024-11-14",
+  "executive_summary": "Tom Hayes is extremely bullish on the market, particularly if a Republican sweep leads to a corporate tax rate cut to 15%. He sees a potential melt-up driven by animal spirits and historical patterns in election years. He highlights opportunities in specific sectors and stocks based on their behavior following the 2016 election, emphasizing a contrarian approach and focusing on value. He also identifies potential shorting opportunities after the inauguration.",
+  "tom_current_conviction": {
+    "overall_market": "Extremely Bullish",
+    "score_1_to_10": 9,
+    "key_reasons": [
+      "Potential corporate tax rate cut to 15% leading to significant earnings growth for the S&P 500.",
+      "Historical patterns in election years showing a rally in risk assets.",
+      "Return of animal spirits and market momentum."
+    ]
+  },
+  "macro_thesis_summary": "The market is poised for strong growth if a Republican sweep occurs, leading to tax cuts and deregulation. Hayes anticipates a rally into the inauguration, followed by a period of consolidation before a year-end rally. He believes the Fed may cut rates in December and then pause, leading to a mid-cycle easing.",
+  "key_macro_data_points": [],
+  "featured_company_deep_dives": {
+    "ETSY": {
+      "thesis_summary": "Etsy is a high-quality business down 85% from its highs, with steady cash flow and growing revenues. It has a unique position in the e-commerce market with a large base of creators and users, and significant international growth potential.",
+      "key_metrics": [
+        "96 million users",
+        "9 million active sellers",
+        "Double-digit return on capital",
+        "Decreasing share count"
+      ],
+      "conviction": "High",
+      "action": "Buy"
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "SPY",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Hold/Buy on dips",
+      "key_quotes": [
+        "SNP was weak into the election shot up Consolidated those gains and then just kind of grinded higher the whole next year so let's see what Spy is doing little bit weak to the election shot up and should continue to persist which which be kind of interesting"
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "$187 (based on 2017 performance)",
+      "actionable": "Buy on weakness",
+      "position_status": "Core Holding",
+      "key_quotes": [
+        "Baba went from $84 to $187 in 11 months so um that's really interesting because everyone is convinced and by the way he ran on tariffs and protectionism in 2016 and the Border by the way same Playbook same hat uh one extra number and this is what happens",
+        "I would never add or subtract before earnings I own because I have enough margin of safety at the price I'm paying for the business and I sell it when I'm getting quoted in the market for far more then I believe the intrinsic value of the business is worth"
+      ]
+    },
+    {
+      "ticker": "IWM",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Buy",
+      "key_quotes": [
+        "iwm is also small caps shot like a rocket Consolidated into the inauguration and then kind of grinded sideways for a half a year before a yearend rally"
+      ]
+    },
+    {
+      "ticker": "KWEB",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Buy",
+      "key_quotes": [
+        "kweb same as Baba continued to weaken and then after the inauguration took off went from 30 to effectively 54 in less than a year"
+      ]
+    },
+    {
+      "ticker": "XES",
+      "tom_sentiment": "Bearish post-inauguration",
+      "conviction": 7,
+      "actionable": "Short after inauguration",
+      "key_quotes": [
+        "oil servicers xes had a little weakness into the election straight up like a rocket ship after Trump got elected in 2016 into the inauguration as soon as he was inaugurated complete crash 50% crash in oil servicers from the inauguration till August of that year"
+      ]
+    },
+    {
+      "ticker": "XLF",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "XLF again was kind of like sh sideways into the election shot straight up and then grinded sideways for a half a year and let's see here shot up probably grind sideways for a half a year"
+      ]
+    },
+    {
+      "ticker": "KR",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "KR yeah same story shot up and then grinded sideways for a year"
+      ]
+    },
+    {
+      "ticker": "XLV",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Buy on weakness",
+      "key_quotes": [
+        "healthc care super weak into the election Spike weakness again into December and then totally took off I think they're going to be great opportunities in healthc care weakness into the election we'll probably see a little more weakness and then there'll be opportunities"
+      ]
+    },
+    {
+      "ticker": "XOP",
+      "tom_sentiment": "Bearish post-inauguration",
+      "conviction": 7,
+      "actionable": "Short after inauguration",
+      "key_quotes": [
+        "xop I think we covered these are basically oh no these are exploration and production stocks down into the election straight up after and then down into election straight up after this probably rips higher and then that becomes a short after the inauguration or shortly before it"
+      ]
+    },
+    {
+      "ticker": "AAP",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Buy",
+      "key_quotes": [
+        "Advanced Auto Parts we're going to cover a little bit about the earnings basically they shut all their unprofitable stuff in the west that they had no economies to scale and and now they're going to have an absolute cash machine with this with a clean balance sheet and that's why the market was rallying today off of earnings"
+      ]
+    },
+    {
+      "ticker": "ALB",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Albermarle continuing to climb higher from those lows when we were talking about it on the podcast"
+      ]
+    },
+    {
+      "ticker": "BA",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 9,
+      "actionable": "Buy",
+      "position_status": "Core Holding",
+      "key_quotes": [
+        "Boeing is trying to really flush out the last few weekends in the stock this makes absolutely zero sense anywhere I have money I'm buying more personally across client accounts"
+      ]
+    },
+    {
+      "ticker": "DIS",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Disney shot the lights out today as we had said the parks and experiences were worth 85 alone we thought the streaming TV and movie was worth at least 100 over the next few years today they proved it out 4 million new subscribers"
+      ]
+    },
+    {
+      "ticker": "CPS",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "CPS was weaken to the election shot up pulled back week the election shot up little pullback straight up and kept going interesting okay good middle Cooper standard action"
+      ]
+    },
+    {
+      "ticker": "JD",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Hold",
+      "key_quotes": [
+        "JD reported in the earnings call he said as overall consumer sentiment continued to brighten Revenue was up 5% net income up 23% EPS up 29% company repurchased 8% of their shares announced to purchase five billion more worth of their shares so the game continues cement sentiment will follow"
+      ]
+    },
+    {
+      "ticker": "QXO",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "QXO just waiting for a deal announcement at any point probably take longer than everyone expects that's usually the way it works"
+      ]
+    },
+    {
+      "ticker": "GOOS",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Goose is going to be just fine that's a China recovery play going to trade like Baba"
+      ]
+    },
+    {
+      "ticker": "PYPL",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Hold",
+      "key_quotes": [
+        "PayPal was putting in a base in 2016 and 2017 a couple months after the inauguration parabolic move"
+      ]
+    },
+    {
+      "ticker": "VF CORP",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Hold",
+      "key_quotes": [
+        "VF Corp was building a base back then as well and did exceptionally well as an Emerging Market play after the Trump inauguration into 2018 more than a double in in just over over a year"
+      ]
+    },
+    {
+      "ticker": "TLT",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Buy",
+      "key_quotes": [
+        "we've been buying some TLT"
+      ]
+    },
+    {
+      "ticker": "SPX",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "pmo by SPX at 100 I would start to say okay but you know there's not a signal to wholesale buy or sell anything right now it's very selective and very nuanced"
+      ]
+    },
+    {
+      "ticker": "ETSY",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 9,
+      "actionable": "Buy",
+      "key_quotes": [
+        "Etsy was able to hang on to all of those clients and all that cash flow and even continue to grow revenues how do you grow revenues after you have a period like that"
+      ]
+    },
+    {
+      "ticker": "WIN",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "actionable": "Consider for China exposure",
+      "key_quotes": [
+        "We've been looking at WIN a lot we didn't get involved because it's another play on China we've got enough exposure to China but I think that's going to be a big win for those of you who don't have China exposure"
+      ]
+    },
+    {
+      "ticker": "GEN",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Hold",
+      "key_quotes": [
+        "This thing is unbelievable you couldn't give it away at $90 GEN now it's at 196 going to 200"
+      ]
+    },
+    {
+      "ticker": "XBI",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Buy basket",
+      "key_quotes": [
+        "I have no Edge on individual drugs and all that stuff I just buy a basket of xbi so I have I have no value add there"
+      ]
+    },
+    {
+      "ticker": "ULTA",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Ulta beauty we cover this one every week I think it's fine I know Buffett's sold some of his position but I think it's okay but I think there are better uses of money which I never why I never got excited about it"
+      ]
+    },
+    {
+      "ticker": "DLTR",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Consider with caution",
+      "key_quotes": [
+        "Dollar Tree is probably a little higher quality than Dollar General still generating cash I think you're Pro I think you're probably okay with this one but you got to do the work on it now"
+      ]
+    },
+    {
+      "ticker": "BOEING",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 9,
+      "actionable": "Buy",
+      "key_quotes": [
+        "I'd rather have Boeing I think there's way more upside for Boeing this has already had a huge run I I I like I like Boeing"
+      ]
+    },
+    {
+      "ticker": "GE",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Pass",
+      "key_quotes": [
+        "I think you should probably take a hundred billion and buy Boeing but that's just me he should have done the same thing with GE"
+      ]
+    },
+    {
+      "ticker": "HLF",
+      "tom_sentiment": "Neutral",
+      "conviction": 4,
+      "actionable": "Pass",
+      "key_quotes": [
+        "I guess the simple answer is it's a great business but with the glp1 overhang until something changes I don't think it's the best highest and best use of capital and I'll leave it at that"
+      ]
+    },
+    {
+      "ticker": "AROC",
+      "tom_sentiment": "Negative",
+      "conviction": 3,
+      "actionable": "Pass",
+      "key_quotes": [
+        "archrock I think you missed it was more interesting at 150 than it is at 24"
+      ]
+    }
+  ],
+  "new_or_recent_additions": [],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy Boeing (BA)",
+      "conviction": 9
+    },
+    {
+      "rank": 2,
+      "idea": "Buy Alibaba (BABA) on weakness",
+      "conviction": 9
+    },
+    {
+      "rank": 3,
+      "idea": "Buy Etsy (ETSY)",
+      "conviction": 9
+    },
+    {
+      "rank": 4,
+      "idea": "Short Oil Servicers (XES) after the inauguration",
+      "conviction": 7
+    },
+    {
+      "rank": 5,
+      "idea": "Short Exploration and Production stocks (XOP) after the inauguration",
+      "conviction": 7
+    },
+    {
+      "rank": 6,
+      "idea": "Buy Small Caps (IWM)",
+      "conviction": 8
+    },
+    {
+      "rank": 7,
+      "idea": "Buy China Tech (KWEB)",
+      "conviction": 8
+    },
+    {
+      "rank": 8,
+      "idea": "Buy Healthcare (XLV) on weakness",
+      "conviction": 7
+    },
+    {
+      "rank": 9,
+      "idea": "Buy Advanced Auto Parts (AAP)",
+      "conviction": 8
+    },
+    {
+      "rank": 10,
+      "idea": "Buy TLT",
+      "conviction": 7
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "The market's initial reaction to a Republican sweep may be a fake out.",
+    "Tariffs could negatively impact certain sectors, particularly retail.",
+    "Overcrowding in gold may lead to a correction."
+  ],
+  "technical_takeaways": "Many sectors and stocks are showing similar patterns to 2016, with weakness into the election followed by a rally. The dollar is expected to rally into the inauguration and then collapse. Bonds are expected to rally and yields compress.",
+  "publish_date": "2024-11-14"
+}

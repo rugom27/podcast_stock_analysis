@@ -1,0 +1,253 @@
+{
+  "episode_number": "311",
+  "episode_date": "2025-10-02",
+  "executive_summary": "Tom Hayes discusses market chop in the coming weeks, opportunities in healthcare and energy, and the potential for small caps to outperform. He highlights Alibaba, Baxter, and NOV as key opportunities, while expressing caution about the MAG 7. He emphasizes a patient, value-oriented approach, focusing on durable, sustainable cash flow and taking advantage of market volatility.",
+  "tom_current_conviction": {
+    "overall_market": "Cautiously Bullish",
+    "score_1_to_10": 7,
+    "key_reasons": [
+      "Short-term market chop expected due to earnings season and potential government shutdown.",
+      "Long-term bullish on small caps and undervalued sectors like healthcare and energy.",
+      "Believes the Fed will eventually cut rates, providing a boost to the market."
+    ]
+  },
+  "macro_thesis_summary": "The market is poised for a rotation from the MAG 7 to small caps and undervalued sectors. Healthcare and energy offer generational opportunities due to low relative valuations and favorable four-year cycle trends. Lower interest rates and increased government spending will provide further tailwinds. Be patient and aggressive when the time is right.",
+  "key_macro_data_points": [
+    {
+      "indicator": "Energy Sector Earnings Growth",
+      "value": "17% next year",
+      "tom_interpretation": "Energy sector trading at 15.2 times earnings, compared to the S&P 500 at 22 times, is poised for significant growth, driven by data center demand and low weighting in the S&P."
+    },
+    {
+      "indicator": "Healthcare Sector Relative Valuation",
+      "value": "Lowest relative valuation to the S&P in 100 years",
+      "tom_interpretation": "Healthcare sector presents a four times in a 100-year opportunity to buy, especially in the current four-year presidential cycle."
+    },
+    {
+      "indicator": "US SAR New Sales",
+      "value": "16.1 million baseline",
+      "tom_interpretation": "Strong auto sales data is positive for Cooper Standard."
+    },
+    {
+      "indicator": "China A-Shares Retail Sentiment Proxy",
+      "value": "Elevated but nowhere near maxed out",
+      "tom_interpretation": "Indicates potential for further institutional buying into Chinese equities."
+    },
+    {
+      "indicator": "30-Year Mortgage Rate",
+      "value": "6.33% with implied rate of 5.58%",
+      "tom_interpretation": "Lower rates will unlock housing supply and create buying opportunities."
+    },
+    {
+      "indicator": "Defensives Market Cap Weighting",
+      "value": "Lowest since 2000",
+      "tom_interpretation": "Presents a buying opportunity in healthcare, consumer staples, and REITs."
+    },
+    {
+      "indicator": "University of Michigan Consumer Sentiment Index",
+      "value": "Washout Magnitude",
+      "tom_interpretation": "Markets are up 24% on average after a consumer sentiment washout of this magnitude."
+    }
+  ],
+  "featured_company_deep_dives": {
+    "Estee Lauder": {
+      "thesis_summary": "Estee Lauder is a turnaround story with sales growth expected to resume in 2026, driven by stabilizing China demand. The company is improving margins and reducing costs, making it a cheap stock with significant upside.",
+      "key_metrics": [
+        "Q4 revenue of $3.41 billion, down 11.9% year-on-year",
+        "Adjusted EPS of 9 cents, beating consensus by 13 cents",
+        "Full-year adjusted gross margin at 74%, up 230 basis points year-on-year",
+        "Expected revenue growth of 2-5% in fiscal 2026",
+        "Morningstar fair value of $120"
+      ],
+      "price_target_or_valuation": "Morningstar fair value of $120",
+      "conviction": "High",
+      "action": "Buy"
+    },
+    "GE Healthcare": {
+      "thesis_summary": "GE Healthcare is a spin-off with a solid business and potential for growth. It has a reasonable debt load and strong free cash flow, making it a potentially attractive investment.",
+      "key_metrics": [
+        "7 billion in debt",
+        "5 billion in free cash flow"
+      ],
+      "conviction": "Positive",
+      "action": "Look into"
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "ETSY",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "N/A",
+      "actionable": "Buy more on pullback",
+      "position_status": "Holding",
+      "key_quotes": [
+        "I'm hoping to buy more in coming weeks if we get a little bit of pullback.",
+        "The breakthrough in Etsy is the Agentic AI which was announced this year, the partnership uh with Open AI earlier this week which basically says I know you have a couple farms steers and it will come up Etsy will come up right in your Open AI agent and you can order right through Open AI. So this is a huge breakthrough.",
+        "Etsy joins the ranks of Clear AI beneficiaries. The company is partnering with Open AI to give ChatGpt 700 million 700 million plus weekly active users the ability to browse and purchase items through Etsy without leaving the app."
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "$246-248",
+      "actionable": "Hold",
+      "position_status": "Overweight",
+      "key_quotes": [
+        "Baba still early days. One of the cheapest AI plays in the world.",
+        "If you've got the Baba shares, it's 246 248. If you got the Hong Kong shares, it's 240.",
+        "for those of you who are listening to Hedge Fund Tips with Tom Hayes, you were buying Baba at $58 till your fingers bled."
+      ]
+    },
+    {
+      "ticker": "NOV",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "N/A",
+      "actionable": "Buy",
+      "position_status": "Overweight",
+      "key_quotes": [
+        "This is your sort of co covert uh AI play.",
+        "This has one of the best balance sheets over a billion of free cash flow, billion of uh cash on the balance sheet.",
+        "This has huge operating leverage to drilling, not necessarily the price of oil and the demand for, you know, data center demand is going up 165% by 2030. 60% is going to be natural gas powered."
+      ]
+    },
+    {
+      "ticker": "BAXTER",
+      "tom_sentiment": "Bullish",
+      "conviction": 10,
+      "price_target_or_upside": "Double or triple over the next three years",
+      "actionable": "Buy aggressively",
+      "position_status": "Overweight",
+      "key_quotes": [
+        "We've been buying this in the last two weeks aggressively. New money coming in. We're buying it aggressively.",
+        "This is look, healthc care as a sector is at its lowest relative valuation to the S&P. This is a four times in a 100red-year opportunity to buy healthcare.",
+        "This thing's going to reacelerate. We think it can be a double or triple over the next three years."
+      ]
+    },
+    {
+      "ticker": "COOPER STANDARD",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "Holding",
+      "key_quotes": [
+        "That's going to be very good for Cooper Standard. I'm sure they had a strong quarter given all the numbers we're seeing."
+      ]
+    },
+    {
+      "ticker": "QXO",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "Holding",
+      "key_quotes": [
+        "QXO early days.",
+        "We've done it aggressively in uh GXO and in QXO."
+      ]
+    },
+    {
+      "ticker": "GXO",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "Holding",
+      "key_quotes": [
+        "We've done it aggressively in uh GXO and in QXO."
+      ]
+    },
+    {
+      "ticker": "INTEL",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "$100+",
+      "actionable": "Hold, buy on pullback",
+      "position_status": "Overweight",
+      "key_quotes": [
+        "If they liquidate it tomorrow, I get 22 bucks. if uh if it stays in business, it's worth 45. If they actually produce advanced chips, it's worth 100 plus.",
+        "It's almost doubled in a few weeks. So it's going to rest now. That's why we took profits on a bunch of options. Uh but we haven't sold one share of stock and if it would get a a nice enough pullback we can actually buy more stock which would be really awesome."
+      ]
+    },
+    {
+      "ticker": "ESTEE LAUDER",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "$120",
+      "actionable": "Buy",
+      "position_status": "Holding",
+      "key_quotes": [
+        "Shares are cheap. That's from um Morning Star with 120 fair value.",
+        "Estee ladder sales growth to resume in 2026 on stabilizing China demand."
+      ]
+    },
+    {
+      "ticker": "AMAZON",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold if you must",
+      "position_status": "Underweight",
+      "key_quotes": [
+        "If you put a gun to my head and said, \"Buy some of the mag seven I'd buy Amazon and Google.\"",
+        "I just think it's a bad use of capital. There's so many higher and better uses. I think you won't get hurt, but I don't think you're going to make a lot of money in the next two years."
+      ]
+    },
+    {
+      "ticker": "GEHC",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Look into",
+      "position_status": "None",
+      "key_quotes": [
+        "I actually kind of like this.",
+        "That might be worth looking into."
+      ]
+    }
+  ],
+  "new_or_recent_additions": [
+    "BAXTER"
+  ],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy Baxter aggressively",
+      "conviction": 10
+    },
+    {
+      "rank": 2,
+      "idea": "Buy NOV",
+      "conviction": 9
+    },
+    {
+      "rank": 3,
+      "idea": "Buy Etsy on pullback",
+      "conviction": 9
+    },
+    {
+      "rank": 4,
+      "idea": "Buy Estee Lauder",
+      "conviction": 8
+    },
+    {
+      "rank": 5,
+      "idea": "Buy Intel on pullback",
+      "conviction": 8
+    },
+    {
+      "rank": 6,
+      "idea": "Look into GE Healthcare",
+      "conviction": 7
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Potential for short-term market chop due to earnings season and government shutdown.",
+    "MAG 7 earnings growth deceleration.",
+    "Sovereign debt in Europe."
+  ],
+  "technical_takeaways": "Divergence between indices and breadth indicators suggests potential for a 3-5% pullback in the Q's. October historically most volatile month of the year."
+}

@@ -1,0 +1,270 @@
+{
+  "episode_number": "264",
+  "episode_date": "2024-11-07",
+  "executive_summary": "Tom Hayes is extremely bullish on the market, particularly small caps, regional banks, Intel, and Boeing, driven by a Trump election and favorable policy changes. He sees a buying opportunity in bonds after the initial shock. He is very bullish on Alibaba and Cooper Standard. He anticipates a strong bull market through the early 2030s, fueled by demographic trends and potential policy changes.",
+  "tom_current_conviction": {
+    "overall_market": "Extremely Bullish",
+    "score_1_to_10": 9,
+    "key_reasons": [
+      "Trump election leading to lower regulation and lower taxes.",
+      "Manufacturing-friendly environment.",
+      "FED will continue to cut.",
+      "Demographic trends support a long-term bull market through the early 2030s.",
+      "Market sentiment is not at extreme levels yet."
+    ]
+  },
+  "macro_thesis_summary": "The market is poised for a significant rally driven by a combination of factors including a Trump election, favorable policy changes, FED rate cuts, and positive demographic trends. The path of least resistance is up through the early 2030s. Inflation will be inflated away.",
+  "key_macro_data_points": [
+    {
+      "indicator": "Bond Market Positioning",
+      "value": "Most short since October of last year",
+      "tom_interpretation": "Opportunity to selectively buy Bonds in the coming days after the initial shock effect."
+    },
+    {
+      "indicator": "China Stimulus",
+      "value": "Expected fiscal stimulus",
+      "tom_interpretation": "Will add turbo boost to what's already happening in the Chinese economy."
+    },
+    {
+      "indicator": "Stock Allocations",
+      "value": "Below the traditional 60 to 65% band",
+      "tom_interpretation": "Tells me with all the positive developments from a policy standpoint that there's a lot more juice to this over the coming years."
+    },
+    {
+      "indicator": "US Deficit",
+      "value": "Largest since the Great Depression/World War II",
+      "tom_interpretation": "Expect 3 to 4% inflation for the next four or five years to inflate our way out of it."
+    },
+    {
+      "indicator": "China Manufacturing PMI",
+      "value": "Turned positive again",
+      "tom_interpretation": "Speaks to the recovery in China and the potential for further growth."
+    },
+    {
+      "indicator": "Earnings Growth",
+      "value": "Re-acceleration expected in Q4",
+      "tom_interpretation": "Q3 would be a bottoming and then a re acceleration"
+    },
+    {
+      "indicator": "Mortgage Rates",
+      "value": "Falling",
+      "tom_interpretation": "Suggests a pickup in housing."
+    },
+    {
+      "indicator": "Small Cap Valuations",
+      "value": "Trading at a discount",
+      "tom_interpretation": "You can pay a discount and get accelerating earnings growth"
+    }
+  ],
+  "featured_company_deep_dives": {
+    "Cooper Standard": {
+      "thesis_summary": "Cooper Standard is poised for significant growth due to management's execution in a difficult environment, FED rate cuts, potential tax deductibility of car interest payments, and building inventories. The company has significant operating leverage and is expected to generate substantial free cash flow as car volumes increase.",
+      "key_metrics": [
+        "Free cash flow generation",
+        "Adjusted EBITDA guidance",
+        "Return on invested capital",
+        "Industry volume",
+        "Double digit margin as we exit in 2025"
+      ],
+      "conviction": "Extremely Bullish",
+      "action": "Strong Buy"
+    },
+    "Estee Lauder": {
+      "thesis_summary": "Estee Lauder is like buying another Baba. If you believe in China you want to be in this. If you don't believe in China you don't want to be in it. If China turns this thing's going to rip fast.",
+      "key_metrics": [
+        "China recovery",
+        "New CEO",
+        "Brand value"
+      ],
+      "conviction": "Bullish",
+      "action": "Buy"
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "Regional Banks",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Buy",
+      "key_quotes": [
+        "We like Regional Banks that's going to continue to flourish"
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "Not even beginning ladies and gentlemen just the beginning",
+      "actionable": "Buy",
+      "key_quotes": [
+        "Remember when it collapsed below 20 and I said steu I think it's a buy here it's trading below breakup value it's up 42% why because Trump is going to want to manufacture those chips in the United States and reduce our dependency on Taiwan for our chips that's a national security thing"
+      ]
+    },
+    {
+      "ticker": "BA",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Buy",
+      "key_quotes": [
+        "That's why we keep pounding the table on Boeing",
+        "Boeing was up 300% during Trump's first term this is a hated stock right now they've just resolved the rally I think there's going to be opportunity there as well"
+      ]
+    },
+    {
+      "ticker": "Bonds",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Buy selectively",
+      "key_quotes": [
+        "There is an opportunity to selectively buy Bonds in the coming days not immediately today this is the shock effect but with as much as they've come in in the last month there's opportunity there as well"
+      ]
+    },
+    {
+      "ticker": "Alibaba (BABA)",
+      "tom_sentiment": "Extremely Bullish",
+      "conviction": 10,
+      "actionable": "Buy",
+      "key_quotes": [
+        "Alibaba has reduced its share count by 10% over the previous 12 months this is unbelievable ladies and gentlemen which means you basically uh got 10% more of the pizza pie without putting out any more money",
+        "It's going to rock and roll so excited to see that",
+        "Alibaba stock has soared it's still cheap enough to buy this is from a different writer at Barons named Teresa Rivas who wrote a very nice article here uh saying that it's just beginning and we agree"
+      ]
+    },
+    {
+      "ticker": "Cooper Standard",
+      "tom_sentiment": "Extremely Bullish",
+      "conviction": 10,
+      "actionable": "Strong Buy",
+      "key_quotes": [
+        "I couldn't tell you how excited I am about this",
+        "It's going to be like a water a fire hose of cash flooding out and knocking people over I am I mean I couldn't tell you how excited I am about this"
+      ]
+    },
+    {
+      "ticker": "J",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Falling mortgage rate suggest a pick up in housing that will help J which is doing fantastic"
+      ]
+    },
+    {
+      "ticker": "GXO",
+      "tom_sentiment": "Bullish",
+      "conviction": 6,
+      "actionable": "Hold",
+      "key_quotes": [
+        "UK government biggest fiscal loosening since 2009 so they are turning the stimulus Jets on that will help GXO"
+      ]
+    },
+    {
+      "ticker": "KR",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "We're playing that through the KR the Regional basket which we bought in that meltdown in 2023"
+      ]
+    },
+    {
+      "ticker": "PYPL",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "We own PayPal we think it's a much better quality business run by a better operator"
+      ]
+    },
+    {
+      "ticker": "SQ",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Pass",
+      "key_quotes": [
+        "Square might work for a trade but it's it's it's just not not for us"
+      ]
+    },
+    {
+      "ticker": "FMC",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "I like it I've looked at it I think it's fine it's an a play we've covered it I think in some of the podcasts and I also said I liked it so yeah I I have no problem with that one"
+      ]
+    },
+    {
+      "ticker": "ASML",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Pass",
+      "key_quotes": [
+        "It's just not cheap enough for me to make a double over two or three years so for that reason just a pass for now but I'll keep an eye on that one"
+      ]
+    },
+    {
+      "ticker": "Estee Lauder",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Buy",
+      "key_quotes": [
+        "If you believe in China you want to be in this if you don't believe in China you don't want to be in it",
+        "If China turns this thing's going to rip fast"
+      ]
+    },
+    {
+      "ticker": "Red Robin (RRGB)",
+      "tom_sentiment": "Bearish",
+      "conviction": 2,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "This is not for me I first off I don't even like their product but but secondly um no there's no sign of a cash flow turnaround this thing is this is not for me"
+      ]
+    }
+  ],
+  "new_or_recent_additions": [],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy Cooper Standard",
+      "conviction": 10
+    },
+    {
+      "rank": 2,
+      "idea": "Buy Alibaba",
+      "conviction": 10
+    },
+    {
+      "rank": 3,
+      "idea": "Buy Intel",
+      "conviction": 9
+    },
+    {
+      "rank": 4,
+      "idea": "Buy Regional Banks",
+      "conviction": 8
+    },
+    {
+      "rank": 5,
+      "idea": "Buy Boeing",
+      "conviction": 8
+    },
+    {
+      "rank": 6,
+      "idea": "Buy Estee Lauder",
+      "conviction": 7
+    },
+    {
+      "rank": 7,
+      "idea": "Buy Bonds selectively",
+      "conviction": 7
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Potential for a kitchen sink quarter at Estee Lauder.",
+    "Dr. Miller's Bond Short Position"
+  ],
+  "technical_takeaways": "The put call ratio got up it actually got up spiked that day at 130 which is Extreme there was so much fear and then same thing in 2016 before Trump got elected it spiked up to 140 and then same thing in 2016 even with Biden it spiked up to 120 right before the election and then what did you see a collapse in in vix and a rally in S&P collapse in vix rally in S&P collapse in vix rally in S&P why do you get that all at once is because you catch the whole Market off sides and there's no way the the sellers of that premium are letting these people get get paid when everyone crowded in to pay the most expensive price at the exact wrong time for insurance they got they're they got smoked okay so happens every time and so this wasn't Tom does it's not a crystal ball that I look into it's just seeing this these patterns over and over again and recognizing them and being able to benefit from them so versus buying puts you're buying stocks and then you got the enormous rally the next day and and that's a good thing not a bad thing you didn't have to predict the election to know that put premium was too high",
+  "publish_date": "2024-11-07"
+}

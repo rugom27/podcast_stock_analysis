@@ -1,189 +1,183 @@
 import streamlit as st
-import os
+import pandas as pd
 import json
 from pathlib import Path
 
 # === CONFIGURATION ===
-st.set_page_config(page_title="Hedge Fund Tips Reports", page_icon="📈", layout="wide")
+st.set_page_config(page_title="Hedge Fund Tips Analysis", page_icon="📈", layout="wide")
 
-# Define the base directory where outputs are stored
 OUTPUTS_DIR = Path("outputs")
+GLOBAL_DIR = OUTPUTS_DIR / "global_audit"
 
-# === HELPER FUNCTIONS ===
 
-
+# === HELPERS ===
 def get_available_episodes():
-    """
-    Scans the outputs directory for folders matching 'episode_{num}'
-    and checks if a report exists inside them.
-    Returns a sorted list of episode numbers (descending).
-    """
     episodes = []
-
     if not OUTPUTS_DIR.exists():
         return []
-
     for item in OUTPUTS_DIR.iterdir():
         if item.is_dir() and item.name.startswith("episode_"):
             try:
-                ep_num = item.name.split("_")[1]
-                # Check for either the text report OR the visual analysis
-                report_path = (
-                    item / "transcripts" / f"hedge_fund_tips_episode_{ep_num}_report.md"
-                )
-                visual_path = item / "step5_visual_analysis_complete.json"
-
-                if report_path.exists() or visual_path.exists():
-                    episodes.append(ep_num)
+                episodes.append(item.name.split("_")[1])
             except IndexError:
                 continue
-
-    # Sort episodes numerically descending
     try:
         episodes.sort(key=lambda x: int(x), reverse=True)
     except ValueError:
         episodes.sort(reverse=True)
-
     return episodes
 
 
-def load_report(episode_number):
-    """Reads the markdown content for a specific episode."""
-    path = (
-        OUTPUTS_DIR
-        / f"episode_{episode_number}"
-        / "transcripts"
-        / f"hedge_fund_tips_episode_{episode_number}_report.md"
+def load_episode_data(ep_num):
+    """Loads assets for a specific episode."""
+    base = OUTPUTS_DIR / f"episode_{ep_num}"
+
+    # Text
+    text_content = None
+    r_path = base / "transcripts" / f"hedge_fund_tips_episode_{ep_num}_report.md"
+    if r_path.exists():
+        with open(r_path, "r", encoding="utf-8") as f:
+            text_content = f.read()
+
+    # Visuals
+    visual_data = None
+    v_path = base / "step5_visual_analysis_complete.json"
+    if v_path.exists():
+        with open(v_path, "r", encoding="utf-8") as f:
+            visual_data = json.load(f)
+
+    # NEW: Signal Audit (Episode Specific)
+    audit_df = None
+    a_path = base / "episode_signals_audit.csv"
+    if a_path.exists():
+        audit_df = pd.read_csv(a_path)
+
+    return text_content, visual_data, audit_df
+
+
+def load_global_data():
+    sc = (
+        pd.read_csv(GLOBAL_DIR / "master_ticker_scorecard.csv")
+        if (GLOBAL_DIR / "master_ticker_scorecard.csv").exists()
+        else None
     )
-    try:
-        with open(path, "r", encoding="utf-8") as f:
-            return f.read()
-    except FileNotFoundError:
-        return None
-
-
-def load_visual_analysis(episode_number):
-    """Reads the Visual Analysis JSON (Step 5 output)."""
-    path = (
-        OUTPUTS_DIR
-        / f"episode_{episode_number}"
-        / "step5_visual_analysis_complete.json"
+    sig = (
+        pd.read_csv(GLOBAL_DIR / "master_signals_audit.csv")
+        if (GLOBAL_DIR / "master_signals_audit.csv").exists()
+        else None
     )
-    try:
-        with open(path, "r", encoding="utf-8") as f:
-            return json.load(f)
-    except FileNotFoundError:
-        return None
+    return sc, sig
 
 
-# === MAIN UI ===
-
-# Sidebar
+# === SIDEBAR ===
 with st.sidebar:
     st.header("🗂️ Library")
-    available_episodes = get_available_episodes()
+    options = ["🌎 Global Performance"] + get_available_episodes()
+    selected_option = st.selectbox("Select View:", options, index=0)
 
-    if not available_episodes:
-        st.warning("No reports found in `outputs/`.")
-        st.info("Run the notebook pipeline first to generate reports.")
-        selected_episode = None
-    else:
-        selected_episode = st.selectbox("Select Episode:", available_episodes, index=0)
-        st.markdown("---")
-        st.caption(f"Found {len(available_episodes)} episodes.")
+# === MAIN LOGIC ===
 
-# Main Content Area
-st.title(f"📈 Hedge Fund Tips Analysis")
+# --- OPTION A: GLOBAL ---
+if selected_option == "🌎 Global Performance":
+    st.title("🌎 Global Performance Audit")
+    master_scorecard, master_signals = load_global_data()
 
-if selected_episode:
-    # 1. LOAD DATA
-    text_content = load_report(selected_episode)
-    visual_data = load_visual_analysis(selected_episode)
+    tab_g1, tab_g2 = st.tabs(["🏆 Master Scorecard", "📡 All Signals Log"])
 
-    # 2. RENDER TABS
-    # We use tabs to keep the interface clean
-    tab1, tab2 = st.tabs(["📄 Executive Report", "📊 Visual Intelligence"])
-
-    # --- TAB 1: TEXT REPORT ---
-    with tab1:
-        if text_content:
-            st.markdown(text_content, unsafe_allow_html=True)
+    with tab_g1:
+        if master_scorecard is not None:
+            st.dataframe(
+                master_scorecard,
+                use_container_width=True,
+                hide_index=True,
+                column_config={
+                    "Win_Rate": st.column_config.ProgressColumn(
+                        "Win Rate", format="%d%%", min_value=0, max_value=100
+                    ),
+                    "Avg_Return_1Mo": st.column_config.NumberColumn(
+                        "1M Avg", format="%.1f%%"
+                    ),
+                    "Avg_Return_6Mo": st.column_config.NumberColumn(
+                        "6M Avg", format="%.1f%%"
+                    ),
+                },
+            )
         else:
-            st.warning("Text report not found for this episode.")
+            st.warning("Run global audit script first.")
 
-    # --- TAB 2: VISUAL GALLERY ---
+    with tab_g2:
+        if master_signals is not None:
+            st.dataframe(master_signals, use_container_width=True, hide_index=True)
+        else:
+            st.warning("No global signals found.")
+
+# --- OPTION B: EPISODE ---
+else:
+    ep_num = selected_option
+    st.title(f"📈 Episode {ep_num} Analysis")
+    text, visuals, audit_df = load_episode_data(ep_num)
+
+    # 3 TABS: Report, Visuals, Performance (Signals)
+    tab1, tab2, tab3 = st.tabs(
+        ["📄 Executive Report", "📊 Visual Intelligence", "📡 Performance Audit"]
+    )
+
+    with tab1:
+        if text:
+            st.markdown(text, unsafe_allow_html=True)
+        else:
+            st.info("No report text found.")
+
     with tab2:
-        if visual_data:
-            st.info(f"AI analyzed {len(visual_data)} visual artifacts from the video.")
-
-            for item in visual_data:
-                # Layout: Image (Left) | Analysis (Right)
+        if visuals:
+            for item in visuals:
                 with st.container():
-                    col1, col2 = st.columns([1, 1.5], gap="large")
-
-                    with col1:
-                        # Construct image path
-                        img_path = (
-                            OUTPUTS_DIR
-                            / f"episode_{selected_episode}"
-                            / "images"
-                            / item["original_filename"]
-                        )
-                        if img_path.exists():
-                            st.image(str(img_path), use_container_width=True)
-
-                            # Timestamp and filename details
-                            minutes = item["timestamp_seconds"] // 60
-                            seconds = item["timestamp_seconds"] % 60
-                            st.caption(
-                                f"⏱️ **Timestamp:** {minutes}m {seconds}s | 📂 {item['original_filename']}"
-                            )
-                        else:
-                            st.error(f"Image not found: {item['original_filename']}")
-
-                    with col2:
-                        # Title and Sentiment Badge
-                        st.subheader(item.get("chart_title", "Untitled Chart"))
-
-                        sentiment = item.get("sentiment", "NEUTRAL").upper()
-                        if sentiment == "BULLISH":
-                            st.success(f"**SENTIMENT:** {sentiment}")
-                        elif sentiment == "BEARISH":
-                            st.error(f"**SENTIMENT:** {sentiment}")
-                        else:
-                            st.info(f"**SENTIMENT:** {sentiment}")
-
-                        # Analysis Body
-                        st.markdown(
-                            f"**🧠 Analysis:** {item.get('analysis_summary', 'No summary available.')}"
-                        )
-
-                        # Key Data Points
-                        if item.get("key_data_points"):
-                            st.markdown("**Key Levels:**")
-                            for kp in item["key_data_points"]:
-                                st.markdown(f"- {kp}")
-
-                        # Confirmation status
-                        confirm = item.get("visual_confirmation", "UNCLEAR")
-                        if confirm == "CONFIRMED":
-                            st.caption("✅ Image visually confirms transcript")
-                        elif confirm == "CONTRADICTED":
-                            st.caption("⚠️ Image appears to contradict transcript")
-
-                        # Context Quote
-                        with st.expander("🗣️ Transcript Context"):
-                            st.markdown(
-                                f"*{item.get('transcript_context', 'No text context matched.')}*"
-                            )
-
+                    c1, c2 = st.columns([1, 2])
+                    img_path = (
+                        OUTPUTS_DIR
+                        / f"episode_{ep_num}"
+                        / "images"
+                        / item["original_filename"]
+                    )
+                    if img_path.exists():
+                        c1.image(str(img_path))
+                    c2.subheader(item.get("chart_title", "Chart"))
+                    c2.write(item.get("analysis_summary", ""))
                     st.divider()
         else:
-            st.info("No visual analysis found. Ask the owner to get to work.")
+            st.info("No visual analysis found.")
 
-else:
-    st.info("👈 Please select an episode from the sidebar to view the analysis.")
+    with tab3:
+        if audit_df is not None and not audit_df.empty:
+            st.markdown("### 📊 Signal Performance vs Current Price")
 
-# Footer
-st.markdown("---")
-st.caption("De nada, powered by Streamlit 🚀")
+            # Helper to style the dataframe
+            # We want to highlight the Current Return and T+ Returns
+            st.dataframe(
+                audit_df,
+                use_container_width=True,
+                hide_index=True,
+                column_config={
+                    "Ticker": st.column_config.TextColumn("Ticker", width="small"),
+                    "Action": st.column_config.TextColumn("Signal", width="small"),
+                    "Conviction": st.column_config.NumberColumn(
+                        "Conviction", format="%d ⭐"
+                    ),
+                    "Entry_Price": st.column_config.NumberColumn(
+                        "Entry Price", format="$%.2f"
+                    ),
+                    "Current_Price": st.column_config.NumberColumn(
+                        "Current Price", format="$%.2f"
+                    ),
+                    "Current_Return_Pct": st.column_config.NumberColumn(
+                        "⚠️ Total Return",
+                        format="%.2f%%",
+                        help="Return from Signal Date to Today",
+                    ),
+                    "T+1m": st.column_config.NumberColumn("T+1M", format="%.2f%%"),
+                    "T+3m": st.column_config.NumberColumn("T+3M", format="%.2f%%"),
+                    "T+6m": st.column_config.NumberColumn("T+6M", format="%.2f%%"),
+                },
+            )
+        else:
+            st.info("No signals audit found. Run the updated notebook script.")

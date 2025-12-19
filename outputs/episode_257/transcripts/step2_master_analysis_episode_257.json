@@ -1,0 +1,188 @@
+{
+  "episode_number": "257",
+  "episode_date": "2024-09-19",
+  "executive_summary": "Tom Hayes analyzes market trends, focusing on the potential impact of FED and Bank of Japan decisions. He expresses bullish sentiment on cyclicals and specific stocks like Intel and Alibaba, while cautioning against overbought sectors like utilities and REITs. He emphasizes the importance of individual stock analysis and sticking to a long-term investment strategy.",
+  "tom_current_conviction": {
+    "overall_market": "Bullish, especially on cyclicals and select growth stocks.",
+    "score_1_to_10": 8,
+    "key_reasons": [
+      "Anticipation of FED rate cuts.",
+      "Potential for Chinese stimulus.",
+      "Undervaluation in specific sectors and stocks.",
+      "Overcrowding in defensive sectors."
+    ]
+  },
+  "macro_thesis_summary": "The market is poised for growth, particularly in cyclicals and small caps, driven by potential FED rate cuts and possible stimulus from China. Overcrowding in defensive sectors presents an opportunity to rotate into undervalued areas. The key is to focus on individual stock analysis and maintain a long-term perspective.",
+  "key_macro_data_points": [
+    {
+      "indicator": "City Economic Surprise Index",
+      "value": "Turning up",
+      "tom_interpretation": "This is not what you see at tops, that's what you see near bottoms."
+    },
+    {
+      "indicator": "10-year Yield",
+      "value": "Rolling over",
+      "tom_interpretation": "If they're cutting and yields are compressed, growth is expected to be higher than anticipated."
+    },
+    {
+      "indicator": "GDP Now",
+      "value": "3%",
+      "tom_interpretation": "Very hard to get a recession when you have GDP growth at that level."
+    },
+    {
+      "indicator": "Monetary Policy",
+      "value": "Most restrictive since the great financial crisis",
+      "tom_interpretation": "These were times within months if you bought you made generational gains"
+    }
+  ],
+  "featured_company_deep_dives": {
+    "Alibaba": {
+      "thesis_summary": "Alibaba is poised to benefit from a potential Chinese stimulus, increased southbound trading, and ongoing buybacks. The company's valuation is attractive, and earnings visibility is improving.",
+      "key_metrics": [
+        "Stabilizing e-commerce market share.",
+        "Benefits from technology service fees and sitewide marketing tools.",
+        "Manageable low single-digit decline in TTG iidot.",
+        "Loss reductions from non-core businesses.",
+        "Buybacks of 9-10% a year."
+      ],
+      "price_target_or_valuation": "FIB retracement to 120",
+      "conviction": "High",
+      "action": "Buy. \"Looks like the FIB retracement would be at 120 sooner is better ladies and gentlemen we we're we're perfectly comfortable with sooner\""
+    },
+    "Intel": {
+      "thesis_summary": "Intel is undergoing a turnaround driven by new contracts, cost cuts, and the creation of a Foundry business subsidiary. The company's partnership with Amazon and government funding under the CHIPS Act further support its growth prospects.",
+      "key_metrics": [
+        "Partnership with Amazon for AWS.",
+        "$3 billion contract from the Department of Defense.",
+        "Moving The Foundry business into a subsidiary.",
+        "Solidifying a $3.5 billion deal to make chips for the military."
+      ],
+      "price_target_or_valuation": "30-40+",
+      "conviction": "Very High",
+      "action": "Buy. \"Buy it at 21 I like it at 21 I like it at 20 I like it at 19 and it's going to 30 40 plus over time\""
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "INTC",
+      "tom_sentiment": "Strong Buy",
+      "conviction": 9,
+      "price_target_or_upside": "30-40+",
+      "actionable": "Buy",
+      "key_quotes": [
+        "Absolutely buy it, it's trading at tangible book. If they liquidate the thing tomorrow you get your money back.",
+        "Buy it at 21 I like it at 21 I like it at 20 I like it at 19 and it's going to 30 40 plus over time"
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Buy",
+      "conviction": 8,
+      "price_target_or_upside": "120",
+      "actionable": "Buy",
+      "key_quotes": [
+        "Looks like the FIB retracement would be at 120 sooner is better ladies and gentlemen we we're we're perfectly comfortable with sooner",
+        "I'm just watching this 90 level like a hawk when it breaks through that I think it could go straight to 120 very very quickly"
+      ]
+    },
+    {
+      "ticker": "PYPL",
+      "tom_sentiment": "Buy",
+      "conviction": 7,
+      "price_target_or_upside": "110+",
+      "actionable": "Hold",
+      "key_quotes": [
+        "PayPal same exact chart is happening like crazy right now",
+        "The FIB levels according to this silly calculator they have start at 110 you know this thing is definitely going to be a double plus over time and uh and we're excited about that"
+      ]
+    },
+    {
+      "ticker": "DIS",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Disney's coming off the mat I mean is this a stock you short right now because you think the Market's going to be weak or you sell no it hasn't even started yet"
+      ]
+    },
+    {
+      "ticker": "PFE",
+      "tom_sentiment": "Positive",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Pfizer you know we've talked about over the past this looks like it's working its way higher"
+      ]
+    },
+    {
+      "ticker": "ANF",
+      "tom_sentiment": "Negative",
+      "conviction": 7,
+      "actionable": "Short",
+      "key_quotes": [
+        "You're giving me a stock that just did a 15 bagger and you want to know if you should buy it no that looks like a good short"
+      ]
+    },
+    {
+      "ticker": "NKE",
+      "tom_sentiment": "Neutral",
+      "conviction": 4,
+      "actionable": "Hold",
+      "key_quotes": [
+        "The Nikes problem is I can't own two sneaker turnarounds so we're sticking with Brack and Daryl"
+      ]
+    },
+    {
+      "ticker": "BAC",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "We took the profits on BAC and C over the summer those were great"
+      ]
+    },
+    {
+      "ticker": "C",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "We took the profits on BAC and C over the summer those were great"
+      ]
+    },
+    {
+      "ticker": "XOM",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "I've been with you since the Wells Fargo days and the Exxon Mobile days we we made very quick doubles on that in 2020"
+      ]
+    }
+  ],
+  "new_or_recent_additions": [],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy Intel (INTC) for a move to 30-40+",
+      "conviction": 9
+    },
+    {
+      "rank": 2,
+      "idea": "Buy Alibaba (BABA) for a move to 120",
+      "conviction": 8
+    },
+    {
+      "rank": 3,
+      "idea": "Short ANF",
+      "conviction": 7
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Potential for a counter-trend move where the Yen weakens against the dollar.",
+    "Market may be too convinced of historical seasonality patterns, leading to a surprise.",
+    "Managers are still skeptical, implying the market can climb the wall of worry to new highs."
+  ],
+  "technical_takeaways": "The NASDAQ didn't get up to new highs which could imply it's a Head and Shoulder top. The equal weight index is just breaking out which is also what tells me that why when I looked under the surface why there was little to do from a short which is perfectly fine with me",
+  "publish_date": "2024-09-19"
+}

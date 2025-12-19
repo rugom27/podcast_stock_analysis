@@ -1,0 +1,256 @@
+{
+  "episode_number": "313",
+  "episode_date": "2025-10-16",
+  "executive_summary": "Tom Hayes discusses the potential for a short-term market pullback, citing technical indicators and investor sentiment. He remains intermediate-term bullish, advocating for patience and opportunistic buying during the expected volatility. He highlights opportunities in specific sectors like consumer staples and energy, while also discussing individual companies like Etsy, VF Corp, and Alibaba. He emphasizes a value-oriented, business analyst approach to investing, focusing on durable businesses and margin of safety.",
+  "tom_current_conviction": {
+    "overall_market": "Intermediate-term bullish, short-term cautious",
+    "score_1_to_10": 7,
+    "key_reasons": [
+      "Technical indicators suggest a pullback is likely.",
+      "Investor sentiment is nearing highs.",
+      "Earnings growth for tech is decelerating.",
+      "Fed is likely to ease, providing a tailwind.",
+      "Household balance sheets are strong."
+    ]
+  },
+  "macro_thesis_summary": "The market is due for a short-term pullback based on technical divergences and elevated investor sentiment. However, the intermediate-term outlook remains positive due to factors like potential Fed easing, strong household balance sheets, and opportunities in specific sectors. A business analyst approach is crucial, focusing on durable businesses with a margin of safety.",
+  "key_macro_data_points": [
+    {
+      "indicator": "Bank of America Global Fund Manager Survey",
+      "value": "AI bubble cited as the biggest risk",
+      "tom_interpretation": "Fund managers are waking up to the fact that MAG7 earnings growth has been cut by more than half while multiples have yet to come down."
+    },
+    {
+      "indicator": "10-day Put/Call Ratio",
+      "value": "Subdued",
+      "tom_interpretation": "There's a lot of froth in the market still."
+    },
+    {
+      "indicator": "1% EMA Advanced Decline Ratio",
+      "value": "Diverging down",
+      "tom_interpretation": "Usually when it gets down towards these levels, you've had a correction. We've not had a real correction."
+    },
+    {
+      "indicator": "NASDAQ Declining Issues",
+      "value": "Showing a weakening of breadth",
+      "tom_interpretation": "A few names are holding up the tech index, but most are deteriorating under the surface."
+    },
+    {
+      "indicator": "S&P 500 Hits All-Time High After 15% Drawdown",
+      "value": "Secondary Drawdown Averages 6.4%",
+      "tom_interpretation": "Somewhere between 3 to 9% in coming weeks would be reasonable. I think closer to six or 7% because of the stocks that are going to get hit have such high waitings."
+    },
+    {
+      "indicator": "Investor Sentiment (Bank of America Survey)",
+      "value": "Near moving towards highs",
+      "tom_interpretation": "I don't think we get anything more than a four to four to 9% implied correlation with S&P 500."
+    },
+    {
+      "indicator": "Retail Options Call Over Put Direction",
+      "value": "Extremely High Call Buying",
+      "tom_interpretation": "It's not a good time to be a buyer of equities when retail is buying this many call options. All of this premium is going to go to zero."
+    }
+  ],
+  "featured_company_deep_dives": {
+    "ETSY": {
+      "thesis_summary": "Etsy is disproportionately positioned to win in a world of generative AI and agentive commerce because of its unique and special made items.",
+      "key_metrics": [
+        "Over 100 million unique items",
+        "5 million sellers",
+        "80 million buyers"
+      ],
+      "conviction": "High",
+      "action": "Hold"
+    },
+    "VFC": {
+      "thesis_summary": "VF Corp is undervalued due to its portfolio of brands and the potential for Bracken Darrell to lead a turnaround. The sale of Dickies is a positive catalyst.",
+      "key_metrics": [
+        "Sale of Dickies for $600 million",
+        "Debt reduction",
+        "Potential for stock buybacks"
+      ],
+      "conviction": "High",
+      "action": "Buy more shares"
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "GLOB",
+      "tom_sentiment": "Negative",
+      "conviction": 2,
+      "actionable": "Pass",
+      "key_quotes": [
+        "It's a broken stock. It's going to take a couple years to form a base.",
+        "They may have no moat. Any of these technology software companies, they could be disintermediated by AI."
+      ]
+    },
+    {
+      "ticker": "DXCM",
+      "tom_sentiment": "Neutral",
+      "conviction": 4,
+      "actionable": "Pass",
+      "key_quotes": [
+        "I just don't think there's like enough juice in it for me to get excited. Everything has to go right for me to get a double. And I don't like that."
+      ]
+    },
+    {
+      "ticker": "NOG",
+      "tom_sentiment": "Strongly Negative",
+      "conviction": 1,
+      "actionable": "Pass",
+      "key_quotes": [
+        "Management are still scumbags. They've doubled the share count in the last 5 years."
+      ]
+    },
+    {
+      "ticker": "TLRY",
+      "tom_sentiment": "Strongly Negative",
+      "conviction": 1,
+      "actionable": "Pass",
+      "key_quotes": [
+        "This is a bag of... not for me.",
+        "Taking the share count from 200 million to a billion. There's a special place in hell for management like these."
+      ]
+    },
+    {
+      "ticker": "OKTA",
+      "tom_sentiment": "Negative",
+      "conviction": 3,
+      "actionable": "Pass",
+      "key_quotes": [
+        "You just better be damn sure that they're best-in-class and security capabilities company like this gets one breach and like the stock is just smashed.",
+        "Management keeps giving themselves shares like pigs."
+      ]
+    },
+    {
+      "ticker": "UA",
+      "tom_sentiment": "Strongly Negative",
+      "conviction": 1,
+      "actionable": "Pass",
+      "key_quotes": [
+        "If Steph Curry and Tom Brady can't sell sneakers for you, you're effing toast."
+      ]
+    },
+    {
+      "ticker": "SSTK",
+      "tom_sentiment": "Negative",
+      "conviction": 2,
+      "actionable": "Pass",
+      "key_quotes": [
+        "I don't know what the mode is for this business, but nah, not for me."
+      ]
+    },
+    {
+      "ticker": "KSPI",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Monitor",
+      "key_quotes": [
+        "I think we are predominantly taking country risk here. I can't recommend it, but I I will be thinking about it.",
+        "Maybe I could do a little more work on it, but um I think it's a decent find."
+      ]
+    },
+    {
+      "ticker": "FISV",
+      "tom_sentiment": "Neutral",
+      "conviction": 4,
+      "actionable": "Pass",
+      "key_quotes": [
+        "I don't understand this business as well and I think it has to go lower before I get interested."
+      ]
+    },
+    {
+      "ticker": "PYPL",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "actionable": "Buy",
+      "key_quotes": [
+        "I love PayPal."
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Positive",
+      "conviction": 8,
+      "actionable": "Hold",
+      "key_quotes": [
+        "We started buying it over a 100. It went down to 80. It went down to 60. Do you know what it was like being on the podcast the day it was 58 and 60 and buying it till our fingers bled to bring our basis down to $82"
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Intel has been a rocket this year for us."
+      ]
+    },
+    {
+      "ticker": "NOV",
+      "tom_sentiment": "Positive",
+      "conviction": 8,
+      "actionable": "Buy",
+      "key_quotes": [
+        "There's opportunities in the space like NOV, National Oil Wellvarco, which we love. Love the balance sheet, love the cash flow, love the opportunity, love the play on unlimited demand for energy."
+      ]
+    },
+    {
+      "ticker": "ETSY",
+      "tom_sentiment": "Positive",
+      "conviction": 8,
+      "actionable": "Buy",
+      "key_quotes": [
+        "Etsy is disproportionately positioned to to to win in a world of generative AI and and and agentive commerce."
+      ]
+    },
+    {
+      "ticker": "VFC",
+      "tom_sentiment": "Positive",
+      "conviction": 9,
+      "actionable": "Buy",
+      "key_quotes": [
+        "Why the only question we have been asking is how many shares can we possibly get our hands on."
+      ]
+    }
+  ],
+  "new_or_recent_additions": [
+    "NOV",
+    "ETSY",
+    "VFC"
+  ],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy more VF Corp (VFC) on weakness.",
+      "conviction": 9
+    },
+    {
+      "rank": 2,
+      "idea": "Buy NOV (National Oil Wellvarco) for exposure to unlimited energy demand.",
+      "conviction": 8
+    },
+    {
+      "rank": 3,
+      "idea": "Buy Etsy (ETSY) for exposure to AI.",
+      "conviction": 8
+    },
+    {
+      "rank": 4,
+      "idea": "Hold Alibaba (BABA) for long-term growth.",
+      "conviction": 8
+    },
+    {
+      "rank": 5,
+      "idea": "Buy PayPal (PYPL).",
+      "conviction": 7
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "AI bubble concerns",
+    "Potential for tech earnings compression",
+    "Short-term market pullback",
+    "Geopolitical risks (Ukraine, China)"
+  ],
+  "technical_takeaways": "Technical indicators suggest a short-term pullback is likely. Key indicators include the 10-day put/call ratio, the 1% EMA advanced decline ratio, and NASDAQ declining issues. The S&P 500 typically experiences a secondary drawdown after hitting an all-time high following a significant drawdown earlier in the year."
+}

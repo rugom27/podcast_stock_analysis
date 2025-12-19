@@ -1,0 +1,222 @@
+{
+  "episode_number": "258",
+  "episode_date": "2024-09-26",
+  "executive_summary": "Tom Hayes is extremely bullish on China and Emerging Markets due to massive stimulus and undervaluation. He sees a regime change favoring small caps, value, and discretionary over the Magnificent 7 and defensives. He is also very bullish on natural gas and Comstock Resources. He expects short term volatility in October, but a year-end rally.",
+  "tom_current_conviction": {
+    "overall_market": "Bullish, especially on Emerging Markets and China.",
+    "score_1_to_10": 9,
+    "key_reasons": [
+      "China stimulus is a game changer.",
+      "FED front-loaded rate cut signals regime change.",
+      "Emerging Markets are extremely undervalued.",
+      "Small caps and value will outperform."
+    ]
+  },
+  "macro_thesis_summary": "The FED's front-loaded rate cut signals a regime change. China's stimulus will drive growth in Emerging Markets. A weaker dollar will benefit Emerging Markets. The market prefers gridlock after the election.",
+  "key_macro_data_points": [
+    {
+      "indicator": "China Stimulus",
+      "value": "$286 billion of bonds for fiscal stimulus",
+      "tom_interpretation": "\"This is enormous news, this is a regime change, this is a game changer.\""
+    },
+    {
+      "indicator": "US GDP",
+      "value": "3%",
+      "tom_interpretation": "Very hard to have a recession with 3% GDP."
+    },
+    {
+      "indicator": "Earnings Growth",
+      "value": "15% expected next year",
+      "tom_interpretation": "Very hard to get to a recession with that level of growth."
+    },
+    {
+      "indicator": "Skew",
+      "value": "10-year record high",
+      "tom_interpretation": "Be on alert for a little bit of volatility in October."
+    }
+  ],
+  "featured_company_deep_dives": {
+    "Comstock Resources": {
+      "thesis_summary": "Comstock Resources is undervalued due to its natural gas reserves. Jerry Jones owns 71% of the equity, providing a strong partner. The stock has significant upside potential.",
+      "key_metrics": [
+        "Market cap: 3.2 billion",
+        "Enterprise Value: 5-6 billion",
+        "Proved reserves worth the Enterprise Value",
+        "Unproved reserves worth 3x the market cap"
+      ],
+      "price_target_or_valuation": "Conservative side over time you probably have a 35-40 stock",
+      "conviction": "High",
+      "action": "Buy"
+    },
+    "Alibaba": {
+      "thesis_summary": "Alibaba is a generational lifetime opportunity due to its undervaluation and the potential for growth from China's stimulus. The market will doubt the rally all the way up.",
+      "key_metrics": [
+        "Revenues up 13x per share since 2014",
+        "Cash flow and earnings up 6.5x since 2014",
+        "Trading at 8-10x earnings"
+      ],
+      "price_target_or_valuation": "Significant upside potential",
+      "conviction": "Extremely High",
+      "action": "Buy and hold through volatility"
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "BKV",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Buy",
+      "position_status": "N/A",
+      "key_quotes": [
+        "This is enormous news, this is a regime change, this is a game changer."
+      ]
+    },
+    {
+      "ticker": "CMCSA",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "$35-40",
+      "actionable": "Buy",
+      "position_status": "Owned",
+      "key_quotes": [
+        "On the conservative side over time you probably have a 35-40 stock."
+      ]
+    },
+    {
+      "ticker": "NKE",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Buy",
+      "position_status": "N/A",
+      "key_quotes": [
+        "The Nikes are going to come back, the lulus are going to come back, the VF Corps are going to come back."
+      ]
+    },
+    {
+      "ticker": "PYPL",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "Owned",
+      "key_quotes": [
+        "PayPal is over 80 bucks remember pounding the table in the 50s and you couldn't give it away."
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Extremely Bullish",
+      "conviction": 10,
+      "price_target_or_upside": "Significant upside potential",
+      "actionable": "Buy",
+      "position_status": "Overweight",
+      "key_quotes": [
+        "That is a generational lifetime opportunity.",
+        "We're just getting started.",
+        "I'm going to break all of my positioning rules and double it."
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Buy",
+      "position_status": "N/A",
+      "key_quotes": [
+        "Intel strikes back it has a great chip for the first time in years."
+      ]
+    },
+    {
+      "ticker": "QCOM",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Buy discreetly",
+      "position_status": "N/A",
+      "key_quotes": [
+        "I would buy Qualcomm discreetly."
+      ]
+    },
+    {
+      "ticker": "WGS",
+      "tom_sentiment": "Very Bearish",
+      "conviction": 10,
+      "price_target_or_upside": "Avoid",
+      "actionable": "Avoid",
+      "position_status": "N/A",
+      "key_quotes": [
+        "This is a train wreck I do not I wouldn't touch this with a 10 foot pole this looks like a promote."
+      ]
+    },
+    {
+      "ticker": "CHI",
+      "tom_sentiment": "Bearish",
+      "conviction": 8,
+      "price_target_or_upside": "Avoid",
+      "actionable": "Avoid",
+      "position_status": "N/A",
+      "key_quotes": [
+        "I don't like it that textbook business it used to be a great business it might be a cigar butt and get one more puff out of it but uh I think this thing was one of these momo stocks that's just a train wreck not for me."
+      ]
+    },
+    {
+      "ticker": "SEMAR",
+      "tom_sentiment": "Very Bearish",
+      "conviction": 10,
+      "price_target_or_upside": "Avoid",
+      "actionable": "Avoid",
+      "position_status": "N/A",
+      "key_quotes": [
+        "I'm just not even going to look at that cumana that because I got to make bets on two things three things I got to make a bet on management I got to make a bet on bitcoin and I got to make a bet on whatever silly promote business that they're talking about and I'm not interested."
+      ]
+    }
+  ],
+  "new_or_recent_additions": [
+    "Emerging Markets",
+    "Small Caps",
+    "Value Stocks",
+    "Consumer Discretionary"
+  ],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy Alibaba",
+      "conviction": 10
+    },
+    {
+      "rank": 2,
+      "idea": "Buy Comstock Resources",
+      "conviction": 8
+    },
+    {
+      "rank": 3,
+      "idea": "Buy small caps and value stocks",
+      "conviction": 7
+    },
+    {
+      "rank": 4,
+      "idea": "Buy consumer discretionary stocks",
+      "conviction": 7
+    },
+    {
+      "rank": 5,
+      "idea": "Buy Intel",
+      "conviction": 7
+    },
+    {
+      "rank": 6,
+      "idea": "Buy Qualcomm discreetly",
+      "conviction": 7
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Potential volatility in October ahead of the election.",
+    "Risk of overshooting on the upside in euphoria.",
+    "Market may grind sideways through the election, causing pain to passive investors."
+  ],
+  "technical_takeaways": "Waiting for a counter trend move in the 10-year yield, maybe as high as 4%. S&P breaking out of a cup and handle, maybe it goes back and retests at 5655-5651 before resuming the uptrend. Copper is recovering with China. Hang Seng broke out.",
+  "publish_date": "2024-09-26"
+}

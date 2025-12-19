@@ -1,0 +1,178 @@
+{
+  "episode_number": "251",
+  "episode_date": "2024-08-08",
+  "executive_summary": "Tom Hayes is extremely bullish on Chinese equities, particularly Alibaba, due to the unwinding of the Yen carry trade and the anticipated strengthening of the Yuan. He also highlights opportunities in Intel, Cooper Standard, and VF Corp, emphasizing balance sheet improvements and turnaround potential. He advocates for dividend payers and cyclicals in the current market environment, while remaining cautious about chasing overextended assets.",
+  "tom_current_conviction": {
+    "overall_market": "Constructive for the next six to seven weeks, but with potential for aftershocks and sideways movement.",
+    "score_1_to_10": 7,
+    "key_reasons": [
+      "Global liquidity coming to bear with central bank cuts.",
+      "Small cap earnings expected to grow dramatically faster than large cap.",
+      "Potential for a credit unwind and fund liquidations creating opportunities."
+    ]
+  },
+  "macro_thesis_summary": "The unwinding of the Yen carry trade is a significant catalyst for a shift in global capital flows, benefiting Chinese equities and emerging markets. A weaker dollar, stronger Yuan, and lower rates will create a favorable environment for dividend payers, cyclicals, and value stocks. While US equities may experience sideways movement, opportunities exist in specific sectors and turnaround stories.",
+  "key_macro_data_points": [
+    {
+      "indicator": "Global Central Bank Cuts",
+      "value": "35 cuts in the last 3 months",
+      "tom_interpretation": "Perfect environment to be a buyer, not a seller of equities."
+    },
+    {
+      "indicator": "Nikkei Performance",
+      "value": "Down 25%",
+      "tom_interpretation": "Unwind of the Japanese carry trade, creating liquidity dislocation."
+    },
+    {
+      "indicator": "China's Yuan",
+      "value": "Climbing to a seven-month high",
+      "tom_interpretation": "Signaling a shift in capital flows back into China and a positive environment for Chinese equities."
+    },
+    {
+      "indicator": "Earnings Growth",
+      "value": "11.5% earnings growth",
+      "tom_interpretation": "That's not really what you see during recessions ladies and gentlemen Som rule or not which is why we R remain constructive"
+    }
+  ],
+  "featured_company_deep_dives": {
+    "INTC": {
+      "thesis_summary": "Intel is undergoing a significant turnaround, with new products launching in Q3 and Q4 that will improve performance and efficiency. Government backing and subsidies provide a safety net, and the company is positioned to become a leading AI systems foundry.",
+      "key_metrics": [
+        "Q2 revenues down 1% year-over-year, stock down 30%",
+        "Launching Gouty 3 in Q3 with 2x performance per dollar vs. Nvidia H100",
+        "40 million AIP PC unit shipments expected by end of 2024",
+        "Adjusted free cash flow of $8.2 billion"
+      ],
+      "conviction": "High",
+      "action": "Buy on weakness, long-term hold."
+    },
+    "CPS": {
+      "thesis_summary": "Cooper Standard is executing a successful turnaround, improving margins and reducing debt through cost savings and operational efficiencies. The company is well-positioned to benefit from a recovery in automotive production volumes.",
+      "key_metrics": [
+        "Debt got upgraded by Moody's",
+        "Gross profit increased 6.7% year-over-year",
+        "Outperformed Global Automotive production by 150 basis points",
+        "Adjusted EBITDA guidance maintained despite cash pay decision"
+      ],
+      "conviction": "High",
+      "action": "Buy on weakness, long-term hold."
+    },
+    "VFC": {
+      "thesis_summary": "VF Corp is deleveraging its balance sheet and seeing strong turnarounds in China. With solvency risk off the table and a good balance sheet, the company is poised to turn revenues around region by region.",
+      "key_metrics": [
+        "Long-term debt reduced from $5.7 billion to $3.9 billion in the last three quarters",
+        "$1.5 billion coming in from the sale of Supreme",
+        "Free cash flow positive",
+        "Strong turnarounds in China"
+      ],
+      "conviction": "Medium",
+      "action": "Monitor for further improvements, potential buy."
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Extremely Bullish",
+      "conviction": 10,
+      "price_target_or_upside": "Potential parabolic move to $200+",
+      "actionable": "Buy",
+      "position_status": "Own",
+      "key_quotes": [
+        "It's a huge company a huge out the cheapest AI play in the world it's done nothing for a year and a half I think this is ready to roll they're going to report on August 15th so I like the environment with a weaker dollar with rates coming down and with the hot money coming out of Japan and back into China could be an opportunity",
+        "Yuan starts to appreciate because the boj's new policy stance and the fed's new policy stance… strengthening the Yuan which will cause the flows into China into Chinese equities to explode yet again no one can see that right now until it happens and then this will be the most hated rally all the way up of all time no one will believe it until it hits 200 then they will hate it and then they will join it and that's what will happen"
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "actionable": "Buy on weakness",
+      "position_status": "Not specified",
+      "key_quotes": [
+        "Launching in Q3 Intel's gouty 3 will take our accelerator performance to the next level at just 2/3 of the cost of competitive offerings to put it in perspective we expect gy 3 to deliver roughly two times performance per dollar on both inference and hand and training versus h100 nvidia's h100",
+        "I'll take my chances on a firm that is set with government backing and support to become the leading AI systems Foundry and the second largest Foundry in the world by 2030"
+      ]
+    },
+    {
+      "ticker": "CPS",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "actionable": "Buy on weakness",
+      "position_status": "Own",
+      "key_quotes": [
+        "They've basically got this thing running like such a well-oiled machine at such low volumes that they could be cash flow positive next year assuming no growth in volumes when volumes are going to grow when the average car on the road is 13.5 years and the average Millennial is 33 years old that's when they buy they buy the most cars and dishwashers with for those of you who have asked me about whirlpool and homes and baby stuff between 33 and 40 and this time will be no different and they're going to be the beneficiary so fact they can go cash flow positive in the next year assuming no volume growth when volume growth is going to come back"
+      ]
+    },
+    {
+      "ticker": "CCI",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "price_target_or_upside": "Potential upside as rates come down",
+      "actionable": "Hold",
+      "position_status": "Own",
+      "key_quotes": [
+        "Crown crown castle was on with you uh earlier this Stock's come up a little bit but you still get a 5.5% yield uh it's got 40,000 Towers they're selling the small sale fiber business to delever the balance sheet new CEO Steve MOS I've been waiting for this stock to go to the Moon though for like 10 years like yeah it's gone up like from 100 to 115 you collected a yield in the meantime as rates come down it'll stay up there's been doing pretty well lately yeah brought"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "tom_sentiment": "Bearish",
+      "conviction": 8,
+      "actionable": "Avoid",
+      "position_status": "Not specified",
+      "key_quotes": [
+        "finally came uh we climaxed in uh June 20th when we put out the article about Nvidia the new pain trade that day it uh opened at 136 went up to 139 after we said it was the new pain trade of course it always goes against us before it goes for us uh and then it just collapsed down I think it got into the 90s yesterday 40% draw down uh Vic straight up to 65 let's pull up some of these"
+      ]
+    },
+    {
+      "ticker": "AMD",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "position_status": "Not specified",
+      "key_quotes": [
+        "topping of Chip stocks like Invidia what do you mean possible topping it's down 40% in like six weeks um and AMD would you agree that the next big chip stock will be an energy or data center company uh since they're power and run massive computational power i' play it with natural gas J that's what I would play it with I I'd play the energy I wouldn't even go there and I think the the chip ship companies with the large enough margin of safety like Intel the way I would play that Jay I think you're your thinking is right the way we're playing it is through com stock on the natural gas side and Intel on the chip side Jack McCarthy thanks for the great content every week was waiting a long time to"
+      ]
+    },
+    {
+      "ticker": "ULTA",
+      "tom_sentiment": "Neutral",
+      "conviction": 4,
+      "actionable": "Monitor",
+      "position_status": "Not specified",
+      "key_quotes": [
+        "we're going to cover the ones we have we do have like 10 ultas at 12 times earnings this is from John five very cheap and buying back shares looking to expand International any thoughts on looking into this business yeah I I've looked at it and looked at it and looked at it and I think this is going to be an error of omission where I just don't get involved because when all is said and done it's still a bricks and mortar retailer um but yeah I mean it's getting to that point where it's attractive you look at the free cash flow is kind of holding in there revenues are going up return on capital is strong margins are holding in so would I take a punt on it I think you're probably okay but you know at the most you know over the next three or four years you're probably barely looking at a double so when something's not like super easy and straightforward to me and they return over 3 four years is less than a double I just immediately take a pass but I'll take a look at a couple of these things let's take a look at cash flow so it's fine they're doing a billion dollars of cash flow let's take a look at their income statement revenues have been flattish but they're going up in the right direction balance sheets probably fine 520 million of cash is this possible they have no long-term debt with uh retail stores wow that's pretty amazing um turn on Capital I don't know you know this has been on the watch list for a while I think you just have to understand what's the growth profile moving forward John cuz there's others like Sally Beauty that are really in trouble um that haven't been doing well well so if you can understand its competitive Advantage the and how they're going to sustain that I think you might have something here and it might be worth an investment um but you know just looking at the numbers take a look at the margins margins are holding in they're down a little bit but if you can get comfort with their competitive advantage and understand why are they actually down almost 50% in the last 6 months uh and feel good about that also check comparable store sales versus uh overall sales that that that could probably be a tell as well you know Five Below expanded a lot of stores uh to grow sales but their comp store sales were down and that might be the problem with Ulta also people are worried a little bit about the consumer so if you can get comfort about all those things you might have enough margin of safety to make an investment here uh and"
+      ]
+    }
+  ],
+  "new_or_recent_additions": [],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy Alibaba (BABA) due to Yuan strength and unwinding of Yen carry trade.",
+      "conviction": 10
+    },
+    {
+      "rank": 2,
+      "idea": "Buy Intel (INTC) on weakness, long-term hold due to turnaround and government support.",
+      "conviction": 9
+    },
+    {
+      "rank": 3,
+      "idea": "Buy Cooper Standard (CPS) on weakness, long-term hold due to margin improvements and potential volume recovery.",
+      "conviction": 9
+    },
+    {
+      "rank": 4,
+      "idea": "Hold Crown Castle (CCI) for yield and potential upside as rates come down.",
+      "conviction": 7
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Potential for aftershocks and sideways movement in US equities.",
+    "Risk of chasing overextended assets.",
+    "Consumer weakness impacting retail businesses like Ulta."
+  ],
+  "technical_takeaways": "September is historically a weak month, suggesting potential for tactical hedges and shorts. The market may experience a 4-6% pullback over the next couple of months. The indices may grind sideways, taking out put and call premium.",
+  "publish_date": "2024-08-08"
+}

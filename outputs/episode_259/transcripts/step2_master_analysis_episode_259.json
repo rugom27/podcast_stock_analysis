@@ -1,0 +1,245 @@
+{
+  "episode_number": "259",
+  "episode_date": "2024-10-03",
+  "executive_summary": "Tom Hayes discusses the shift from defensives to consumer discretionary, the outperformance of small caps and emerging markets, and the potential for a year-end rally. He emphasizes opportunities in China, small caps, and biotech, while also noting potential short-term volatility due to pre-election jitters and geopolitical events. He is extremely bullish on Intel.",
+  "tom_current_conviction": {
+    "overall_market": "Bullish, but cautious in the short-term due to pre-election volatility and geopolitical risks.",
+    "score_1_to_10": 8,
+    "key_reasons": [
+      "FED frontloading 50 basis point cuts",
+      "Fiscal stimulus bazooka in Emerging Markets",
+      "Seasonally weak period of the stock market",
+      "Potential intervention by Biden to resolve dock strike"
+    ]
+  },
+  "macro_thesis_summary": "The market is undergoing a regime change with small caps and emerging markets outperforming. Fiscal stimulus in China and potential rate cuts will drive growth. Short-term volatility is expected due to pre-election jitters and geopolitical events, but a year-end rally is anticipated.",
+  "key_macro_data_points": [
+    {
+      "indicator": "US 30-year mortgage rate",
+      "value": "Declined for eight consecutive weeks, from 7.2 to 6.12",
+      "tom_interpretation": "This will continue, potentially reaching a high 5 handle by year-end or Q1, igniting the housing market."
+    },
+    {
+      "indicator": "China Equity Rallies",
+      "value": "Historically fueled by stimulus",
+      "tom_interpretation": "Expectations of 50-100% gains are reasonable."
+    },
+    {
+      "indicator": "Global Monetary Easing",
+      "value": "Largest month of easing since April 2020",
+      "tom_interpretation": "This is a buying opportunity, similar to Q1 2020 and 2009."
+    },
+    {
+      "indicator": "Economic Surprise Index",
+      "value": "Turning up",
+      "tom_interpretation": "This is indicative of expansions, not contractions."
+    },
+    {
+      "indicator": "China MSCI earnings per share",
+      "value": "Trading at 6.5 times forward p/e",
+      "tom_interpretation": "Unbelievable valuation, profit margins are going up."
+    },
+    {
+      "indicator": "Total vehicle sales",
+      "value": "Increased from 15.1 to 15.8",
+      "tom_interpretation": "This is unbelievable, before the impact of cuts and end of year incentives."
+    }
+  ],
+  "featured_company_deep_dives": {},
+  "all_stock_opinions": [
+    {
+      "ticker": "PLTR",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "$85 in the medium term, $100 in 3-5 years",
+      "actionable": "Hold",
+      "key_quotes": [
+        "I think we're going to take out 50 pretty quickly I'm starting to think about 85 but three to five years from now there's zero doubt in my mind we're looking at a hundred bucks a share so it's going to be volatile going to be a tough stock to own but I encourage people to stay with it if you can"
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 10,
+      "price_target_or_upside": "Significant upside",
+      "actionable": "Buy on dips",
+      "key_quotes": [
+        "Nothing has changed and nothing's changed for the year plus that I've been talking about it every single week the end of the day you can buy it at 2014 prices even after this rally the only difference is sales are up now 1,300% and earnings in cash flow are up 650 50% so you tell me what else is there to talk about"
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "tom_sentiment": "Extremely Bullish",
+      "conviction": 10,
+      "price_target_or_upside": "$40-60 in 2-3 years, potentially $100 if they deliver competitive chips",
+      "actionable": "Buy",
+      "position_status": "Adding to position",
+      "key_quotes": [
+        "Intel is the only game in town so effectively what's setting up with Intel is a monopoly government-backed Monopoly which are the greatest kinds of Monopoly which is effectively what happened with Tesla during its run",
+        "Intel opportunity of a lifetime we bought in the High Teens as it flushed out we'll probably buy some more if it goes back and retests"
+      ]
+    },
+    {
+      "ticker": "COST",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Buy on technical dips",
+      "key_quotes": [
+        "Costco is one of those things you know trade the nudes or trade the reality and the reality situation is I'm not sure they were looking at the same report I was because I saw sales up I saw earnings up in the billions of dollars but the key takeaway"
+      ]
+    },
+    {
+      "ticker": "DIS",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Disney I can't tell you how crowded the parks were and how amazing the experience was nothing to think about there they're raising the prices at uh Disney plus people have to have Disney if they have children if they don't Social Services comes in and takes your children away that thing is Off to the Races"
+      ]
+    },
+    {
+      "ticker": "UNM Magnificent 493",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Overweight vs Magnificent 7",
+      "key_quotes": [
+        "UNM magnificent 493 will outperform continue to outperform the Magnificent 7 which is Amazon Google meta Etc",
+        "It's a c change that started to take place in the last few weeks and now accelerated with the 50 Bas"
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Take profits",
+      "key_quotes": [
+        "Looks like Amazon okay well we took profits on that in the summer"
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Tesla so the mag 7 is what's getting hit there and now"
+      ]
+    },
+    {
+      "ticker": "HUM",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Research for potential opportunity",
+      "key_quotes": [
+        "Human is on your radar what are your thoughts on Humanity now the stock is going down stock is 20 uh okay so let's see what's happening with human we haven't done anything with this yet we're not in a rush to do anything we've got a lot of companies that we love"
+      ]
+    },
+    {
+      "ticker": "XOM",
+      "tom_sentiment": "Neutral",
+      "conviction": 4,
+      "actionable": "Pass",
+      "key_quotes": [
+        "For me you know the time to buy it was in 2020 when we were buying Exxon Mobile hand over fist in the hole now that it's up eight bagger everyone can you know oh no it's it's not for me because it's not going to double from here over"
+      ]
+    },
+    {
+      "ticker": "KSS",
+      "tom_sentiment": "Bearish",
+      "conviction": 2,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "Could you please take a look at coals no interest in Coals that thing has been dead money for a while and I think will continue to be"
+      ]
+    },
+    {
+      "ticker": "AZO",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Yeah that was from Nolan about the AutoZone P just going to take time"
+      ]
+    },
+    {
+      "ticker": "INMD",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Research for potential opportunity",
+      "key_quotes": [
+        "Let's take a look at inmd I think it's medical device is all right this is a broken stock let's see if they're generating any cash they are generating a lot of cash"
+      ]
+    },
+    {
+      "ticker": "PZZA",
+      "tom_sentiment": "Bullish",
+      "conviction": 6,
+      "actionable": "Research for potential opportunity",
+      "key_quotes": [
+        "I can see let me just see if they're doing okay with revenues and cash flow I think this is going to work because this is going to fall in the discretionary bucket and I've wanted to find some restaurants now that everyone hates them"
+      ]
+    },
+    {
+      "ticker": "TXT",
+      "tom_sentiment": "Bearish",
+      "conviction": 3,
+      "actionable": "Pass",
+      "key_quotes": [
+        "Now for me I don't buy things that are up 5x uh in a in three years that someone else already took the juice out of that trade so I'm going to pass"
+      ]
+    },
+    {
+      "ticker": "BA",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Boeing management potentially diluting shares a concern no that's a positive because they keep their investment rating they get more staying power against the unions they'll negotiate a better deal turn the spets back Lo back on deal with their backlog start to generate cash flow and buy back the stock"
+      ]
+    }
+  ],
+  "new_or_recent_additions": [
+    "INTC"
+  ],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy Intel (INTC)",
+      "conviction": 10
+    },
+    {
+      "rank": 2,
+      "idea": "Buy Baba (BABA) on dips",
+      "conviction": 10
+    },
+    {
+      "rank": 3,
+      "idea": "Overweight UNM Magnificent 493 vs Magnificent 7",
+      "conviction": 8
+    },
+    {
+      "rank": 4,
+      "idea": "Buy Costco (COST) on technical dips",
+      "conviction": 7
+    },
+    {
+      "rank": 5,
+      "idea": "Research Inmd (INMD) for potential opportunity",
+      "conviction": 7
+    },
+    {
+      "rank": 6,
+      "idea": "Research Pzza (PZZA) for potential opportunity",
+      "conviction": 6
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Skew option skew is at 10-year highs, indicating potential for a correction.",
+    "Pre-election volatility is typical in October.",
+    "Potential for a ballistic missile attack against Israel.",
+    "Dock strike could negatively impact the market if not resolved quickly.",
+    "Tax loss harvesting in October could create short-term selling pressure."
+  ],
+  "technical_takeaways": "The first 10 days of October in an election year are historically volatile and negative. After that, the market tends to recover and rally into year-end.",
+  "publish_date": "2024-10-03"
+}

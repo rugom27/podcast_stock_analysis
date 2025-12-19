@@ -1,0 +1,231 @@
+{
+  "episode_number": "285",
+  "episode_date": "2025-04-03",
+  "executive_summary": "Tom Hayes is extremely bullish on international stocks, particularly China Tech, and sees a buying opportunity in high-quality companies affected by tariff fears. He believes the market has priced in the worst-case scenario and that any short-term pain will lead to long-term gains. He is particularly excited about opportunities in the home building sector and related industries as mortgage rates decline. He emphasizes the importance of being a selective buyer during times of crisis and dislocation, focusing on companies with strong moats and durable businesses.",
+  "tom_current_conviction": {
+    "overall_market": "Bullish, especially on international and value stocks.",
+    "score_1_to_10": 9,
+    "key_reasons": [
+      "Market has priced in the worst-case tariff scenario.",
+      "International stocks are poised to outperform US stocks.",
+      "Value stocks are outperforming growth stocks.",
+      "Manufacturing jobs are growing.",
+      "The dollar is collapsing."
+    ]
+  },
+  "macro_thesis_summary": "The market is experiencing a clearing event related to tariff uncertainty, which creates opportunities to buy high-quality companies at discounted prices. International markets, particularly China, are poised to outperform the US due to stimulus and a weaker dollar. The housing sector is set to benefit from declining mortgage rates and demographic trends.",
+  "key_macro_data_points": [
+    {
+      "indicator": "AAII Bearish Sentiment Index",
+      "value": "Worse than during the COVID lows and the Great Financial Crisis lows.",
+      "tom_interpretation": "This extreme bearishness indicates a buying opportunity."
+    },
+    {
+      "indicator": "US 10-Year Treasury Yield",
+      "value": "Drops below 4%.",
+      "tom_interpretation": "This is what mortgage rates price off of and is going to get all these things going."
+    },
+    {
+      "indicator": "China's Factory Activity Growth",
+      "value": "At one-year high.",
+      "tom_interpretation": "Go where the stimulus is."
+    },
+    {
+      "indicator": "US Auto Sales",
+      "value": "Up 8.8% in March.",
+      "tom_interpretation": "Volumes are going to be through the roof."
+    }
+  ],
+  "featured_company_deep_dives": {
+    "Intel": {
+      "thesis_summary": "Intel is poised for a legendary turnaround due to its new CEO, focus on engineering talent, and shift to becoming a producer of chips, taking market share from Taiwan Semiconductor.",
+      "key_metrics": [
+        "Focus on engineering talent",
+        "Proprietary software development",
+        "Expansion into Foundry business"
+      ],
+      "conviction": "High",
+      "action": "Buy"
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 10,
+      "price_target_or_upside": "$170",
+      "actionable": "Buy",
+      "position_status": "Largest position",
+      "key_quotes": [
+        "Our largest position that we've built up over the last year and a half has been Alibaba uh we think that's going to continue to outperform",
+        "Alibaba has staged a quiet hundred billion doll rally Ai and Jack Ma's return are at the heart of it",
+        "Alibaba price Target raised to $170 at mizuo top pick in Asia internet AKA opinion follows Trend"
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 9,
+      "actionable": "Buy",
+      "position_status": "Added to position",
+      "key_quotes": [
+        "Intel was one of the stocks we were in buying today as well not just VF Corp but Intel",
+        "Intel's new CEO vows to compete with nvidia's best AI server",
+        "This is Mana from heaven"
+      ]
+    },
+    {
+      "ticker": "SWK",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 9,
+      "actionable": "Buy",
+      "key_quotes": [
+        "were we buying Stanley Black and& Decker today you bet your ass we were buying Stanley Black and& Decker like it was going out of style"
+      ]
+    },
+    {
+      "ticker": "GNRC",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 9,
+      "actionable": "Buy",
+      "key_quotes": [
+        "were we buying gener today you bet your bottom dollar we were buying gener today"
+      ]
+    },
+    {
+      "ticker": "BA",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "Double in 2-3 years",
+      "actionable": "Buy",
+      "key_quotes": [
+        "Boeing I mean I love it here it's does it go lower sure it could go lower it could go back to 138 but I mean if you're not starting to buy it here and you don't see two three years out this thing's a double then I I can't help you",
+        "I'm not worried about owning Boeing at $140 or $150 they're in a duopoly"
+      ]
+    },
+    {
+      "ticker": "VF Corp",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Buy",
+      "key_quotes": [
+        "I can guarantee you 100% if you're going to sell your VF Corp today there will be a buyer",
+        "We were in the market buying"
+      ]
+    },
+    {
+      "ticker": "Cooper Standard",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Buy",
+      "key_quotes": [
+        "Volumes are going to be through the roof",
+        "The cash is going to spew out it's going to surprise everyone and this thing will be over 20 in no time"
+      ]
+    },
+    {
+      "ticker": "PayPal",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Buy",
+      "key_quotes": [
+        "We were buying the hell out of PayPal today",
+        "Cash machine"
+      ]
+    },
+    {
+      "ticker": "DIIO",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Buy",
+      "key_quotes": [
+        "We bought a few shares today"
+      ]
+    },
+    {
+      "ticker": "QXO",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Buy",
+      "key_quotes": [
+        "QXO is going to be a beneficiary"
+      ]
+    },
+    {
+      "ticker": "Etsy",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Buy",
+      "key_quotes": [
+        "Etsy's fine we bought some yesterday today it was actually was it yesterday I don't know two days ago it was down to 46 then it rallied to 49 on the tariffs and today was 4 it doesn't matter under $50 we a buyer"
+      ]
+    }
+  ],
+  "new_or_recent_additions": [
+    "INTC",
+    "DIIO",
+    "PayPal",
+    "SWK",
+    "GNRC",
+    "QXO",
+    "Etsy"
+  ],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy Alibaba (BABA)",
+      "conviction": 10
+    },
+    {
+      "rank": 2,
+      "idea": "Buy Intel (INTC)",
+      "conviction": 9
+    },
+    {
+      "rank": 3,
+      "idea": "Buy Stanley Black & Decker (SWK)",
+      "conviction": 9
+    },
+    {
+      "rank": 4,
+      "idea": "Buy Generac (GNRC)",
+      "conviction": 9
+    },
+    {
+      "rank": 5,
+      "idea": "Buy Boeing (BA)",
+      "conviction": 8
+    },
+    {
+      "rank": 6,
+      "idea": "Buy VF Corp",
+      "conviction": 8
+    },
+    {
+      "rank": 7,
+      "idea": "Buy Cooper Standard",
+      "conviction": 8
+    },
+    {
+      "rank": 8,
+      "idea": "Buy PayPal",
+      "conviction": 8
+    },
+    {
+      "rank": 9,
+      "idea": "Buy DIIO",
+      "conviction": 7
+    },
+    {
+      "rank": 10,
+      "idea": "Buy QXO",
+      "conviction": 7
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Potential for short-term market volatility due to tariff uncertainty.",
+    "Risk of recession, although Tom believes it is unlikely.",
+    "Mag 7 stocks may underperform due to increased capex and decelerating earnings."
+  ],
+  "technical_takeaways": "The market is showing signs of short-term capitulation, with extreme levels of bearish sentiment and oversold conditions. Technical bounces are likely in the coming days and weeks. Value stocks are outperforming growth stocks, and international stocks are poised to outperform US stocks."
+}

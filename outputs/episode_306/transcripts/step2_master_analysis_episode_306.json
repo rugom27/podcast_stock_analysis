@@ -1,0 +1,353 @@
+{
+  "episode_number": "306",
+  "episode_date": "2025-08-28",
+  "executive_summary": "Tom Hayes remains constructive on the market, citing positive earnings, rising earnings estimates, and the potential for Fed rate cuts. He emphasizes the importance of being selective and focusing on laggards, small caps, and companies that will benefit from reshoring and lower rates. He is extremely bullish on Alibaba, calling it a \"pile in on\" opportunity and highlighting its growth in e-commerce, cloud, and AI. He also expresses optimism about Intel due to government support and its potential to alleviate supply constraints for Nvidia. He is also very bullish on QXO and Generac.",
+  "tom_current_conviction": {
+    "overall_market": "Constructive, but selective",
+    "score_1_to_10": 8,
+    "key_reasons": [
+      "Powell, 86% chance of a cut in September, 82% of two cuts by December.",
+      "Earnings have been blowout earnings. We were expecting 4.8% earnings growth. We got 11.8%.",
+      "Earnings estimates are going up for next year. went from $300 a share to $33 a share, which brings the multiple down a little bit.",
+      "Institutional positioning is elevated in equities, but it's not yet extreme."
+    ]
+  },
+  "macro_thesis_summary": "The market is a discounting mechanism looking out to 2026, with 13.6% estimated earnings growth and close to 7% revenue growth. Powell is going to help small caps and the unmnificent 493 that have kind of lagged. Lower rates will be a tailwind for the economy.",
+  "key_macro_data_points": [
+    {
+      "indicator": "S&P 500 Earnings",
+      "value": "11.8% growth",
+      "tom_interpretation": "Blowout earnings, exceeding expectations of 4.8%."
+    },
+    {
+      "indicator": "2026 Earnings Estimates",
+      "value": "$303/share",
+      "tom_interpretation": "Estimates have gone way up, taking the multiple down a little lower. Companies are getting confident and upgrading their guidance."
+    },
+    {
+      "indicator": "Hang Seng YTD",
+      "value": "Up 30%",
+      "tom_interpretation": "Chinese equities are outperforming US equities 3 to 1."
+    },
+    {
+      "indicator": "US Factory Activity",
+      "value": "Fastest pace since 2022",
+      "tom_interpretation": "The reshoring efforts are working."
+    },
+    {
+      "indicator": "Federal Debt Held by Public",
+      "value": "Superior fundamentals justified tax valuation gap",
+      "tom_interpretation": "The name of the game now is every $300 billion is 1% of GD is a 1% improvement in the deficit."
+    }
+  ],
+  "featured_company_deep_dives": {
+    "Alibaba": {
+      "thesis_summary": "Alibaba is the Amazon of China and a toll taker on the middle class. It has the largest retail business in Taoba and T-Mol, 40% of the cloud business, and its AI component is growing triple digits every quarter. It is undervalued compared to US companies.",
+      "key_metrics": [
+        "Largest retail business in Taoba and T-Mol",
+        "40% of the cloud business",
+        "AI component growing triple digits every quarter",
+        "International commerce business growing at about 30%",
+        "20% estimated earnings growth next year",
+        "Trading at about 13 times earnings"
+      ],
+      "price_target_or_valuation": "Implies an Alibaba somewhere around 160.",
+      "conviction": "Extremely Bullish",
+      "action": "\"Pile in on\""
+    },
+    "Intel": {
+      "thesis_summary": "Government backstop for Intel is a signal to the world that Intel is here to stay. It is a national security matter. We need to produce chips in the US. Intel is furthest along. They're at the 10 yard line. They needed this boost to get into the end zone and and spike the football.",
+      "key_metrics": [
+        "Government support",
+        "Potential to alleviate supply constraints for Nvidia",
+        "Masayoshan, who was one of the first investors in Alibaba, made his fortune through Alibaba, put up $2 billion into Intel because he believes they're going to be a leader in advanced chips."
+      ],
+      "conviction": "Very Bullish",
+      "action": "Buy"
+    },
+    "QXO": {
+      "thesis_summary": "QXO is a levered arms dealer play on housing and a bet on Brad Jacobs. It aims to build a $50 billion plus powerhouse in the $800 billion building products distribution industry.",
+      "key_metrics": [
+        "Brad Jacobs track record",
+        "Revenues of 1.91 billion beat consensus of 1.87 billion",
+        "EPS of 11 cents came ahead of 7 cents expectations",
+        "Management remains confident in at least doubling legacy beacon Ibida organically while also driving over 500 basis points of margin expansion"
+      ],
+      "price_target_or_valuation": "Now they're all taking price targets up to as high as $50.",
+      "conviction": "Very Bullish",
+      "action": "Buy"
+    },
+    "Generac": {
+      "thesis_summary": "Generac is a picks and shovel plays on the housing recovery and has morphed into an AI and data center play. It is a high-quality market leader with nearly 80% market share, strong normalized earnings, a solid balance sheet, a shareholder friendly management team with skin in the game, and secular tailwinds that weren't going anywhere.",
+      "key_metrics": [
+        "High-quality market leader with nearly 80% market share",
+        "Strong normalized earnings",
+        "Solid balance sheet",
+        "Shareholder friendly management team with skin in the game",
+        "Free cash flow inflected and hit a record high of 605 million with another strong year of 400 plus million on deck for 2025",
+        "Entry into the megawatt generator market for AI and data centers"
+      ],
+      "conviction": "Very Bullish",
+      "action": "Buy"
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Extremely Bullish",
+      "conviction": 10,
+      "price_target_or_upside": "Implies an Alibaba somewhere around 160.",
+      "actionable": "Buy",
+      "position_status": "Major Holder",
+      "key_quotes": [
+        "You haven't missed it. It's just getting started with Alibaba.",
+        "Alibaba is kind of the Amazon of China.",
+        "It's a toll taker on the middle class.",
+        "You can buy 20% estimated earnings growth from an Alibaba for 13 times earnings. You can't get that anywhere in the United States.",
+        "The minute they shake hands, this stock is going to be up so so big because Chinese stocks have outperformed US stocks."
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "actionable": "Buy",
+      "position_status": "Major Shareholder",
+      "key_quotes": [
+        "I'm a major shareholder and I'm smiling so wide I could eat a banana sideways. I'm telling you this is the best thing that's ever happened to Intel.",
+        "This is the best news we've heard in a while. I I think you needed to see the government backs stop for Intel.",
+        "It is a national security matter. We need to produce chips in the US."
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "tom_sentiment": "Cautiously Bullish",
+      "conviction": 7,
+      "actionable": "Hold, Watch Guidance",
+      "key_quotes": [
+        "Earnings are probably going to be good. Okay, we know that the demand is there. The question is the supply and their guidance looking forward.",
+        "It is priced for really good things to happen. So if any aspect of the guidance is less than expected or slightly weak, you could have a little bit of short-term turbulence, but it's a juggernaut.",
+        "The best thing that could ever happen to Nvidia is that the Intel deal succeeds."
+      ]
+    },
+    {
+      "ticker": "QXO",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 9,
+      "actionable": "Buy",
+      "key_quotes": [
+        "Not only is QXO one of our favorite levered arms dealer plays on housing, it is also a bet on one of, if not the best jockeyies in the business.",
+        "Brad Jacobs track record speaks for itself.",
+        "QXO remains well on track to becoming a $50 billion powerhouse. I think it's going to be 100 uh over the next decade."
+      ]
+    },
+    {
+      "ticker": "GENER",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 9,
+      "actionable": "Buy",
+      "key_quotes": [
+        "Another one of our favorite picks and shovel plays on the housing recovery is Gener, or as we like to call it, the Kleenex of generators.",
+        "This past quarter was a complete gamecher for Generrack. What began as a sleepy contrarian Dtock restock turnaround has morphed into an AI and data center play for us.",
+        "I think this is by far and away one of the biggest needlemoving opportunities that I've seen in my time here in my three decades with the company."
+      ]
+    },
+    {
+      "ticker": "NOV",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Buy",
+      "key_quotes": [
+        "Second one we like is National Oil Well, Varco, N OV. They do onshore and offshore drilling, uh production, servicing. They're the number one player. Great balance sheet.",
+        "We love these two energy plays and they're not so sensitive to the price of crude particularly national oil wellco. So we love that to get what we need with AI and all the demand. These are the two stocks."
+      ]
+    },
+    {
+      "ticker": "DIS",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "actionable": "Hold",
+      "key_quotes": [
+        "By the way, a big holding of ours uh we were buyers in the low 80s is Disney. They screwed up the same thing. You know what? They've kind of fixed it. Not perfect."
+      ]
+    },
+    {
+      "ticker": "HRL",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "actionable": "Buy on dips",
+      "key_quotes": [
+        "So, we were in the market buying a ton of it this morning.",
+        "The demand is still there. The the protein is still in demand."
+      ]
+    },
+    {
+      "ticker": "VFC",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "actionable": "Hold",
+      "key_quotes": [
+        "That's the VF corps of the world."
+      ]
+    },
+    {
+      "ticker": "BA",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Boeing plans to sell 103 planes to Korean Air."
+      ]
+    },
+    {
+      "ticker": "BZH",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "actionable": "Hold",
+      "key_quotes": [
+        "I don't like the producers of homes. I like the BZH."
+      ]
+    },
+    {
+      "ticker": "LYV",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Neutral",
+      "key_quotes": [
+        "Eh, I'd rather buy Live Nation if I had to."
+      ]
+    },
+    {
+      "ticker": "SEDG",
+      "tom_sentiment": "Negative",
+      "conviction": 3,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "I don't want to be involved in this right now, which is probably the time to do it. I just hate those businesses because the polic you know, you have a policy headwind and you have negative free cash flow."
+      ]
+    },
+    {
+      "ticker": "SNBR",
+      "tom_sentiment": "Negative",
+      "conviction": 3,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "Well, there's no sign of a turn in there is  a sign of a turn in margins. I don't see any sign of a turn in revenues or in um free cash flow."
+      ]
+    },
+    {
+      "ticker": "DOCU",
+      "tom_sentiment": "Negative",
+      "conviction": 3,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "I don't know like other than the fact that everyone uses it and it has a little brand equity. I don't know what they do special that can't be replicated five ways from Sunday."
+      ]
+    },
+    {
+      "ticker": "XBI",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "actionable": "Hold",
+      "key_quotes": [
+        "No, we don't buy individual biotechs. We buy basket XBI we own."
+      ]
+    },
+    {
+      "ticker": "UH",
+      "tom_sentiment": "Negative",
+      "conviction": 2,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "There they're so negative cash flow negative eroders of nah not for me."
+      ]
+    },
+    {
+      "ticker": "HTZ",
+      "tom_sentiment": "Negative",
+      "conviction": 2,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "Herz, no, not interested."
+      ]
+    },
+    {
+      "ticker": "FLWS",
+      "tom_sentiment": "Neutral",
+      "conviction": 4,
+      "actionable": "Neutral",
+      "key_quotes": [
+        "Not my cup of tea."
+      ]
+    },
+    {
+      "ticker": "BZH",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "actionable": "Hold",
+      "key_quotes": [
+        "I don't like the producers of homes. I like the BZH."
+      ]
+    }
+  ],
+  "new_or_recent_additions": [
+    "Hormel (HRL)"
+  ],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy Alibaba (BABA)",
+      "conviction": 10
+    },
+    {
+      "rank": 2,
+      "idea": "Buy Intel (INTC)",
+      "conviction": 9
+    },
+    {
+      "rank": 3,
+      "idea": "Buy QXO",
+      "conviction": 9
+    },
+    {
+      "rank": 4,
+      "idea": "Buy Generac (GENER)",
+      "conviction": 9
+    },
+    {
+      "rank": 5,
+      "idea": "Buy National Oil Well Varco (NOV)",
+      "conviction": 8
+    },
+    {
+      "rank": 6,
+      "idea": "Buy Hormel (HRL) on dips",
+      "conviction": 6
+    },
+    {
+      "rank": 7,
+      "idea": "Hold Disney (DIS)",
+      "conviction": 6
+    },
+    {
+      "rank": 8,
+      "idea": "Hold VF Corp (VFC)",
+      "conviction": 6
+    },
+    {
+      "rank": 9,
+      "idea": "Hold Boeing (BA)",
+      "conviction": 6
+    },
+    {
+      "rank": 10,
+      "idea": "Hold BZH",
+      "conviction": 6
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Nvidia's business model relies on the kindness of strangers and they're only as good as Taiwan Semiconductors capacity to produce, which is limited.",
+    "China numbers are good until they're not. So, you're just gambling that it's going to prove to not be a fraud and that's like a coin flip in China."
+  ],
+  "technical_takeaways": "Small value global is the cheapest since 2000. If you pay attention to these three things, you will make insane amounts of money over the next 5 to seven years."
+}

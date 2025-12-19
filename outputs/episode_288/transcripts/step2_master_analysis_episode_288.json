@@ -1,0 +1,364 @@
+{
+  "episode_number": "288",
+  "episode_date": "2025-04-24",
+  "executive_summary": "Tom Hayes discusses the market recovery, high-quality businesses on sale, and potential compromises on tariffs. He highlights opportunities in international markets and specific stocks like Boeing, PayPal, Alibaba, and VF Corp. He emphasizes the importance of patience and focusing on free cash flow, while cautioning against leverage and following the herd. He also touches on potential bounces in the dollar and the impact of policy decisions on market sentiment.",
+  "tom_current_conviction": {
+    "overall_market": "Bullish",
+    "score_1_to_10": 9,
+    "key_reasons": [
+      "VIX crush indicating a rally.",
+      "Potential June Fed cut.",
+      "Positive talks with South Korea and India.",
+      "Trump signaling a willingness to compromise on tariffs.",
+      "Retail investors buying the dip."
+    ]
+  },
+  "macro_thesis_summary": "The market is in a recovery phase, with potential for further upside as policy uncertainty decreases and rational decisions are made regarding tariffs. International markets are poised to outperform, and a weaker dollar is expected in the intermediate term. Focus on companies with strong free cash flow and avoid excessive leverage.",
+  "key_macro_data_points": [
+    {
+      "indicator": "Durable Goods Orders",
+      "value": "Surged 9.2% in March",
+      "tom_interpretation": "Indicates a 'just in case' mentality among companies, with those having margin power and customer loyalty positioned to thrive."
+    },
+    {
+      "indicator": "China's Broad Budget Deficit",
+      "value": "Soaring in the first quarter",
+      "tom_interpretation": "Signifies massive stimulus spending aimed at increasing domestic consumption."
+    },
+    {
+      "indicator": "Dollar Overvaluation",
+      "value": "Most overvalued since the Plaza Accord",
+      "tom_interpretation": "Suggests a potential for a Mara Lago accord involving currency devaluation in lieu of higher tariffs, expecting a short-term bounce."
+    },
+    {
+      "indicator": "Retail Net Buying of S&P 500 Stocks",
+      "value": "Retail investors buying the dip",
+      "tom_interpretation": "Retail investors have been right since COVID and will continue to be right."
+    }
+  ],
+  "featured_company_deep_dives": {
+    "PayPal": {
+      "thesis_summary": "PayPal is undervalued, down 80% from its highs, with record free cash flow, increasing margins, and 425 million customers. CEO Alex Chris is expected to turn the business around, with significant share buybacks planned.",
+      "key_metrics": [
+        "Record free cash flow",
+        "Record revenues",
+        "Increasing margins",
+        "425 million customers"
+      ],
+      "conviction": "High",
+      "action": "Buy"
+    },
+    "Boeing": {
+      "thesis_summary": "Boeing is turning the corner with increased production, a growing backlog, and improving free cash flow. Concerns about Chinese deliveries are overblown, and the company's liquidity position is strong.",
+      "key_metrics": [
+        "Increasing 737 MAX production",
+        "Commercial backlog grew by more than 25 billion",
+        "Strong liquidity position"
+      ],
+      "price_target_or_valuation": "250 and beyond",
+      "conviction": "High",
+      "action": "Buy"
+    },
+    "Alibaba": {
+      "thesis_summary": "Alibaba is undervalued and poised to benefit from increased domestic consumption in China. The delisting risk is being hedged, and the company is a leader in AI and middle-class recovery.",
+      "key_metrics": [
+        "Leader in AI",
+        "Leader in middle-class recovery",
+        "Low multiples relative to growth",
+        "Southbound stock connect now 8.554%"
+      ],
+      "conviction": "High",
+      "action": "Buy"
+    },
+    "VF Corp": {
+      "thesis_summary": "VF Corp is undergoing a turnaround led by a proven executive, Bracken Darrell, and is well-positioned to benefit from its strong brands and restructuring efforts. Tariff concerns are overblown.",
+      "key_metrics": [
+        "Strong brands",
+        "Proven executive leadership",
+        "Restructuring efforts"
+      ],
+      "conviction": "High",
+      "action": "Buy"
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "PYPL",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "actionable": "Buy",
+      "key_quotes": [
+        "This is still down 80% since the co highs. We love this business. Record free cash flow record revenues margins increasing as you said 425 million customers globally.",
+        "Alex Chris is a winner. You want to bet on him for sure."
+      ]
+    },
+    {
+      "ticker": "BA",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "250 and beyond",
+      "actionable": "Buy",
+      "key_quotes": [
+        "At the end of the day, you know, the biggest joke I I I loved being on Vanney in real time when that headline came across that the Chinese are refusing are refusing Boeing deliveries. I mean, the Chinese refusing Boeing deliveries is like a diabetic refusing insulin.",
+        "Boeing's got a half a trillion dollar backlog and you were the ones that were selling at 130 and now it's at 173 going to 250 and beyond.",
+        "It's not that often you get to buy such a clear duopoly at such low prices. I mean something like that happens a couple times in a career and uh and it just recently happened. So I hope you all took advantage."
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "actionable": "Buy",
+      "position_status": "Hedged",
+      "key_quotes": [
+        "China tech groups lead multi-billion dollar campaign to help exporters sell at home domestic consumption. Who's the toll taker? 40 cents of every dollar? Ali effing baba.",
+        "Imagine being able to buy Amazon for the first time ever. Uh it's going to continue to flow and that's exactly what's happened.",
+        "We're grateful to Xi Jinping for taking so long to clean things up because it enabled us to have twice the size position that we would have had if he fixed it right away."
+      ]
+    },
+    {
+      "ticker": "VF CORP",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "actionable": "Buy",
+      "key_quotes": [
+        "You still got the same winner running the show uh turning things around and the tariffs will be what the tariffs are, but their their business modes are going to be their business modes and they're they've got they've done the Dtock. They're now going to ramp it up and Bracken's done this a gazillion times with different brands going back to his PNG days with Old Spice, then Logitech, 26 Bagger, and it's going to do the same exact thing."
+      ]
+    },
+    {
+      "ticker": "DIS",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Buy",
+      "key_quotes": [
+        "Disney stock is worth buying. Don't sweat the recession risk analyst says. We agree.",
+        "Going to be over 100 again. Going to be over 200 in a handful of years or less."
+      ]
+    },
+    {
+      "ticker": "HRL",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Consider",
+      "key_quotes": [
+        "Americans are obsessed with protein and is driving nutrition experts nuts. That's a play for Horell, which we've talked about."
+      ]
+    },
+    {
+      "ticker": "SMG",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "actionable": "Consider",
+      "key_quotes": [
+        "as it relates to SMG, which we do not hold a position, but we do like the idea, maybe maybe more than like the idea here because we do want to get some A exposure.",
+        "I do like it here, Drew. I think you're on your game and I I think your time is pretty good."
+      ]
+    },
+    {
+      "ticker": "NATIONAL VARCO",
+      "tom_sentiment": "Neutral",
+      "conviction": 6,
+      "actionable": "Hold",
+      "key_quotes": [
+        "National Varco is kind of a dog, but we've covered it a million times. I think at these levels, you're okay.",
+        "If you want to uh dig in the dumpster, I would say Varco is probably going to be, you know, probably be a double over a few years."
+      ]
+    },
+    {
+      "ticker": "AA",
+      "tom_sentiment": "Negative",
+      "conviction": 2,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "Alcoa, AA, this has always been a really bad business and a poorly run business. So I'm going to just say no because I've seen so many opportunities to buy it and uh passed every time and invariably was proved correct.",
+        "This is a business that I've never owned and never regretted not owning."
+      ]
+    },
+    {
+      "ticker": "QXO",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "actionable": "Buy",
+      "key_quotes": [
+        "Unless they fired the CEO since this offering was done, I want nothing to do with it. Like Brad Jacobs did an offering on QXO.",
+        "Again, this is one you tuck away and in 5 to 7 years you have a multibagger."
+      ]
+    },
+    {
+      "ticker": "ATKR",
+      "tom_sentiment": "Negative",
+      "conviction": 3,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "So what you need to prove out in order to take a stab at this is what's the turnaround plan and you know this is a serious broken momentum stock and this is where you can get trapped.",
+        "It's a broken It's a broken Momo stock."
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "tom_sentiment": "Negative",
+      "conviction": 2,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "Tesla net income dropping. Uh you got to believe in robots to buy this story, you know.",
+        "Just because everyone's talking about something doesn't mean you have to be involved."
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "They have to ask me about Tesla. They have to ask me about Nvidia. And the companies that are the best are the ones like Boeing that were completely forgotten."
+      ]
+    },
+    {
+      "ticker": "SPY",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Buy",
+      "key_quotes": [
+        "All this says in English is small cap with wide moat according to the morning star ratings has the greatest discount to fair value i.e. the most undervalued. If you don't have small cap exposure and you're skeptical because it hasn't worked yet, this would be a time to get on board in our view."
+      ]
+    },
+    {
+      "ticker": "RRC",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "We've done uh Vornnado. We've done uh um uh Range Resources."
+      ]
+    },
+    {
+      "ticker": "WFC",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "We've done uh Wells Fargo."
+      ]
+    },
+    {
+      "ticker": "XOM",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "We've done uh Exxon Mobile."
+      ]
+    },
+    {
+      "ticker": "GOOG",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "We did the the Google and the um Alphabet and Amazon we bought in uh fall of 2022 when no one wanted it."
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "We did the the Google and the um Alphabet and Amazon we bought in uh fall of 2022 when no one wanted it."
+      ]
+    },
+    {
+      "ticker": "TGT",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "morning. The Chinese are like we we don't know anything about those talks but okay. Uh but it shows and I think the key pivot point uh after the 90-day pause was meeting with the CEOs of Target, Walmart, Home Depot this morning and getting a sense of like, hey man, you know, we'd love to uh manufacture sneakers in Mississippi, but at the end of the day, uh the economics just don't work if we're not paying the workers $2 an hour."
+      ]
+    },
+    {
+      "ticker": "WMT",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "morning. The Chinese are like we we don't know anything about those talks but okay. Uh but it shows and I think the key pivot point uh after the 90-day pause was meeting with the CEOs of Target, Walmart, Home Depot this morning and getting a sense of like, hey man, you know, we'd love to uh manufacture sneakers in Mississippi, but at the end of the day, uh the economics just don't work if we're not paying the workers $2 an hour."
+      ]
+    },
+    {
+      "ticker": "HD",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "morning. The Chinese are like we we don't know anything about those talks but okay. Uh but it shows and I think the key pivot point uh after the 90-day pause was meeting with the CEOs of Target, Walmart, Home Depot this morning and getting a sense of like, hey man, you know, we'd love to uh manufacture sneakers in Mississippi, but at the end of the day, uh the economics just don't work if we're not paying the workers $2 an hour."
+      ]
+    },
+    {
+      "ticker": "USB",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Uh this guy is an absolute legend. He was the chairman and CEO of US Bank Corp when Warren Buffett owned US Bank Corp. And spoke about how incredible Jerry was in all of his annual letters and we were talking about his rollups. He's just uh one of the greatest banking CEOs in the history of the United States. And like all great uh men, t"
+      ]
+    }
+  ],
+  "new_or_recent_additions": [
+    "VF Corp"
+  ],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy Boeing (BA)",
+      "conviction": 9
+    },
+    {
+      "rank": 2,
+      "idea": "Buy PayPal (PYPL)",
+      "conviction": 9
+    },
+    {
+      "rank": 3,
+      "idea": "Buy Alibaba (BABA)",
+      "conviction": 9
+    },
+    {
+      "rank": 4,
+      "idea": "Buy VF Corp",
+      "conviction": 9
+    },
+    {
+      "rank": 5,
+      "idea": "Buy QXO",
+      "conviction": 9
+    },
+    {
+      "rank": 6,
+      "idea": "Buy Disney (DIS)",
+      "conviction": 8
+    },
+    {
+      "rank": 7,
+      "idea": "Consider Scotts Miracle Grow (SMG)",
+      "conviction": 7
+    },
+    {
+      "rank": 8,
+      "idea": "Consider Horell (HRL)",
+      "conviction": 7
+    },
+    {
+      "rank": 9,
+      "idea": "Hold National Varco (VAR)",
+      "conviction": 6
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Potential for a retest of the lows.",
+    "Tariff uncertainty and its impact on earnings.",
+    "Risk of policy errors leading to a recession.",
+    "Short-term bounce in the dollar before resuming its downtrend."
+  ],
+  "technical_takeaways": "Expect resistance at the downtrend line around 485484. A retest of 5100 is possible, but the bottom is likely in. The dollar is likely to go lower before a bounce."
+}

@@ -1,0 +1,357 @@
+{
+  "episode_number": "308",
+  "executive_summary": "This episode is extremely bullish, focusing on identifying undervalued opportunities and capitalizing on market dislocations. Tom emphasizes patience, a sound framework, and not trading on margin. He highlights the importance of understanding the underlying business and avoiding the 'shiniest objects' that lead to FOMO. He is particularly excited about Alibaba, PayPal, Hormel and Dagio.",
+  "tom_current_conviction": {
+    "overall_market": "Bullish, with a focus on specific sectors and companies.",
+    "score_1_to_10": 9,
+    "key_reasons": [
+      "Anticipation of Fed rate cuts.",
+      "Undervalued opportunities in defensive sectors.",
+      "Potential for significant gains in specific companies like Alibaba and PayPal."
+    ]
+  },
+  "macro_thesis_summary": "The market is in a mid-cycle expansion, with potential for consolidation before a year-end rally. Fed rate cuts are expected to drive further expansion, benefiting rate-sensitive sectors and small caps. Defensive sectors like staples, healthcare, and energy are currently overlooked and represent generational opportunities.",
+  "key_macro_data_points": [
+    {
+      "indicator": "Mortgage Rates",
+      "value": "30-year fixed below 6%, Option ARMs at 5.62%",
+      "tom_interpretation": "Confirms the thesis that rates are coming down, fueling the housing market."
+    },
+    {
+      "indicator": "ETF Market Share US Small Caps",
+      "value": "Record lows going back 30 years",
+      "tom_interpretation": "Small caps are just getting started."
+    },
+    {
+      "indicator": "S&P 500 Quarterly Year-on-Year EPS Growth",
+      "value": "11% vs 4% consensus expectations",
+      "tom_interpretation": "Earnings growth is strong and likely to continue."
+    },
+    {
+      "indicator": "PPI",
+      "value": "2.6% vs 3.3% expected",
+      "tom_interpretation": "Preview of coming attractions. The Fed could go 50 bips without blinking an eye, but they won't. They'll do 25 and then they'll have to play catch-up later."
+    }
+  ],
+  "featured_company_deep_dives": {
+    "BABA": {
+      "thesis_summary": "Alibaba is breaking out of denial and entering a parabolic move, driven by AI investments and regulatory support. The stock is expected to go well over $200.",
+      "key_metrics": [
+        "AI investments",
+        "Regulatory support",
+        "Hong Kong stock price and net flow from southbound stock connect"
+      ],
+      "conviction": "10",
+      "action": "Continue to hold and accumulate on dips."
+    },
+    "PAYPAL": {
+      "thesis_summary": "PayPal is in the aversion phase, similar to where Alibaba was previously. Alex Chris is executing well, and the stock is poised for a parabolic move by year-end.",
+      "key_metrics": [
+        "Free cash flow generation",
+        "Execution by Alex Chris",
+        "Aversion phase"
+      ],
+      "conviction": "9",
+      "action": "Buy it till my fingers bled."
+    },
+    "DIS": {
+      "thesis_summary": "Disney is just beginning its move to new highs, driven by profitable streaming, parks, and cruises.",
+      "key_metrics": [
+        "Profitable streaming",
+        "Moat around businesses",
+        "Parks and cruises"
+      ],
+      "conviction": "8",
+      "action": "Hold and accumulate."
+    },
+    "HRL": {
+      "thesis_summary": "Hormel is a dividend aristocrat with a proven track record of compounding wealth. Recent commodity cost increases have created a buying opportunity.",
+      "key_metrics": [
+        "59 consecutive years of dividend increases",
+        "Proven CEO Jeff Edinger",
+        "Commodity cost declines"
+      ],
+      "conviction": "9",
+      "action": "Add shares and collect the 4.5% dividend yield."
+    },
+    "DIAGIO": {
+      "thesis_summary": "Diagio is a classic story of cyclical downturns playing out within a long-term secular uptrend. The company is well-positioned to capitalize on the premiumization trend.",
+      "key_metrics": [
+        "Free cash flow recovery",
+        "Cost-cutting measures",
+        "Premiumization trend"
+      ],
+      "conviction": "8",
+      "action": "Sit on our hands and collect our 4% dividend and wait."
+    },
+    "INTC": {
+      "thesis_summary": "Intel is in early days of a turnaround, with government support and potential for significant growth in manufacturing tech.",
+      "key_metrics": [
+        "Government support",
+        "14A manufacturing capacity",
+        "Data center PC chip groups"
+      ],
+      "conviction": "8",
+      "action": "Hold and accumulate."
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "AAPL",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": []
+    },
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 10,
+      "price_target_or_upside": "Well over $200",
+      "actionable": "Strong Buy",
+      "position_status": "Largest position",
+      "key_quotes": [
+        "We are in the parabolic move stage. This is going to go well over $200 and everyone's going to start getting excited once there's a two handle on it.",
+        "Alibaba goes big with AI, 3.2 billion, zero coupon convertible bond. They're going all in on AI. I love it up here. Good for them."
+      ]
+    },
+    {
+      "ticker": "PYPL",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 9,
+      "actionable": "Strong Buy",
+      "key_quotes": [
+        "I'd be buying the out of PayPal. I'd be buying it till my fingers bled while everyone's saying, 'Is the market too high? Should I sell my indexes? Should I sell my mag seven?'",
+        "This thing is generating more cash than they know what to do with. This one is going to be another Alibaba where you're you get patient."
+      ]
+    },
+    {
+      "ticker": "COOPER",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "$80 and beyond",
+      "actionable": "Hold",
+      "position_status": "Large position",
+      "key_quotes": [
+        "Was it fun, you know, buying Cooper Standard at $5 and change and watching it go to 3.85 before going to 15 before dropping back to 9 before going to 25 before dropping back to 13 and now at, you know, whatever it is. What the hell is it? it's at uh almost $40 and on its way to 80 and beyond."
+      ]
+    },
+    {
+      "ticker": "AAP",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "You take a look at Advanced Auto Parts, which is up double off the lows in a few months. Sure, could it consolidate for, you know, four, six weeks before making the next move to 100? Sure, uh, before it doubles again."
+      ]
+    },
+    {
+      "ticker": "BAXTER",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Buy",
+      "key_quotes": [
+        "Backter, does this look like it's it's it's you're you're buying it frothy? Like if the market corrected 15% next month, my money is that not only would this not correct 15%. This would probably be up 20 to 30% because it's a defensive uh and you can see it did the exact same thing in the early 2000s. It has these cyclical dramatic flushes uncertainty over healthcare and then it works its way back up to new highs and this will be a four bagger."
+      ]
+    },
+    {
+      "ticker": "DIS",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "New highs",
+      "actionable": "Hold",
+      "key_quotes": [
+        "Disney, we've had a huge move in there. We bought a ton at 85, so it's 120, 117. This thing hasn't even started. This is going to work its way to new highs."
+      ]
+    },
+    {
+      "ticker": "GNRC",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "$200, $300 and beyond",
+      "actionable": "Hold",
+      "key_quotes": [
+        "Generrack has had it double over the last couple of months. This is just beginning its cycle. This is going to go work its way back 200, 300, and beyond."
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "$60, $100 and beyond",
+      "actionable": "Hold",
+      "key_quotes": [
+        "You are going to see this thing back over 60 back over a 100red and beyond as this thing works out over time"
+      ]
+    },
+    {
+      "ticker": "IWM",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "$330 minimum",
+      "actionable": "Hold",
+      "key_quotes": [
+        "Measured move implies another $90. So that would be 243. Uh so 34 330 minimum and and this is just early days for small caps."
+      ]
+    },
+    {
+      "ticker": "HRL",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "actionable": "Buy",
+      "key_quotes": [
+        "We were in the market buying as many shares as we could. And for those who sold us shares in the whole, we thank you for your service.",
+        "In the meantime, we'll continue to add shares where we can collect the five 4.5% dividend yield and growing by the way and watch this sleepy name recover."
+      ]
+    },
+    {
+      "ticker": "DIAGIO",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Buy",
+      "key_quotes": [
+        "Until then, we sit on our hands and collect our 4% dividend and wait."
+      ]
+    },
+    {
+      "ticker": "VFC",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "Four bagger plus",
+      "actionable": "Buy",
+      "key_quotes": [
+        "I could still buy VFC Corp at $16. Are you kidding me? Like, how many shares can I possibly get my hands on? I got Brack and Daryl. This is going to be a four bagger plus on the stock."
+      ]
+    },
+    {
+      "ticker": "UPS",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Watch",
+      "key_quotes": [
+        "Speaking of transport, I keep looking at UPS. We haven't done anything yet, but uh that's interesting."
+      ]
+    },
+    {
+      "ticker": "SBUX",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Watch",
+      "key_quotes": [
+        "I don't think I said 80. I think I said 60, but I don't think I'm going to get 60. I mean, look, here's a stock that's off 20 30%. I I'm not like that doesn't excite me."
+      ]
+    },
+    {
+      "ticker": "CRVL",
+      "tom_sentiment": "Neutral",
+      "conviction": 4,
+      "actionable": "Pass",
+      "key_quotes": [
+        "This is not what we do. We We look for massive dislocation. This is nowhere near that."
+      ]
+    },
+    {
+      "ticker": "ANF",
+      "tom_sentiment": "Bearish",
+      "conviction": 2,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "I have zero interest in this stock. This is already this was a 10. This is a broken tenbagger."
+      ]
+    },
+    {
+      "ticker": "EMN",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Pass",
+      "key_quotes": [
+        "It's not super dislocated, so we wouldn't be in this one. But this one will be fine long term."
+      ]
+    },
+    {
+      "ticker": "LBRT",
+      "tom_sentiment": "Bearish",
+      "conviction": 3,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "I mean, why would you buy this when you could buy Schlumbumberge or Hallebertton or National Oil Well, Varco? You don't need to own six of them. Pick the best and buy it."
+      ]
+    },
+    {
+      "ticker": "CZRP",
+      "tom_sentiment": "Bearish",
+      "conviction": 3,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "I understand it looks cheap, but uh for me, when these type of things break, they tend to take an awful long time to uh build a new shareholder base."
+      ]
+    },
+    {
+      "ticker": "LULU",
+      "tom_sentiment": "Neutral",
+      "conviction": 6,
+      "actionable": "Watch",
+      "key_quotes": [
+        "I am so tempted by this one and I'm not going to do anything because I don't want overlapping correlated bets and I've already got VF and that for me is a huge winner."
+      ]
+    },
+    {
+      "ticker": "FMC",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Watch",
+      "key_quotes": [
+        "Yeah, I think this one's going to be fine. I actually really like it here.",
+        "God, I love businesses like this. I really like this."
+      ]
+    },
+    {
+      "ticker": "LRN",
+      "tom_sentiment": "Bearish",
+      "conviction": 1,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "So, you're giving me a stock that's up uh 25x. No, thank you."
+      ]
+    }
+  ],
+  "new_or_recent_additions": [
+    "Hormel (HRL)",
+    "Diagio (DIAGIO)",
+    "FMC"
+  ],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy PayPal (PYPL)",
+      "conviction": 9
+    },
+    {
+      "rank": 2,
+      "idea": "Buy VFC Corp (VFC)",
+      "conviction": 9
+    },
+    {
+      "rank": 3,
+      "idea": "Buy Hormel (HRL)",
+      "conviction": 9
+    },
+    {
+      "rank": 4,
+      "idea": "Hold Alibaba (BABA)",
+      "conviction": 10
+    },
+    {
+      "rank": 5,
+      "idea": "Buy Dagio (DIAGIO)",
+      "conviction": 8
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Overcrowding in popular tech stocks.",
+    "Potential for short-term volatility.",
+    "Risk of company and country risk in China."
+  ],
+  "technical_takeaways": "Small caps are breaking out to all-time highs. Coffee prices are near record highs, creating margin compression for Starbucks. The market is in a mid-cycle expansion, with potential for consolidation before a year-end rally.",
+  "episode_date": "2025-09-11"
+}

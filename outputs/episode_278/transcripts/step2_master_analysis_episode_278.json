@@ -1,0 +1,270 @@
+{
+  "episode_number": "278",
+  "episode_date": "2025-02-13",
+  "executive_summary": "Tom Hayes is extremely bullish on China Tech, especially Alibaba, seeing a generational buying opportunity. He emphasizes the shift from growth to value, international outperformance, and the potential for small caps and emerging markets. He highlights specific stocks like Crown Castle and Horel as defensive plays with attractive dividends. He also notes the deflationary forces at play and the potential for bond yields to decline. He sees a buying opportunity in the next two weeks amidst market choppiness.",
+  "tom_current_conviction": {
+    "overall_market": "Bullish with short-term choppiness",
+    "score_1_to_10": 8,
+    "key_reasons": [
+      "Broadening market leadership beyond Mag 7",
+      "International outperformance, especially China",
+      "Deflationary forces leading to lower bond yields",
+      "Cyclical opportunities in small caps and emerging markets"
+    ]
+  },
+  "macro_thesis_summary": "The market is undergoing a shift from growth to value, with international equities outperforming US equities. Deflationary forces are emerging, which will lead to lower bond yields. Small caps and emerging markets are poised to outperform. The marginal Chinese buyer is going to be less incentivized to get money out of China in the next year or two when everything is going up.",
+  "key_macro_data_points": [
+    {
+      "indicator": "European Earnings Forecasts",
+      "value": "Rising",
+      "tom_interpretation": "Confirms the shift towards international outperformance."
+    },
+    {
+      "indicator": "US Stocks vs Rest of World",
+      "value": "75-year High",
+      "tom_interpretation": "Indicates an extreme, suggesting a potential reversal and opportunity in international markets."
+    },
+    {
+      "indicator": "Small Caps vs Large Caps",
+      "value": "22% Discount",
+      "tom_interpretation": "Presents a generational buying opportunity in small caps."
+    },
+    {
+      "indicator": "China Consumer Inflation",
+      "value": "Picking Up",
+      "tom_interpretation": "Counters the narrative of never-ending deflation in China."
+    },
+    {
+      "indicator": "Europe vs US Multiples",
+      "value": "Europe at Record Discount",
+      "tom_interpretation": "Further supports the thesis of international outperformance."
+    }
+  ],
+  "featured_company_deep_dives": {
+    "Alibaba": {
+      "thesis_summary": "Alibaba is a no-brainer investment due to its intrinsic value well in excess of $200 per share, its position as the number one cloud provider in China, and its complete play on the middle-class recovery with Tmall and Taobao. The company is also benefiting from the announcement that Apple will be using Alibaba's AI for Apple intelligence.",
+      "key_metrics": [
+        "Intrinsic value well in excess of $200 per share",
+        "Number one cloud provider in China",
+        "Complete play on the middle-class recovery",
+        "International growth up 40%"
+      ],
+      "price_target_or_valuation": "Well in excess of $200 per share",
+      "conviction": "Extremely High",
+      "action": "Buy on any weakness in the coming months for the long term."
+    },
+    "Crown Castle": {
+      "thesis_summary": "Crown Castle is a defensive stock with a 7% dividend yield and capital appreciation potential. The company is selling off its fiber business to Z group for $8 billion, which will enable them to buy back stock and pay down debt.",
+      "key_metrics": [
+        "7% dividend yield",
+        "40,000 cell phone towers",
+        "Selling off fiber business for $8 billion"
+      ],
+      "price_target_or_valuation": "Capital appreciation potential once they get rid of that albatross around their neck",
+      "conviction": "High",
+      "action": "Buy on any selloff in the next couple of days."
+    },
+    "Hormel": {
+      "thesis_summary": "Hormel is a defensive stock and dividend aristocrat with a 3.7% dividend yield and a 59-year track record of raising the dividend every single year. The company is also benefiting from the trend of people wanting high protein snacks.",
+      "key_metrics": [
+        "3.7% dividend yield",
+        "59-year track record of raising the dividend every single year",
+        "Benefiting from the trend of people wanting high protein snacks"
+      ],
+      "price_target_or_valuation": "Not Specified",
+      "conviction": "High",
+      "action": "Consider buying for its defensive nature and dividend yield."
+    },
+    "GXO Logistics": {
+      "thesis_summary": "GXO Logistics is a European exposed business with Brad Jacobs as chairman. The company is expected to be a nice beautiful double plus over time.",
+      "key_metrics": [
+        "European exposed business",
+        "Brad Jacobs as chairman",
+        "Duopoly"
+      ],
+      "price_target_or_valuation": "80, 100, 100 plus over the next handful of years",
+      "conviction": "High",
+      "action": "Hold and wait for the new CEO and CMA to get ironed out in the coming weeks and months."
+    },
+    "Intel": {
+      "thesis_summary": "Intel is poised for a comeback due to policy tailwinds and the need for American-designed and manufactured chips. The company is also benefiting from the fact that deep seek could generate similar type of performance with inferior chips.",
+      "key_metrics": [
+        "Policy tailwinds",
+        "American-designed and manufactured chips",
+        "Inferior chips"
+      ],
+      "price_target_or_valuation": "Not Specified",
+      "conviction": "High",
+      "action": "Buy on the weakness."
+    },
+    "Stanley Black & Decker and Generac": {
+      "thesis_summary": "These are the two best levered plays on a housing recovery. Massive units, smaller size units, smaller footprint.",
+      "key_metrics": [
+        "Free cash flow",
+        "Runway",
+        "Massive units, smaller size units, smaller footprint"
+      ],
+      "price_target_or_valuation": "Straight back to new highs",
+      "conviction": "High",
+      "action": "Buy and wait for the housing recovery."
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Extremely Bullish",
+      "conviction": 10,
+      "price_target_or_upside": "Well in excess of $200",
+      "actionable": "Buy on any weakness",
+      "position_status": "Core Holding",
+      "key_quotes": [
+        "This is an absolute no-brainer.",
+        "We look at intrinsic value we think is well in excess of $200 per share",
+        "Once we get through they're not going to let anyone in this is going to go to intrinsic value",
+        "I'd love to see it just hovering here between 119 and 108 for the next two months and just scare everyone out and get phone calls like oh is it going to hit the resistance again blah blah blah while the fund so maybe maybe earnings they'll be conservative and that'll be the excuse for them for it to trade down for a little bit knock out the weak sisters one more time just punish them again and then straight up to much much higher level so excited"
+      ]
+    },
+    {
+      "ticker": "PYPL",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "Around $120",
+      "actionable": "Buy on dips",
+      "position_status": "Existing Position",
+      "key_quotes": [
+        "Same exact story we've been in this one for a while buying every single dip basis $62 it ran right up to $90 Alex Chris is an unbelievable CEO came from into it"
+      ]
+    },
+    {
+      "ticker": "CCI",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "Capital appreciation potential",
+      "actionable": "Buy on dips",
+      "position_status": "New Addition",
+      "key_quotes": [
+        "This stock can really move up quite a bit so you get paid while you wait you get some capital appreciation over the next two years next couple of days use this opportunity to take advantage"
+      ]
+    },
+    {
+      "ticker": "HRL",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "Not Specified",
+      "actionable": "Consider Buying",
+      "position_status": "Under Review",
+      "key_quotes": [
+        "Another defensive stock that we're looking at in this context is horel the maker of spam of of all things spam spam horel chili all the protein snacks that people need whether they're just normally eating or whether they're on gp1s which is the new trend uh they want high protein stuff Skippy Planters Etc this has been kind of mismanaged since 2016 that CEO is leaving Jim C uh it's got a 3.7% dividend yield and they've been raising the dividend every single year for 59 years it's a dividend Aristocrat now that is a serious track record right that's right 59 years is a long way"
+      ]
+    },
+    {
+      "ticker": "GXO",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "price_target_or_upside": "80, 100, 100 plus over the next handful of years",
+      "actionable": "Hold",
+      "position_status": "Existing Position",
+      "key_quotes": [
+        "gxo is going to be a nice beautiful double plus over time",
+        "We added a ton at 42 when it dropped after the deal was called off"
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "Not Specified",
+      "actionable": "Buy on Weakness",
+      "position_status": "New Addition",
+      "key_quotes": [
+        "The only player in town yeah they can bring tsmc over here and they will but the only player in town is Intel and they got to make Intel work"
+      ]
+    },
+    {
+      "ticker": "GM",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "price_target_or_upside": "Not Specified",
+      "actionable": "Monitor",
+      "position_status": "Under Review",
+      "key_quotes": [
+        "The industry numbers are too low and I think management is also going to be conservative or negative on the call tomorrow because the oem's quarters were crap in terms of profitability great in terms of units"
+      ]
+    },
+    {
+      "ticker": "F",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "price_target_or_upside": "Not Specified",
+      "actionable": "Monitor",
+      "position_status": "Under Review",
+      "key_quotes": [
+        "The industry numbers are too low and I think management is also going to be conservative or negative on the call tomorrow because the oem's quarters were crap in terms of profitability great in terms of units"
+      ]
+    },
+    {
+      "ticker": "FMC",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "price_target_or_upside": "Not Specified",
+      "actionable": "Monitor",
+      "position_status": "Under Review",
+      "key_quotes": [
+        "I like both of these but we're not buying them yet but we would definitely want to be doing work on both of them for sure because when they turn they turn hard they're cyclical businesses they're not really own forever businesses but this one is turning around"
+      ]
+    },
+    {
+      "ticker": "UBER",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "Not Specified",
+      "actionable": "Pass",
+      "position_status": "Not Interested",
+      "key_quotes": [
+        "It's not what we do I'll leave that one to Mr Amman but I mean you really have to obviously dar's done a good job running the business you have to have some view on what's going to happen with autonomous and how it's going to impact them and This falls into the predict the future category which on the one hand is possible but it's not probable and I think things are going to change so much in this space"
+      ]
+    }
+  ],
+  "new_or_recent_additions": [
+    "CCI",
+    "INTC"
+  ],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy Alibaba on any weakness.",
+      "conviction": 10
+    },
+    {
+      "rank": 2,
+      "idea": "Buy Crown Castle on any selloff in the next couple of days.",
+      "conviction": 8
+    },
+    {
+      "rank": 3,
+      "idea": "Buy Intel on the weakness.",
+      "conviction": 8
+    },
+    {
+      "rank": 4,
+      "idea": "Hold GXO Logistics and wait for the new CEO and CMA to get ironed out in the coming weeks and months.",
+      "conviction": 7
+    },
+    {
+      "rank": 5,
+      "idea": "Consider buying Hormel for its defensive nature and dividend yield.",
+      "conviction": 7
+    },
+    {
+      "rank": 6,
+      "idea": "Buy Stanley Black & Decker and Generac and wait for the housing recovery.",
+      "conviction": 7
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Potential for short-term market choppiness in February",
+    "Risk of share dilution for Intel",
+    "Uncertainty regarding the timing of the housing recovery"
+  ],
+  "technical_takeaways": "Expect choppiness over the next two weeks. Be prepared to buy on dips."
+}

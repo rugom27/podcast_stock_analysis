@@ -1,0 +1,460 @@
+{
+  "episode_number": "300",
+  "episode_date": "2025-07-17",
+  "executive_summary": "Tom Hayes is extremely bullish, emphasizing that the market's V-shaped recovery has further to run, particularly in undervalued sectors. He highlights the potential for significant gains in consumer discretionary, energy, and housing-related stocks, driven by deregulation, tax cuts, and a shift in investor sentiment. He introduces National Oil Well Varco (NOV) as a new position, citing its strong fundamentals and potential for a multi-bagger run. He dismisses concerns about the market being overbought, arguing that many stocks have significant upside remaining. He believes that the Fed is behind the curve and that a shadow Fed may be named to lower rates.",
+  "tom_current_conviction": {
+    "overall_market": "Constructive. Hayes believes the market has more room to run, especially in specific sectors.",
+    "score_1_to_10": 9,
+    "key_reasons": [
+      "V-shaped recoveries tend to push higher than expected.",
+      "Institutions are still behind the curve and need to catch up.",
+      "Pro-business policies are being implemented, including tax cuts and deregulation.",
+      "Corporate and household balance sheets are underleveraged.",
+      "The Fed is artificially keeping rates high."
+    ]
+  },
+  "macro_thesis_summary": "Hayes believes that the economy is strong, driven by tax cuts, deregulation, and a shift from geopolitical concerns to growth-oriented policies. He argues that artificially high interest rates are the main impediment to economic growth and that a dovish shadow Fed may be necessary to correct this. He sees potential for significant growth in the housing market and consumer discretionary sectors.",
+  "key_macro_data_points": [
+    {
+      "indicator": "Core CPI",
+      "value": "Lower than expectations for the fifth consecutive month.",
+      "tom_interpretation": "This strengthens the case for rate cuts."
+    },
+    {
+      "indicator": "PPI",
+      "value": "0.0 month",
+      "tom_interpretation": "This is surprising and puts pressure on the Fed to consider rate cuts."
+    },
+    {
+      "indicator": "Tariff Revenue",
+      "value": "Record $27 billion collected in June.",
+      "tom_interpretation": "This shows that tariffs are benefiting the US and contributing to a budget surplus."
+    },
+    {
+      "indicator": "Household and Corporate Leverage",
+      "value": "Near record lows",
+      "tom_interpretation": "Indicates potential for credit expansion and economic growth."
+    }
+  ],
+  "featured_company_deep_dives": {
+    "NOV": {
+      "thesis_summary": "NOV is the largest OEM of rig systems, both onshore and offshore oil and gas and drilling. It has a strong balance sheet, generates significant free cash flow, and is well-positioned to benefit from the recovery in offshore drilling.",
+      "key_metrics": [
+        "Largest OEM of rig systems",
+        "Strong balance sheet with $1.2 billion cash and $1.7 billion debt",
+        "Nearly $1 billion free cash flow",
+        "4.1% dividend yield",
+        "Trades at just over four times cash flow"
+      ],
+      "price_target_or_valuation": "Potential for a 10x run similar to the early 2000s.",
+      "conviction": "High. Hayes sees NOV as a 'pony in the pile' and a multi-bagger opportunity.",
+      "action": "Buy. Hayes has added NOV as a new position."
+    },
+    "Advanced Auto Parts": {
+      "thesis_summary": "Turnaround play under new management (Shane O. Kelly) who is focused on deleveraging, closing unprofitable stores, and expanding in key markets. Targeting high single-digit margins by 2027-2028.",
+      "key_metrics": [
+        "Doubled off the bottoms",
+        "New management from HD Supply",
+        "Focus on deleveraging and profitable growth",
+        "Targeting high single-digit margins"
+      ],
+      "price_target_or_valuation": "Stock traded at $150 when margins were at high single digits. It's at $60ish today, going to $120 over the next couple years.",
+      "conviction": "Very High. Hayes says it's going to double again over the next couple of years.",
+      "action": "Buy. Hayes recommends taking a two-year view."
+    },
+    "Canada Goose": {
+      "thesis_summary": "Luxury brand undergoing a transformation by shifting to DTC, expanding product line beyond jackets, and targeting a broader customer base. Has record revenues, record free cash flow, and record margins.",
+      "key_metrics": [
+        "Record revenues, record free cash flow, and record margins",
+        "Shifting to DTC",
+        "Expanding product line",
+        "Family-controlled with 39.5% ownership"
+      ],
+      "price_target_or_valuation": "Still down 80-90% from its COVID highs.",
+      "conviction": "High. Hayes sees a great recovery ahead.",
+      "action": "Buy. Play the divergence between improving fundamentals and depressed price."
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "NOV",
+      "tom_sentiment": "Bullish",
+      "conviction": 10,
+      "price_target_or_upside": "Potential 10x run",
+      "actionable": "Buy",
+      "position_status": "New Addition",
+      "key_quotes": [
+        "It's the cheapest it's been since back when it was called that in 2001 through 2007. It it was uh at these levels right before it had a 10bagger.",
+        "There must be a pony in here somewhere.",
+        "We are going to drill baby drill"
+      ]
+    },
+    {
+      "ticker": "AAP",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "Going to $120 over the next couple years",
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "It's going to double again over the next couple of years.",
+        "You couldn't give this thing away."
+      ]
+    },
+    {
+      "ticker": "GOOS",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "Significant upside remaining",
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "This thing is just beginning the 365.",
+        "It's still down 80%. It has more cash flow, more revenues, more margins per share, not non-dilutive. The family owns 39.5 and it's still down, you know, 60 70%."
+      ]
+    },
+    {
+      "ticker": "VF",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "Back over $50 in a reasonable amount of time",
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "We've been buying every effing share that's been offered on the market for the last three weeks that we could get our hands on."
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "Off to the races",
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "This is the perfect setup",
+        "This gave me the first opportunity in many, many quarters to be able to put brand new clients in Alibaba below $110. I never thought that would come again."
+      ]
+    },
+    {
+      "ticker": "BA",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "Keep going",
+      "actionable": "Hold/Trim",
+      "position_status": "Existing",
+      "key_quotes": [
+        "It's up almost 100% in a few months, but in the long-term scheme of things, in a duopoly, it hasn't even started."
+      ]
+    },
+    {
+      "ticker": "SWK",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "Going to 140 before you can even blink an eye",
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "This thing's going to go to 140 before you can even blink an eye."
+      ]
+    },
+    {
+      "ticker": "QXO",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "Brad Jacobs is going to be doing more deals",
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "Brad Jacobs is going to be doing more deals. There's no question about it."
+      ]
+    },
+    {
+      "ticker": "DAL",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "Delta still has good financials relative to the peers."
+      ]
+    },
+    {
+      "ticker": "SBUX",
+      "tom_sentiment": "Positive",
+      "conviction": 5,
+      "actionable": "Wait for downgrade",
+      "position_status": "Neutral",
+      "key_quotes": [
+        "I hope they keep downgrading so I can buy some shares."
+      ]
+    },
+    {
+      "ticker": "PG",
+      "tom_sentiment": "Negative",
+      "conviction": 2,
+      "actionable": "Pass",
+      "position_status": "Neutral",
+      "key_quotes": [
+        "I'm a pass on that."
+      ]
+    },
+    {
+      "ticker": "RIVN",
+      "tom_sentiment": "Very Negative",
+      "conviction": 10,
+      "actionable": "Avoid",
+      "position_status": "Neutral",
+      "key_quotes": [
+        "I wouldn't buy this with your money.",
+        "It's toast. It's roadkill."
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "tom_sentiment": "Positive",
+      "conviction": 5,
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "Trump has dialed down the stuff. He allowed Nvidia now to sell their H20 chips to China as a complete olive branch and we are going to be off to the races with or without you."
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "tom_sentiment": "Positive",
+      "conviction": 5,
+      "actionable": "Hold",
+      "position_status": "Neutral",
+      "key_quotes": [
+        "There will always be a niche for that business, which will be Tesla."
+      ]
+    },
+    {
+      "ticker": "DIS",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "It's going a lot higher."
+      ]
+    },
+    {
+      "ticker": "MAC",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "Nothing's better."
+      ]
+    },
+    {
+      "ticker": "GXO",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "The game is back on."
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "It's not even begun."
+      ]
+    },
+    {
+      "ticker": "PYPL",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "We're not in it for anything under 150."
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        ""
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        ""
+      ]
+    },
+    {
+      "ticker": "XOM",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        ""
+      ]
+    },
+    {
+      "ticker": "REGN",
+      "tom_sentiment": "Positive",
+      "conviction": 5,
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        ""
+      ]
+    },
+    {
+      "ticker": "BIIB",
+      "tom_sentiment": "Positive",
+      "conviction": 5,
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        ""
+      ]
+    },
+    {
+      "ticker": "BAX",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        ""
+      ]
+    },
+    {
+      "ticker": "HBI",
+      "tom_sentiment": "Neutral",
+      "conviction": 4,
+      "actionable": "Trade",
+      "position_status": "Existing",
+      "key_quotes": [
+        ""
+      ]
+    },
+    {
+      "ticker": "VFC",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        ""
+      ]
+    },
+    {
+      "ticker": "COP",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        ""
+      ]
+    },
+    {
+      "ticker": "ATS",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        ""
+      ]
+    },
+    {
+      "ticker": "UBI",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        ""
+      ]
+    },
+    {
+      "ticker": "CLOROX",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        ""
+      ]
+    },
+    {
+      "ticker": "TPL",
+      "tom_sentiment": "Negative",
+      "conviction": 3,
+      "actionable": "Avoid",
+      "position_status": "Existing",
+      "key_quotes": [
+        ""
+      ]
+    },
+    {
+      "ticker": "LTM",
+      "tom_sentiment": "Neutral",
+      "conviction": 4,
+      "actionable": "Trade",
+      "position_status": "Existing",
+      "key_quotes": [
+        ""
+      ]
+    }
+  ],
+  "new_or_recent_additions": [
+    "NOV"
+  ],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy National Oil Well Varco (NOV) for a potential 10x run, citing its strong fundamentals and a 'pony in the pile' opportunity.",
+      "conviction": 10
+    },
+    {
+      "rank": 2,
+      "idea": "Buy Advanced Auto Parts (AAP) for a two-year turnaround play, expecting the stock to double again.",
+      "conviction": 9
+    },
+    {
+      "rank": 3,
+      "idea": "Buy Canada Goose (GOOS) to play the divergence between improving fundamentals and depressed price, expecting a great recovery.",
+      "conviction": 8
+    },
+    {
+      "rank": 4,
+      "idea": "Buy VF Corp (VFC) as it is undervalued and the company is buying back shares.",
+      "conviction": 7
+    },
+    {
+      "rank": 5,
+      "idea": "Buy Alibaba (BABA) as it is undervalued and waiting for a deal between Trump and Xi.",
+      "conviction": 8
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "The market is overbought, but V-shaped recoveries can stay overbought for a while.",
+    "The Fed may be behind the curve and a shadow Fed may be named to lower rates.",
+    "Consensus is building that the market is overbought, which may be a contrarian indicator."
+  ],
+  "technical_takeaways": "V-shaped recoveries tend to push a little bit faster than everyone expects. Overbought can remain overbought."
+}

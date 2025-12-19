@@ -1,0 +1,290 @@
+{
+  "episode_number": "299",
+  "episode_date": "2025-07-10",
+  "executive_summary": "Tom Hayes is bullish on China stimulus benefiting Alibaba, Disney parks, and Nvidia. He highlights opportunities in undervalued sectors like energy and housing, and favors small caps and international equities. He emphasizes value investing and buying unloved stocks, while cautioning against chasing high-flying tech stocks. He also likes Backter International with the new CEO and Comstock Resources due to its low cost production and proximity to data centers.",
+  "tom_current_conviction": {
+    "overall_market": "Bullish, favoring undervalued sectors and small caps.",
+    "score_1_to_10": 9,
+    "key_reasons": [
+      "China stimulus is coming, benefiting Alibaba.",
+      "Housing market deals are emerging as builder inventory hits 2009 levels.",
+      "Small cap stocks are getting a big boost.",
+      "Unloved stocks rally is luring some big buyers off the sidelines."
+    ]
+  },
+  "macro_thesis_summary": "The market is shifting towards value and unloved stocks, with opportunities in small caps, international equities, energy, and housing. A weaker dollar will benefit emerging market assets and gold. Fed rate cuts are anticipated, which will boost equities. China's stimulus will drive growth. Investors should focus on where the puck is going, not what worked in the rear view mirror.",
+  "key_macro_data_points": [
+    {
+      "indicator": "Credit card delinquency rates",
+      "value": "Peaking and starting to roll over",
+      "tom_interpretation": "Positive sign for consumer health."
+    },
+    {
+      "indicator": "Boeing monthly aircraft deliveries",
+      "value": "Went through the roof",
+      "tom_interpretation": "Indicates a turnaround and growth potential."
+    },
+    {
+      "indicator": "Global equities",
+      "value": "Outperform when the dollar declines",
+      "tom_interpretation": "Supports international equity allocation."
+    },
+    {
+      "indicator": "China June car sales",
+      "value": "Hit record for the month on subsidy boost",
+      "tom_interpretation": "Positive sign for China's economy and consumer demand."
+    }
+  ],
+  "featured_company_deep_dives": {
+    "Backter International": {
+      "thesis_summary": "Backter International is poised for a turnaround with the appointment of Andrew Hitter as CEO, who has a proven track record of success at ATS. The healthcare sector is left for dead and now going to start to rock a turnaround Tom style.",
+      "key_metrics": [
+        "Andrew Hitter took ATS from $57 to nearly $500 in seven years (seven bagger in seven years)."
+      ],
+      "conviction": "High",
+      "action": "Buy"
+    },
+    "Comstock Resources": {
+      "thesis_summary": "Comstock Resources is a no-brainer due to its low-cost production, strategic positioning near data centers, and long-term natural gas theme. Investing with Jerry Jones. Lowest cost producer with a cost structure that's 48% lower than pure averages.",
+      "key_metrics": [
+        "Lowest cost producer with a cost structure that's 48% lower than pure averages.",
+        "Massive 520,000 netacre footprint in the western Hannesville region.",
+        "Proximity to Houston and Dallas prime locations for future data centers."
+      ],
+      "conviction": "High",
+      "action": "Buy"
+    },
+    "Alibaba": {
+      "thesis_summary": "Alibaba is a compelling investment due to China stimulus, strong growth in AI-related products, international commerce profitability, and management's commitment to share repurchases and dividends. This is the cheapest best AI play in the world.",
+      "key_metrics": [
+        "International commerce remains on track to achieve its first profitable quarter.",
+        "Revenue from AI related products posted tripledigit growth for seven consecutive quarters.",
+        "Management repurchased 11.9 billion worth of shares during the year, reducing the share count by 5.1%."
+      ],
+      "conviction": "High",
+      "action": "Buy"
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 10,
+      "price_target_or_upside": "N/A",
+      "actionable": "Buy",
+      "position_status": "New money to work",
+      "key_quotes": [
+        "China stimulus is coming. That's going to be good for Alibaba BABA, in particular.",
+        "Revenue from AI related products posted tripledigit growth for seven consecutive quarters. This is the cheapest best AI play in the world.",
+        "First time in a long time that we've been able to put new money to work in Alibaba."
+      ]
+    },
+    {
+      "ticker": "DIS",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "N/A",
+      "key_quotes": [
+        "Disney DIS, Disney's DIS parks are doing great. They're going to continue to do great."
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "N/A",
+      "key_quotes": [
+        "Nvidia NVDA, Nvidia's NVDA just continues to go up."
+      ]
+    },
+    {
+      "ticker": "BA",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "Headed to 300",
+      "actionable": "Buy",
+      "position_status": "N/A",
+      "key_quotes": [
+        "Boeing delivers most airplanes since late 2023 after ramping up 737 max output. The game is on, ladies and gentlemen. You were there for the turn. You hung in there from 150 down to 135. Most of you bought a lot more at 135. Now we're at 230, headed to 300."
+      ]
+    },
+    {
+      "ticker": "VF",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "N/A",
+      "actionable": "Buy",
+      "position_status": "New money to work",
+      "key_quotes": [
+        "VF Corp, easy to put new money there. That was like a complete no-brainer this week. Super excited about that one."
+      ]
+    },
+    {
+      "ticker": "ATS",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 10,
+      "price_target_or_upside": "Seven bagger in seven years",
+      "actionable": "Buy",
+      "position_status": "N/A",
+      "key_quotes": [
+        "Backter International, the sleepy do nothing giant for the last year, names ATS Andrew Hitter as next CEO.",
+        "Seven bagger in seven years. Ladies and gentlemen, this is this guy's a winner."
+      ]
+    },
+    {
+      "ticker": "PYPL",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "N/A",
+      "actionable": "Buy",
+      "position_status": "N/A",
+      "key_quotes": [
+        "PayPal jumped up from 58 to 75 and and then I was like I was looking I was like, \"God, that's moved a lot. Do I put new money to work here?\" And then I just zoomed out. I was like, \"Uh, are you kidding?\" Like, \"How much money can we put to work?\""
+      ]
+    },
+    {
+      "ticker": "UNH",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "N/A",
+      "actionable": "Maybe",
+      "position_status": "N/A",
+      "key_quotes": [
+        "UNH maybe"
+      ]
+    },
+    {
+      "ticker": "QXO",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "N/A",
+      "key_quotes": [
+        "I do know they're not going to disrupt putting tar shingles on roofs with QXO and Brad Jacobs. They're just going to make them more efficient and bring more profits to the bottom line."
+      ]
+    },
+    {
+      "ticker": "FBI",
+      "tom_sentiment": "Interesting",
+      "conviction": 6,
+      "price_target_or_upside": "N/A",
+      "actionable": "Watch",
+      "position_status": "N/A",
+      "key_quotes": [
+        "FBI, Fortune Brands. This is interesting. Okay. So, price just followed cash flow."
+      ]
+    },
+    {
+      "ticker": "WFRD",
+      "tom_sentiment": "Negative",
+      "conviction": 2,
+      "price_target_or_upside": "N/A",
+      "actionable": "Pass",
+      "position_status": "N/A",
+      "key_quotes": [
+        "I don't take the second prettiest girl in the in the ugliest industry. Take the prettiest girl to the prom."
+      ]
+    },
+    {
+      "ticker": "BXMT",
+      "tom_sentiment": "Negative",
+      "conviction": 1,
+      "price_target_or_upside": "N/A",
+      "actionable": "Pass",
+      "position_status": "N/A",
+      "key_quotes": [
+        "BXMT Blackstone Office. Uh, it's not an office read. It's a mortgage trust. So, pass."
+      ]
+    },
+    {
+      "ticker": "CNC",
+      "tom_sentiment": "Caution",
+      "conviction": 4,
+      "price_target_or_upside": "N/A",
+      "actionable": "Watch for bounce",
+      "position_status": "N/A",
+      "key_quotes": [
+        "CNC got smashed on the surprise Medicaid cuts in the big beautiful bill. Uh I think you got to listen to the next call and hear what management has to say about there's a Rosie tomorrow. But for the time being, all these institutional players are smashed. It's going to take a while to build a new holder base."
+      ]
+    },
+    {
+      "ticker": "XBI",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "N/A",
+      "actionable": "Buy",
+      "position_status": "N/A",
+      "key_quotes": [
+        "I like XBI now because rates are going to come down. I've liked XBI for a while. It hasn't done anything, but it's going to start doing stuff now. It's just been grinding sideways. We're going to the promised land."
+      ]
+    },
+    {
+      "ticker": "SLB",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "N/A",
+      "key_quotes": [
+        "David T, can you take a look at WFRD? Possibly better than SLB as far as turnaround is concerned. WFR D. Oh, the old Weatherford. I forgot why I hate this business, but let's take a look at it. Maybe it was a bankruptcy reorg. WFRD? Yeah, looks like it was a bankruptcy reorg. Maybe they'll get it right this time. But there's probably some of the same actors involved. I would check that out. I n't take the second prettiest girl in the in the ugliest industry. Take the prettiest girl to the prom."
+      ]
+    },
+    {
+      "ticker": "PDD",
+      "tom_sentiment": "Negative",
+      "conviction": 3,
+      "price_target_or_upside": "N/A",
+      "actionable": "Avoid",
+      "position_status": "N/A",
+      "key_quotes": [
+        "last 30 days PDD is up 3% while Baba is down 15%. Is there something to be concerned about? uh your investment framework is to be concerned about. Um you're focused on price versus value and uh and that's how you wind up getting flushed out of great stocks and tempted by mediocre stocks. So beware."
+      ]
+    }
+  ],
+  "new_or_recent_additions": [
+    "BABA",
+    "VF"
+  ],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy Backter International (New CEO Andrew Hitter)",
+      "conviction": 10
+    },
+    {
+      "rank": 2,
+      "idea": "Buy Alibaba (China stimulus, AI growth)",
+      "conviction": 9
+    },
+    {
+      "rank": 3,
+      "idea": "Buy Boeing (Turnaround in progress)",
+      "conviction": 9
+    },
+    {
+      "rank": 4,
+      "idea": "Buy VF Corp (Easy money)",
+      "conviction": 8
+    },
+    {
+      "rank": 5,
+      "idea": "Buy XBI (Biotech basket, rates coming down)",
+      "conviction": 8
+    },
+    {
+      "rank": 6,
+      "idea": "Buy PayPal (Zoom out)",
+      "conviction": 8
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Sentiment is getting a little bit too greedy.",
+    "Investors are selling winners and buying losers so far in July."
+  ],
+  "technical_takeaways": "N/A"
+}

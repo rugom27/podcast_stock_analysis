@@ -1,0 +1,355 @@
+{
+  "episode_number": "295",
+  "episode_date": "2025-06-12",
+  "executive_summary": "Tom Hayes is extremely bullish, predicting new market highs by mid-summer, driven by low earnings expectations, trap bears, and a constructive trade deal with China. He advocates for aggressive investment in small caps, housing-related stocks, and specific turnaround stories like Albemarle, QXO, Stanley Black & Decker, and Generac. He criticizes the Fed's overly restrictive monetary policy and highlights opportunities in emerging markets and Chinese equities, particularly Alibaba.",
+  "tom_current_conviction": {
+    "overall_market": "Extremely Bullish",
+    "score_1_to_10": 9,
+    "key_reasons": [
+      "Q2 earnings expectations are set low, paving the way for positive surprises.",
+      "Trap bears who sold early will be forced to buy back in, driving prices higher.",
+      "Constructive trade deal with China boosts earnings expectations and CEO confidence.",
+      "The Fed is likely to cut rates, further fueling market growth.",
+      "Small caps are poised for significant outperformance."
+    ]
+  },
+  "macro_thesis_summary": "The macro thesis revolves around several key factors: the imminent reduction of capital requirements by Bessent which will create enormous demand for treasuries, the potential approval of stable coins which will create trillions in demand for treasuries, the Fed cutting rates due to low inflation and a weakening job market, a weakening dollar benefiting emerging markets, and the resurgence of Chinese equities due to easing trade tensions and strong earnings growth.",
+  "key_macro_data_points": [
+    {
+      "indicator": "May Consumer Inflation Report",
+      "value": "Prices up only 0.1%",
+      "tom_interpretation": "This supports the argument for the Fed to lower interest rates. 'We are 150 basis points too restrictive.'"
+    },
+    {
+      "indicator": "Q2 Earnings Expectations",
+      "value": "Reduced from 9.3% to 6%",
+      "tom_interpretation": "Sets a low bar for companies to beat, driving market optimism."
+    },
+    {
+      "indicator": "10-Year Treasury Yield",
+      "value": "Down to 4.36%",
+      "tom_interpretation": "Moving in line with the housing theme, benefiting our positioning."
+    },
+    {
+      "indicator": "Russell 2000 Earnings Growth",
+      "value": "Projected 23% this year, 37% in 2026",
+      "tom_interpretation": "Small caps offer significantly higher earnings growth at half the multiple of large caps."
+    },
+    {
+      "indicator": "China Tech Earnings Growth",
+      "value": "15%",
+      "tom_interpretation": "Significantly higher than US earnings growth, indicating a shift in global equity performance."
+    }
+  ],
+  "featured_company_deep_dives": {
+    "ALB": {
+      "thesis_summary": "Albemarle is positioned to be the last man standing in the lithium market, poised to mint money as demand for EVs continues to grow, particularly in China. The company's low-cost production and ample liquidity will allow it to outlast competitors during the current oversupply, leading to significant gains when the market rebalances.",
+      "key_metrics": [
+        "Top lithium producer",
+        "Lowest cost producer",
+        "17% earnings growth expected in 2026",
+        "Demand increasing from 1.2 million metric tons to 3.2 million in 5 years"
+      ],
+      "price_target_or_valuation": "Double to triple over the next 3-4 years",
+      "conviction": "High",
+      "action": "Buy at the trough"
+    },
+    "QXO": {
+      "thesis_summary": "QXO, led by Brad Jacobs, is a building supply rollup poised for significant growth through technology implementation and strategic acquisitions. Jacobs' track record of creating substantial investor value in previous ventures makes QXO a compelling investment opportunity with the potential for a five to six bagger return.",
+      "key_metrics": [
+        "Building supply rollup",
+        "Brad Jacobs' company",
+        "Double IBIDA over the next few years",
+        "Wolf Research price target of $44"
+      ],
+      "price_target_or_valuation": "Five to six bagger over the next 5-7 years",
+      "conviction": "Extremely High",
+      "action": "Buy"
+    },
+    "SWK": {
+      "thesis_summary": "Stanley Black & Decker is set to benefit from the housing recovery, with increasing margins and restocking efforts driving earnings growth. The company's strong brand recognition and essential tools for homebuilding position it for substantial upside as housing starts increase.",
+      "key_metrics": [
+        "Recovering margins",
+        "Restocking after COVID overstock",
+        "Management guiding for $8 a share in earnings by 2027",
+        "Stock trading at $65, with potential to reach $150+"
+      ],
+      "price_target_or_valuation": "Significant upside over the next three years",
+      "conviction": "High",
+      "action": "Buy"
+    },
+    "GNRC": {
+      "thesis_summary": "Generac is a way to play the housing recovery and backup energy demand, benefiting from lower rates, hurricane season, and increasing need for backup power for data centers. The company's dominant market share and record free cash flow make it an attractive investment despite being down 75%.",
+      "key_metrics": [
+        "75% market share in home standby generators",
+        "Record free cash flow",
+        "Revenues recovering",
+        "Commercial and industrial business improving"
+      ],
+      "price_target_or_valuation": "Significant upside",
+      "conviction": "High",
+      "action": "Buy"
+    },
+    "CCI": {
+      "thesis_summary": "Crown Castle is poised for growth as a pure-play tower company focused exclusively on the US. The sale of its small cell and fiber solutions business will streamline operations, reduce interest expense, and allow for significant share repurchases. Strong organic revenue growth and increasing mobile data demand further support the company's positive outlook.",
+      "key_metrics": [
+        "Pure-play tower company",
+        "Expected AFO increase after business sale",
+        "Potential $3 billion share repurchases",
+        "Organic revenue growth at 5.1%"
+      ],
+      "price_target_or_valuation": "Morningstar fair value of $125, but going much higher",
+      "conviction": "High",
+      "action": "Buy"
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "LULU",
+      "tom_sentiment": "Negative",
+      "conviction": 4,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "Lulu, uh, I think the surprise there was that they were blaming the economy, saying that US consumers are being cautious and intentional. Uh, that's, uh, that seems a little suspicious in the sense that, uh, you're seeing a tremendous amount of competition from Aloe, from Athleta, from other companies coming to bear.",
+        "Their com store sales were up 1% year-on-year, which was a little bit anemic. And they brought their guidance midpoint down from, you know, $155 of earnings this year down to$,468. So, the market didn't like it."
+      ]
+    },
+    {
+      "ticker": "AVGO",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "As it relates to Avago, uh yeah, they beat as well, but uh the guidance was less than uh very high expectations and it was a sell the news event. It had rallied 30% into into the print. So people took some profits.",
+        "So right now if I look at AVGO, Broadcom, uh it is trading down about 4%. But has been a winner. One year up 87% and just in one month up 22%."
+      ]
+    },
+    {
+      "ticker": "ALB",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "Double to triple over the next 3-4 years",
+      "actionable": "Buy",
+      "key_quotes": [
+        "Albamaro big player number one uh top lithium producer in the world lowest cost producer some of their mines in Chile uh and uh and lithium is a very cyclical business you see it throughout the years even before EVs they have ample liquidity to make it through the over supply in the short term which we expect to rebalance in mid 2026 the operating leverage in this business is second to none once lithium rebalances as the smaller players shut down production Albamaro is going to be the big winner and as we're going to see demand from 1.2 million metric tons last year to 3.2 million 5 years out uh they're going to win.",
+        "This stock uh is down huge. It can be up double to triple over the next 3 to four years. Uh we think this is a huge out of favor cyclical opportunity that this happens every 5 to 8 years and we are buying it at the trough."
+      ]
+    },
+    {
+      "ticker": "QXO",
+      "tom_sentiment": "Extremely Bullish",
+      "conviction": 10,
+      "price_target_or_upside": "Five to six bagger over the next 5-7 years",
+      "actionable": "Buy",
+      "key_quotes": [
+        "We've been pounding the table.",
+        "If you follow what he did in XBO Logistics, you made 50ome times your money. If you follow what he did in United Rentals, you made 70 times your money. I think this is going to be a five or six bagger over the next five to seven years.",
+        "Brad Jacobs has a track record that speaks for itself...Throw in a filing cabinet and watch Brad Jacobs work his magic over the next few years."
+      ]
+    },
+    {
+      "ticker": "SWK",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "Trades north of 150",
+      "actionable": "Buy",
+      "key_quotes": [
+        "The last time they got margins up to the level that uh management is guiding by 2027. They earned $8 a share in earnings. The stock traded north of 150. Right now, I think it's trading at $65. So, there's huge upside over the next three years."
+      ]
+    },
+    {
+      "ticker": "GNRC",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Buy",
+      "key_quotes": [
+        "They are going to fly. Uh this stock is still down 75% even though it's generating record free cash flow.",
+        "Their commercial and industrial business is improving. They're going to be a lot of backup energy and storage for data centers. That's going to be a monstrous business in addition to the home standby and we're entering hurricane season."
+      ]
+    },
+    {
+      "ticker": "CRK",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "We continue to see comtock resources, which you guys all got in with us at 8 and $9 now at 25 and change. It's still got room. It'll probably take a breather in the next few weeks, but don't be phased out. The intrinsic value is higher and we're excited about that one."
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "$176 first target, then $225+",
+      "actionable": "Buy",
+      "key_quotes": [
+        "JP Morgan lifts you on forecast on easing tariffs risk. We said this was a critical component for Chinese equities recovery. Yes, they're up huge off the $60 lows in terms of BABA, but it's the first leg of the first leg, ladies and gentlemen.",
+        "Global investors are underinvested in China...At $200, I guarantee you Morgan Stanley will be upgrading Alibaba and putting a $300 price target on it. Uh, mark my words on that."
+      ]
+    },
+    {
+      "ticker": "BA",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Even this year, look at Boeing. Just a few months ago, no one would wanted it in the 130s. Now at 2:15 everyone, it's all anyone wants to talk about.",
+        "We took those off, but we didn't sell one share of stock and we're comfortable holding every single share. We have not sold a share."
+      ]
+    },
+    {
+      "ticker": "PYPL",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "PayPal, aka the issuer of the sixth largest stable coin in circulation, now approaching 1 billion market cap.",
+        "The thing is generating so much cash. It's going to buy in 20% of the float over the next two years."
+      ]
+    },
+    {
+      "ticker": "CCI",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "Morningstar fair value of $125, but going much higher",
+      "actionable": "Buy",
+      "key_quotes": [
+        "It's going higher, a lot higher than that.",
+        "Management continues to make solid progress working through the regulatory approval process once completed. Crown Castle will become the only publicly traded pure play tower company focused exclusively on the US."
+      ]
+    },
+    {
+      "ticker": "SAIA",
+      "tom_sentiment": "Negative",
+      "conviction": 2,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "What is going on with the negative free cash flow, my man?",
+        "I'm going to say probably a pass on this until I see a quarter of break even cash flow."
+      ]
+    },
+    {
+      "ticker": "CARVANA",
+      "tom_sentiment": "Neutral",
+      "conviction": 3,
+      "actionable": "Avoid Shorting",
+      "key_quotes": [
+        "I understand what you're saying about Carvana, but the problem is they're generating a lot of cash. So the question is, do you want to short on valuation alone? Good luck.",
+        "I wouldn't be shorting a company with $20 billion of cash."
+      ]
+    },
+    {
+      "ticker": "FOXF",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Possible Buy",
+      "key_quotes": [
+        "I was looking at FOXF this week. I generally hate these businesses to be honest with you. They're garbage businesses, but I think at this level, you're probably right."
+      ]
+    },
+    {
+      "ticker": "BTMD",
+      "tom_sentiment": "Neutral",
+      "conviction": 4,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "We just don't do individual biotech companies because we don't think we have an edge and we stay where we do have an edge.",
+        "You better do a lot of work on this one. That's all I have to say."
+      ]
+    },
+    {
+      "ticker": "IPG",
+      "tom_sentiment": "Neutral",
+      "conviction": 4,
+      "actionable": "Pass",
+      "key_quotes": [
+        "It's not even down 50%. So, it's not that interesting to us",
+        "I don't really like that business. So, I don't think you'll be wrong, but I wouldn't get excited about it."
+      ]
+    },
+    {
+      "ticker": "DNUT",
+      "tom_sentiment": "Negative",
+      "conviction": 2,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "This thing's just losing cash hand over fist, no matter how cheap it is.",
+        "It's trading like it's going out of business."
+      ]
+    },
+    {
+      "ticker": "VF CORP",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "I don't like the upside as much as I like it in VF Corp when Bracken turns it around."
+      ]
+    },
+    {
+      "ticker": "ACMR",
+      "tom_sentiment": "Neutral",
+      "conviction": 4,
+      "actionable": "Pass",
+      "key_quotes": [
+        "I would never buy a stock at $25 for an upside of 34 to 40.",
+        "I just think there are higher and better uses from these levels"
+      ]
+    },
+    {
+      "ticker": "GRIF",
+      "tom_sentiment": "Bullish",
+      "conviction": 6,
+      "actionable": "Possible Buy",
+      "key_quotes": [
+        "I like what I'm seeing. I gotta be honest with you.",
+        "I think you might have something here, Wilhelm. So, good job. Do more work before you do anything."
+      ]
+    }
+  ],
+  "new_or_recent_additions": [
+    "QXO",
+    "ALB",
+    "SWK",
+    "GNRC"
+  ],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy QXO, betting on Brad Jacobs to create another multi-bagger.",
+      "conviction": 10
+    },
+    {
+      "rank": 2,
+      "idea": "Buy Albemarle, positioning for the rebalancing of the lithium market and long-term EV demand.",
+      "conviction": 9
+    },
+    {
+      "rank": 3,
+      "idea": "Buy Alibaba, anticipating easing trade tensions and strong earnings growth in China.",
+      "conviction": 9
+    },
+    {
+      "rank": 4,
+      "idea": "Buy Stanley Black & Decker, capitalizing on the housing recovery and margin improvements.",
+      "conviction": 8
+    },
+    {
+      "rank": 5,
+      "idea": "Buy Generac, benefiting from the housing recovery, lower rates, and increasing demand for backup power.",
+      "conviction": 8
+    },
+    {
+      "rank": 6,
+      "idea": "Buy Crown Castle, anticipating growth as a pure-play tower company and benefiting from increased mobile data demand.",
+      "conviction": 8
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "The Fed may not cut rates as aggressively as expected, hindering the housing recovery.",
+    "The trade deal with China could fall apart, negatively impacting Chinese equities.",
+    "The stable coin market may not grow as rapidly as anticipated, limiting demand for treasuries.",
+    "Housing supply may surge, causing prices to decline despite lower rates."
+  ],
+  "technical_takeaways": "The market is showing signs of being overbought in the short term, but the underlying trend remains strongly bullish. Any pullbacks should be viewed as buying opportunities, particularly in small caps and housing-related stocks. The high level of short interest in the S&P 500 suggests a potential melt-up is likely."
+}

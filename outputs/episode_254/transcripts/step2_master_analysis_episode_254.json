@@ -1,0 +1,292 @@
+{
+  "episode_number": "254",
+  "episode_date": "2024-08-29",
+  "executive_summary": "Tom Hayes is bearish on Nvidia, citing valuation concerns and potential margin compression due to competition from Intel. He is bullish on small caps, emerging markets (specifically China), dividend payers, and value stocks, anticipating they will outperform large caps due to the expected Fed rate cuts. He also highlights Boeing and Advanced Auto Parts as turnaround stories. He believes gridlock in Washington is good for the markets.",
+  "tom_current_conviction": {
+    "overall_market": "Cautiously Optimistic",
+    "score_1_to_10": 7,
+    "key_reasons": [
+      "Election year seasonality suggests strength into early September, followed by volatility.",
+      "Expected Fed rate cuts provide a tailwind, but the initial cut may lead to short-term weakness.",
+      "Underlying strength in earnings power supports a year-end rally."
+    ]
+  },
+  "macro_thesis_summary": "The market is transitioning from being driven by a few large tech companies to a broader base of stocks. Fed rate cuts will favor small caps, emerging markets, and dividend payers. A weaker dollar will further support international stocks and emerging markets. Gridlock in Washington is viewed as a positive for the markets.",
+  "key_macro_data_points": [
+    {
+      "indicator": "Small Cap Outperformance",
+      "value": "Historically outperform large caps by 11% in the 12 months following the first rate cut.",
+      "tom_interpretation": "Small caps are poised to benefit from the expected Fed rate cuts and reacceleration of earnings growth."
+    },
+    {
+      "indicator": "Earnings Growth Divergence",
+      "value": "Mag 7 earnings growth decelerating from 30% to 18%, while unmagnify accelerating.",
+      "tom_interpretation": "Indicates a shift in market leadership from large tech to a broader range of companies."
+    },
+    {
+      "indicator": "Mortgage Rates",
+      "value": "Potential for 30-year fixed mortgage rates to fall to a five handle.",
+      "tom_interpretation": "This could lead to a surge in housing supply as baby boomers list their homes, creating a more realistic buying market."
+    },
+    {
+      "indicator": "China Industrial Production",
+      "value": "Up 5.3% year-on-year.",
+      "tom_interpretation": "Sign of recovery in China, benefiting related sectors like copper."
+    }
+  ],
+  "featured_company_deep_dives": {
+    "BA": {
+      "thesis_summary": "Boeing is a compelling turnaround story due to its duopoly status, a new engineer CEO, and a massive backlog of orders. Despite negative headlines, the stock has stopped going down, indicating that most problems are in the rearview mirror.",
+      "key_metrics": [
+        "Duopoly with Airbus",
+        "6,000+ plane backlog",
+        "China travel boom doubling demand"
+      ],
+      "conviction": "High",
+      "action": "Buy"
+    },
+    "AAP": {
+      "thesis_summary": "Advanced Auto Parts is a turnaround play based on new management, debt reduction, and a focus on improving customer service and store efficiency. The company is addressing pricing issues and consolidating distribution centers to improve profitability.",
+      "key_metrics": [
+        "Sold Worldpac business for $1.5 billion to reduce debt",
+        "Plan to open 100 stores per year",
+        "Distribution Center consolidation down to 14 from 38"
+      ],
+      "conviction": "High",
+      "action": "Buy"
+    },
+    "VFC": {
+      "thesis_summary": "VF Corp is a turnaround story driven by new management, cost cuts, and a focus on revitalizing the Vans brand. The company is innovating with new products and marketing strategies to regain market share.",
+      "key_metrics": [
+        "Free cash flow plus proceeds from non-core asset sales is $600 million",
+        "Debt down $587 million this year",
+        "North Face APAC grew 35%"
+      ],
+      "conviction": "High",
+      "action": "Buy"
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "NVDA",
+      "tom_sentiment": "Bearish",
+      "conviction": 9,
+      "price_target_or_upside": "N/A",
+      "actionable": "Sell/Avoid",
+      "key_quotes": [
+        "This thing was priced for Perfection it's like the inmates are running the Asylum",
+        "Price is what you pay value is what you get and 29 times sales is not interesting to me",
+        "It's like the inmates are running the Asylum this business is is valued at $3 trillion the entire US GDP is 20 trillion"
+      ]
+    },
+    {
+      "ticker": "BA",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "N/A",
+      "actionable": "Buy",
+      "key_quotes": [
+        "I think it's phenomenal",
+        "It operates in a duopoly",
+        "What you like to see with stocks that have Relentless everyday bad news is that they sto going down and that's happened to Boeing in the last few weeks"
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "$40 soon, $80-$100 long term",
+      "actionable": "Buy",
+      "key_quotes": [
+        "It would not Shock me to wake up one morning and see Elliott has taken a 10 not a 10 a couple billion dollar position two to five billion dollars in Intel trading at tangible Book value and shake the tree like nobody's business and if that happens this is going to be a $40 stock much faster than we expect and uh then have the runway to of ultimately be an80 and $100 stock if they get The Foundry deal correct",
+        "IBM Cloud to offer Intel's gouty 3 AI chips next year what does that mean it's half the price from of the Nvidia h100 it's twice as fast and it's 40% more energy efficient"
+      ]
+    },
+    {
+      "ticker": "DIS",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "Double in the stock",
+      "actionable": "Buy",
+      "key_quotes": [
+        "I believe the next Catalyst for Disney and I also believe uh value Act is going to play a significant role in addition to James Gorman and may have actually chosen G James Gorman for the job of picking the CEO the next Catalyst will be the announcement of who will succeed Bob Iger",
+        "The parks and the experiences and the cruises and the consumer products are valued at about $80 a share the stocks trading at 90 which implies the 153 million subscribers that by the way their prices went up dramatically uh are worth zero"
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "N/A",
+      "actionable": "Buy",
+      "key_quotes": [
+        "Alibaba is back to ass kicking",
+        "They're bigger, they're stronger, they're meaner and now that they're focused they're going to destroy them",
+        "Alibaba shareholders approved dual primary listing Paving the way for September southbound inclusion"
+      ]
+    },
+    {
+      "ticker": "AAP",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "Double or triple",
+      "actionable": "Buy",
+      "key_quotes": [
+        "This is not just a stay alive story this is a growth story",
+        "This guy knows his stuff"
+      ]
+    },
+    {
+      "ticker": "VFC",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "Multi-bagger",
+      "actionable": "Buy",
+      "key_quotes": [
+        "This is his Jerry Seinfeld go at the top go out at the top Brack and Daryl is winner and he's going to turn this thing and it's going to be a multibagger",
+        "He has a plan and he knows exactly how this is going to go"
+      ]
+    },
+    {
+      "ticker": "GOOS",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "N/A",
+      "actionable": "Monitor",
+      "key_quotes": [
+        "Obviously their APAC is shooting the lights out I think that's going to continue to even grow further"
+      ]
+    },
+    {
+      "ticker": "ZM",
+      "tom_sentiment": "Avoid",
+      "conviction": 2,
+      "price_target_or_upside": "N/A",
+      "actionable": "Avoid",
+      "key_quotes": [
+        "This is a tiny trading vehicle we would never put clients in something like this",
+        "That's more ambiguous than any anything I've ever heard in my life"
+      ]
+    },
+    {
+      "ticker": "DG",
+      "tom_sentiment": "Neutral",
+      "conviction": 4,
+      "price_target_or_upside": "50-60",
+      "actionable": "Monitor",
+      "key_quotes": [
+        "This is a broken growth stock and these things take forever",
+        "I would love to see it puke for another couple days down to like a six handle"
+      ]
+    },
+    {
+      "ticker": "DLTR",
+      "tom_sentiment": "Neutral",
+      "conviction": 4,
+      "price_target_or_upside": "N/A",
+      "actionable": "Monitor",
+      "key_quotes": [
+        "Dollar Tree looks better"
+      ]
+    },
+    {
+      "ticker": "AZO",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "key_quotes": [
+        "AutoZone is a much bigger business"
+      ]
+    },
+    {
+      "ticker": "FL",
+      "tom_sentiment": "Avoid",
+      "conviction": 3,
+      "price_target_or_upside": "N/A",
+      "actionable": "Avoid",
+      "key_quotes": [
+        "I just don't think there's enough upside relative to the risk it's still going to be a lowquality business that's going to be cyclical"
+      ]
+    },
+    {
+      "ticker": "PDD",
+      "tom_sentiment": "Avoid",
+      "conviction": 2,
+      "price_target_or_upside": "N/A",
+      "actionable": "Avoid",
+      "key_quotes": [
+        "Hell no unreliable or unsustainable",
+        "Given the risk of poorly reported numbers"
+      ]
+    },
+    {
+      "ticker": "MODG",
+      "tom_sentiment": "Avoid",
+      "conviction": 1,
+      "price_target_or_upside": "N/A",
+      "actionable": "Avoid",
+      "key_quotes": [
+        "Disaster",
+        "This has always been a garbage business",
+        "This is a terrible business"
+      ]
+    },
+    {
+      "ticker": "GX",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "key_quotes": [
+        "I'm not worried about those guys because they have decades worth of history in creating shareholder wealth not destroying it not doing dumb deals not diluting shareholders and this time will be no different"
+      ]
+    }
+  ],
+  "new_or_recent_additions": [],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Sell/Avoid Nvidia (NVDA)",
+      "conviction": 9
+    },
+    {
+      "rank": 2,
+      "idea": "Buy Boeing (BA)",
+      "conviction": 9
+    },
+    {
+      "rank": 3,
+      "idea": "Buy Intel (INTC)",
+      "conviction": 8
+    },
+    {
+      "rank": 4,
+      "idea": "Buy Alibaba (BABA)",
+      "conviction": 8
+    },
+    {
+      "rank": 5,
+      "idea": "Buy Advanced Auto Parts (AAP)",
+      "conviction": 8
+    },
+    {
+      "rank": 6,
+      "idea": "Buy VF Corp (VFC)",
+      "conviction": 8
+    },
+    {
+      "rank": 7,
+      "idea": "Buy Disney (DIS)",
+      "conviction": 7
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Potential for short-term market weakness following the first Fed rate cut.",
+    "Risk of a counter-trend move in the dollar before further weakness.",
+    "Uncertainty surrounding the timing and magnitude of future Fed rate cuts.",
+    "Risk of accounting fraud in Chinese stocks (except for the biggest and best)."
+  ],
+  "technical_takeaways": "Equal weight S&P breaking out to new highs, while NASDAQ showing weakness. Small caps coming off the mat. Hang Seng breaking out. Expect a counter-trend move in the 10-year yield and the dollar.",
+  "publish_date": "2024-08-29"
+}

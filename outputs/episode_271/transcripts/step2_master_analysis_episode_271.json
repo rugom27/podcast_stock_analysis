@@ -1,0 +1,369 @@
+{
+  "episode_number": "271",
+  "episode_date": "2024-12-26",
+  "executive_summary": "Tom Hayes is extremely bullish on 2025, citing China's impending rally, small cap outperformance, and opportunities in beaten-down sectors like healthcare and materials. He emphasizes the importance of understanding market emotions and positioning for the coming changes, particularly regarding the Japanese Yen and its impact on the Magnificent Seven stocks. He is opening up Q1 early to deploy capital into these opportunities.",
+  "tom_current_conviction": {
+    "overall_market": "Extremely Bullish",
+    "score_1_to_10": 9,
+    "key_reasons": [
+      "China's one-year bond yields tumbling below 1% precedes major stock rallies.",
+      "Small caps are poised to outperform large caps.",
+      "Bonds are going to rally in Q1 2025.",
+      "Healthcare and Materials sectors are presenting enormous opportunities.",
+      "Fiscal recklessness perception change will be bullish."
+    ]
+  },
+  "macro_thesis_summary": "The market is setting up for a significant shift in 2025, driven by factors such as China's economic recovery, small cap outperformance, and a rotation from growth to value. The unwinding of the carry trade, particularly concerning the Japanese Yen and its impact on the Magnificent Seven, will be a key theme. Fiscal policy changes and a focus on domestic demand in China will further contribute to this shift.",
+  "key_macro_data_points": [
+    {
+      "indicator": "China One-Year Bond Yields",
+      "value": "Tumbling below 1%",
+      "tom_interpretation": "Precedes every major rally in China's stock market. 'This is going to turn up in 2025 and we are going to be smiling so wide we could eat a banana sideways.'"
+    },
+    {
+      "indicator": "Small Cap vs. Large Cap Expectations",
+      "value": "Small cap expectations rise to the highest since May of 2021",
+      "tom_interpretation": "Small cap will outperform the large cap."
+    },
+    {
+      "indicator": "Put Volume on TLT",
+      "value": "Peaked to levels not seen since 2011 and 2018",
+      "tom_interpretation": "Bonds are going to rally in the first quarter of 2025. 'As close to a guarantee as you can get in life that bonds are going to Rally in the first quarter of 20125.'"
+    },
+    {
+      "indicator": "Equity Risk Premium",
+      "value": "Lowest level in 25 years",
+      "tom_interpretation": "Dramatic outperformance of value small caps in Emerging Markets. Concentrated stocks like the cisos of the world get smoked."
+    },
+    {
+      "indicator": "Japan CPI",
+      "value": "Inflation is going up",
+      "tom_interpretation": "They will have to hike and all the mag s is right now is a levered uh carry trade."
+    },
+    {
+      "indicator": "China Fiscal Stimulus",
+      "value": "Accelerating",
+      "tom_interpretation": "China is getting serious about boosting consumption."
+    }
+  ],
+  "featured_company_deep_dives": {
+    "CCI": {
+      "thesis_summary": "Crown Castle is a REIT that trades inversely with interest rates. The sale of the fiber business will leave behind a cash flow machine. The stock is currently undervalued due to temporary bond market conditions, presenting a buying opportunity.",
+      "key_metrics": [
+        "Dividend yield of 6.9%",
+        "Organic Revenue growth of 5.2%",
+        "Tower segment growth of 4.3%",
+        "25% growth in small cell segment",
+        "Tenancy ratio of 2.5 tenants per tower"
+      ],
+      "conviction": "High",
+      "action": "Add more to the position. 'We'll add more which we've been doing and this thing will be back to New highs in a few years we'll collect a 7% dividend in the meantime which by the way they'll raise so our yield on cap on principal will even get higher.'"
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "NKE",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Buy",
+      "key_quotes": [
+        "Nike we don't have yet we want we want to"
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Buy",
+      "key_quotes": [
+        "Nike you got Intel that's going to be awesome for us next year"
+      ]
+    },
+    {
+      "ticker": "GXO",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 10,
+      "actionable": "Buy",
+      "key_quotes": [
+        "GXO I love this opportunity here",
+        "This thing's going to be a lot higher over the next three years",
+        "GXO is going to be the winner as all the small players get smoked and get gobbled up so we're pretty excited about that"
+      ]
+    },
+    {
+      "ticker": "CCI",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 9,
+      "actionable": "Buy",
+      "key_quotes": [
+        "Crown Castle that's all rates we're going to cover that today which we love"
+      ]
+    },
+    {
+      "ticker": "VFC",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "We're happy with VF courp but I think that's going to start to show signs of a turnaround as well"
+      ]
+    },
+    {
+      "ticker": "ETSY",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Etsy we already have that's moved up a bit but we think that'll continue"
+      ]
+    },
+    {
+      "ticker": "YETI",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Yeti we keep getting as"
+      ]
+    },
+    {
+      "ticker": "AIS",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "AIS not for me"
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Hold",
+      "key_quotes": [
+        "They're also going to invest where they can get a higher return on Capital than their weighted average cost of capital they're going to continue to do that"
+      ]
+    },
+    {
+      "ticker": "TLT",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 9,
+      "actionable": "Buy",
+      "key_quotes": [
+        "I think TLT is going to get bid"
+      ]
+    },
+    {
+      "ticker": "CS",
+      "tom_sentiment": "Bearish",
+      "conviction": 7,
+      "actionable": "Sell/Avoid",
+      "key_quotes": [
+        "Concentrated stocks like the cisos of the world get smoked"
+      ]
+    },
+    {
+      "ticker": "SPX",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Hold",
+      "key_quotes": [
+        "This thing's turning up we're off to the races"
+      ]
+    },
+    {
+      "ticker": "VF CORP",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "I understand the oah effect of Kim cardashian resulting in the uh The North Face and skims collaboration selling out within minutes but did you know that Vans offthe wall had two releases last week and it sold out quickly as well"
+      ]
+    },
+    {
+      "ticker": "APPLE",
+      "tom_sentiment": "Neutral to Bearish",
+      "conviction": 6,
+      "actionable": "Hold/Reduce",
+      "key_quotes": [
+        "Definitely an underperformance and a consolidation in 2025 in my view"
+      ]
+    },
+    {
+      "ticker": "AMC",
+      "tom_sentiment": "Very Bearish",
+      "conviction": 1,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "AMC entertainment same type of thing we saw what happens when people chase that stuff it doesn't end well"
+      ]
+    },
+    {
+      "ticker": "DIS",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Buy",
+      "key_quotes": [
+        "One growth stock down 44% to buy right now guess what it is Disney ladies and gentlemen couldn't give it away in the 80s everyone wants it up here it's just beginning"
+      ]
+    },
+    {
+      "ticker": "TGT",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Target got revised down more than 10%"
+      ]
+    },
+    {
+      "ticker": "HSY",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Hershey we've got our eye on"
+      ]
+    },
+    {
+      "ticker": "DG",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Buy",
+      "key_quotes": [
+        "Dollar General man I think that's a buy I got to be honest with you"
+      ]
+    },
+    {
+      "ticker": "ADM",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Archer Daniels Midland"
+      ]
+    },
+    {
+      "ticker": "EL",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Estee louder that's obviously priced at these levels"
+      ]
+    },
+    {
+      "ticker": "CPS",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 10,
+      "actionable": "Buy",
+      "key_quotes": [
+        "Cooper standard was trading at $146 a share so that tells you most of what you need to know"
+      ]
+    },
+    {
+      "ticker": "SIRI",
+      "tom_sentiment": "Very Bearish",
+      "conviction": 2,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "I have zero interest in Sirius this is a cigar butt and I want a higher quality business than that"
+      ]
+    },
+    {
+      "ticker": "EXPE",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Expedia breaking out to new highs"
+      ]
+    },
+    {
+      "ticker": "F",
+      "tom_sentiment": "Bearish",
+      "conviction": 3,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "Ford's been cheap for 25 years"
+      ]
+    },
+    {
+      "ticker": "ASML",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "ASML wouldn't be able to produce their machines without them"
+      ]
+    },
+    {
+      "ticker": "MAZDA",
+      "tom_sentiment": "Bearish",
+      "conviction": 3,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "I don't buy oems I think they're just garbage businesses"
+      ]
+    }
+  ],
+  "new_or_recent_additions": [
+    "GXO",
+    "CPS",
+    "NKE",
+    "INTC"
+  ],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy Cooper Standard (CPS)",
+      "conviction": 10
+    },
+    {
+      "rank": 2,
+      "idea": "Buy GXO Logistics",
+      "conviction": 10
+    },
+    {
+      "rank": 3,
+      "idea": "Buy Crown Castle (CCI)",
+      "conviction": 9
+    },
+    {
+      "rank": 4,
+      "idea": "Buy TLT (Long Bonds)",
+      "conviction": 9
+    },
+    {
+      "rank": 5,
+      "idea": "Buy Nike (NKE)",
+      "conviction": 8
+    },
+    {
+      "rank": 6,
+      "idea": "Buy Intel (INTC)",
+      "conviction": 8
+    },
+    {
+      "rank": 7,
+      "idea": "Buy Dollar General (DG)",
+      "conviction": 8
+    },
+    {
+      "rank": 8,
+      "idea": "Buy Alibaba (BABA)",
+      "conviction": 8
+    },
+    {
+      "rank": 9,
+      "idea": "Buy Disney (DIS)",
+      "conviction": 7
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "The unwinding of the carry trade, particularly concerning the Japanese Yen, poses a risk to the Magnificent Seven stocks.",
+    "Hedge funds are crowded into one boat short Yen long dollar they're going to get their faces ripped off and that's going to happen in q1 and Q2"
+  ],
+  "technical_takeaways": "The S&P 500 is setting up for a potential breath thrust, which historically leads to significant gains. The PMO SPX has hit zero and is turning up, signaling a positive trend.",
+  "publish_date": "2024-12-26"
+}

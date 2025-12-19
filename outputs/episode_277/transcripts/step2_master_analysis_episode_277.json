@@ -1,0 +1,324 @@
+{
+  "episode_number": "277",
+  "episode_date": "2025-02-06",
+  "executive_summary": "Tom Hayes is extremely bullish on value stocks, particularly those temporarily out of favor. He is bearish on the Magnificent 7, believing their earnings growth is decelerating and they are targets for regulatory action. He highlights opportunities in VF Corp, Alibaba, Disney, PayPal, Stanley Black & Decker, Horel Foods and Crown Castle International. He emphasizes the importance of buying high-quality assets at good prices and sticking to basic principles.",
+  "tom_current_conviction": {
+    "overall_market": "Bullish on value, bearish on growth and Mag 7",
+    "score_1_to_10": 9,
+    "key_reasons": [
+      "Earnings growth accelerating in small and mid-cap stocks",
+      "Mag 7 earnings growth decelerating",
+      "Value outperforming growth historically",
+      "Opportunity to buy high-quality assets at discounted prices"
+    ]
+  },
+  "macro_thesis_summary": "The market is transitioning from a growth-dominated environment to one where value and international stocks will outperform. Tariffs and regulatory pressures will negatively impact the Magnificent 7. Focus should be on companies with strong fundamentals and those benefiting from the manufacturing recovery and global policy shifts.",
+  "key_macro_data_points": [
+    {
+      "indicator": "Global Policy Rate Cuts",
+      "value": "Peaked at 62 cuts last year, now declining",
+      "tom_interpretation": "This is a positive sign, indicating good things start to happen in the market."
+    },
+    {
+      "indicator": "European Stocks Earnings Multiple",
+      "value": "Lower than US peers",
+      "tom_interpretation": "International and US exceptionalism runs in normal cyclical peaks and troughs, and this time will be no different."
+    },
+    {
+      "indicator": "US Manufacturing Activity",
+      "value": "Expanding for the first time since 2022",
+      "tom_interpretation": "Coming out of a 2-year manufacturing depression in the United States, this is a positive thing."
+    },
+    {
+      "indicator": "Earnings Growth",
+      "value": "Accelerating in small cap, mid cap, and international stocks",
+      "tom_interpretation": "Go where the earnings growth is accelerating."
+    },
+    {
+      "indicator": "Consumer Staples Relative PE",
+      "value": "Lowest relative PE ratio since 2001",
+      "tom_interpretation": "A lot of stuff is going to get bid here, no one's positioned for it, that's going to be an opportunity."
+    },
+    {
+      "indicator": "Japanese Yen",
+      "value": "Starting to strengthen",
+      "tom_interpretation": "These are the things that we tend to keep an eye on as the carry trade unwinds which means billions upon billions of free Yen that has been parked in mag 7 is coming out this is the story not deep seek it's the carry trade onwi and no one's paying attention to it and when you try to talk about it no one wants to hear about it so I don't talk about it but I just benefit from it"
+    }
+  ],
+  "featured_company_deep_dives": {
+    "VF Corp": {
+      "thesis_summary": "VF Corp is a turnaround opportunity with brands like Vans and North Face. Solvency risk is off the table, and the company is poised to benefit from a turnaround in Asia. Bracken Darrell is an incredible leader who will run this thing back up to new highs.",
+      "key_metrics": [
+        "Supreme brand sale for $1.5 billion to pay off debt",
+        "Sequential improvement in Vans, starting in Europe and Asia",
+        "North Face benefiting from turnaround in Asia"
+      ],
+      "price_target_or_valuation": "Conservative short-term target of $40, with potential for new highs in a few years.",
+      "conviction": "9",
+      "action": "Buy"
+    },
+    "Alibaba": {
+      "thesis_summary": "Alibaba is the Amazon of China and an AI ETF, providing compute power and cloud services to AI startups in exchange for equity. It is undervalued, trading at a low multiple with significant cash reserves. Their AI model is faster than OpenAI and DeepSeek.",
+      "key_metrics": [
+        "Number one cloud provider in China",
+        "Number one retailer to the middle class",
+        "AI model faster than OpenAI and DeepSeek",
+        "Trading at 5-6-7 times earnings with $70-80 billion in cash"
+      ],
+      "price_target_or_valuation": "Historic normalized multiple is like 25 to 30 times",
+      "conviction": "10",
+      "action": "Buy if it dips to the mid 90s"
+    },
+    "Disney": {
+      "thesis_summary": "Disney is a high-quality asset temporarily out of favor, with a durable business model and recurring cycles. Free cash flow is recovering, and the stock price will continue to climb. Social Services will come to your house and they remove the children from the house and they say that you are not a fit parent you're abusing your child by not bringing them to Disney.",
+      "key_metrics": [
+        "Stock down 55% from recent highs",
+        "Revenues have not fallen 55%",
+        "Cash flow temporarily impaired due to streaming investment",
+        "Free cash flow recovery"
+      ],
+      "price_target_or_valuation": "Double from much lower levels in two years.",
+      "conviction": "9",
+      "action": "Buy"
+    },
+    "PayPal": {
+      "thesis_summary": "PayPal is a turnaround story with a sandbagging CEO, Alex Chriss, who is setting low expectations to crush them. The company is generating significant free cash flow and buying back shares.",
+      "key_metrics": [
+        "Non-GAAP EPS of $4.65 in 2024, 21% better than promised",
+        "Free cash flow of $6.6 billion in 2024, 32% better than promised",
+        "Share repurchases of $6 billion in 2024, 20% more than promised",
+        "Guiding for non-GAAP EPS of $4.95-$5.10 in 2025"
+      ],
+      "price_target_or_valuation": "EPS could land north of $6, free cash flow around $8 billion, and buybacks reaching $7.2 billion in 2025.",
+      "conviction": "8",
+      "action": "Buy on dips"
+    },
+    "Stanley Black & Decker": {
+      "thesis_summary": "Stanley Black & Decker is a generational buy opportunity with a durable moat. Concerns about tariffs are unfounded.",
+      "key_metrics": [
+        "Durable moat",
+        "Fear down to 39 on the fear and greed index"
+      ],
+      "price_target_or_valuation": "N/A",
+      "conviction": "9",
+      "action": "Buy"
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "ETSY",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "N/A",
+      "actionable": "Add to on sell-off",
+      "position_status": "Existing",
+      "key_quotes": [
+        "Etsy is the beneficiary of this di Minimus uh exemption that teu and Sheen has been taking advantage of. They're no longer going to get away with shipping junk into this country under 800 bucks with no tariff.",
+        "Etsy who has the uh domestic people make the products is up today on this news tremendous company billion dollar buyback recovering internationally growing the men's business growing the gifting business"
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "tom_sentiment": "Bearish",
+      "conviction": 8,
+      "price_target_or_upside": "N/A",
+      "actionable": "Lighten up overweight",
+      "position_status": "Overweight",
+      "key_quotes": [
+        "I think US Stock Market exceptionalism has been tied to the mag 7 the concentration is a third I do think they're going to be Target number one not only for China but for the EU has put together this anti- coercive instrument they're readying if Trump levies tariffs they're going to hit back with that Apple has a monopoly with the App Store they get 30% Vig on every single app so that's going to be an easy target for some of these foreign governments as uh tariffs are Levy for sure",
+        "phones they're 100 times better than Apple phones I mean it's just mindboggling uh what's going on and uh Apple's looking to partner with China Ai and Cloud to bypass these issues due to regulation what are your thought some Baba Baba's going up there's apple or not okay that's the bottom line"
+      ]
+    },
+    {
+      "ticker": "GOOG",
+      "tom_sentiment": "Bearish",
+      "conviction": 8,
+      "price_target_or_upside": "N/A",
+      "actionable": "Lower overweight",
+      "position_status": "Overweight",
+      "key_quotes": [
+        "Google is way down they're spending $75 billion in this year this financial year on AI do they need to spend so much money when China comes along with deep seek and does it much cheaper it's an existential threat and this is defensive spending",
+        "their sales were down 11% they blamed it on not having uh uh AI which their AI product is crap right now it will get better but ... they went after Google which has for an antitrust thing so they will take down and Europe will take down and all these guys will take down to the extent that Trump wants to do tariffs these bureaucratic bodies will just start to shake down the mag 7 for antitrust anti-monopoly and fines so that's how they will hit back"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "tom_sentiment": "Bearish",
+      "conviction": 9,
+      "price_target_or_upside": "N/A",
+      "actionable": "Avoid",
+      "position_status": "N/A",
+      "key_quotes": [
+        "So growth you're chasing the nvidias of the world if you remember June 20th there was a picture of Jensen Wong signing someone's bikini top like he was a rock star like he had that level of fandom and that level of euphoria and the minute I saw that level of excitement I put out an article on my website hedone tips.com which said the next pain trade",
+        "price is what you pay values what you get you can pay a lower multiple for more earnings with something like Alibaba or you can chase the shiny object and get your face ripped out like uh nvidia's down 24% in the last few weeks since deep sea"
+      ]
+    },
+    {
+      "ticker": "DIS",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "Double from much lower levels in two years",
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "I said okay I said how about this Terry uh we're here close to an Anaheim California I said Disney stock price is down about 55% from its recent High 55% if you put 100% of your money into Disney stock down 55% and you walk up tomorrow and it was Zero would you be surprised and he said I would be shocked and I said well that's exactly how we manage risk so when you get an opportunity to buy a highquality asset like Disney okay does everyone love Disney here okay Anaheim California how many of you have been to Disney",
+        "with a margin of safety by purchasing stocks below their intrinsic value you know it's interesting with Disney for instance down 55% do you think their revenues fell 55% no okay did their cash flow is temporarily impaired because of the investment in streaming yes uh but on balance we see these normal cycles that repeat over and over when you buy long-term durable businesses that have lasted decades and you can buy them during these cyclical troughs and sell them when everyone gets excited in two three years you're going to remember this you'll be in college everyone will be like have you seen Disney's stock it's up like a 100% in the last few years should should I buy Disney stock my doorman will be coming to me in three years and be like you know Disney's now $250 should I buy Disney stock I'm going to say no we had that conversation like three years ago you should have bought it then"
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Bullish",
+      "conviction": 10,
+      "price_target_or_upside": "Historic normalized multiple is like 25 to 30 times",
+      "actionable": "Buy if it dips to the mid 90s",
+      "position_status": "Existing",
+      "key_quotes": [
+        "Alibaba is basically the Amazon of China and and it's effectively an AI ETF in China so if you want to own a piece of every single AI startup in China you want to own Alibaba why because they give startups compute power they give them cloud services for free tokens in exchange for equity in their company and most people aren't aware of this so it's not priced yet into the stock but when you see things like uh quen 2. their model actually beat deep seek they put out the data last week that's why the stock is up that's why it's just getting started",
+        "Alibaba offers deep seek on cloud service after Microsoft Amazon and Huawei uh also we talked about last week how their quen 2.5 is faster on all counts faster than open AI faster than deep seek so that's why the stock is up my guess is it takes a rest in February it's had a huge move from 58 to 100 uh so if you can get it in the low 90s or mid 90s probably the last opportunity I wouldn't hold my breath but I think you might get a look in the mid 90s for sure"
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "tom_sentiment": "Neutral",
+      "conviction": 6,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "This is just dead money until they announce a new CEO and we can see what the plan is",
+        "The thing I love about Intel is now as we're seeing with uh deep seek you can outperform or perform in line with the advanced chips if you can get the inference right and uh the model correct and what I love about Intel is it is the it is the leader of inferior chips so I think the future belongs to to them I think the superior chips are going to have the harder time as all these startups start clamoring for inferior chips and uh Intel is the name of the game"
+      ]
+    },
+    {
+      "ticker": "PYPL",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "EPS could land north of $6, free cash flow around $8 billion, and buybacks reaching $7.2 billion in 2025.",
+      "actionable": "Buy on dips",
+      "position_status": "Existing",
+      "key_quotes": [
+        "Alex Chris has shocked the world CNBC interview he seems to have figured out that the secret to happiness both on Wall Street and in life is low expectations here's what he originally guided for fiscal year 2024 uh non-gaap EPS of 383 free cash flow of 5 billion and share repe purchases of at least 5 billion here's what the team actually delivered non-gaap EPS of 465 so he did 21% better than he promised free cash flow of 6.6 billion which was 32% better than he promised in 2024 and share repurchases of 6 billion 20% more than he promised so he under promised he overd delivered taken to the extreme once again Alex appear Chris appears to be using the same strategy for fiscal year 2025 after seeing just how well it worked in 2024 the company is guiding for non-gaap EPS of 495 to 510 free cash flow of 6 to7 billion and a share repurchase of 6 billion but if we see similar upside to priz to last year when PayPal was still in transition phase whereas 2025 is about Partnerships and scaling product adoption EPS could Land north of $6 free cash flow around 8 billion and BuyBacks reaching 7.2 billion history doesn't repeat but it often Rhymes uh love that analysis and I think that's the key way to think about PayPal moving forward",
+        "coming from Kyle M uh could you explain please explain how blackout periods work for corporate share repurchase programs usually you have to wait uh 3 days or so after uh information is publicly disseminated he's asking as it relates to PayPal and to Goose um at the end of the day who cares if they do it in 3 days or 30 days if they're if they can buy in 20% of the company"
+      ]
+    },
+    {
+      "ticker": "SWK",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "N/A",
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "Stanley Black and Decker same story everyone nervous about the tariffs completely unfounded and uh will prove to be an incredible generational buy opportunity for a durable moat that has been around for decades and decades the type of businesses we like to buy fear down to 39 on the fear and greed index not what you see near top same thing with National Association of active investment managers puked out of their stocks last week so"
+      ]
+    },
+    {
+      "ticker": "CRL",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Worth doing some work on",
+      "position_status": "N/A",
+      "key_quotes": [
+        "Celsius we've covered probably looking interesting I look uh we're not going to do anything with it but I think that's probably interesting Charles River uh I like stuff in the medical device this is probably another highquality business I'd be interested in let's take crl yeah definitely interested in Charles River so"
+      ]
+    },
+    {
+      "ticker": "DG",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "N/A",
+      "actionable": "Monitor",
+      "position_status": "N/A",
+      "key_quotes": [
+        "Dollar General is no Walmart by the stock anyway I kind of like this one I keep looking at it haven't done it because we've got enough uh low-end retail with Advanced Auto Parts which is making a nice move by the way"
+      ]
+    },
+    {
+      "ticker": "TLT",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "N/A",
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "TLT treasury bonds we've been saying bonds will get bid in 2025 that's already started to happen and you can see all the dumb money piled into short interest which is what they do at every single bottom right before big Bond rallies crowded trades a theme of what we like to cover"
+      ]
+    },
+    {
+      "ticker": "UNM",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "N/A",
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "stocks but be aware the first quarter of a postelection year usually isn't all that strong barely positive that's going back to 1950 so expect that volatility you could see a lot of those losses and volatility in the top seven stocks and even though the indices are down or flat seeing enormous great things happening with the UNM magnificent 493 and other groups we've been talking about and telling you to get position for or even better if you're a client positioning you for so a good start for 2025 could mean the bull continues average gain"
+      ]
+    }
+  ],
+  "new_or_recent_additions": [
+    "VF Corp",
+    "Alibaba",
+    "Disney",
+    "PayPal",
+    "Stanley Black & Decker",
+    "Etsy",
+    "TLT",
+    "UNM"
+  ],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy Alibaba if it dips to the mid 90s",
+      "conviction": 10
+    },
+    {
+      "rank": 2,
+      "idea": "Buy Stanley Black & Decker",
+      "conviction": 9
+    },
+    {
+      "rank": 3,
+      "idea": "Buy Disney",
+      "conviction": 9
+    },
+    {
+      "rank": 4,
+      "idea": "Buy VF Corp",
+      "conviction": 9
+    },
+    {
+      "rank": 5,
+      "idea": "Buy TLT",
+      "conviction": 8
+    },
+    {
+      "rank": 6,
+      "idea": "Buy UNM",
+      "conviction": 8
+    },
+    {
+      "rank": 7,
+      "idea": "Buy PayPal on dips",
+      "conviction": 8
+    },
+    {
+      "rank": 8,
+      "idea": "Add to Etsy on sell-off",
+      "conviction": 8
+    },
+    {
+      "rank": 9,
+      "idea": "Do some work on Charles River",
+      "conviction": 7
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Trump tariffs",
+    "Regulatory pressures on Mag 7",
+    "Potential for a weaker jobs report",
+    "Carry trade unwind"
+  ],
+  "technical_takeaways": "February is historically a weak month. Expect volatility, particularly in the Magnificent 7. The market is broadening, with small and mid-cap stocks outperforming. Bond yields are compressing, and the Japanese Yen is strengthening."
+}

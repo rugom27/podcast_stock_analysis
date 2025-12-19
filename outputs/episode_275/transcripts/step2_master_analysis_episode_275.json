@@ -1,0 +1,285 @@
+{
+  "episode_number": "275",
+  "episode_date": "2025-01-23",
+  "executive_summary": "Tom Hayes is extremely bullish on value stocks, small caps, and international equities, particularly China. He believes the market is mispricing these assets due to recency bias and that a rotation is imminent. He is lightening up on the Magnificent 7, anticipating decelerating growth and multiple compression. He highlights specific opportunities in Advanced Auto Parts, Cooper Standard, Comstock Resources, VF Corp, and Estee Lauder. He sees a Trump presidency as a catalyst for these trends, anticipating lower taxes, deregulation, and increased infrastructure spending.",
+  "tom_current_conviction": {
+    "overall_market": "Bullish on value, small caps, and international; cautious on Mag 7",
+    "score_1_to_10": 9,
+    "key_reasons": [
+      "Value is the cheapest relative to growth since 1980 and 2000, both generational buy opportunities.",
+      "Small caps offer the same earnings growth as the Mag 7 but at half the multiple.",
+      "International equities are poised to outperform as the dollar weakens and global growth accelerates.",
+      "Trump's policies will favor value sectors like industrials, materials, and energy."
+    ]
+  },
+  "macro_thesis_summary": "The market is poised for a rotation from growth to value, large caps to small caps, and US to international equities. This rotation will be driven by decelerating earnings growth in the Mag 7, rising interest rates, and a shift in investor sentiment towards undervalued assets. A Trump presidency will accelerate these trends through lower taxes, deregulation, and increased infrastructure spending.",
+  "key_macro_data_points": [
+    {
+      "indicator": "Value vs. Growth",
+      "value": "Cheapest since 1980",
+      "tom_interpretation": "A generational buying opportunity for value stocks."
+    },
+    {
+      "indicator": "Small Cap Earnings Growth",
+      "value": "21% expected growth",
+      "tom_interpretation": "Same growth as Mag 7 but at half the multiple."
+    },
+    {
+      "indicator": "International Earnings Growth",
+      "value": "13-14% expected growth",
+      "tom_interpretation": "Higher growth than US at a lower multiple."
+    },
+    {
+      "indicator": "10-Year Yield",
+      "value": "Expecting closer to 4% than 5%",
+      "tom_interpretation": "Bonds will get bid, yields will compress after inauguration."
+    }
+  ],
+  "featured_company_deep_dives": {
+    "AAP": {
+      "thesis_summary": "Advance Auto Parts is a turnaround story with new management taking solvency risk off the table and focusing on profitable stores.  The stock is down 80% and has potential for three times appreciation.",
+      "key_metrics": [
+        "2027 Target: $630 million in operating income",
+        "Historical Trading Range: $180-$220 when target is hit",
+        "Current Price: $45"
+      ],
+      "price_target_or_valuation": "$180-$220",
+      "conviction": "High",
+      "action": "Buy"
+    },
+    "CS": {
+      "thesis_summary": "Cooper Standard is a small-cap auto supplier down 90% with a play on increasing volumes.  The company has refinanced debt and taken costs out, positioning it for significant earnings growth.",
+      "key_metrics": [
+        "Target Volume: 17 million North American sell-through",
+        "Potential Earnings: $10/share",
+        "Historical Trading Range: $146 when volumes hit 17.1 million",
+        "Current Price: $13"
+      ],
+      "price_target_or_valuation": "$146",
+      "conviction": "High",
+      "action": "Buy"
+    },
+    "BA": {
+      "thesis_summary": "Boeing is a turnaround story with solvency risk addressed by raising $20 billion in cash. It has a duopoly and a half a trillion dollar backlog. Trump's focus on defense spending will benefit Boeing.",
+      "key_metrics": [
+        "Duopoly",
+        "Half a trillion dollar backlog",
+        "Beneficiary of increased defense spending"
+      ],
+      "price_target_or_valuation": "N/A",
+      "conviction": "High",
+      "action": "Buy"
+    },
+    "EL": {
+      "thesis_summary": "Estee Lauder is a cyclical turnaround play with cash flow re-accelerating, a new CEO, and a strong presence in Asia. The stock is down significantly from its highs and poised for a rebound.",
+      "key_metrics": [
+        "Historical Growth: 23% on average",
+        "Historical ROIC: Over 20%",
+        "China Exposure: Strong presence in Asia",
+        "New CEO"
+      ],
+      "price_target_or_valuation": "Recover to $250+",
+      "conviction": "High",
+      "action": "Buy"
+    },
+    "BABA": {
+      "thesis_summary": "Alibaba is a turnaround play in China, with Tepper's backing, significant free cash flow, and a large cash position. It is the tollkeeper for the Chinese middle class and has exposure to AI startups.",
+      "key_metrics": [
+        "Free Cash Flow: $25 billion per year",
+        "Cash Position: $55 billion",
+        "AI Exposure: Seed fund for AI startups",
+        "Historical Price Movement: $85 to $187 in 11 months (2017)"
+      ],
+      "price_target_or_valuation": "$187+",
+      "conviction": "High",
+      "action": "Buy"
+    },
+    "COMSTOCK": {
+      "thesis_summary": "Comstock Resources is an energy company with Jerry Jones owning 66% of the stock. It has significant proved and unproved reserves, and sentiment on oil is overly pessimistic.",
+      "key_metrics": [
+        "Proved Reserves (PV10): $20-$30/share",
+        "Unproved Reserves: Another $20/share",
+        "Jerry Jones Ownership: 66%"
+      ],
+      "price_target_or_valuation": "$40-$50",
+      "conviction": "High",
+      "action": "Buy"
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "AAP",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "$180-$220 (3x appreciation)",
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "It's a $45 stock right now you can't give it away maybe three times appreciation",
+        "If I went into Advanced Auto Parts board today and I said I'll take out the entire company JP Morgan's going to finance me on the debt side I'll put up some of the equity I'll raise some Equity we'll buy the entire company at $45 a share I can guarantee you they would call security and have me escorted out of the building because they think I'm absolutely Al Looney to never in a million years would they sell their business at $45 a share"
+      ]
+    },
+    {
+      "ticker": "CS",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "$146",
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "We believe that the next time we hit 17 million in volumes they're not only going to earn $7 they're going to earn $10 a share because they've taken $400 million a cost out",
+        "Price is what you pay value is what you get"
+      ]
+    },
+    {
+      "ticker": "BA",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "N/A",
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "They still have a duopoly they still have a half a trillion dollar backlog so we like Boeing we like that story and Trump has said he wants the rest of the world spending massively on defense spending Boeing is going to be a beneficiary we like that story continuing"
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "$187",
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "Alibaba is the tollkeeper it's the Tollgate for the middle class when they start spending they get a piece of all the action",
+        "His number one position is Alibaba right now look I've been wrong about Alibaba for over a year we just keep buying it and buying it and buying it because price is what you pay value is what you get it's the lowest amount of price for the greatest amount of value right now in the international market"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "tom_sentiment": "Cautious",
+      "conviction": 4,
+      "price_target_or_upside": "N/A",
+      "actionable": "Lighten Up",
+      "position_status": "Overweight",
+      "key_quotes": [
+        "Jensen Wong may be flying a little bit too close to the Sun like Icarus the good news is his wings haven't started to melt yet but at 51 times earning 30 times sales decelerating growth still great growth but decelerating it you know having been through many semiconductor Cycles The Narrative is the same competition is coming right now the wings are fine because there's no competition competition will come"
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "price_target_or_upside": "Double",
+      "actionable": "Watchlist",
+      "position_status": "None",
+      "key_quotes": [
+        "If they get the right CEO and if you do believe in gelsinger's full plan then this thing could be a multibagger but leaving that aside the amds will catch up the Marvel's the broad there there's a lot of people gunning for a piece of the Jensen Wong pie and like every cycle you can be assured that they will get some of it not all of it but they will get enough of it that um you'll see margin compression and you'll see a normalization of multiples"
+      ]
+    },
+    {
+      "ticker": "EL",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "Recover to $250+",
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "This is a brand that's been around for you know century plus it's the best of the best it will continue to be the best of the best and if they see upand comers which is what they do they're phenomenal Capital allocators they just buy them and tuck them in just like diio best in the business"
+      ]
+    },
+    {
+      "ticker": "ALB",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "utility starting to bounce re starting to bounce we've told it you that was coming here's albamar beautiful chart broke the trend back tested on its way up that's our material exposure in addition to comto very excited about that"
+      ]
+    },
+    {
+      "ticker": "QCOM",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "price_target_or_upside": "N/A",
+      "actionable": "Watchlist",
+      "position_status": "None",
+      "key_quotes": [
+        "China's fourth quarter GDP grows at 5.4% beating Market expectations of stimulus measures kick in now if Qualcomm was to buy them I would take Qualcomm stock at this price that's for sure"
+      ]
+    },
+    {
+      "ticker": "TSMC",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "price_target_or_upside": "N/A",
+      "actionable": "Watchlist",
+      "position_status": "None",
+      "key_quotes": [
+        "China's fourth quarter GDP grows at 5.4% beating Market expectations of stimulus measures kick in now if Qualcomm was to buy them I would take Qualcomm stock at this price that's for sure I would even take tsmc stock potentially at this price"
+      ]
+    }
+  ],
+  "new_or_recent_additions": [],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy Advanced Auto Parts (AAP)",
+      "conviction": 9
+    },
+    {
+      "rank": 2,
+      "idea": "Buy Cooper Standard (CS)",
+      "conviction": 9
+    },
+    {
+      "rank": 3,
+      "idea": "Buy Alibaba (BABA)",
+      "conviction": 9
+    },
+    {
+      "rank": 4,
+      "idea": "Buy Boeing (BA)",
+      "conviction": 8
+    },
+    {
+      "rank": 5,
+      "idea": "Buy Estee Lauder (EL)",
+      "conviction": 8
+    },
+    {
+      "rank": 6,
+      "idea": "Buy Comstock Resources",
+      "conviction": 7
+    },
+    {
+      "rank": 7,
+      "idea": "Watchlist Intel (INTC)",
+      "conviction": 7
+    },
+    {
+      "rank": 8,
+      "idea": "Hold Albemarle (ALB)",
+      "conviction": 7
+    },
+    {
+      "rank": 9,
+      "idea": "Watchlist Qualcomm (QCOM)",
+      "conviction": 6
+    },
+    {
+      "rank": 10,
+      "idea": "Watchlist TSMC",
+      "conviction": 6
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Recency bias blinding investors to value opportunities",
+    "Market overestimating the impact of Trump's tariffs",
+    "Potential for competition to erode Nvidia's dominance",
+    "China's economic recovery may be delayed or falter"
+  ],
+  "technical_takeaways": "Small caps bounced off a trend line, indicating potential upside. Value is outperforming growth after the last Fed cut. China's home price tracker is ticking higher. The dollar is overbought and due for a pullback. Truck load demand is going up, indicating ISM is going to move up.",
+  "publish_date": "2025-01-23"
+}

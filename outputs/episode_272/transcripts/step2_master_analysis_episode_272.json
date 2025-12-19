@@ -1,0 +1,388 @@
+{
+  "episode_number": "272",
+  "episode_date": "2025-01-02",
+  "executive_summary": "Tom Hayes is extremely bullish on value stocks, healthcare (XBI), materials (XLB), and specific companies like Albemarle (ALB) and GXO Logistics (GXO). He believes the market is poised for a rotation out of the Magnificent 7 into undervalued sectors and international markets. He emphasizes the importance of understanding balance sheets, cash flows, and solvency analysis to identify generational buying opportunities. He sees a strong economic outlook for the next 5-6 years, with a focus on value and small-cap stocks.",
+  "tom_current_conviction": {
+    "overall_market": "Bullish",
+    "score_1_to_10": 9,
+    "key_reasons": [
+      "Value stocks are historically undervalued compared to growth stocks.",
+      "Expected earnings growth in healthcare and materials sectors.",
+      "Anticipated rotation out of the overvalued Magnificent 7.",
+      "Strong economic outlook for the next 5-6 years.",
+      "Demographic tailwinds with 12,000 people turning 35 every day in the US."
+    ]
+  },
+  "macro_thesis_summary": "The macro thesis revolves around a rotation from growth to value, driven by the end of the zero-interest-rate policy and a shift towards more normalized economic cycles. Hayes anticipates a weaker dollar, rising international equity performance, and a continued bull market with opportunities in undervalued sectors like healthcare and materials. He believes that the market is underestimating the potential for small-cap earnings growth and the benefits of AI implementation in various industries.",
+  "key_macro_data_points": [
+    {
+      "indicator": "Value vs Growth Outperformance",
+      "value": "4.4% per year since 1927",
+      "tom_interpretation": "Value outperforms growth over the long term, and we are at the beginning of a generational opportunity for value investing."
+    },
+    {
+      "indicator": "Small Cap Earnings Growth",
+      "value": "57% for Russell 2000",
+      "tom_interpretation": "Small caps offer significantly higher earnings growth potential compared to the S&P 500, making them attractive investments."
+    },
+    {
+      "indicator": "US GDP Growth",
+      "value": "2.4% expected in 2025",
+      "tom_interpretation": "Solid GDP growth supports a continued bull market and reduces the likelihood of a recession."
+    },
+    {
+      "indicator": "JGB Yields",
+      "value": "Rising",
+      "tom_interpretation": "Rising JGB yields will cause an unwind of the carry trade, negatively impacting the Magnificent 7."
+    }
+  ],
+  "featured_company_deep_dives": {
+    "GXO": {
+      "thesis_summary": "GXO Logistics is a pure-play contract logistics provider poised for significant growth due to the e-commerce boom, outsourcing trends, and AI implementation. The stock is undervalued due to two temporary overhangs: the CEO's retirement and the CMA's review of the Winton acquisition. Hayes believes these overhangs are overblown, presenting a buying opportunity.",
+      "key_metrics": [
+        "Revenue up 28% year-over-year",
+        "Sales pipeline increased 30% to $2.4 billion",
+        "Operating return on invested capital of 30%",
+        "AI implementation leading to 3-4x productivity improvements"
+      ],
+      "price_target_or_valuation": "$67 price target by Oppenheimer, potential to double",
+      "conviction": "High",
+      "action": "Buy"
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "ALB",
+      "tom_sentiment": "Bullish",
+      "conviction": 10,
+      "price_target_or_upside": "Potential Multi-bagger",
+      "actionable": "Buy",
+      "position_status": "Core Holding",
+      "key_quotes": [
+        "Albam Maro is one of the leading lithium providers and it's really sold off it's down 72% from its covid highs",
+        "China is driving the bus on EV demand because it's an unnatural government subsidized market",
+        "One of the biggest players with 3.4 billion of liquidity they'll be just fine"
+      ]
+    },
+    {
+      "ticker": "XBI",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "Significant Upside",
+      "actionable": "Buy",
+      "position_status": "Core Holding",
+      "key_quotes": [
+        "Healthcare is only up 3.7% year-to date they're going to grow earnings 20%",
+        "This is all about deals and drugs a deregulatory environment with the new Administration",
+        "Pharma needs that innovation with record cash on the balance sheet they're going to have to buy that Innovation from biotech at near low historic low valuations"
+      ]
+    },
+    {
+      "ticker": "GXO",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "Double",
+      "actionable": "Buy",
+      "position_status": "Core Holding",
+      "key_quotes": [
+        "This doesn't even sound like a turnaround but it's priced like a turnaround which we love",
+        "AI is going to change the way warehouses are run over the next few years and our leadership in the space is a key driver of our long-term profitable growth",
+        "The stock price is discounting an unwind of the deal and if there's no unwind which is where the probabilities are then you're going to get a reversion back to 50"
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "Double",
+      "actionable": "Hold",
+      "position_status": "Core Holding",
+      "key_quotes": [
+        "After it sold off following the election you had a basic doubling in the next year",
+        "It's time to get paid it's time for clients to get a huge payday",
+        "Alib Baba partners with South Korea's eart to launch e-commerce platform so they're going after to the international like nobody's business we love it"
+      ]
+    },
+    {
+      "ticker": "TLT",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "Significant Upside",
+      "actionable": "Buy",
+      "position_status": "Potential Addition",
+      "key_quotes": [
+        "You want to be a buyer TLT not a seller in this in the in the intermediate term for sure",
+        "Bond allocations have been declining since mid 2023 that's when you want to be buying"
+      ]
+    },
+    {
+      "ticker": "VRSN",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "position_status": "Existing Holding",
+      "key_quotes": [
+        "Ver sign is certainly a headline it's 91 basis points of the entire portfolio so you could see a lot of these moves are being made by the lieutenants Todd and Ted",
+        "I think right now it's preservation it's a Victory lap and um uh it's it's going to effectively it's the law of large numbers it's going to effectively trade like S&P index uh prospectively"
+      ]
+    },
+    {
+      "ticker": "BAX",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Hold",
+      "position_status": "Existing Holding",
+      "key_quotes": [
+        "This is basically a buy list B Baxter International I mean there are just a lot of great companies in here to pay attention to"
+      ]
+    },
+    {
+      "ticker": "AMGN",
+      "tom_sentiment": "Bullish",
+      "conviction": 6,
+      "actionable": "Watch",
+      "position_status": "Potential Addition",
+      "key_quotes": [
+        "There's just a lot of stuff here skyworks is kind of interesting J&J Amgen"
+      ]
+    },
+    {
+      "ticker": "PEP",
+      "tom_sentiment": "Bullish",
+      "conviction": 6,
+      "actionable": "Watch",
+      "position_status": "Potential Addition",
+      "key_quotes": [
+        "Pepsi has been beaten down metronic you can't give away Healthcare we like that so there's just a lot of"
+      ]
+    },
+    {
+      "ticker": "JNJ",
+      "tom_sentiment": "Bullish",
+      "conviction": 6,
+      "actionable": "Watch",
+      "position_status": "Potential Addition",
+      "key_quotes": [
+        "There's just a lot of stuff here skyworks is kind of interesting J&J Amgen"
+      ]
+    },
+    {
+      "ticker": "GILD",
+      "tom_sentiment": "Bullish",
+      "conviction": 6,
+      "actionable": "Watch",
+      "position_status": "Potential Addition",
+      "key_quotes": [
+        "Gilead's already started to move uh some of the refiners Pepsi has been beaten down metronic you can't give away Healthcare we like that so there's just a lot of"
+      ]
+    },
+    {
+      "ticker": "CSCO",
+      "tom_sentiment": "Bullish",
+      "conviction": 6,
+      "actionable": "Watch",
+      "position_status": "Potential Addition",
+      "key_quotes": [
+        "There's just a lot of stuff here skyworks is kind of interesting J&J Amgen Cisco"
+      ]
+    },
+    {
+      "ticker": "TGT",
+      "tom_sentiment": "Bullish",
+      "conviction": 6,
+      "actionable": "Watch",
+      "position_status": "Potential Addition",
+      "key_quotes": [
+        "Nordstrom's getting takeen private Target maybe Ken view is interesting Staples no one wants that's kind of interesting"
+      ]
+    },
+    {
+      "ticker": "XLB",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Buy",
+      "position_status": "Potential Addition",
+      "key_quotes": [
+        "The material sector if you look at xlb did the exact same thing in 2016 remember he ran as the Tariff King they sold off after the election they rallied in 2017 after the inauguration so we expect more of the same thing"
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "tom_sentiment": "Bearish",
+      "conviction": 3,
+      "actionable": "Underweight",
+      "position_status": "N/A",
+      "key_quotes": [
+        "You saw Apple down pretty pretty meaningfully today"
+      ]
+    },
+    {
+      "ticker": "S&P 600",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Buy",
+      "position_status": "Potential Addition",
+      "key_quotes": [
+        "If you look at the small cap 6 S&P 600 it's more like 21% but the fact of the matter is you pay less you get more more earnings growth for lower multiple and that's why that rotation to have no fear the broadening rally will reappear"
+      ]
+    },
+    {
+      "ticker": "EFT",
+      "tom_sentiment": "Bullish",
+      "conviction": 6,
+      "actionable": "Further Exploration",
+      "position_status": "N/A",
+      "key_quotes": [
+        "The numbers look great on this",
+        "Definitely worth a further exploration"
+      ]
+    },
+    {
+      "ticker": "SLX",
+      "tom_sentiment": "Bearish",
+      "conviction": 2,
+      "actionable": "Pass",
+      "position_status": "N/A",
+      "key_quotes": [
+        "I generally don't like steel socks they just chronically suck",
+        "I don't see what you see so I'm a pass"
+      ]
+    },
+    {
+      "ticker": "HPP",
+      "tom_sentiment": "Bearish",
+      "conviction": 2,
+      "actionable": "Pass",
+      "position_status": "N/A",
+      "key_quotes": [
+        "They're trading like they're going bankrupt and there's a decent chance they might",
+        "I'm not really interested in this one it's too much it's highrisk high reward but there's too much in the risk part"
+      ]
+    },
+    {
+      "ticker": "ABEV",
+      "tom_sentiment": "Bearish",
+      "conviction": 3,
+      "actionable": "Pass",
+      "position_status": "N/A",
+      "key_quotes": [
+        "This is another one that's been dead money for 10 years"
+      ]
+    },
+    {
+      "ticker": "MAT",
+      "tom_sentiment": "Bearish",
+      "conviction": 2,
+      "actionable": "Pass",
+      "position_status": "N/A",
+      "key_quotes": [
+        "I just don't like this business it it it just chronically sucks"
+      ]
+    },
+    {
+      "ticker": "OXY",
+      "tom_sentiment": "Neutral",
+      "conviction": 4,
+      "actionable": "Pass",
+      "position_status": "N/A",
+      "key_quotes": [
+        "There's no asymmetry like it's not going to 150 in a week"
+      ]
+    },
+    {
+      "ticker": "CVNA",
+      "tom_sentiment": "Bearish",
+      "conviction": 1,
+      "actionable": "No Interest",
+      "position_status": "N/A",
+      "key_quotes": [
+        "No interest"
+      ]
+    },
+    {
+      "ticker": "XMAG",
+      "tom_sentiment": "Bullish",
+      "conviction": 6,
+      "actionable": "Why Not",
+      "position_status": "N/A",
+      "key_quotes": [
+        "Yeah why not"
+      ]
+    },
+    {
+      "ticker": "CE",
+      "tom_sentiment": "Bullish",
+      "conviction": 6,
+      "actionable": "Interesting",
+      "position_status": "N/A",
+      "key_quotes": [
+        "I like Celanese it's one of these materials companies that is beaten down haven't done anything with it yet don't know if I have space to do anything with it yet but I think over the next few years it'll be okay and I think it's interesting"
+      ]
+    }
+  ],
+  "new_or_recent_additions": [
+    "GXO",
+    "ALB",
+    "XBI"
+  ],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy Albemarle (ALB) for lithium exposure and cyclical rebound.",
+      "conviction": 10
+    },
+    {
+      "rank": 2,
+      "idea": "Buy XBI (Biotech ETF) for healthcare exposure and earnings growth.",
+      "conviction": 9
+    },
+    {
+      "rank": 3,
+      "idea": "Buy GXO Logistics (GXO) for turnaround and AI implementation.",
+      "conviction": 9
+    },
+    {
+      "rank": 4,
+      "idea": "Hold Alibaba (BABA) for China exposure and potential doubling.",
+      "conviction": 8
+    },
+    {
+      "rank": 5,
+      "idea": "Buy XLB (Materials ETF) for sector rotation and potential rally.",
+      "conviction": 8
+    },
+    {
+      "rank": 6,
+      "idea": "Buy TLT (Treasury ETF) for bond exposure and potential upside.",
+      "conviction": 7
+    },
+    {
+      "rank": 7,
+      "idea": "Buy S&P 600 (Small Cap ETF) for higher earnings growth.",
+      "conviction": 7
+    },
+    {
+      "rank": 8,
+      "idea": "Hold Baxter (BAX) for dividend yield and potential upside.",
+      "conviction": 7
+    },
+    {
+      "rank": 9,
+      "idea": "Further Exploration of Euronet (EFT).",
+      "conviction": 6
+    },
+    {
+      "rank": 10,
+      "idea": "Watch Amgen (AMGN) for potential addition.",
+      "conviction": 6
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Potential for continued underperformance of value stocks if zero-interest-rate policy returns.",
+    "Risk of recession impacting overall market performance.",
+    "Uncertainty surrounding the outcome of the CMA review of the Winton acquisition.",
+    "Potential for AI boom to be overhyped and face regulatory challenges."
+  ],
+  "technical_takeaways": "Material stocks percentage above the 20-day exponential moving average down to zero is a buy time. Healthcare stocks got down to 5% above their 20-day exponential moving average, these are always dips to buy not to sell. Dow intermediate term breath momentum is getting stretched to the downside, time to take opportunity. S&P 500 mlen summation index is towards areas where there's opportunity. PMO buy all down to zero is a percentage of S&P 500 on crossover buy signals, at zero the risk rewards are in your favor.",
+  "publish_date": "2025-01-02"
+}

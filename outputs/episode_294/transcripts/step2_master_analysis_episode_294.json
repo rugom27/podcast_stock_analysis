@@ -1,0 +1,361 @@
+{
+  "episode_number": "294",
+  "episode_date": "2025-06-05",
+  "executive_summary": "Tom Hayes is extremely bullish, advocating for a growth-led strategy with massive deregulation, lower rates, and increased lending to run the economy 'hot as hell'. He dismisses fears of runaway inflation, drawing parallels to the post-World War II era where similar debt levels were successfully managed through growth and moderate inflation. He identifies opportunities in housing-related businesses, small caps, and select defensive stocks, while cautioning against being overly bearish or missing out on the current market rally. He emphasizes international equities and sees potential in beaten-down sectors poised for recovery.",
+  "tom_current_conviction": {
+    "overall_market": "Extremely Bullish",
+    "score_1_to_10": 9,
+    "key_reasons": [
+      "Trapped bears and forced buyers are fueling the market rally.",
+      "Earnings growth is exceeding expectations.",
+      "Atlanta GDP Now suggests a strong recovery, negating fears of consecutive negative GDP quarters.",
+      "M2 Money Supply is at an all-time high.",
+      "Consumer sentiment is at levels that historically precede significant market gains."
+    ]
+  },
+  "macro_thesis_summary": "The US economy can grow its way out of debt with deregulation, tax cuts and running the economy hot. Powell is too restrictive and needs to lower rates. International equities will outperform US equities. Small caps are poised for a massive breakout.",
+  "key_macro_data_points": [
+    {
+      "indicator": "Atlanta GDP Now",
+      "value": "4.6%",
+      "tom_interpretation": "Even if half wrong, it indicates no two consecutive quarters of negative GDP growth, dismissing recession fears."
+    },
+    {
+      "indicator": "M2 Money Supply",
+      "value": "All-time high",
+      "tom_interpretation": "Very difficult to be bearish when M2 money supply is back at an all-time high."
+    },
+    {
+      "indicator": "Consumer Sentiment Index",
+      "value": "Lowest since 1975, 1980, 1990, 2008, 2011, and 2022 lows",
+      "tom_interpretation": "Each subsequent time, the next 12 months, you had 12 20 plus on average 20 plus% returns."
+    },
+    {
+      "indicator": "Earnings Growth Q1",
+      "value": "13.3%",
+      "tom_interpretation": "About double expectations, indicating strong corporate performance."
+    },
+    {
+      "indicator": "Buyback Announcements",
+      "value": "$665 Billion",
+      "tom_interpretation": "Record buyback announcements, highest since 2018."
+    }
+  ],
+  "featured_company_deep_dives": {
+    "Hormel (HRL)": {
+      "thesis_summary": "Hormel is a durable business that has been around for 130 years. It is a branded protein-centric powerhouse that is well-positioned to benefit from the trend towards lean, high-protein diets. The stock is trading at a historic trough multiple and offers a near 4% dividend while waiting for a rerating.",
+      "key_metrics": [
+        "Topline growth fueled by protein obsession",
+        "Margin inflection on deck",
+        "59 consecutive years of dividend increases",
+        "96 plus years of dividend payments without interruption"
+      ],
+      "price_target_or_valuation": "Stock should eventually earn a rerating and be back to fresh highs within the next two to three years.",
+      "conviction": "High",
+      "action": "Buy"
+    },
+    "Diagio (DGE)": {
+      "thesis_summary": "Diagio is a global leader in premium alcoholic beverages with a portfolio of 200+ brands. The stock has been cut in half and is trading as if consumers will never sip alcohol again. The company is well-positioned to benefit from the long-term global premiumization trend. The stock offers a nearly 4% dividend while waiting for a recovery.",
+      "key_metrics": [
+        "Industry-leading portfolio of 200+ brands",
+        "Benefiting from margin tailwinds tied to premiumization",
+        "Increasing dividend and buybacks"
+      ],
+      "price_target_or_valuation": "Stock trading back above $200 in a couple of years.",
+      "conviction": "High",
+      "action": "Buy"
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "QXO",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "$70-$100 in 5-7 years",
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "I do want to buy the building suppliers like QXO, which Brad Jacobs is running as a rollup. He put $900 million of his own money.",
+        "He'll roll up about 50 to 80 billion topline with double digit EBID margins, which effectively means your $16 stock will be 70 80 90 $100 uh probably five, six, seven years out."
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "Over $150",
+      "actionable": "Hold/Buy on dips",
+      "position_status": "Existing",
+      "key_quotes": [
+        "Hang Sang went back to retest this line...this could just rip rip higher to new highs, which would take Baba with it back over 150 and uh off to the races. So, we're excited about that.",
+        "June is the best month of the year. And same for Alibaba, uh June is uh June, the back half of the year is the is the biggest time for uh Alibaba share price seasonality"
+      ]
+    },
+    {
+      "ticker": "F",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "Ford reports 16% sales increase in May amid employee pricing, i.e. incentives, ladies and gentlemen. We've talked about that since May 2022 when we put on the position at the low fives and now it's at 21 uh and just getting started."
+      ]
+    },
+    {
+      "ticker": "BA",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "Boeing to resume airplane deliveries to China next month, ramp up max production. CEO says, \"We love that. We took profits on all of our options last week at huge multiples. And uh we didn't sh sell one share of stock, nor will we for many for a long time to come."
+      ]
+    },
+    {
+      "ticker": "HRL",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "Double in 2-3 years",
+      "actionable": "Buy",
+      "position_status": "New Addition",
+      "key_quotes": [
+        "Hormemell fits this description to a tea. This is a company that has been a compounding machine since 1891.",
+        "Give it a few more quarters like Q2, maybe say protein a few more times, and the stock should eventually earn a rerating and be back to fresh highs within the next two to three years. Until then, we're happy to sit tight and collect a near 4% dividend and growing, by the way, off our basis while we wait."
+      ]
+    },
+    {
+      "ticker": "DIAGIO",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "$200 in a couple of years",
+      "actionable": "Buy",
+      "position_status": "New Addition",
+      "key_quotes": [
+        "We're more than happy to take the other side of that trade. Yes, consent consumers may be drinking a bit less, but the trend is clear. drinking less but drinking better.",
+        "Fast forward to a couple years, and what you'll see is a stronger Dagio with a cleaned up balance sheet growing at mids singledigit clip, benefiting from margin tailwinds tied to premiumization, and a stock trading back above $200."
+      ]
+    },
+    {
+      "ticker": "APTV",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "price_target_or_upside": "N/A",
+      "actionable": "Monitor",
+      "position_status": "N/A",
+      "key_quotes": [
+        "Cash flow's gone up, revenues gone up, margins are going back up. Yeah, you're probably fine with this one."
+      ]
+    },
+    {
+      "ticker": "BTMD",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Due Diligence",
+      "position_status": "N/A",
+      "key_quotes": [
+        "The numbers look really good. So definitely worth doing some work on.",
+        "I think you got a good one here, my man. So, I'm going to do some work on this one."
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "N/A",
+      "key_quotes": [
+        "I don't think you're going to get the bags that you're going to potentially get with um Intel, but it's a good enough business that you're not wrong. I just think there are higher and better uses of capital"
+      ]
+    },
+    {
+      "ticker": "SCVL",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "N/A",
+      "key_quotes": [
+        "You're probably okay. I like it. Good job, Tom."
+      ]
+    },
+    {
+      "ticker": "FMC",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "$250 in next cycle",
+      "actionable": "Buy",
+      "position_status": "N/A",
+      "key_quotes": [
+        "I think you buy FMC, not only do you recover to all-time highs, 127, but you wind up at, you know, 250 before the end of the next cycle. I mean, because it's a durable business"
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "N/A",
+      "key_quotes": [
+        "guess this the market uh shortterm is paying an awful lot of attention to this. Uh I guess to some degree the Apple developers conference to see if they can get their AI stuff together because that's a big waiting in the S&P but uh le less important than how it's going to impact"
+      ]
+    },
+    {
+      "ticker": "TLT",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "price_target_or_upside": "N/A",
+      "actionable": "Monitor",
+      "position_status": "N/A",
+      "key_quotes": [
+        "So all of this traders are now starting to plow into TLT. So that's good to see."
+      ]
+    },
+    {
+      "ticker": "PFE",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "price_target_or_upside": "N/A",
+      "actionable": "Monitor",
+      "position_status": "N/A",
+      "key_quotes": [
+        "Amgen health care looking for more health care ladies and gentlemen I keep uh thinking about Fizer's pipeline is looking more and more attract attractive good dividend yield I don't like the CEO but um what else we got here that's that all right let's go down to the rest of the charts here"
+      ]
+    },
+    {
+      "ticker": "SG",
+      "tom_sentiment": "Negative",
+      "conviction": 3,
+      "price_target_or_upside": "N/A",
+      "actionable": "Pass",
+      "position_status": "N/A",
+      "key_quotes": [
+        "I think I looked at this and the answer was maybe and I passed on it. Now it's still negative free cash flow. I did look at this and I passed on it."
+      ]
+    },
+    {
+      "ticker": "VSAT",
+      "tom_sentiment": "Very Negative",
+      "conviction": 2,
+      "price_target_or_upside": "N/A",
+      "actionable": "Avoid",
+      "position_status": "N/A",
+      "key_quotes": [
+        "This thing looks like it's dead. I think it's all going to be um whatever Elon Mus thing is called. Starlink.",
+        "These guys are low lives. Not interested."
+      ]
+    },
+    {
+      "ticker": "SWBI",
+      "tom_sentiment": "Negative",
+      "conviction": 3,
+      "price_target_or_upside": "N/A",
+      "actionable": "Avoid",
+      "position_status": "N/A",
+      "key_quotes": [
+        "No, not for me."
+      ]
+    },
+    {
+      "ticker": "RYMH",
+      "tom_sentiment": "Negative",
+      "conviction": 3,
+      "price_target_or_upside": "N/A",
+      "actionable": "Pass",
+      "position_status": "N/A",
+      "key_quotes": [
+        "I'm going to say pass."
+      ]
+    },
+    {
+      "ticker": "CRONH",
+      "tom_sentiment": "Speculative",
+      "conviction": 4,
+      "price_target_or_upside": "N/A",
+      "actionable": "Due Diligence",
+      "position_status": "N/A",
+      "key_quotes": [
+        "I can't get excited about it, but I think you got enough margin of safety in it that if they get it right and the phase comes back, you could have a beast of a move, but this is kind of a gambling stock."
+      ]
+    },
+    {
+      "ticker": "RCI HOSPITALITY",
+      "tom_sentiment": "Negative",
+      "conviction": 3,
+      "price_target_or_upside": "N/A",
+      "actionable": "Avoid",
+      "position_status": "N/A",
+      "key_quotes": [
+        "I said yeah except for the fact that no institutional manager can ever own the goddamn stock therefore you're never going to get any real sponsorship or have any liquidity if you need to get out in size."
+      ]
+    }
+  ],
+  "new_or_recent_additions": [
+    "HRL",
+    "DIAGIO"
+  ],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy QXO",
+      "conviction": 9
+    },
+    {
+      "rank": 2,
+      "idea": "Buy Hormel (HRL)",
+      "conviction": 8
+    },
+    {
+      "rank": 3,
+      "idea": "Buy DIAGIO (DGE)",
+      "conviction": 8
+    },
+    {
+      "rank": 4,
+      "idea": "Buy FMC",
+      "conviction": 8
+    },
+    {
+      "rank": 5,
+      "idea": "Hold/Buy on dips BABA",
+      "conviction": 8
+    },
+    {
+      "rank": 6,
+      "idea": "Due Diligence BTMD",
+      "conviction": 7
+    },
+    {
+      "rank": 7,
+      "idea": "Hold F",
+      "conviction": 7
+    },
+    {
+      "rank": 8,
+      "idea": "Hold BA",
+      "conviction": 7
+    },
+    {
+      "rank": 9,
+      "idea": "Monitor APTV",
+      "conviction": 6
+    },
+    {
+      "rank": 10,
+      "idea": "Monitor TLT",
+      "conviction": 6
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Overreliance on growth-led strategies without considering potential inflationary pressures.",
+    "Ignoring the potential for deflation and depression by cutting too much.",
+    "Underestimating the impact of steel tariffs on the automotive industry.",
+    "Assuming international equities will outperform US equities without considering potential shifts in economic policy or innovation.",
+    "Potential for increased share count dilution in certain companies."
+  ],
+  "technical_takeaways": "The S&P 500 has room to run into midsummer. Small caps are poised for a breakout. International equities are outperforming. Defensives are at low levels and should be considered for volatility protection."
+}

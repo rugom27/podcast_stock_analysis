@@ -1,0 +1,222 @@
+{
+  "episode_number": "262",
+  "episode_date": "2024-10-24",
+  "executive_summary": "Tom Hayes is extremely bullish on small caps, emerging markets, industrials, financials, and value stocks over growth stocks. He is pounding the table on Alibaba and Boeing, and sees a buying opportunity in Disney. He believes the market is pricing in a Trump win and a split government, which is ideal for the stock market. He is also closely watching the bond market and believes that the recent selloff is a counter-trend rally.",
+  "tom_current_conviction": {
+    "overall_market": "Bullish",
+    "score_1_to_10": 9,
+    "key_reasons": [
+      "Market is pricing in pro-growth policies.",
+      "Seasonality favors buying bonds in November.",
+      "Small caps, Emerging Markets, Industrials, financials, value over growth will outperform."
+    ]
+  },
+  "macro_thesis_summary": "The market is in the early stages of a bull cycle, with strong economic data and improving sentiment. The FED may not cut rates as much as the market expects, and inflation may run higher than expected. A split government is the ideal outcome for the stock market.",
+  "key_macro_data_points": [
+    {
+      "indicator": "China GDP Growth",
+      "value": "4.6%",
+      "tom_interpretation": "China's GDP came in slightly better than expected, indicating a recovery in the Chinese economy."
+    },
+    {
+      "indicator": "US Unemployment Rate",
+      "value": "Low, but showing signs of weakness",
+      "tom_interpretation": "The labor market is still strong, but there are some signs of weakness, which could lead the FED to cut rates."
+    },
+    {
+      "indicator": "Corporate Margins",
+      "value": "Near all-time highs",
+      "tom_interpretation": "Corporate margins are near all-time highs and are not yet showing signs of letting up, which is a positive sign for the economy."
+    },
+    {
+      "indicator": "Treasury Futures Put Call Skew",
+      "value": "Extended",
+      "tom_interpretation": "People were short treasuries. Last time it got this extended was September of 2023 when we were pounding the table to buy bonds and that yields were going to compress and that was the Peak at 5% 10-year Treasury and sure enough."
+    }
+  ],
+  "featured_company_deep_dives": {
+    "DIS": {
+      "thesis_summary": "Disney is trading at a multiple discount to the S&P 500, which has historically preceded monster rallies. Reacceleration of experiences and operating income growth in fiscal year 2026. Streaming losses are falling, and operating income is booming.",
+      "key_metrics": [
+        "Reacceleration of experiences",
+        "Operating income growth in fiscal year 2026",
+        "Falling streaming losses"
+      ],
+      "conviction": "High",
+      "action": "Buy Disney. \"We love Disney we own Disney we uh buy Disney we visit Disney we everything Disney so happy Disney we expect a reacceleration of experiences\""
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "VFC",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Buy",
+      "position_status": "Existing Holding",
+      "key_quotes": [
+        "This is related to a holding we have called VF Corp with Brack and Daryl which is a turnaround",
+        "He's turning that company around just like he did with Logitech which was a six bagger after he came in after the stock was down 82% same thing came in with the stock down more than 80%"
+      ]
+    },
+    {
+      "ticker": "BA",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "actionable": "Buy",
+      "position_status": "Existing Holding, Adding to Position",
+      "key_quotes": [
+        "Boeing's going to be just fine look we were in the market adding to our position like crazy this morning we did think 35% was extremely generous",
+        "If the union votes against the pay package I.E the strike continues wait till to drops 5% buy some Boeing stock if they vote Yes the Stock's going to go up buy some stock"
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Hold",
+      "key_quotes": [
+        "I do not bet against um Elon Musk I think he knows what he's doing and you can just see how excited the people are",
+        "I do think they want Teslas there's something special about Tesla when it comes to EVs and I think that's going to continue as he rolls out refreshed models uh more affordable models for the masses I think uh I think he's got legs"
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 10,
+      "actionable": "Buy",
+      "position_status": "Existing Holding, Reloading Options",
+      "key_quotes": [
+        "Our one of our largest positions is Alibaba this has been like watching paint dry has been dead money for us for a year uh we spent every red day buying more stock people looked at us like we had three heads",
+        "You can buy Alibaba today for the same price it was 10 years ago the only difference is the revenues are up, 1300% and the earnings in cash flow are up 650",
+        "God willing we get a pullback I'm going to load up again and break my position limits again"
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Pitch Paul singer on Intel so we'll see what happens if he shows up look in in a handful of the positions we've put on whether it was crown castle Etc we seem to put them on and the activists seem to come invariably"
+      ]
+    },
+    {
+      "ticker": "META",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Hold",
+      "key_quotes": [
+        "I'm really bullish I mean I'm bullish on meta and just look at look at all the things that it takes to power that AI right so you're talking semiconductors you're talking supply chain you're talking manufacturing I'm very excited I think this year ends really on a high note"
+      ]
+    },
+    {
+      "ticker": "PBF",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "I think Energy's going to actually get a rally but revenues are down they're just recovering cash flow I think there are higher and better uses it's not bad but I don't I wouldn't buy it here"
+      ]
+    },
+    {
+      "ticker": "ADM",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "I think it's okay I just think it's a not yet story it's close story but not yet story"
+      ]
+    },
+    {
+      "ticker": "SMCI",
+      "tom_sentiment": "Negative",
+      "conviction": 2,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "It went up 100x and now it's falling 60% so everyone's excited to buy it up only 40x this is not for me I don't care if they make cancer cures I'm not interested"
+      ]
+    },
+    {
+      "ticker": "DNA",
+      "tom_sentiment": "Negative",
+      "conviction": 3,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "I look at it every two weeks and I continue to say no I mean you're betting on it should work like fiser should work but you're betting on them coming up with like a cancer vaccine which if they do it'll be aund bagger and if it and if they don't it'll just languish there so I can't I'm not in the predict predicting Market"
+      ]
+    },
+    {
+      "ticker": "CCI",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "We bought crown castle in the 90s and it's up you know got up to like 115 120 now I think it's 110 that's just getting started that's another one we got into right before Paul singer got into it at Elliott with his activist campaign"
+      ]
+    },
+    {
+      "ticker": "CIM",
+      "tom_sentiment": "Negative",
+      "conviction": 2,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "You're never going to understand what's in the portfolios of these tiny little companies with mortgage back Securities"
+      ]
+    },
+    {
+      "ticker": "WPC",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "W up carry is probably okay"
+      ]
+    },
+    {
+      "ticker": "MPW",
+      "tom_sentiment": "Negative",
+      "conviction": 3,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "Medical properties trust you got to be careful with those I mean you're you're guessing and you'll probably be right I mean that's takes a huge amount of work to get confidence in that"
+      ]
+    },
+    {
+      "ticker": "AMR",
+      "tom_sentiment": "Negative",
+      "conviction": 1,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "Cash flow is coming down after peaking revenues are coming down margins are coming down and the Stock's up 100x for me it's a hard pass"
+      ]
+    }
+  ],
+  "new_or_recent_additions": [
+    "Boeing",
+    "VF Corp"
+  ],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy Alibaba",
+      "conviction": 10
+    },
+    {
+      "rank": 2,
+      "idea": "Buy Boeing",
+      "conviction": 9
+    },
+    {
+      "rank": 3,
+      "idea": "Buy Disney",
+      "conviction": 8
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Insiders are selling into the strength in the US market.",
+    "Private credit is overvalued.",
+    "Complacency is spreading."
+  ],
+  "technical_takeaways": "The S&P seasonal composite since 1928 indicates that the bottom is in on October 27th, and then the market starts to rally into year-end. In election years, there may be a little bit more weakness into the end of October, and then a rally into the end of the year.",
+  "publish_date": "2024-10-24"
+}

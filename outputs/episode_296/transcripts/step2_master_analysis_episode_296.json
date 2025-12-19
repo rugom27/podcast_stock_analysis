@@ -1,0 +1,323 @@
+{
+  "episode_number": "296",
+  "episode_date": "2025-06-19",
+  "executive_summary": "Tom Hayes appeared on Fox Business to discuss the Fed, potential rate cuts, and stock picks. He also presented two stock picks: GXO Logistics and Albemarle. He reiterated his bullish stance on cyclicals, international stocks, and small caps, while remaining cautious on the Mag 7 and US equities. He also appeared on CGTN America to discuss the Fed rate decision.",
+  "tom_current_conviction": {
+    "overall_market": "Bullish",
+    "score_1_to_10": 9,
+    "key_reasons": [
+      "Fed is too restrictive and will eventually cut rates.",
+      "Cyclicals, international stocks, and small caps are poised to outperform.",
+      "Market sentiment is still subdued, indicating further upside potential."
+    ]
+  },
+  "macro_thesis_summary": "The Fed is behind the curve and will be forced to cut rates, benefiting cyclicals, international stocks, and small caps. The US dollar is in an early-stage secular bear market, and international markets are poised to outperform. Value will outperform growth.",
+  "key_macro_data_points": [
+    {
+      "indicator": "Fed Funds Rate vs. Inflation",
+      "value": "200 basis points above inflation",
+      "tom_interpretation": "The Fed is too restrictive, unnecessarily hurting taxpayers and millennials."
+    },
+    {
+      "indicator": "Target rate probabilities for September 17th meeting",
+      "value": "64% chance of first cut",
+      "tom_interpretation": "The market expects the Fed to start cutting rates soon."
+    },
+    {
+      "indicator": "Fund Manager Survey - International Stocks",
+      "value": "Most expect international stocks to be the best performing over the next 5 years",
+      "tom_interpretation": "Opinion follows trend. You couldn't give away international stocks in Q4 when we were pounding the table."
+    },
+    {
+      "indicator": "Fund Manager Survey - US Dollar",
+      "value": "Most underweight the US dollar in 20 years",
+      "tom_interpretation": "The US dollar is in a secular bear market."
+    },
+    {
+      "indicator": "Fund Manager Survey - Emerging Market Equities",
+      "value": "28% net overweight",
+      "tom_interpretation": "Highest allocation since August 2023."
+    },
+    {
+      "indicator": "China Retail Sales (May)",
+      "value": "Grew at fastest pace since December 2023, up 6.4%",
+      "tom_interpretation": "China's internal consumption is accelerating, benefiting Alibaba."
+    }
+  ],
+  "featured_company_deep_dives": {
+    "GXO": {
+      "thesis_summary": "GXO Logistics is a worldwide logistics company poised for growth due to two catalysts: the announcement of a new CEO and the completion of the Winkitin acquisition. The stock is expected to rise from $42 to over $60 before the end of the year.",
+      "key_metrics": [
+        "CEO announcement",
+        "Winkitin acquisition completion",
+        "Over $800 million of IBIDA this year"
+      ],
+      "price_target_or_valuation": "Over $60 before the end of the year",
+      "conviction": "High",
+      "action": "Buy"
+    },
+    "ALB": {
+      "thesis_summary": "Albemarle is a lithium miner positioned to benefit from the increasing demand for energy storage systems. Despite trough prices, the company is cash flow positive with substantial liquidity. The stock has the potential to double or triple over the next three to four years.",
+      "key_metrics": [
+        "Lowest cost lithium producer",
+        "Cash flow positive",
+        "Lithium demand increasing from 1.2 to 3.2 million metric tons by 2030"
+      ],
+      "price_target_or_valuation": "Double to triple over the next three to four years",
+      "conviction": "High",
+      "action": "Buy"
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "GXO",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "Over $60 before the end of the year",
+      "actionable": "Buy",
+      "position_status": "New Pick",
+      "key_quotes": [
+        "This one we believe is just taking off.",
+        "We think the stock's going from 42 to over 60 before the end of the year."
+      ]
+    },
+    {
+      "ticker": "ALB",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "Double to triple over the next three to four years",
+      "actionable": "Buy",
+      "position_status": "Maintained",
+      "key_quotes": [
+        "Lowest cost, one of the largest lithium producers",
+        "This can be a double to triple over the next three to four years."
+      ]
+    },
+    {
+      "ticker": "QXO",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "$80-100+",
+      "actionable": "Buy",
+      "position_status": "Maintained",
+      "key_quotes": [
+        "Do not sleep on QXO.",
+        "You look a handful of years out, this is somewhere between 80 and 100 and probably more."
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Buy",
+      "position_status": "Maintained",
+      "key_quotes": [
+        "This will be one of the greatest hockey stick stories from most hated to most loved in the shortest period of time.",
+        "When it turns, it's going to turn all at once."
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "actionable": "Buy",
+      "position_status": "Maintained",
+      "key_quotes": [
+        "All you have to do is reverse engineer who's going to be the biggest beneficiary and it's unquestionably Alibaba.",
+        "That's the name of the game just beginning."
+      ]
+    },
+    {
+      "ticker": "PYPL",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Buy",
+      "position_status": "Maintained",
+      "key_quotes": [
+        "PayPal has such a moat at this point that the amount of stock they're going to buy in 20% of the company.",
+        "They are the sixth largest stable coin."
+      ]
+    },
+    {
+      "ticker": "VFC",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Buy",
+      "position_status": "Maintained",
+      "key_quotes": [
+        "VF Corp is a better risk reward.",
+        "VF Corp can be a multibagger in three or less."
+      ]
+    },
+    {
+      "ticker": "RRC",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Buy",
+      "position_status": "Maintained",
+      "key_quotes": [
+        "Natural gas is hot and oil is not.",
+        "If you're patient with these things... it's a 10 bagger in seven years."
+      ]
+    },
+    {
+      "ticker": "CLX",
+      "tom_sentiment": "Neutral",
+      "conviction": 6,
+      "actionable": "Hold",
+      "position_status": "Maintained",
+      "key_quotes": [
+        "This is a long-term compounder with a moat.",
+        "I think for the long term, this one's generally going to be okay."
+      ]
+    },
+    {
+      "ticker": "CCI",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Buy",
+      "position_status": "Maintained",
+      "key_quotes": [
+        "Just be patient with this, Theo. This is this is just an interest rate play.",
+        "It's going to work. They have a moat."
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "position_status": "Monitored",
+      "key_quotes": [
+        "Tesla is still down."
+      ]
+    },
+    {
+      "ticker": "GOOG",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "position_status": "Monitored",
+      "key_quotes": [
+        "Google's still down."
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "tom_sentiment": "Bullish",
+      "conviction": 6,
+      "actionable": "Buy",
+      "position_status": "Monitored",
+      "key_quotes": [
+        "Even Amazon which is probably a buy."
+      ]
+    },
+    {
+      "ticker": "ENPH",
+      "tom_sentiment": "Bearish",
+      "conviction": 3,
+      "actionable": "Avoid",
+      "position_status": "Avoid",
+      "key_quotes": [
+        "I've been asked about Nphase every week for the last two years. I've continued to say no.",
+        "It is a broken growth stock."
+      ]
+    },
+    {
+      "ticker": "SFM",
+      "tom_sentiment": "Bearish",
+      "conviction": 2,
+      "actionable": "Avoid",
+      "position_status": "Avoid",
+      "key_quotes": [
+        "Supermarkets are never a good business.",
+        "I would just avoid it like the plague."
+      ]
+    },
+    {
+      "ticker": "OFLX",
+      "tom_sentiment": "Bearish",
+      "conviction": 3,
+      "actionable": "Avoid",
+      "position_status": "Avoid",
+      "key_quotes": [
+        "This business is low quality.",
+        "I just don't know what the growth story is from a stock perspective."
+      ]
+    },
+    {
+      "ticker": "AMD",
+      "tom_sentiment": "Bearish",
+      "conviction": 4,
+      "actionable": "Avoid",
+      "position_status": "Avoid",
+      "key_quotes": [
+        "AMD there's too much downside.",
+        "There's nothing they have that their customers can't find another solution elsewhere."
+      ]
+    },
+    {
+      "ticker": "NKE",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "position_status": "Monitored",
+      "key_quotes": [
+        "Nike is probably going to take longer than everyone thinks.",
+        "Nike could be a double or triple. I think it's going to take five years."
+      ]
+    }
+  ],
+  "new_or_recent_additions": [
+    "GXO"
+  ],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy Alibaba (BABA) to capitalize on China's accelerating internal consumption and government support.",
+      "conviction": 9
+    },
+    {
+      "rank": 2,
+      "idea": "Buy GXO Logistics (GXO) based on CEO catalyst and Winkitin acquisition.",
+      "conviction": 9
+    },
+    {
+      "rank": 3,
+      "idea": "Buy Intel (INTC) as a play on US government support and domestic chip production.",
+      "conviction": 8
+    },
+    {
+      "rank": 4,
+      "idea": "Buy Albemarle (ALB) to capitalize on the increasing demand for energy storage systems and the eventual recovery of lithium prices.",
+      "conviction": 8
+    },
+    {
+      "rank": 5,
+      "idea": "Buy VF Corp (VFC) for a better risk-reward than Nike.",
+      "conviction": 7
+    },
+    {
+      "rank": 6,
+      "idea": "Buy Range Resources (RRC) to capitalize on the hot natural gas market.",
+      "conviction": 7
+    },
+    {
+      "rank": 7,
+      "idea": "Buy PayPal (PYPL) based on its moat and stable coin business.",
+      "conviction": 7
+    },
+    {
+      "rank": 8,
+      "idea": "Buy Crown Castle (CCI) as an interest rate play.",
+      "conviction": 7
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "The Fed may not cut rates as quickly as expected.",
+    "The US dollar may not weaken as much as expected.",
+    "The Mag 7 may continue to outperform.",
+    "China's economic recovery may falter."
+  ],
+  "technical_takeaways": "S&P 500 making an aggressive cup and handle. Measured move would imply 7,100 probably by sometime in 2026."
+}

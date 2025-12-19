@@ -1,0 +1,206 @@
+{
+  "episode_number": "276",
+  "episode_date": "2025-01-30",
+  "executive_summary": "This episode focuses on the shift from growth to value, the unwinding of the carry trade impacting overvalued tech stocks, and emerging opportunities in beaten-down sectors like consumer staples and emerging markets, particularly China. Tom emphasizes the importance of durable businesses and avoiding FOMO-driven investments.",
+  "tom_current_conviction": {
+    "overall_market": "Cautiously Optimistic, favoring value and international markets",
+    "score_1_to_10": 7,
+    "key_reasons": [
+      "Underlying strength in value stocks and emerging markets.",
+      "Unwinding of carry trade puts pressure on overvalued growth stocks.",
+      "Macro data points to continued economic expansion, but with sector rotation."
+    ]
+  },
+  "macro_thesis_summary": "The market is undergoing a significant rotation from growth to value, driven by factors such as the unwinding of the carry trade, rising interest rates in Japan, and increased competition in the AI and semiconductor sectors. Emerging markets, particularly China, are poised for outperformance. Focus on durable businesses with strong fundamentals and avoid chasing overhyped stocks.",
+  "key_macro_data_points": [
+    {
+      "indicator": "Bank of Japan Rate Hike",
+      "value": "Raised interest rates to the highest level in 17 years",
+      "tom_interpretation": "This is a key catalyst for the unwinding of the carry trade, putting pressure on overvalued US tech stocks that have benefited from cheap Japanese capital. \"Pay attention to the carry trade unwind and watch the money flows.\""
+    },
+    {
+      "indicator": "Alibaba's Quen 2.5 Max AI Model",
+      "value": "Outperforms DeepSeek and OpenAI",
+      "tom_interpretation": "Alibaba is a major player in AI and is best in class. This is a game changer and Alibaba is the core beneficiary in the East."
+    },
+    {
+      "indicator": "US Dollar Weakness",
+      "value": "Dollar post worst week in 14 months",
+      "tom_interpretation": "Dollar peaked out in early January. This is positive for emerging markets and international equities."
+    },
+    {
+      "indicator": "Earnings Growth",
+      "value": "S&P 500 earnings growth is 12.7%",
+      "tom_interpretation": "Earnings are doing well, but guidance is softer. This is normal seasonally."
+    }
+  ],
+  "featured_company_deep_dives": {
+    "VF Corp": {
+      "thesis_summary": "VF Corp is undergoing a successful turnaround led by Brack and Daryl. The company's fundamentals are improving, and free cash flow is increasing, leading to potential stock buybacks and further upside.",
+      "key_metrics": [
+        "Improving earnings",
+        "Increasing free cash flow",
+        "Potential stock buybacks"
+      ],
+      "price_target_or_valuation": "$40-$50",
+      "conviction": "High",
+      "action": "Hold/Accumulate. \"I was pretty optimistic kind of thinking that this is a story that could easily go to $40 $50...and sure enough it's a a double now and probably a lot more.\""
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 10,
+      "price_target_or_upside": "Significant upside potential",
+      "actionable": "Buy/Hold",
+      "position_status": "Core Holding",
+      "key_quotes": [
+        "As owners of Alibaba, we couldn't be happier.",
+        "Alibaba just dropped Quen 2.5 Max and the world is already blown away by it.",
+        "Alibaba is a major player and by the data they are Best in Class better than open AI better than deep seek on all of these metrics and I think probably going to continue to be better"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "tom_sentiment": "Bearish",
+      "conviction": 9,
+      "price_target_or_upside": "Downside risk",
+      "actionable": "Sell/Avoid",
+      "position_status": "Overweight/Avoid",
+      "key_quotes": [
+        "Icarus is flying too close to the Sun.",
+        "The wings are beginning to melt.",
+        "Competition is coming."
+      ]
+    },
+    {
+      "ticker": "DIAGEO",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "Significant upside potential",
+      "actionable": "Buy/Hold",
+      "position_status": "Core Holding",
+      "key_quotes": [
+        "I think Diago's got a better look at premiumization which is the trend that's going to be able to weather any storms."
+      ]
+    },
+    {
+      "ticker": "QXO",
+      "tom_sentiment": "Cautiously Optimistic",
+      "conviction": 7,
+      "price_target_or_upside": "8-10 bagger in 10 years",
+      "actionable": "Hold",
+      "position_status": "Existing Position",
+      "key_quotes": [
+        "Brad Jacobs is not a quitter and he's going to get something done and he's going to get a platform and 10 years out you're going to have an 8 to 10 bagger and a nice irr."
+      ]
+    },
+    {
+      "ticker": "BA",
+      "tom_sentiment": "Cautiously Optimistic",
+      "conviction": 7,
+      "price_target_or_upside": "Upside potential",
+      "actionable": "Hold",
+      "position_status": "Existing Position",
+      "key_quotes": [
+        "We are making some significant progress you know we had a great Capital rise so the balance sheet is solid for the next year and we're starting to see really good progress as we ramp production back up on the 737 and the max production rate is is critically important to the recovery of the program of the company"
+      ]
+    },
+    {
+      "ticker": "VFC",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "$40-$50",
+      "actionable": "Buy/Hold",
+      "position_status": "Existing Position",
+      "key_quotes": [
+        "VF Corp and Brack and Daryl did an incredible job",
+        "I was pretty optimistic kind of thinking that this is a story that could easily go to $40 $50...and sure enough it's a a double now and probably a lot more."
+      ]
+    },
+    {
+      "ticker": "GM",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "N/A",
+      "key_quotes": [
+        "Their numbers were better than expected their units are better than expected and I think that is going to continue you cannot invest on the basis of what may or may not happen in terms of policy it's going to take you out of too many stocks at the end of the day if the worst case happens with tariffs people are still going to need cars with the average car on the road being 13.5 years rates are still go short rates are still trending down which helps the consumer"
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "tom_sentiment": "Neutral",
+      "conviction": 4,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "N/A",
+      "key_quotes": [
+        "The beauty of deep seek and Co is that they can be run on inferior chips and Intel is the leader in inferior chips"
+      ]
+    },
+    {
+      "ticker": "UPS",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "N/A",
+      "actionable": "Wait and See",
+      "position_status": "N/A",
+      "key_quotes": [
+        "I think that this one is a wait and see I you know I'd probably put an alert below a 100 bucks if it breaks a 100 bucks I'm going to start to look at it aggressively but right here I think it's in flux"
+      ]
+    },
+    {
+      "ticker": "TGT",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "N/A",
+      "actionable": "Consider",
+      "position_status": "N/A",
+      "key_quotes": [
+        "I'd be more inclined to look at Target at these levels but I'm not"
+      ]
+    }
+  ],
+  "new_or_recent_additions": [],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy/Hold Alibaba (BABA)",
+      "conviction": 10
+    },
+    {
+      "rank": 2,
+      "idea": "Sell/Avoid Nvidia (NVDA)",
+      "conviction": 9
+    },
+    {
+      "rank": 3,
+      "idea": "Hold VF Corp (VFC)",
+      "conviction": 9
+    },
+    {
+      "rank": 4,
+      "idea": "Buy/Hold Diageo",
+      "conviction": 8
+    },
+    {
+      "rank": 5,
+      "idea": "Hold QXO",
+      "conviction": 7
+    },
+    {
+      "rank": 6,
+      "idea": "Hold Boeing",
+      "conviction": 7
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Unwinding of the carry trade could lead to further volatility in overvalued growth stocks.",
+    "Geopolitical tensions and trade policies could impact global markets.",
+    "A recession could derail the recovery in beaten-down sectors."
+  ],
+  "technical_takeaways": "The US dollar is breaking down, which is positive for emerging markets. Value is beating growth by a wide margin. Market breadth is expanding since the inauguration."
+}

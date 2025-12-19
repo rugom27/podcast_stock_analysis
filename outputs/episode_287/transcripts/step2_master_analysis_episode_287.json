@@ -1,0 +1,183 @@
+{
+  "episode_number": "287",
+  "executive_summary": "Tom Hayes discusses the current market environment, drawing parallels to past corrections and emphasizing the importance of buying high-quality businesses during market downturns. He highlights specific stocks like Boeing and Disney as long-term buys, and introduces QXO and Comstock Resources as compelling investment opportunities. He also touches on the potential impact of tariffs and the importance of focusing on what you can control as an investor.",
+  "tom_current_conviction": {
+    "overall_market": "Constructive to buy stocks at these levels.",
+    "score_1_to_10": 8,
+    "key_reasons": [
+      "Market corrections are man-made and can end with a tweet.",
+      "Analogies to Trump 1.0 trade war and European debt crisis suggest a bottom is near.",
+      "Retail investors have been right buying the dip, while hedge funds have been selling."
+    ]
+  },
+  "macro_thesis_summary": "The market is currently experiencing a correction due to tariff uncertainties, but this presents an opportunity to buy high-quality businesses at discounted prices. Historical patterns suggest a recovery is likely, with potential for significant upside once a resolution is reached on trade deals. China's shift towards domestic consumption and potential stimulus measures further support a constructive outlook.",
+  "key_macro_data_points": [],
+  "featured_company_deep_dives": {
+    "QXO": {
+      "thesis_summary": "QXO is a building supply rollup play led by Brad Jacobs, a proven winner with a track record of creating significant shareholder value. The company is poised to benefit from the millennial housing boom and deregulation, making it a compelling long-term investment.",
+      "key_metrics": [
+        "Brad Jacobs' track record with United Rentals and XPO Logistics",
+        "Millennial housing demand",
+        "Deregulation of banks",
+        "Opening of federal lands for building",
+        "Beacon Roofing Supply acquisition"
+      ],
+      "price_target_or_valuation": "8-10 bagger over 5-10 years",
+      "conviction": "High",
+      "action": "Buy and tuck away for 5-10 years"
+    },
+    "Comstock Resources": {
+      "thesis_summary": "Comstock Resources is an LNG play controlled by Jerry Jones, poised to benefit from increased LNG exports to Europe as part of tariff negotiations. The company's unproved reserves offer significant upside potential, making it an attractive investment.",
+      "key_metrics": [
+        "Jerry Jones' ownership",
+        "Proven reserves worth enterprise value",
+        "Unproved reserves worth another $20/share",
+        "Increased LNG exports to Europe"
+      ],
+      "price_target_or_valuation": "Double again over the next 12-24 months",
+      "conviction": "High",
+      "action": "Buy"
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "BA",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "Buy under $160 for the long term",
+      "actionable": "Buy",
+      "key_quotes": [
+        "You've got one of the best businesses in the world. A duopoly with a half a trillion dollar backlog with a new CEO, Kelly Ortberg, is turning turning the ship around just like you did at Rockwell Collins. Uh, 10-year backlog. This is a great business duopoly and not going to be as impacted by tariffs simply because if you want a plane, you can go to them or you can go to Airbus and that's about it.",
+        "But I I just want to say about the Chinese rejecting Boeing aircraft is like a diabetic rejecting insulin. They need our planes more more than we need their sales."
+      ]
+    },
+    {
+      "ticker": "DIS",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "Buy under $90 for the long term, love it under $80",
+      "actionable": "Buy",
+      "key_quotes": [
+        "If you can own Boeing under 160 for the long term, if you can own Disney under 90 for the long term, the parks are, you know, decades and decades of emote. the experiences, the cruise ships, high return on invested capital, and their streaming has shown resiliency, growth, and stability. So, we like this business for the long term, and we love it under 80.",
+        "You know, look, Stu, if you look back in two years, whether you bought it at $100, whether you bought it at $90, whether you bought it at $85, you're going to look back and pat yourself on the back. This is going to be a lot higher."
+      ]
+    },
+    {
+      "ticker": "QXO",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 10,
+      "price_target_or_upside": "8-10 bagger over 5-10 years",
+      "actionable": "Buy and tuck away for 5-10 years",
+      "position_status": "New Addition",
+      "key_quotes": [
+        "This is Brad Jacobs. Brad Jacobs is a winner. He makes money for shareholders...Now he's doing a roll up. Same formula, different industry in building products.",
+        "The history of Brad Jacobs is you put money in, you don't think about it for 5 to 10 years. And this will be 5, six, seven bagger. Uh, at the least, and if history is any prologue, it'll be a lot more than that. Okay. Potentially a 10 bagger, I think. So, I'd always bet on Brad Jacobs. He is serious. He wrote a book, How to Make a Few Billion."
+      ]
+    },
+    {
+      "ticker": "CRK",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 10,
+      "price_target_or_upside": "Double again over the next 12-24 months",
+      "actionable": "Buy",
+      "key_quotes": [
+        "We think it can double again. And here's why. 8 billion enterprise value. The proved reserves PV10 that they have to report to the SEC 10 years of drilling is worth about 78 billion. So that's good. Um there the unproved reserves which they don't have to report is about 15 years of drilling. We estimate that's worth about $10 billion.",
+        "Part of the tariff negotiations is particularly with Europe is going to be you want a reduction in tariffs. You need to take all of our LNG. Okay. They need our LG. We have it in abundance. They need to take it."
+      ]
+    },
+    {
+      "ticker": "PYPL",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "N/A",
+      "actionable": "Buy",
+      "key_quotes": [
+        "Don't give up on PayPal. Everyone is down on PayPal...They're generating recordfree cash flow. 7.5 billion. They'll probably do 7.5 8 billion. They're going to buy back 20% of the company in the next 2 years.",
+        "Every time you take an Uber, that's actually PayPal. You don't even know it. It's called Brainree."
+      ]
+    },
+    {
+      "ticker": "CVX",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Watch",
+      "key_quotes": [
+        "You can see some great companies on sale. You know, Chevron getting knocked down. That's probably getting interesting."
+      ]
+    },
+    {
+      "ticker": "NKE",
+      "tom_sentiment": "Neutral",
+      "conviction": 6,
+      "price_target_or_upside": "N/A",
+      "actionable": "Watch",
+      "key_quotes": [
+        "You can see some great companies on sale. You know, Chevron getting knocked down. That's probably getting interesting. Nike, same story."
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Watch",
+      "key_quotes": [
+        "You can see some great companies on sale. You know, Chevron getting knocked down. That's probably getting interesting. Nike, same story. Disney, um Intel, you know, all this stuff."
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "$4 Trillion Company",
+      "actionable": "Buy",
+      "key_quotes": [
+        "If a deal's reached between US and China, we'll probably see an even bigger push towards domestic consumption in China. And if tariffs stick around, China will have no choice but to shift towards consumption to make up for the hit export-driven GDP growth. Either way, Alibaba will be laughing all the way to the bank.",
+        "40 cents of every dollar goes to Alibaba in online sales...That's another 300 billion dollar of earnings. Put a 10 times multiple on that plus their existing business plus their AI. You got a $4 trillion company."
+      ]
+    }
+  ],
+  "new_or_recent_additions": [
+    "QXO"
+  ],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy QXO and tuck away for 5-10 years",
+      "conviction": 10
+    },
+    {
+      "rank": 2,
+      "idea": "Buy Comstock Resources for LNG exposure",
+      "conviction": 10
+    },
+    {
+      "rank": 3,
+      "idea": "Buy Boeing under $160 for the long term",
+      "conviction": 9
+    },
+    {
+      "rank": 4,
+      "idea": "Buy Disney under $90, love it under $80 for the long term",
+      "conviction": 9
+    },
+    {
+      "rank": 5,
+      "idea": "Buy Alibaba for China exposure",
+      "conviction": 9
+    },
+    {
+      "rank": 6,
+      "idea": "Buy PayPal",
+      "conviction": 8
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Potential for a legal framework to not be respected regarding delisting of Chinese ADRs.",
+    "Trump administration's tariff policies could lead to branded companies going out of business if pushed too far.",
+    "CEO confidence has fallen to its weakest since the great financial crisis, which is a contrarian indicator."
+  ],
+  "technical_takeaways": "The S&P 500 is at support, and the VIX index got up to 60. If you're not a buyer when the VIX is 60, I don't know what to tell you.",
+  "episode_date": "2025-04-17"
+}

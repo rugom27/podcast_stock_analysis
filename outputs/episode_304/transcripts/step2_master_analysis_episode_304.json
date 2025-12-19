@@ -1,0 +1,332 @@
+{
+  "episode_number": "304",
+  "episode_date": "2025-08-14",
+  "executive_summary": "This episode features a deep dive into VF Corp (VFC) with CEO Bracken Daryl, where Tom Hayes expresses strong bullish sentiment, believing VFC could be the next Cooper Standard. He also discusses GXO Logistics' positive developments and highlights opportunities in small caps and international equities, particularly China. He advocates for a rotation out of the Magnificent Seven and into undervalued sectors like healthcare and energy.",
+  "tom_current_conviction": {
+    "overall_market": "Bullish, with a focus on under-the-surface opportunities and a rotation out of the MAG7.",
+    "score_1_to_10": 8,
+    "key_reasons": [
+      "Strong belief in the ongoing rally, particularly in small caps and international equities.",
+      "Anticipation of a pullback to be bought, creating opportunities.",
+      "Expectation of harvesting profits early next year and reloading cash for the next rally."
+    ]
+  },
+  "macro_thesis_summary": "The macro thesis revolves around a continued rally, driven by a consumer with a healthy balance sheet and trapped equity, a weakening dollar benefiting international equities, and a rotation out of overvalued large-cap tech into undervalued sectors like healthcare and energy. He sees a potential China deal as a catalyst for emerging markets.",
+  "key_macro_data_points": [
+    {
+      "indicator": "PPI",
+      "value": "Accelerated wholesale inflation",
+      "tom_interpretation": "Sees the PPI as a short-term fake-out, expecting the broader disinflationary trend to remain intact."
+    },
+    {
+      "indicator": "Household Debt Service Ratio",
+      "value": "Lowest in 40 years",
+      "tom_interpretation": "Supports the thesis of a healthy consumer balance sheet."
+    },
+    {
+      "indicator": "US Equities Overvaluation",
+      "value": "Record net 91% of fund managers",
+      "tom_interpretation": "Indicates a potential rotation into undervalued emerging markets."
+    },
+    {
+      "indicator": "Small Caps vs. Large Caps",
+      "value": "Small caps remain historically cheap",
+      "tom_interpretation": "Supports the small cap thesis and potential for outperformance."
+    },
+    {
+      "indicator": "Dollar Weakening",
+      "value": "Weakening regime of the dollar",
+      "tom_interpretation": "Benefits international equities, particularly China."
+    }
+  ],
+  "featured_company_deep_dives": {
+    "VFC": {
+      "thesis_summary": "VF Corp is poised for a turnaround under CEO Bracken Daryl, who is highly aligned with shareholders and focused on long-term growth. Tom believes VFC could be the next Cooper Standard, with significant upside potential.",
+      "key_metrics": [
+        "Cost savings of $300 million delivered earlier than expected.",
+        "Deleveraging the balance sheet.",
+        "Gross margin improvement.",
+        "Return to growth in two of four largest brands."
+      ],
+      "price_target_or_valuation": "Internal underwriting up from $40 to $50.  Potential to work its way back to new highs in 3-5 years.",
+      "conviction": "Extremely Bullish",
+      "action": "Buy"
+    },
+    "GXO": {
+      "thesis_summary": "GXO Logistics is a high-quality compounder with recovering fundamentals, benefiting from a weaker dollar and strong management. Tom sees a clear path to a double over the next few years.",
+      "key_metrics": [
+        "Record high revenue.",
+        "Highest organic growth in nine quarters.",
+        "Strong sales pipeline.",
+        "Investment grade credit rating."
+      ],
+      "price_target_or_valuation": "Potential to double as the story unfolds.",
+      "conviction": "Very Bullish",
+      "action": "Buy"
+    },
+    "Cooper Standard": {
+      "thesis_summary": "Cooper Standard is delivering significant margin improvement and is poised to benefit from increased vehicle production volumes. Tom sees substantial upside potential.",
+      "key_metrics": [
+        "Significant margin improvement.",
+        "Long-term financial targets for ceiling and fluid handling systems businesses.",
+        "New business bookings.",
+        "Cost optimization program."
+      ],
+      "price_target_or_valuation": "Potential to reach $150-$200 with secular tailwinds.",
+      "conviction": "Extremely Bullish",
+      "action": "Hold"
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "VFC",
+      "tom_sentiment": "Extremely Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "Potential to work its way back to new highs in 3-5 years.",
+      "actionable": "Buy",
+      "key_quotes": [
+        "I think VF is going to be the next Cooper Standard and this interview gave me a lot more confidence in that outlook.",
+        "My initial initial underwriting was, you know, $40 stock. Okay? And as I've listened to you uh over the quarters and seen what you said you were going to do and see see what you've done, leaving aside the short-term liberation noise and all that stuff that you're going to work through just fine. I've taken my internal underwriting up uh from that 4050 because you've already taken solveny risk off the table. you're already stabilizing and growing most of the brands uh to I I think over I I can't tell you if it's going to be three, four, five, six years, but but generally three to five years. I think this stock could work its way back to new highs."
+      ]
+    },
+    {
+      "ticker": "LOGI",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "actionable": "Monitor",
+      "key_quotes": [
+        "Logitech being a 26x because of you."
+      ]
+    },
+    {
+      "ticker": "GXO",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "Potential to double over the next few years.",
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "The bottom line is that GXO is back, baby.",
+        "This was a textbook great Hill Capital setup, a high quality compounder with recovering fundamentals while price lagged due to short-term noise and uncertainty trading at a valuation that assumed the cycle would never turn. The cycle has already turned. The market is still catching up. We are not."
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "I think Alibaba is going to be very good.",
+        "We own a company called Alibaba. They're like the Amazon of China. That's our exposure."
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "tom_sentiment": "Cautious",
+      "conviction": 5,
+      "actionable": "Trim",
+      "key_quotes": [
+        "It's going to help a lot of companies that aren't named Nvidia."
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": []
+    },
+    {
+      "ticker": "S&P",
+      "tom_sentiment": "Cautious",
+      "conviction": 5,
+      "actionable": "Rotate",
+      "key_quotes": [
+        "Healthcare is the lagard. That's where I'd focused."
+      ]
+    },
+    {
+      "ticker": "IBM",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": []
+    },
+    {
+      "ticker": "AT&T",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": []
+    },
+    {
+      "ticker": "LULU",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": []
+    },
+    {
+      "ticker": "GILD",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": []
+    },
+    {
+      "ticker": "XOM",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Last time I saw this type of headline, I made a fortune on Exxon Mobile stock at $33."
+      ]
+    },
+    {
+      "ticker": "DIS",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "ESPN ditches pay TV first model with a $30 a month streaming app. That's going to be a monster for Disney."
+      ]
+    },
+    {
+      "ticker": "ELV",
+      "tom_sentiment": "Negative",
+      "conviction": 2,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "I don't like Alivance, so I'm going to pass."
+      ]
+    },
+    {
+      "ticker": "UNH",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "actionable": "Monitor",
+      "key_quotes": [
+        "I think UNH will probably work really well at some point."
+      ]
+    },
+    {
+      "ticker": "CROX",
+      "tom_sentiment": "Negative",
+      "conviction": 2,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "I would not buy this with your money."
+      ]
+    },
+    {
+      "ticker": "TTD",
+      "tom_sentiment": "Negative",
+      "conviction": 2,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "I never even understood trade desk. TTD getting smoked. I don't invest in these type of businesses because I can't discern the moat."
+      ]
+    },
+    {
+      "ticker": "SG",
+      "tom_sentiment": "Negative",
+      "conviction": 3,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "I'm skeptical of salad shows like Cava Got Smashed. I've seen so many Chopped. I've seen them all come and go. Like, Americans like effing cheeseburgers, okay? They don't like salads."
+      ]
+    },
+    {
+      "ticker": "DY NX",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "actionable": "Monitor",
+      "key_quotes": [
+        "I'm betting on the jockey. If I'm going to bet on crypto, I'm betting on Andrew Keys uh all day long."
+      ]
+    },
+    {
+      "ticker": "ETHM",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "actionable": "Monitor",
+      "key_quotes": [
+        "I'm betting on the jockey. If I'm going to bet on crypto, I'm betting on Andrew Keys uh all day long."
+      ]
+    },
+    {
+      "ticker": "CRK",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": []
+    },
+    {
+      "ticker": "WFC",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": []
+    }
+  ],
+  "new_or_recent_additions": [],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy VF Corp (VFC)",
+      "conviction": 9
+    },
+    {
+      "rank": 2,
+      "idea": "Buy GXO Logistics (GXO)",
+      "conviction": 8
+    },
+    {
+      "rank": 3,
+      "idea": "Hold Alibaba (BABA)",
+      "conviction": 8
+    },
+    {
+      "rank": 4,
+      "idea": "Hold Exxon Mobile (XOM)",
+      "conviction": 7
+    },
+    {
+      "rank": 5,
+      "idea": "Hold Disney (DIS)",
+      "conviction": 7
+    },
+    {
+      "rank": 6,
+      "idea": "Hold Cooper Standard (CPS)",
+      "conviction": 7
+    },
+    {
+      "rank": 7,
+      "idea": "Monitor UNH",
+      "conviction": 6
+    },
+    {
+      "rank": 8,
+      "idea": "Monitor DY NX/ETHM",
+      "conviction": 6
+    },
+    {
+      "rank": 9,
+      "idea": "Trim Nvidia (NVDA)",
+      "conviction": 5
+    },
+    {
+      "rank": 10,
+      "idea": "Rotate into Healthcare",
+      "conviction": 5
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Potential for a pullback in August, September, October due to seasonality.",
+    "Risk of overpaying for AI providers due to euphoria.",
+    "Risk of competition eroding abnormal margins in sectors like weight loss drugs."
+  ],
+  "technical_takeaways": "Russell small cap is starting to take off. This is this is pretty early. Today's a hiccup. I think this is going to persist higher uh in the inter near near even in the near term. I don't even think it pushes out to the intermediate term."
+}

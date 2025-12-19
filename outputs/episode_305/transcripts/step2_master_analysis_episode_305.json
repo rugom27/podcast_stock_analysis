@@ -1,0 +1,297 @@
+{
+  "episode_number": "305",
+  "episode_date": "2025-08-21",
+  "executive_summary": "Tom Hayes discusses opportunities in small caps, healthcare, energy, and China, highlighting potential parabolic moves in Alibaba. He emphasizes the importance of patience and taking advantage of market dislocations, particularly in sectors where earnings growth is mispriced relative to S&P weighting. He reiterates bullish stances on Intel, Cooper Standard, and Advanced Auto Parts, while also identifying potential in Celanese (CE) if balance sheet risks are mitigated.",
+  "tom_current_conviction": {
+    "overall_market": "Bullish, favoring sectors outside the Magnificent Seven and international markets like China.",
+    "score_1_to_10": 9,
+    "key_reasons": [
+      "Divergence between earnings growth and S&P weighting creates opportunities.",
+      "Global central banks are cutting rates, providing a competitive advantage to international companies.",
+      "Small caps and healthcare offer generational opportunities.",
+      "China is poised for a parabolic move."
+    ]
+  },
+  "macro_thesis_summary": "The market is a weighing machine in the long term, and opportunities arise when there are big divergences between earnings growth and weighting in the S&P. Money is rotating away from big tech into unloved sectors and international markets. Global central banks are cutting rates, while the Federal Reserve is dithering, creating opportunities in international equities. Small caps and healthcare offer generational opportunities.",
+  "key_macro_data_points": [
+    {
+      "indicator": "S&P 500 Earnings Growth vs. Sector Weight",
+      "value": "Significant divergence, with MAG7 overweighted relative to earnings.",
+      "tom_interpretation": "Opportunity to rotate into undervalued sectors."
+    },
+    {
+      "indicator": "Central Bank Rate Cuts",
+      "value": "88 central bank cuts year-to-date.",
+      "tom_interpretation": "Supports international equity outperformance."
+    },
+    {
+      "indicator": "Defensive Sector Weights",
+      "value": "Extreme low in defensive sector weights relative to 2000 trough.",
+      "tom_interpretation": "Contrarian indicator favoring consumer defensive stocks."
+    },
+    {
+      "indicator": "Small Cap vs. Large Cap Performance",
+      "value": "Best opportunity since 2000.",
+      "tom_interpretation": "Generational buying opportunity in small caps."
+    },
+    {
+      "indicator": "China Stock Rally",
+      "value": "Shanghai benchmark at decade high.",
+      "tom_interpretation": "Early stages of a bull run in Chinese stocks."
+    }
+  ],
+  "featured_company_deep_dives": {
+    "Advanced Auto Parts (AAP)": {
+      "thesis_summary": "Turnaround story driven by new CEO Shane Oke Kelly, supply chain transformation, and strength in the pro business. The market is underestimating the company's potential to reach its 7% operating margin target by fiscal year 2027.",
+      "key_metrics": [
+        "Positive comp sales of 0.1%",
+        "Adjusted EPS ahead of expectations at 69 cents vs. 54 cents consensus",
+        "Adjusted operating margins expanded to 3%",
+        "On track to reach 7% operating margin by fiscal year 2027, implying $630 million in EBIT"
+      ],
+      "price_target_or_valuation": "Potential to trade as high as $186-$244.50 based on historical EPS and share count.",
+      "conviction": "High",
+      "action": "Buy"
+    },
+    "Etsy (ETSY)": {
+      "thesis_summary": "Reacceleration plan in place, record high free cash flow, and a record low price. Growth driven by higher take rate, strong Depop results, and increasing app usage.",
+      "key_metrics": [
+        "Q2 revenue up 3.8% year-over-year",
+        "Take rate of 24%",
+        "Depop GMS up 35.3% year-over-year",
+        "Trailing 12-month free cash flow of $363.5 million, implying a free cash flow yield of 10%"
+      ],
+      "conviction": "High",
+      "action": "Buy"
+    },
+    "Intel (INTC)": {
+      "thesis_summary": "Intel is going to be a major player in advanced chip manufacturing. Government support and Softbank investment are strong tailwinds. Lip-Bu Tan is a winner.",
+      "key_metrics": [],
+      "conviction": "High",
+      "action": "Buy"
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 10,
+      "actionable": "Buy",
+      "position_status": "Overweight",
+      "key_quotes": [
+        "New money coming in today will have a very very heavy weight in Baba. There is no th this had this has not even started. It it has not even like we're not even it's it's just percolating ready. The ball is under the water ready to explode.",
+        "We are right here ladies and gentlemen. We are in this denial phase. We're in this last phase of denial and we are ready to go parabolic."
+      ]
+    },
+    {
+      "ticker": "UNH",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Warren Buffett once said, great investment opportunities come around when excellent companies are surrounded by unusual circumstances that cause the stock price to be misappraised. United Healthcare is the perfect example of that."
+      ]
+    },
+    {
+      "ticker": "NUE",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Buffett historically likes competition. Businesses that have no competition and with 50% steel tariffs and the massive reshoring happening in the United States, New Cor is well positioned due to that. And uh Warren Buffett said, \"I'd like some of that.\""
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 9,
+      "actionable": "Buy",
+      "key_quotes": [
+        "We love it. We gave it to Stu at $20. It's sat there forever. It's now starting to go.",
+        "It's the only game in town. If you're serious about building chips in the United States, they're at the 10 yard line.",
+        "It's an absolute home run. I pray it goes a little lower so I can get new clients a big position in this."
+      ]
+    },
+    {
+      "ticker": "META",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "I think Meta has got to get on it. We're going to see all kinds of unintended consequences from AI, but also all kinds of unintended benefits from AI."
+      ]
+    },
+    {
+      "ticker": "AMAT",
+      "tom_sentiment": "Bearish",
+      "conviction": 2,
+      "actionable": "Sell",
+      "key_quotes": [
+        "He did the absolute no no, which is he took down guidance. News flash, everyone else in your in your sector has the same problems and they're doing just fine. So, get your act together."
+      ]
+    },
+    {
+      "ticker": "TGT",
+      "tom_sentiment": "Neutral to Slightly Bullish",
+      "conviction": 5,
+      "actionable": "Watch",
+      "key_quotes": [
+        "The sell side is famous for downgrading in the hole. This stock is down a lot off of its all-time highs. I think this is an area where you want to start to look at it's a high quality business.",
+        "If I could get it with an eight handle again, I might actually even make it a position, but I'm not I'm not in a big rush to do that. But on balance, I think it's going to be okay."
+      ]
+    },
+    {
+      "ticker": "ALB",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Buy",
+      "key_quotes": [
+        "It's going to double again from here over the next few years in our opinion.",
+        "Albamaro is one of the lowest cost producers in the world. They there's cyclically positioned perfectly."
+      ]
+    },
+    {
+      "ticker": "CPS",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 10,
+      "actionable": "Buy",
+      "position_status": "Overweight",
+      "key_quotes": [
+        "No better example this week than Cooper Standard that were transferring us all of their shares in uh 2022 at $5 and then we got some more at $3 and change and we got some more at seven and got that initial basis around $5 and uh now it just got upgraded for the first time by Stiffel",
+        "This is another one I'd be a buyer with new money right now, even though our basis is much lower."
+      ]
+    },
+    {
+      "ticker": "QXO",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Buy",
+      "key_quotes": [
+        "A bet on QXO stock is a bet on this billionaire. Why? It's time to buy. Early days in this story as well."
+      ]
+    },
+    {
+      "ticker": "VF CORP",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Buy",
+      "key_quotes": [
+        "MSCI valu, how you doing, VF Corp? We love you."
+      ]
+    },
+    {
+      "ticker": "AAP",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 9,
+      "actionable": "Buy",
+      "key_quotes": [
+        "The upside is enormous on this. The market still doesn't buy this and continues to treat Advanced Auto Parts as a show me story.",
+        "We will side with Okelly all day long and believe the market will eventually be forced to catch up."
+      ]
+    },
+    {
+      "ticker": "XBI",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Buy",
+      "key_quotes": [
+        "Biotech equal weight XBI...This game is just getting started as well."
+      ]
+    },
+    {
+      "ticker": "IBB",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Buy",
+      "key_quotes": [
+        "IBB biotech earnings...This game is just getting started as well."
+      ]
+    },
+    {
+      "ticker": "ATRO",
+      "tom_sentiment": "Neutral",
+      "conviction": 4,
+      "actionable": "Pass",
+      "key_quotes": [
+        "It's already had a run...Why are you giving it to me at 37 bucks? It's already up 4x now. Is it going higher? Probably. But we prefer things when no one wants them."
+      ]
+    },
+    {
+      "ticker": "CE",
+      "tom_sentiment": "Speculative Bullish",
+      "conviction": 6,
+      "actionable": "Watch",
+      "key_quotes": [
+        "If they're going to remain solvent the stock is going to triple but you have to burden yourself with the facts by doing the work."
+      ]
+    },
+    {
+      "ticker": "ALIBABA",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Buy",
+      "key_quotes": [
+        "We're not buying any Chinese stocks other than Alibaba."
+      ]
+    }
+  ],
+  "new_or_recent_additions": [
+    "BABA",
+    "INTC",
+    "AAP"
+  ],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy Alibaba (BABA)",
+      "conviction": 10
+    },
+    {
+      "rank": 2,
+      "idea": "Buy Cooper Standard (CPS)",
+      "conviction": 10
+    },
+    {
+      "rank": 3,
+      "idea": "Buy Advanced Auto Parts (AAP)",
+      "conviction": 9
+    },
+    {
+      "rank": 4,
+      "idea": "Buy Intel (INTC)",
+      "conviction": 9
+    },
+    {
+      "rank": 5,
+      "idea": "Buy Albemarle (ALB)",
+      "conviction": 8
+    },
+    {
+      "rank": 6,
+      "idea": "Buy QXO",
+      "conviction": 8
+    },
+    {
+      "rank": 7,
+      "idea": "Buy Biotech (XBI or IBB)",
+      "conviction": 7
+    },
+    {
+      "rank": 8,
+      "idea": "Buy VF Corp",
+      "conviction": 7
+    },
+    {
+      "rank": 9,
+      "idea": "Watch Celanese (CE) for potential balance sheet improvement",
+      "conviction": 6
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Overweighting in MAG7 stocks poses a risk as earnings growth may not justify current valuations.",
+    "Reliance on government subsidies and tax credits for industries like electric vehicles and chip manufacturing.",
+    "Potential for unintended consequences from AI technologies.",
+    "Balance sheet risks in highly leveraged companies like Celanese (CE)."
+  ],
+  "technical_takeaways": "Small caps are breaking out relative to large caps, presenting the best opportunity since 2000. KWEB (China Internet ETF) is breaking out versus the S&P 500. Healthcare is poised for a breakout relative to the S&P 500."
+}

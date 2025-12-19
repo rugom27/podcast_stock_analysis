@@ -1,0 +1,1256 @@
+[
+  {
+    "timestamp_seconds": 0,
+    "description": "Stock Chart with MACD, Slow STO, XBT, and CCI indicators",
+    "confidence": 0.95,
+    "found_in_chunk": 0
+  },
+  {
+    "timestamp_seconds": 199,
+    "description": "US Futures data table on Fox Business",
+    "confidence": 0.98,
+    "found_in_chunk": 0
+  },
+  {
+    "timestamp_seconds": 234,
+    "description": "Financials data table on Fox Business",
+    "confidence": 0.98,
+    "found_in_chunk": 0
+  },
+  {
+    "timestamp_seconds": 249,
+    "description": "US 10YR Treasury Yield data on Fox Business",
+    "confidence": 0.98,
+    "found_in_chunk": 0
+  },
+  {
+    "timestamp_seconds": 299,
+    "description": "US Futures data table on Fox Business",
+    "confidence": 0.98,
+    "found_in_chunk": 0
+  },
+  {
+    "timestamp_seconds": 315,
+    "description": "Big Tech data table on Fox Business",
+    "confidence": 0.98,
+    "found_in_chunk": 0
+  },
+  {
+    "timestamp_seconds": 365,
+    "description": "Chipmakers data table on Fox Business",
+    "confidence": 0.98,
+    "found_in_chunk": 0
+  },
+  {
+    "timestamp_seconds": 406,
+    "description": "XBI Biotech Basket Weekly Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 1
+  },
+  {
+    "timestamp_seconds": 623,
+    "description": "Albemarle Corp Weekly Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 1
+  },
+  {
+    "timestamp_seconds": 637,
+    "description": "Advance Auto Parts Inc Weekly Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 1
+  },
+  {
+    "timestamp_seconds": 600,
+    "description": "ALB Albemarle Corp. NYSE stock chart",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 617,
+    "description": "BA Boeing Company NYSE stock chart",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 632,
+    "description": "BABA Alibaba Group Holdings stock chart",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 655,
+    "description": "BAX Baxter International Inc. NYSE stock chart",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 708,
+    "description": "BIDU Baidu Inc. stock chart",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 717,
+    "description": "CCI Crown Castle International Corp. NYSE stock chart",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 732,
+    "description": "CCI Crown Castle International Corp. NYSE stock chart",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 753,
+    "description": "CPS Cooper-Standard Holdings Inc. NYSE stock chart",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 770,
+    "description": "CRK Comstock Resources, Inc. NYSE stock chart",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 791,
+    "description": "CRK Comstock Resources, Inc. NYSE stock chart",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 816,
+    "description": "CRK Comstock Resources, Inc. NYSE stock chart",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 832,
+    "description": "DEO Diageo PLC NYSE stock chart",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 843,
+    "description": "DIS Walt Disney Company NYSE stock chart",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 861,
+    "description": "EL Estee Lauder Cos. NYSE stock chart",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 879,
+    "description": "ETSY Etsy Inc. NYSE stock chart",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 899,
+    "description": "GNRC Generac Holdings Inc. NYSE stock chart",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 915,
+    "description": "GOOS Canada Goose Holdings Inc. NYSE stock chart",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 931,
+    "description": "GNRC Generac Holdings Inc. NYSE stock chart",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 947,
+    "description": "GOOS Canada Goose Holdings Inc. NYSE stock chart",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 964,
+    "description": "GXO GXO Logistics Inc. NYSE stock chart",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 900,
+    "description": "Stock Charts with CCI, Wm%R, ADX, and PPO indicators",
+    "confidence": 0.95,
+    "found_in_chunk": 3
+  },
+  {
+    "timestamp_seconds": 900,
+    "description": "Hormel Foods Corp. Stock Chart with RSI, MACD, Slow STO, Moving Averages, and Volume",
+    "confidence": 0.95,
+    "found_in_chunk": 3
+  },
+  {
+    "timestamp_seconds": 929,
+    "description": "Intel Corp. Stock Chart with RSI, MACD, Slow STO, Moving Averages, and Volume",
+    "confidence": 0.95,
+    "found_in_chunk": 3
+  },
+  {
+    "timestamp_seconds": 945,
+    "description": "National Oilwell Varco Inc. Stock Chart with RSI, MACD, Slow STO, Moving Averages, and Volume",
+    "confidence": 0.95,
+    "found_in_chunk": 3
+  },
+  {
+    "timestamp_seconds": 955,
+    "description": "Pfizer Inc. Stock Chart with RSI, MACD, Slow STO, Moving Averages, and Volume",
+    "confidence": 0.95,
+    "found_in_chunk": 3
+  },
+  {
+    "timestamp_seconds": 1018,
+    "description": "PayPal Holdings Inc. Stock Chart with RSI, MACD, Slow STO, Moving Averages, and Volume",
+    "confidence": 0.95,
+    "found_in_chunk": 3
+  },
+  {
+    "timestamp_seconds": 1134,
+    "description": "Papa John's International Inc. Stock Chart with Slow STO, Moving Averages, and Volume",
+    "confidence": 0.95,
+    "found_in_chunk": 3
+  },
+  {
+    "timestamp_seconds": 1224,
+    "description": "QXO Inc. Stock Chart with Slow STO, Moving Averages, and Volume",
+    "confidence": 0.95,
+    "found_in_chunk": 3
+  },
+  {
+    "timestamp_seconds": 1243,
+    "description": "Stanley Black & Decker Inc. Stock Chart with Slow STO, Moving Averages, and Volume",
+    "confidence": 0.95,
+    "found_in_chunk": 3
+  },
+  {
+    "timestamp_seconds": 1256,
+    "description": "TIPS Shares TIPS Bond ETF Stock Chart with Slow STO, Moving Averages, and Volume",
+    "confidence": 0.95,
+    "found_in_chunk": 3
+  },
+  {
+    "timestamp_seconds": 1258,
+    "description": "iShares 20+ Year Treasury Bond ETF Stock Chart with Slow STO, Moving Averages, and Volume",
+    "confidence": 0.95,
+    "found_in_chunk": 3
+  },
+  {
+    "timestamp_seconds": 1300,
+    "description": "VF Corp Stock Chart with Slow STO, Moving Averages, and Volume",
+    "confidence": 0.95,
+    "found_in_chunk": 3
+  },
+  {
+    "timestamp_seconds": 1328,
+    "description": "Vanguard Real Estate ETF Stock Chart with Slow STO, Moving Averages, and Volume",
+    "confidence": 0.95,
+    "found_in_chunk": 3
+  },
+  {
+    "timestamp_seconds": 1333,
+    "description": "Vanguard Total Stock Market ETF Stock Chart with Slow STO, Moving Averages, and Volume",
+    "confidence": 0.95,
+    "found_in_chunk": 3
+  },
+  {
+    "timestamp_seconds": 1336,
+    "description": "SPDR S&P Biotech ETF Stock Chart with Slow STO, Moving Averages, and Volume",
+    "confidence": 0.95,
+    "found_in_chunk": 3
+  },
+  {
+    "timestamp_seconds": 1500,
+    "description": "GXO Logistics Inc. Candlestick Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 5
+  },
+  {
+    "timestamp_seconds": 1504,
+    "description": "Canada Goose Holdings Inc. Candlestick Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 5
+  },
+  {
+    "timestamp_seconds": 1506,
+    "description": "Generac Holdings Inc. Candlestick Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 5
+  },
+  {
+    "timestamp_seconds": 1525,
+    "description": "Etsy Inc. Candlestick Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 5
+  },
+  {
+    "timestamp_seconds": 1539,
+    "description": "Estee Lauder Cos. Candlestick Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 5
+  },
+  {
+    "timestamp_seconds": 1551,
+    "description": "Estee Lauder Cos. Candlestick Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 5
+  },
+  {
+    "timestamp_seconds": 1605,
+    "description": "Disney Co. Candlestick Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 5
+  },
+  {
+    "timestamp_seconds": 1610,
+    "description": "Diageo Candlestick Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 5
+  },
+  {
+    "timestamp_seconds": 1641,
+    "description": "Comstock Resources Inc. Candlestick Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 5
+  },
+  {
+    "timestamp_seconds": 1646,
+    "description": "Comstock Resources Inc. Candlestick Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 5
+  },
+  {
+    "timestamp_seconds": 1704,
+    "description": "Cooper Standard Candlestick Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 5
+  },
+  {
+    "timestamp_seconds": 1716,
+    "description": "Crown Castle Intl Corp. Candlestick Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 5
+  },
+  {
+    "timestamp_seconds": 1724,
+    "description": "Baidu Inc. Candlestick Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 5
+  },
+  {
+    "timestamp_seconds": 1736,
+    "description": "Baxter Intl Inc. Candlestick Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 5
+  },
+  {
+    "timestamp_seconds": 1749,
+    "description": "Baxter Intl Inc. Candlestick Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 5
+  },
+  {
+    "timestamp_seconds": 1812,
+    "description": "Alibaba Group Holding Ltd. Candlestick Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 5
+  },
+  {
+    "timestamp_seconds": 1820,
+    "description": "Boeing Co. Candlestick Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 5
+  },
+  {
+    "timestamp_seconds": 1825,
+    "description": "Albemarle Corp. Candlestick Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 5
+  },
+  {
+    "timestamp_seconds": 1837,
+    "description": "Advance Auto Parts Inc. Candlestick Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 5
+  },
+  {
+    "timestamp_seconds": 1849,
+    "description": "Advance Auto Parts Inc. Candlestick Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 5
+  },
+  {
+    "timestamp_seconds": 1869,
+    "description": "China New Car Sales Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 5
+  },
+  {
+    "timestamp_seconds": 1870,
+    "description": "Company Valuation Table",
+    "confidence": 0.95,
+    "found_in_chunk": 5
+  },
+  {
+    "timestamp_seconds": 1887,
+    "description": "S&P 500 Index Price Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 5
+  },
+  {
+    "timestamp_seconds": 1941,
+    "description": "S&P 500 Index Price Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 5
+  },
+  {
+    "timestamp_seconds": 1800,
+    "description": "S&P 500 Candlestick Chart with Quadrant Balance Oscillator",
+    "confidence": 0.95,
+    "found_in_chunk": 6
+  },
+  {
+    "timestamp_seconds": 1804,
+    "description": "S&P 500 Daily Chart with Advance-Decline Line",
+    "confidence": 0.95,
+    "found_in_chunk": 6
+  },
+  {
+    "timestamp_seconds": 1807,
+    "description": "S&P Equal Weight ETF Chart with S&P A-D line and NYSE A-D line",
+    "confidence": 0.95,
+    "found_in_chunk": 6
+  },
+  {
+    "timestamp_seconds": 1810,
+    "description": "Russell 2000 Small-cap Index Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 6
+  },
+  {
+    "timestamp_seconds": 1822,
+    "description": "AAII US Bullish and Bearish Sentiment Survey Charts",
+    "confidence": 0.95,
+    "found_in_chunk": 6
+  },
+  {
+    "timestamp_seconds": 1825,
+    "description": "S&P/TSX Weekly Chart with Quadrant Balance Oscillator",
+    "confidence": 0.95,
+    "found_in_chunk": 6
+  },
+  {
+    "timestamp_seconds": 1827,
+    "description": "MSCI EUROPE EX UK Weekly Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 6
+  },
+  {
+    "timestamp_seconds": 1829,
+    "description": "DAX INDEX - Weekly Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 6
+  },
+  {
+    "timestamp_seconds": 1833,
+    "description": "Tokyo Stock Exchange TOPIX - Weekly Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 6
+  },
+  {
+    "timestamp_seconds": 1836,
+    "description": "Hang Seng (HSI) Index - Weekly Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 6
+  },
+  {
+    "timestamp_seconds": 1842,
+    "description": "US 10 Year Yield - Weekly Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 6
+  },
+  {
+    "timestamp_seconds": 1906,
+    "description": "US 10 Year Yield - Daily Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 6
+  },
+  {
+    "timestamp_seconds": 1921,
+    "description": "US Dollar DXY Index - Weekly Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 6
+  },
+  {
+    "timestamp_seconds": 1927,
+    "description": "US Dollar DXY Index - Daily Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 6
+  },
+  {
+    "timestamp_seconds": 1930,
+    "description": "Canadian Dollar / US Dollar - Weekly Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 6
+  },
+  {
+    "timestamp_seconds": 1939,
+    "description": "WTI Crude Oil Future - Weekly Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 6
+  },
+  {
+    "timestamp_seconds": 1957,
+    "description": "WTI Crude Oil Future - Daily Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 6
+  },
+  {
+    "timestamp_seconds": 2000,
+    "description": "Gold - Daily Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 6
+  },
+  {
+    "timestamp_seconds": 2014,
+    "description": "Silver - Daily Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 6
+  },
+  {
+    "timestamp_seconds": 2016,
+    "description": "S&P 500 sectors relative performance vs the S&P 500 Charts",
+    "confidence": 0.95,
+    "found_in_chunk": 6
+  },
+  {
+    "timestamp_seconds": 2024,
+    "description": "A longer term view of IPO activity Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 6
+  },
+  {
+    "timestamp_seconds": 2039,
+    "description": "Power-generation capacity Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 6
+  },
+  {
+    "timestamp_seconds": 2044,
+    "description": "Retail net purchases of US equities Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 6
+  },
+  {
+    "timestamp_seconds": 2050,
+    "description": "S&P 500 Stocks Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 6
+  },
+  {
+    "timestamp_seconds": 2053,
+    "description": "Looking ahead to a big year for tax refunds in 2026 Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 6
+  },
+  {
+    "timestamp_seconds": 2055,
+    "description": "Chart 6: Biggest 2-week outflow from tech funds since Feb '25",
+    "confidence": 0.95,
+    "found_in_chunk": 6
+  },
+  {
+    "timestamp_seconds": 2153,
+    "description": "Exhibit 10: Bottom-up consensus expects substantial margin expansion in 2026 Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 6
+  },
+  {
+    "timestamp_seconds": 2204,
+    "description": "S&P 500: Annual return Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 6
+  },
+  {
+    "timestamp_seconds": 2210,
+    "description": "Russell 1000 Large-cap Value Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 6
+  },
+  {
+    "timestamp_seconds": 2289,
+    "description": "Tariffs? What Tariffs? Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 6
+  },
+  {
+    "timestamp_seconds": 2293,
+    "description": "Chart of the Day: 'Tis the Season For Travel Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 6
+  },
+  {
+    "timestamp_seconds": 2297,
+    "description": "ORCL Quarterly FCF Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 6
+  },
+  {
+    "timestamp_seconds": 2100,
+    "description": "ORCL Quarterly FCF Bar Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 7
+  },
+  {
+    "timestamp_seconds": 2147,
+    "description": "Contribution to S&P 500 EPS growth Bar Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 7
+  },
+  {
+    "timestamp_seconds": 2322,
+    "description": "S&P 500 year/year EPS growth Bar Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 7
+  },
+  {
+    "timestamp_seconds": 2326,
+    "description": "Median 2-week S&P 500 returns since 1950 Bar Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 7
+  },
+  {
+    "timestamp_seconds": 2328,
+    "description": "S&P 500 Annual Total Returns (1928 - 2024) Bar Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 7
+  },
+  {
+    "timestamp_seconds": 2355,
+    "description": "S&P 500: Biggest 4-Day % Declines and Forward Total Returns (1950 - 2025) Table",
+    "confidence": 0.95,
+    "found_in_chunk": 7
+  },
+  {
+    "timestamp_seconds": 2369,
+    "description": "S&P 500: Biggest 4-Day % Declines and Forward Total Returns (1950 - 2025) Table",
+    "confidence": 0.95,
+    "found_in_chunk": 7
+  },
+  {
+    "timestamp_seconds": 2376,
+    "description": "S&P 500 Annual Total Returns (1928 - 2024) Bar Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 7
+  },
+  {
+    "timestamp_seconds": 2381,
+    "description": "S&P 500 Annual Total Returns (1928 - 2024) Bar Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 7
+  },
+  {
+    "timestamp_seconds": 2406,
+    "description": "2025 Total Returns (%) Bar Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 7
+  },
+  {
+    "timestamp_seconds": 2414,
+    "description": "2025 Total Returns (%) Bar Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 7
+  },
+  {
+    "timestamp_seconds": 2425,
+    "description": "LNG Spurs Biggest Gulf Coast Pipeline Boom in 18 Years Bar Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 7
+  },
+  {
+    "timestamp_seconds": 2431,
+    "description": "Indexed YTD return of Cyclicals vs. Defensives Line Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 7
+  },
+  {
+    "timestamp_seconds": 2437,
+    "description": "SPX 6-Month Realized Correlation Line Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 7
+  },
+  {
+    "timestamp_seconds": 2444,
+    "description": "Average Annual Returns for Fama-French Value and Growth Indices Bar Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 7
+  },
+  {
+    "timestamp_seconds": 2466,
+    "description": "Indexed YTD return of Cyclicals vs. Defensives Line Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 7
+  },
+  {
+    "timestamp_seconds": 2472,
+    "description": "SPX 6-Month Realized Correlation Line Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 7
+  },
+  {
+    "timestamp_seconds": 2480,
+    "description": "Average Annual Returns for Fama-French Value and Growth Indices Bar Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 7
+  },
+  {
+    "timestamp_seconds": 2511,
+    "description": "Real Core GDP Y/Y (Left) vs. Real S&P 500 Y/Y Advanced 3 Months (Right) Line Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 7
+  },
+  {
+    "timestamp_seconds": 2515,
+    "description": "December Bottoms On Average Right Now Line Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 7
+  },
+  {
+    "timestamp_seconds": 2551,
+    "description": "HF Net Exposure to North America Industry as a % of Total North America Net Exposure Line Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 7
+  },
+  {
+    "timestamp_seconds": 2555,
+    "description": "S&P 500 Implied P/E Strategist Forecasts Line Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 7
+  },
+  {
+    "timestamp_seconds": 2598,
+    "description": "Expectations for rising bond yields are highest since Apr '22 Line Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 7
+  },
+  {
+    "timestamp_seconds": 2400,
+    "description": "Expectations for rising bond yields are highest since Apr 22",
+    "confidence": 0.95,
+    "found_in_chunk": 8
+  },
+  {
+    "timestamp_seconds": 2405,
+    "description": "Private equity/private credit still the most likely source of a credit event",
+    "confidence": 0.95,
+    "found_in_chunk": 8
+  },
+  {
+    "timestamp_seconds": 2413,
+    "description": "FMS profit expectations most bullish since Aug 21",
+    "confidence": 0.95,
+    "found_in_chunk": 8
+  },
+  {
+    "timestamp_seconds": 2433,
+    "description": "FMS allocation to stocks + commodities highest since Feb 22",
+    "confidence": 0.95,
+    "found_in_chunk": 8
+  },
+  {
+    "timestamp_seconds": 2439,
+    "description": "BofA Global FMS investor sentiment highest since Jul 21",
+    "confidence": 0.95,
+    "found_in_chunk": 8
+  },
+  {
+    "timestamp_seconds": 2441,
+    "description": "What is the most likely outcome for the global economy in the next 12 months?",
+    "confidence": 0.95,
+    "found_in_chunk": 8
+  },
+  {
+    "timestamp_seconds": 2447,
+    "description": "3-Year Rate of Change Spread - Dow Jones Transports vs. S&P 500",
+    "confidence": 0.95,
+    "found_in_chunk": 8
+  },
+  {
+    "timestamp_seconds": 2449,
+    "description": "Transportation companies have materially underperformed",
+    "confidence": 0.95,
+    "found_in_chunk": 8
+  },
+  {
+    "timestamp_seconds": 2500,
+    "description": "S&P U.S. Pure Style Indices YTD Performance",
+    "confidence": 0.95,
+    "found_in_chunk": 8
+  },
+  {
+    "timestamp_seconds": 2515,
+    "description": "Who will Trump nominate as Fed Chair?",
+    "confidence": 0.95,
+    "found_in_chunk": 8
+  },
+  {
+    "timestamp_seconds": 2703,
+    "description": "Speculation Led Since Liberation Day",
+    "confidence": 0.95,
+    "found_in_chunk": 8
+  },
+  {
+    "timestamp_seconds": 2723,
+    "description": "S&P 500: Percentage of Stocks that Outperformed the Index",
+    "confidence": 0.95,
+    "found_in_chunk": 8
+  },
+  {
+    "timestamp_seconds": 2732,
+    "description": "S&P 500: Percentage of Stocks that Outperformed the Index",
+    "confidence": 0.95,
+    "found_in_chunk": 8
+  },
+  {
+    "timestamp_seconds": 2760,
+    "description": "S&P 500: Percentage of Stocks that Outperformed the Index",
+    "confidence": 0.95,
+    "found_in_chunk": 8
+  },
+  {
+    "timestamp_seconds": 2769,
+    "description": "S&P 500: Next Twelve Months Expected EPS Growth",
+    "confidence": 0.95,
+    "found_in_chunk": 8
+  },
+  {
+    "timestamp_seconds": 2851,
+    "description": "Wage growth eases, running close to pre-pandemic trend",
+    "confidence": 0.95,
+    "found_in_chunk": 8
+  },
+  {
+    "timestamp_seconds": 2898,
+    "description": "Unemployment rate",
+    "confidence": 0.95,
+    "found_in_chunk": 8
+  },
+  {
+    "timestamp_seconds": 2901,
+    "description": "Households have more net worth in stocks than in Real Estate",
+    "confidence": 0.95,
+    "found_in_chunk": 8
+  },
+  {
+    "timestamp_seconds": 2903,
+    "description": "Nasdaq 100 ratio to S&P 500 equal weighted",
+    "confidence": 0.95,
+    "found_in_chunk": 8
+  },
+  {
+    "timestamp_seconds": 2700,
+    "description": "Unemployment Rate Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 9
+  },
+  {
+    "timestamp_seconds": 2701,
+    "description": "Logarithmic Chart",
+    "confidence": 0.9,
+    "found_in_chunk": 9
+  },
+  {
+    "timestamp_seconds": 2703,
+    "description": "Nasdaq 100 ratio to S&P 500 equal weighted Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 9
+  },
+  {
+    "timestamp_seconds": 2705,
+    "description": "Professional Managers Buy Tops Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 9
+  },
+  {
+    "timestamp_seconds": 2707,
+    "description": "US IT Sector 12-Month Forward EPS Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 9
+  },
+  {
+    "timestamp_seconds": 2708,
+    "description": "US Equity Growth Factor Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 9
+  },
+  {
+    "timestamp_seconds": 2709,
+    "description": "USA Beer Total Volume Growth Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 9
+  },
+  {
+    "timestamp_seconds": 2725,
+    "description": "10-Year Rolling S&P 500 Total Return Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 9
+  },
+  {
+    "timestamp_seconds": 2734,
+    "description": "Number of Mag 7 Stocks Outperforming the S&P 500 Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 9
+  },
+  {
+    "timestamp_seconds": 2737,
+    "description": "Oracle Valuation Back to 2023 Levels Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 9
+  },
+  {
+    "timestamp_seconds": 2739,
+    "description": "S&P 500 Exposure Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 9
+  },
+  {
+    "timestamp_seconds": 2743,
+    "description": "NVIDIA Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 9
+  },
+  {
+    "timestamp_seconds": 3131,
+    "description": "US Treasury Debt Outstanding by Type Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 9
+  },
+  {
+    "timestamp_seconds": 3017,
+    "description": "Bank of America Global FMS investor sentiment chart",
+    "confidence": 0.95,
+    "found_in_chunk": 10
+  },
+  {
+    "timestamp_seconds": 3031,
+    "description": "Global growth expectations chart",
+    "confidence": 0.95,
+    "found_in_chunk": 10
+  },
+  {
+    "timestamp_seconds": 3052,
+    "description": "FMS cash level chart",
+    "confidence": 0.95,
+    "found_in_chunk": 10
+  },
+  {
+    "timestamp_seconds": 3109,
+    "description": "FMS investors stick to a large underweight on the energy sector chart",
+    "confidence": 0.95,
+    "found_in_chunk": 10
+  },
+  {
+    "timestamp_seconds": 3156,
+    "description": "FMS investors stick to a large underweight on the consumer staples sector chart",
+    "confidence": 0.95,
+    "found_in_chunk": 10
+  },
+  {
+    "timestamp_seconds": 3243,
+    "description": "Boeing stock chart",
+    "confidence": 0.95,
+    "found_in_chunk": 10
+  },
+  {
+    "timestamp_seconds": 3501,
+    "description": "Boeing Reports Third Quarter Results Table",
+    "confidence": 0.95,
+    "found_in_chunk": 10
+  },
+  {
+    "timestamp_seconds": 4200,
+    "description": "UiPath Inc. Stock Price Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 14
+  },
+  {
+    "timestamp_seconds": 4226,
+    "description": "UiPath Inc. Balance Sheet Table",
+    "confidence": 0.95,
+    "found_in_chunk": 14
+  },
+  {
+    "timestamp_seconds": 4248,
+    "description": "UiPath Inc. Cash Flow Table",
+    "confidence": 0.95,
+    "found_in_chunk": 14
+  },
+  {
+    "timestamp_seconds": 4254,
+    "description": "UiPath Inc. Return on Invested Capital Table",
+    "confidence": 0.95,
+    "found_in_chunk": 14
+  },
+  {
+    "timestamp_seconds": 4300,
+    "description": "UiPath Inc. Income Statement Table",
+    "confidence": 0.95,
+    "found_in_chunk": 14
+  },
+  {
+    "timestamp_seconds": 4337,
+    "description": "UiPath Inc. Stock Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 14
+  },
+  {
+    "timestamp_seconds": 4419,
+    "description": "Perrigo Co. Inc. Stock Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 14
+  },
+  {
+    "timestamp_seconds": 4431,
+    "description": "Perrigo Co. Inc. Financial Data",
+    "confidence": 0.95,
+    "found_in_chunk": 14
+  },
+  {
+    "timestamp_seconds": 4448,
+    "description": "Perrigo Co. Inc. Balance Sheet Table",
+    "confidence": 0.95,
+    "found_in_chunk": 14
+  },
+  {
+    "timestamp_seconds": 4544,
+    "description": "Perrigo Co. Inc. EV/Sales Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 14
+  },
+  {
+    "timestamp_seconds": 4617,
+    "description": "CarMax Inc. Stock Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 14
+  },
+  {
+    "timestamp_seconds": 4629,
+    "description": "CarMax Inc. Financial Data",
+    "confidence": 0.95,
+    "found_in_chunk": 14
+  },
+  {
+    "timestamp_seconds": 4651,
+    "description": "CarMax Inc. Balance Sheet Table",
+    "confidence": 0.95,
+    "found_in_chunk": 14
+  },
+  {
+    "timestamp_seconds": 4500,
+    "description": "Balance Sheet with Liabilities and Assets",
+    "confidence": 0.95,
+    "found_in_chunk": 15
+  },
+  {
+    "timestamp_seconds": 4517,
+    "description": "Cash Flow Statement",
+    "confidence": 0.95,
+    "found_in_chunk": 15
+  },
+  {
+    "timestamp_seconds": 4524,
+    "description": "Income Statement with Revenues and Gross Profit",
+    "confidence": 0.95,
+    "found_in_chunk": 15
+  },
+  {
+    "timestamp_seconds": 4551,
+    "description": "Stock Chart with MACD and Volume",
+    "confidence": 0.9,
+    "found_in_chunk": 15
+  },
+  {
+    "timestamp_seconds": 4738,
+    "description": "Bottom-Up EPS Estimates Chart",
+    "confidence": 0.9,
+    "found_in_chunk": 15
+  },
+  {
+    "timestamp_seconds": 4752,
+    "description": "Kweichow Moutai Co., Ltd. Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 15
+  },
+  {
+    "timestamp_seconds": 4815,
+    "description": "Transports Earnings Estimates/Revisions Table",
+    "confidence": 0.95,
+    "found_in_chunk": 15
+  },
+  {
+    "timestamp_seconds": 4937,
+    "description": "Stock Chart with MACD and Volume",
+    "confidence": 0.9,
+    "found_in_chunk": 15
+  },
+  {
+    "timestamp_seconds": 4998,
+    "description": "Kronos Worldwide, Inc. Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 15
+  },
+  {
+    "timestamp_seconds": 4800,
+    "description": "Kronos Worldwide, Inc. Historical Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 16
+  },
+  {
+    "timestamp_seconds": 4808,
+    "description": "Kronos Worldwide, Inc. Shares Outstanding Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 16
+  },
+  {
+    "timestamp_seconds": 4811,
+    "description": "Kronos Worldwide, Inc. Stock Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 16
+  },
+  {
+    "timestamp_seconds": 4856,
+    "description": "Kronos Worldwide, Inc. Balance Sheet Table",
+    "confidence": 0.95,
+    "found_in_chunk": 16
+  },
+  {
+    "timestamp_seconds": 4944,
+    "description": "KRO Stock Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 16
+  },
+  {
+    "timestamp_seconds": 5022,
+    "description": "Kronos Worldwide, Inc. Cash Flow Table",
+    "confidence": 0.95,
+    "found_in_chunk": 16
+  },
+  {
+    "timestamp_seconds": 5050,
+    "description": "Kronos Worldwide, Inc. Income Statement Table",
+    "confidence": 0.95,
+    "found_in_chunk": 16
+  },
+  {
+    "timestamp_seconds": 5103,
+    "description": "KRO Stock Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 16
+  },
+  {
+    "timestamp_seconds": 5144,
+    "description": "Kronos Worldwide, Inc. Return on Invested Capital Table",
+    "confidence": 0.95,
+    "found_in_chunk": 16
+  },
+  {
+    "timestamp_seconds": 5166,
+    "description": "Cal-Maine Foods, Inc. Free Cash Flow Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 16
+  },
+  {
+    "timestamp_seconds": 5225,
+    "description": "Cal-Maine Foods, Inc. Stock Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 16
+  },
+  {
+    "timestamp_seconds": 5237,
+    "description": "Cal-Maine Foods, Inc. Free Cash Flow Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 16
+  },
+  {
+    "timestamp_seconds": 5101,
+    "description": "Cal-Maine Foods, Inc. Historical Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 17
+  },
+  {
+    "timestamp_seconds": 5110,
+    "description": "Cal-Maine Foods, Inc. Quarterly Balance Sheet Table",
+    "confidence": 0.95,
+    "found_in_chunk": 17
+  },
+  {
+    "timestamp_seconds": 5115,
+    "description": "Cal-Maine Foods, Inc. Quarterly Cash Flow Table",
+    "confidence": 0.95,
+    "found_in_chunk": 17
+  },
+  {
+    "timestamp_seconds": 5123,
+    "description": "Cal-Maine Foods, Inc. Quarterly Income Statement Table",
+    "confidence": 0.95,
+    "found_in_chunk": 17
+  },
+  {
+    "timestamp_seconds": 5219,
+    "description": "Brightstar Lottery PLC Historical Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 17
+  },
+  {
+    "timestamp_seconds": 5135,
+    "description": "Brightstar Lottery PLC Quarterly Income Statement Table",
+    "confidence": 0.95,
+    "found_in_chunk": 17
+  },
+  {
+    "timestamp_seconds": 5346,
+    "description": "StockCharts Default Saved Charts",
+    "confidence": 0.95,
+    "found_in_chunk": 17
+  },
+  {
+    "timestamp_seconds": 5412,
+    "description": "Owens & Minor, Inc. Historical Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 17
+  },
+  {
+    "timestamp_seconds": 5434,
+    "description": "Owens & Minor, Inc. Key Data",
+    "confidence": 0.95,
+    "found_in_chunk": 17
+  },
+  {
+    "timestamp_seconds": 5499,
+    "description": "Owens & Minor, Inc. Annual Balance Sheet Table",
+    "confidence": 0.95,
+    "found_in_chunk": 17
+  },
+  {
+    "timestamp_seconds": 5551,
+    "description": "Owens & Minor, Inc. Annual Cash Flow Table",
+    "confidence": 0.95,
+    "found_in_chunk": 17
+  },
+  {
+    "timestamp_seconds": 5757,
+    "description": "Stock Price Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 19
+  }
+]

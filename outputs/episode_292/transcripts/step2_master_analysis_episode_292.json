@@ -1,0 +1,343 @@
+{
+  "episode_number": "292",
+  "episode_date": "2025-05-22",
+  "executive_summary": "Tom Hayes is extremely bullish, particularly on value stocks, international equities, and the housing recovery. He emphasizes the importance of identifying companies with strong fundamentals that are temporarily mispriced due to market overreactions. He highlights opportunities in Alibaba, Cooper Standard, QXO, Stanley Black & Decker, and Generac, among others. He believes the market is transitioning from a growth-dominated phase to one where value and international equities will outperform.",
+  "tom_current_conviction": {
+    "overall_market": "Bullish",
+    "score_1_to_10": 9,
+    "key_reasons": [
+      "Trapped bears need to cover.",
+      "Earnings growth is double what was expected.",
+      "More certainty in the market.",
+      "Trump's deals are positive catalysts.",
+      "Record buyback announcements."
+    ]
+  },
+  "macro_thesis_summary": "The market is transitioning from a growth-dominated phase to one where value and international equities will outperform. The good news is there are a lot of trapped bears out there. Each new trade deal is forcing them to buy. The market is going higher.",
+  "key_macro_data_points": [
+    {
+      "indicator": "US Equity Allocation",
+      "value": "Lowest since May 2023",
+      "tom_interpretation": "Supports the thesis that international equities will outperform US equities."
+    },
+    {
+      "indicator": "Manager Underweight on US Dollar",
+      "value": "Most underweight since May 2006",
+      "tom_interpretation": "Supports the thesis that the dollar will weaken, benefiting international investments."
+    },
+    {
+      "indicator": "Global Energy Underweight",
+      "value": "Record low net 35% underweight",
+      "tom_interpretation": "Indicates potential for energy sector to outperform as it is currently unloved."
+    },
+    {
+      "indicator": "Soft Landing Expectations",
+      "value": "Rebounded to 61%",
+      "tom_interpretation": "Indicates renewed optimism and reduced recession fears."
+    },
+    {
+      "indicator": "US Credit Downgrade by Moody's",
+      "value": "Downgraded",
+      "tom_interpretation": "Biggest snore story of the year. Long-term opportunity."
+    }
+  ],
+  "featured_company_deep_dives": {
+    "QXO": {
+      "thesis_summary": "QXO is a roll-up of building supply companies led by Brad Jacobs to capitalize on the housing recovery.",
+      "key_metrics": [
+        "10% of any given industry",
+        "80 billion topline",
+        "10% IBIDA margins",
+        "8 billion dollars IBIDA"
+      ],
+      "price_target_or_valuation": "80 to $100",
+      "conviction": "High",
+      "action": "Buy and tuck away for five years."
+    },
+    "Stanley Black & Decker": {
+      "thesis_summary": "Stanley Black & Decker is a play on the housing recovery through increased construction volumes.",
+      "key_metrics": [
+        "2 billion of cost cuts",
+        "13 per share on 154 million shares just on the cost savings as they normalize margins",
+        "Operating leverage"
+      ],
+      "price_target_or_valuation": "$200",
+      "conviction": "High",
+      "action": "Buy and hold for three years."
+    },
+    "Generac": {
+      "thesis_summary": "Generac is a play on the home building and data center growth through increased demand for home standby generators.",
+      "key_metrics": [
+        "Divergence between price and cash flow",
+        "Leverage play on the housing recovery",
+        "Inherent demand"
+      ],
+      "price_target_or_valuation": "Triple over the next few years",
+      "conviction": "High",
+      "action": "Buy and hold for a few years."
+    },
+    "Alibaba": {
+      "thesis_summary": "Alibaba is a play on the Chinese AI and middle class recovery.",
+      "key_metrics": [
+        "13 times forward earnings",
+        "Fastest models against Deepseek, against OpenAI",
+        "Piece of every single AI startup in China",
+        "40% of Chinese e-commerce goes through Alibaba",
+        "60 billion in net cash"
+      ],
+      "price_target_or_valuation": "Over 200",
+      "conviction": "High",
+      "action": "Buy and hold."
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "DIS",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "Going over 200 over the next three years",
+      "actionable": "Buy",
+      "key_quotes": [
+        "Buy Disney at $85. It's 111. Guess what? It's going over 200 over the next three years.",
+        "All of their divisions are hitting on all cylinders. Mid double digit growth. the cruise ships, the parks, streaming, 180 million subscribers. They added two and a half million subscribers. This is a high quality business with a durable mode."
+      ]
+    },
+    {
+      "ticker": "WMT",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "Buy towards that 91 to 86 level",
+      "actionable": "Wait for a pullback to buy",
+      "key_quotes": [
+        "I'm watching it closely and uh right now it's at an area where I'll wait to see how things shake out, but if it does sell off, I would buy it towards that 91 to 86 level uh for a long-term play and put it away."
+      ]
+    },
+    {
+      "ticker": "UBER",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "120 bucks by the end of the year",
+      "actionable": "Buy",
+      "key_quotes": [
+        "Technically, it's blessed as well. So, I love it for a long-term play and put it away."
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Watch and wait",
+      "key_quotes": [
+        "If Nvidia can break out to new highs, and we still have 16 points to go, then uh the the bullish horns will be sprouting out of my head. Right now, I'm kind of on the sidelines letting things digest."
+      ]
+    },
+    {
+      "ticker": "CBOE",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "When volatility ticks up you buy CBOE that's a no-brainer. Uh volatility huge crush in the last four weeks. Uh so their revenues are going to be a little bit lighter. Double downgrade it's a little aggressive. It's such a great business. It's got kind of a monopoly in the space. So, I think longterm it's okay. I think short short term I actually like the sellside call, which I don't say very often."
+      ]
+    },
+    {
+      "ticker": "BA",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 10,
+      "price_target_or_upside": "Probably going to 250 over the next year, year and a half",
+      "actionable": "Buy",
+      "position_status": "Largest position",
+      "key_quotes": [
+        "That thing got down to $129 four weeks ago. We went on Barney and we're pounding the table. It's 210 today. Probably going to 250 over the next year, year and a half.",
+        "We bought it like the lights were going out.",
+        "China needs Boeing's plane like a diabetic needs insulin."
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "tom_sentiment": "Neutral",
+      "conviction": 6,
+      "actionable": "Hold",
+      "key_quotes": [
+        "This little company called Amazon. Okay. When you it was it was marked down 50%, you couldn't give it away."
+      ]
+    },
+    {
+      "ticker": "GOOG",
+      "tom_sentiment": "Neutral",
+      "conviction": 6,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Another company called Alphabet Google. Okay. So, I'm pro tech at the right price in the right way."
+      ]
+    },
+    {
+      "ticker": "QXO",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 10,
+      "price_target_or_upside": "Well above 50, probably 80 to $100",
+      "actionable": "Buy",
+      "position_status": "New addition",
+      "key_quotes": [
+        "He's going to do it again.",
+        "He's put a billion dollars of his own money in QXO. So, he's putting his money where his mouth is."
+      ]
+    },
+    {
+      "ticker": "SWK",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "$200",
+      "actionable": "Buy",
+      "key_quotes": [
+        "The operating leverage in this business is insane.",
+        "This business has been around since 1843."
+      ]
+    },
+    {
+      "ticker": "GNRC",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "Triple over the next few years",
+      "actionable": "Buy",
+      "key_quotes": [
+        "This is going to be a triple over the next few years.",
+        "For me, this is a complete no-brainer."
+      ]
+    },
+    {
+      "ticker": "GENER",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "actionable": "Buy",
+      "key_quotes": [
+        "Ah, in the short term, the market is a voting machine based on emotion."
+      ]
+    },
+    {
+      "ticker": "GLW",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Buy",
+      "key_quotes": [
+        "If you can get comfortable like by with that you see the free cash flow trends are pretty stable then yeah it's a home run."
+      ]
+    },
+    {
+      "ticker": "VFC",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Buy",
+      "key_quotes": [
+        "You want to bet on the jockey."
+      ]
+    },
+    {
+      "ticker": "XOM",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "If Exxon goes, I have a lot more to worry about than my stock portfolio."
+      ]
+    },
+    {
+      "ticker": "WFC",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "If Wells Fargo cease to exist, that would be as as close to the end of the world as you could get."
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 10,
+      "price_target_or_upside": "Going over 200",
+      "actionable": "Buy",
+      "position_status": "Largest position",
+      "key_quotes": [
+        "This is the cheapest way to play AI in the world",
+        "They're the number one retailer to the middle class. So, as the Chinese push, a little bonus, they're a toll taker."
+      ]
+    },
+    {
+      "ticker": "UNH",
+      "tom_sentiment": "Neutral",
+      "conviction": 4,
+      "actionable": "Pass",
+      "key_quotes": [
+        "There can always be a risk that you don't know that you don't know."
+      ]
+    },
+    {
+      "ticker": "CPS",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 10,
+      "price_target_or_upside": "Double again from here",
+      "actionable": "Buy",
+      "position_status": "Largest position",
+      "key_quotes": [
+        "We think it's going to double again from here and probably more than that if they get up to normalized $7 a share of earnings, which they did at the last SAR peak in 2017."
+      ]
+    }
+  ],
+  "new_or_recent_additions": [
+    "QXO"
+  ],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy Alibaba (in Hong Kong under ticker 9988) as a play on Chinese AI and middle class recovery.",
+      "conviction": 10
+    },
+    {
+      "rank": 2,
+      "idea": "Buy Cooper Standard (CPS) as a play on the recovery of US Auto SAR.",
+      "conviction": 10
+    },
+    {
+      "rank": 3,
+      "idea": "Buy QXO as a roll-up of building supplies to play the housing recovery.",
+      "conviction": 10
+    },
+    {
+      "rank": 4,
+      "idea": "Buy Stanley Black & Decker as a play on the housing recovery through increased construction volumes.",
+      "conviction": 9
+    },
+    {
+      "rank": 5,
+      "idea": "Buy Generac as a play on the home building and data center growth through increased demand for home standby generators.",
+      "conviction": 9
+    },
+    {
+      "rank": 6,
+      "idea": "Buy Disney on pullbacks",
+      "conviction": 9
+    },
+    {
+      "rank": 7,
+      "idea": "Buy VF Corp as a turnaround play.",
+      "conviction": 8
+    },
+    {
+      "rank": 8,
+      "idea": "Buy Corning as a long-term play.",
+      "conviction": 8
+    },
+    {
+      "rank": 9,
+      "idea": "Buy Uber for a long-term play.",
+      "conviction": 8
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Potential for increased competition in the obesity drug market.",
+    "Risk of overpaying for growth stocks.",
+    "Risk of relying too heavily on recent trends.",
+    "Risk of shorting Cooper Standard."
+  ],
+  "technical_takeaways": "The market is in a V-shaped recovery but will probably pause before making new highs. Watch Nvidia's report on May 28th as a tell. The worst seems to be over, and the April 7th low was a worst-case scenario, panic, capitulation, and sentiment at all-time lows."
+}

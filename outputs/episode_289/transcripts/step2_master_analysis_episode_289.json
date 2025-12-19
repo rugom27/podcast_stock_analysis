@@ -1,0 +1,365 @@
+{
+  "episode_number": "289",
+  "episode_date": "2025-05-01",
+  "executive_summary": "Tom Hayes discusses the potential for a 'Trump put,' 'Fed put,' and 'Treasury put' to support markets amidst economic uncertainty. He highlights the importance of upcoming earnings reports, particularly from Microsoft, Meta, Apple and Amazon, and emphasizes the significance of guidance and capex spending. He also identifies biotech and medical devices as sectors poised for growth and potential M&A activity. He notes that hedge funds and CTAs were record sellers at the lows, setting the stage for a potential forced buying rally. He also discusses the potential for small caps to outperform.",
+  "tom_current_conviction": {
+    "overall_market": "Bullish, anticipating a potential rally driven by positive news flow and forced buying.",
+    "score_1_to_10": 8,
+    "key_reasons": [
+      "Potential for 'Trump put,' 'Fed put,' and 'Treasury put' to support markets.",
+      "Hedge funds and CTAs were record sellers at the lows, setting the stage for a potential forced buying rally.",
+      "Positive earnings reports from Microsoft and Meta.",
+      "Anticipation of trade deal announcements."
+    ]
+  },
+  "macro_thesis_summary": "The market is currently oversold and sentiment is flushed out. The administration is threading a needle, making bold moves that cause volatility, but also paying attention to markets and trying to prevent a significant downturn. A combination of fiscal and monetary policy, along with potential trade deals, could lead to a significant rally.",
+  "key_macro_data_points": [
+    {
+      "indicator": "GDP",
+      "value": "-0.3%",
+      "tom_interpretation": "The headline GDP number was negative, but excluding inventory loading ahead of tariffs, it would be around +3.0%. The administration needs to avoid two consecutive negative quarters."
+    },
+    {
+      "indicator": "ADP Jobs Number",
+      "value": "62,000 vs 120,000 expected",
+      "tom_interpretation": "A weak ADP jobs number points to a slowing economy, increasing the potential for a 'Fed put'."
+    },
+    {
+      "indicator": "PCE Inflation",
+      "value": "2.3%",
+      "tom_interpretation": "The lowest PCE inflation since November also supports the potential for a 'Fed put'."
+    },
+    {
+      "indicator": "Treasury Buyback Program",
+      "value": "Enhancements being considered",
+      "tom_interpretation": "The Treasury is considering enhancing its buyback program to lower long-term borrowing costs, effectively a new form of quantitative easing."
+    },
+    {
+      "indicator": "Earnings Growth",
+      "value": "10% year-on-year",
+      "tom_interpretation": "Earnings are up 10% year-on-year, indicating the world is not ending."
+    },
+    {
+      "indicator": "Earnings Estimates",
+      "value": "Down 3.6% year-to-date on the S&P 500",
+      "tom_interpretation": "Estimates have been coming down, but 2026 estimates are holding up, suggesting the market is trading at a reasonable multiple of next year's earnings."
+    },
+    {
+      "indicator": "Retail Sentiment",
+      "value": "Emotionally downbeat on stocks, but allocations have barely dropped",
+      "tom_interpretation": "Retail investors are holding tight, while professionals have been selling at the wrong time."
+    },
+    {
+      "indicator": "Ryex Bull Bear Ratio",
+      "value": "Off the charts bearish",
+      "tom_interpretation": "This is usually what you see at these bounces."
+    },
+    {
+      "indicator": "Durable Goods New Orders Non-Defense Aircraft and Parts",
+      "value": "Through the roof",
+      "tom_interpretation": "Positive sign for the economy."
+    },
+    {
+      "indicator": "US Small Capitalization Total Return Index",
+      "value": "Percentage above its 1945 trend line average",
+      "tom_interpretation": "You get a few of these opportunities in a career."
+    }
+  ],
+  "featured_company_deep_dives": {
+    "PYPL": {
+      "thesis_summary": "PayPal is undergoing a turnaround led by Alex Chris, focusing on profitable growth and transaction margins. The company is sandbagging guidance, with potential for significant upside surprises in earnings, free cash flow, and share repurchases. The stock price is at near record lows while cash flow is at near record highs.",
+      "key_metrics": [
+        "Transaction margin expansion",
+        "Free cash flow generation",
+        "Share repurchase program",
+        "Venmo growth",
+        "PayPal Everywhere campaign success"
+      ],
+      "price_target_or_valuation": "Potential for greater than $6 of earnings, greater than $8.8 billion of free cash flow, and greater than $7.2 billion of share buybacks if they have the same beat rate.",
+      "conviction": "High",
+      "action": "Buy handover fist and wait for the recovery aka turnaround Tom."
+    },
+    "INTC": {
+      "thesis_summary": "Intel is undergoing a turnaround led by Lip-Bu Tan, who has a proven track record of success. The company is committed to the foundry operation and is leveraging its relationships in the chip industry to attract outside customers. The stock has the potential to be a four to five bagger in the next four to five years.",
+      "key_metrics": [
+        "Foundry operation progress",
+        "New production processes",
+        "Collaboration with Taiwan Semiconductor",
+        "New CEO's track record"
+      ],
+      "price_target_or_valuation": "Potential for a four to five bagger in the next four to five years.",
+      "conviction": "High",
+      "action": "Buy and hold for the long term."
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "MSFT",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "actionable": "Hold. Watch guidance on AI spend and Azure cloud growth.",
+      "key_quotes": [
+        "The whole key is going to be guidance on AI spend and Azure cloud growth.",
+        "If you get that and you get reasonable guidance, Microsoft could rebound here. But if they confirm what we've been seeing about the lease cancellations and pulling back on spend, it might see some softness."
+      ]
+    },
+    {
+      "ticker": "META",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "actionable": "Hold. Watch ad revenue and daily active user numbers.",
+      "key_quotes": [
+        "The whole key is going to be guidance on AI spend and Azure cloud growth.",
+        "If you get that and you get reasonable guidance, Microsoft could rebound here. But if they confirm what we've been seeing about the lease cancellations and pulling back on spend, it might see some softness."
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "tom_sentiment": "Cautious",
+      "conviction": 6,
+      "actionable": "Hold. Watch for commentary on China, both production and consumption.",
+      "key_quotes": [
+        "A huge question for Apple as it relates to how they're thinking about China, both production and consumption."
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "actionable": "Buy on dips. Watch for commentary on Chinese sellers on the Amazon website.",
+      "key_quotes": [
+        "Amazon is a beast. I mean if you get an opportunity to buy it lower you take advantage of it."
+      ]
+    },
+    {
+      "ticker": "QCOM",
+      "tom_sentiment": "Cautious",
+      "conviction": 5,
+      "actionable": "Hold. Await a few quarters for the semiconductor cycle to improve.",
+      "key_quotes": [
+        "It always looks darkest before dawn. I mean, semiconductors, what people forgot is a very cyclical business. We're probably at or near some of the the the troughs in the uh semiconductor cycle. I think there's going to be opportunity, but it's going to take a few quarters."
+      ]
+    },
+    {
+      "ticker": "SWK",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "actionable": "Hold. Beneficiary of lower rates and housing recovery.",
+      "key_quotes": [
+        "That's going to be a boon for housing, GenerRack, Stanley Black & Decker, uh, QXO, and more."
+      ]
+    },
+    {
+      "ticker": "DG",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "actionable": "Hold. Short Wall Street, long Main Street.",
+      "key_quotes": [
+        "Short Wall Street, long Main Street, very similar. So, Ferrari is collapsing. Dollar General is appreciating. We like that story."
+      ]
+    },
+    {
+      "ticker": "SPY",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "actionable": "Buy on dips. Expect high single digits to low double digits on the S&P for the year.",
+      "key_quotes": [
+        "High single digits to low double digits on the S&P for the year."
+      ]
+    },
+    {
+      "ticker": "TLT",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "actionable": "Hold. Beneficiary of lower rates.",
+      "key_quotes": [
+        "Average pair-wise correlation between TLT, SPY, DXY, which is the dollar for one month. Um, you haven't seen this since 2020 and that was when you wanted to be a buyer."
+      ]
+    },
+    {
+      "ticker": "IWM",
+      "tom_sentiment": "Positive",
+      "conviction": 8,
+      "actionable": "Buy on dips. Expect small caps to outperform.",
+      "key_quotes": [
+        "IWM small caps to IWM to S spy hasn't been this low since 2001 these years 2001 to 2007 massive outperformance of small caps. So uh relative to S&P I think we're on the cusp of that again."
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Positive",
+      "conviction": 8,
+      "actionable": "Hold in Hong Kong. Expect Ant Financial IPO in the next 12 months.",
+      "position_status": "Moving US listed shares to Hong Kong",
+      "key_quotes": [
+        "As owners of Alibaba, we own a third of the company. Very exciting to see. that will probably IPO in the next 12 months and probably do so in Hong Kong."
+      ]
+    },
+    {
+      "ticker": "DIS",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold. Beneficiary of China film dates.",
+      "key_quotes": [
+        "Disney Universal score China film dates despite trade woes."
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold. Watch for competition from China's Huawei.",
+      "key_quotes": [
+        "China's Huawei develops new AI chip seeking to match Nvidia."
+      ]
+    },
+    {
+      "ticker": "PYPL",
+      "tom_sentiment": "Strong Buy",
+      "conviction": 9,
+      "actionable": "Buy handover fist and wait for the recovery aka turnaround Tom.",
+      "key_quotes": [
+        "We're buying handover fist and we wait for the recovery aka turnaround Tom.",
+        "PayPal is transforming from just a payments company into a commerce platform right in front of your eyes.",
+        "Ladies and gentlemen, this is sandbagging at its finest."
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "tom_sentiment": "Strong Buy",
+      "conviction": 9,
+      "actionable": "Buy and hold for the long term.",
+      "key_quotes": [
+        "I do think four or five bagger is in the cards if you get this thing four to five years to play out. Maybe a little sooner because this guy is a miracle worker."
+      ]
+    },
+    {
+      "ticker": "ETSY",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "actionable": "Hold. Showing some good stuff.",
+      "key_quotes": [
+        "Etsy showing some good stuff on one of its platforms, the other platform they're selling."
+      ]
+    },
+    {
+      "ticker": "ARC",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Watch closely. Most speculative companies in the market.",
+      "key_quotes": [
+        "Always keeping an eye on that one because it's kind of the most speculative companies in the market."
+      ]
+    },
+    {
+      "ticker": "BP",
+      "tom_sentiment": "Negative",
+      "conviction": 2,
+      "actionable": "Pass. Brain damage in management.",
+      "key_quotes": [
+        "I'm going to pass. They made a lot of strategic errors. They tried to go green. They were, you know, blew with the wind when the, you know, and uh trying to do wind farms and all kinds of and they're paying for it. I I would pass on that. I think there's a lot of brain damage in management over there."
+      ]
+    },
+    {
+      "ticker": "UNH",
+      "tom_sentiment": "Neutral",
+      "conviction": 4,
+      "actionable": "Pass. Not interesting enough at these levels.",
+      "key_quotes": [
+        "I don't like it yet. I don't think it's come down enough to be interesting."
+      ]
+    },
+    {
+      "ticker": "GOOG",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Pass. Not an easy double or triple.",
+      "key_quotes": [
+        "It's not like it's probably going to go up 50% and without me, it's just not such an easy double or triple that I want to put any money to work."
+      ]
+    },
+    {
+      "ticker": "AUB",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "actionable": "Hold. Solid bank.",
+      "key_quotes": [
+        "I think you got a solid bank. If your question is, would I buy it here? H probably goes a little bit lower, but would I sell it here? The answer is no. I think you're I think you're fine."
+      ]
+    },
+    {
+      "ticker": "JD",
+      "tom_sentiment": "Neutral",
+      "conviction": 4,
+      "actionable": "Pass. Not as attractive as BABA.",
+      "key_quotes": [
+        "I don't like it as much. I I don't have to own all of them. I think it'll probably do okay, but again, I'd want to own it in Hong Kong."
+      ]
+    },
+    {
+      "ticker": "ZIM",
+      "tom_sentiment": "Negative",
+      "conviction": 1,
+      "actionable": "Pass. Quickest way to lose money.",
+      "key_quotes": [
+        "These chippers are like the quickest way to lose money."
+      ]
+    },
+    {
+      "ticker": "TGT",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "actionable": "Buy if you have to buy a retailer.",
+      "key_quotes": [
+        "I think Target's okay. If you got to buy a retailer, it's now."
+      ]
+    },
+    {
+      "ticker": "XOM",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold. We've gotten out.",
+      "key_quotes": [
+        "Every single one that we've gone through when we've got out, we've let everyone know that we've gotten out."
+      ]
+    }
+  ],
+  "new_or_recent_additions": [
+    "PYPL",
+    "INTC"
+  ],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy PayPal (PYPL) hand over fist and wait for the turnaround.",
+      "conviction": 9
+    },
+    {
+      "rank": 2,
+      "idea": "Buy Intel (INTC) and hold for the long term.",
+      "conviction": 9
+    },
+    {
+      "rank": 3,
+      "idea": "Buy small caps (IWM) on dips, expecting outperformance.",
+      "conviction": 8
+    },
+    {
+      "rank": 4,
+      "idea": "Hold Alibaba (BABA) in Hong Kong, expecting Ant Financial IPO.",
+      "conviction": 8
+    },
+    {
+      "rank": 5,
+      "idea": "Buy Amazon (AMZN) on dips.",
+      "conviction": 7
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Risk of the US or Chinese government actions negatively impacting investments.",
+    "Risk of recession despite positive economic indicators.",
+    "Risk of trade war escalation.",
+    "Risk of consumer confidence declining."
+  ],
+  "technical_takeaways": "Institutions and hedge funds record sold in the hole at the lows. They are praying for a retest of the lows. Extremely strong breath the last three days. Small cap short interest record high."
+}

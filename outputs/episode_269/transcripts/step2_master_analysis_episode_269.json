@@ -1,0 +1,268 @@
+{
+  "episode_number": "269",
+  "episode_date": "2024-12-12",
+  "executive_summary": "Tom Hayes is extremely bullish on Emerging Markets and China, particularly Alibaba. He believes the market is misinterpreting Trump's policies and that a weaker dollar will drive Emerging Markets higher. He is also very bullish on Boeing, Cooper Standard, Advanced Auto Parts and Etsy as turnaround plays. He sees a potential rotation out of the Magnificent 7 into undervalued sectors. He emphasizes the importance of buying quality businesses below intrinsic value and remaining patient.",
+  "tom_current_conviction": {
+    "overall_market": "Bullish",
+    "score_1_to_10": 9,
+    "key_reasons": [
+      "Favorable demographics",
+      "Global easing cycle",
+      "Low correlation of stock performance",
+      "Trump's pledge for easier regulatory backdrop",
+      "China stimulus"
+    ]
+  },
+  "macro_thesis_summary": "Hayes believes that the market is misinterpreting Trump's policies, particularly regarding China. He anticipates a weaker dollar, benefiting Emerging Markets. He also highlights the global easing cycle and favorable demographics as tailwinds for the market. He expects a pullback after the inauguration, which will present buying opportunities.",
+  "key_macro_data_points": [
+    {
+      "indicator": "US Small Business Optimism",
+      "value": "Soared to a three-year high after Trump win",
+      "tom_interpretation": "History doesn't repeat, but it rhymes. This is similar to what happened after the 2016 election."
+    },
+    {
+      "indicator": "China's Potential Fiscal Deficit",
+      "value": "China has a lot of room to raise the fiscal deficit",
+      "tom_interpretation": "While the US is reigning in spending, China is raising its fiscal deficit, raising fiscal stimulus, and raising growth."
+    },
+    {
+      "indicator": "Asset Managers Bearish on the Dollar",
+      "value": "Asset managers are the least bearish on the dollar since 2017",
+      "tom_interpretation": "This is a contrarian indicator. The dollar is likely to weaken, benefiting Emerging Markets."
+    },
+    {
+      "indicator": "Correlation of Stock Performance",
+      "value": "At all-time lows",
+      "tom_interpretation": "The backdrop for stock pickers is the best in 25 years."
+    },
+    {
+      "indicator": "Global Manufacturing PMI",
+      "value": "Lagging the percentage of central banks easing",
+      "tom_interpretation": "PMI always catches up."
+    },
+    {
+      "indicator": "US Beige Book Activity Index",
+      "value": "Turning back up",
+      "tom_interpretation": "Says economy stable, companies more optimistic about 2025, but tariffs a worry."
+    },
+    {
+      "indicator": "Cox Automotive Incentives",
+      "value": "Booming, at 8% of sales price",
+      "tom_interpretation": "Number one key indicator of future volumes is incentives."
+    }
+  ],
+  "featured_company_deep_dives": {
+    "BA": {
+      "thesis_summary": "Boeing is a turnaround story with a new CEO, Kelly Ortberg, a solved union issue, and a massive backlog. The demand for flying is increasing, and China will double its fleet by 2043. Boeing is one of only two vendors, giving it duopolistic pricing power.",
+      "key_metrics": [
+        "Half a trillion dollar backlog",
+        "China to double fleet by 2043",
+        "New CEO Kelly Ortberg's track record"
+      ],
+      "conviction": "High",
+      "action": "Buy"
+    },
+    "CRI": {
+      "thesis_summary": "Cooper Standard is a turnaround play in the auto industry, making rubber seals for windows and doors. The company has taken costs out of the business and is poised to benefit from increased auto production. Solvency risk has been removed, and the company is now at break-even.",
+      "key_metrics": [
+        "Refinanced debt",
+        "Cost reductions of $500 million",
+        "Operating leverage"
+      ],
+      "price_target_or_valuation": "10-15 bagger overtime",
+      "conviction": "High",
+      "action": "Buy"
+    },
+    "AAP": {
+      "thesis_summary": "Advanced Auto Parts is the worst-performing auto retailer with a new CEO, Shane O'Kelly, who has a track record of success. He has taken solvency risk off the table by selling the Canadian business and closing underperforming stores. The company expects to increase operating margins by 500 basis points.",
+      "key_metrics": [
+        "New CEO Shane O'Kelly",
+        "Sale of Canadian business",
+        "Store closures",
+        "Operating margin improvement"
+      ],
+      "conviction": "High",
+      "action": "Buy"
+    },
+    "ETSY": {
+      "thesis_summary": "Etsy is a turnaround story with a niche platform for customized and bespoke products. The stock is down 80% from its highs, but free cash flow generation is still strong. The company is implementing initiatives to re-accelerate growth and clean up the curation of the website.",
+      "key_metrics": [
+        "Strong free cash flow",
+        "92 million users",
+        "Re-accelerating growth",
+        "Niche platform"
+      ],
+      "conviction": "High",
+      "action": "Buy"
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "BA",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 10,
+      "actionable": "Buy",
+      "key_quotes": [
+        "Boeing is taking off pun intended we've been pounding the table loading the boat that's one of our largest positions just beginning",
+        "You can't give it away this stock people are trading it like it's going out of business",
+        "They've got a new CEO Kelly orberg who when he was at Rockwell Collins in six years he forx the company for owners he made them four times their money in six years this guy is an absolute winner",
+        "They've solved the issue with the unions and by the way they've got a half a trillion dollar backlog",
+        "The demand for flying is going up not down China's going to double their Fleet by 2043 and they've got a half a trillion dollars of backlog",
+        "In the case of Boeing you got Boeing you got Airbus we like duopolistic and oligopolistic businesses that have pricing power Boeing is one of those we see a tremendous opportunity there"
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 10,
+      "actionable": "Buy",
+      "position_status": "Largest position",
+      "key_quotes": [
+        "We've got a tremendous position in Alibaba okay and this has taken longer than we've expected to work but we've had an opportunity to bring down our basis in our view it's the best opportunity globally",
+        "Alibaba will is the toll taker in China if you believe that the government will continue to do stimulus if you believe that they will recover like they do every cycle just like Autos recover every cycle",
+        "It's the cheapest covert play in China because they are the number one cloud provider",
+        "With every AI startup they say don't worry about it you don't have to give us money we'll give you compute power which costs us basically nothing you give us Equity so they've got equity in every single startup AI startup in China and that's given zero value right now on the stock price you're going to see some of these things be thousand Baggers and we own them indirectly as owners of alib so we that's a perfect play and it's one of our largest positions so your spot on we'll do one more",
+        "When this thing rips uh we are going to Mint so much money it's unbelievable I mean it's just and we all have bigger positions than we ever could have imagined compliments of xiin ping",
+        "After the flip of the calendar certainly after inauguration I think we're going to be in uh rocket launch here and I'm very excited about it because I just love that No One Believes anything"
+      ]
+    },
+    {
+      "ticker": "CRI",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "10-15 bagger overtime",
+      "actionable": "Buy",
+      "key_quotes": [
+        "This will be a 10 to 15 bagg or overtime for us",
+        "We've met with management multi mult multiple times we have confidence in their abilities",
+        "They've actually brought the share count down while going through one of the most difficult periods in the Auto industry this is turning up we've already tough the operating leverage they're now at break even they've taken $500 million of cost out of the business as you see"
+      ]
+    },
+    {
+      "ticker": "AAP",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "actionable": "Buy",
+      "key_quotes": [
+        "The good news is they probably have the best CEO who's just come in his name is Shane o Kelly he ran HD Supply in uh for for Home Depot uh $7 billion business he's got a military background Harvard part business school he knows how to run these businesses",
+        "What he's basically done is he took solvency risk off the table recently by selling the Canadian business that was non- synergistic he created a $1.5 billion doar in cash for that net 1.2 uh paying down debt so he's brought the leverage ratios down to buy him time for the turn around",
+        "There's an enormous opportunity again operating leverage Catalyst it's been der risked solvency risk has come off the table they sold off non-core assets same same type of story and this is how we can create doubles triples and stuff over a reasonable amount of time be patient build the position and wait good things come to those who wait right"
+      ]
+    },
+    {
+      "ticker": "ETSY",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Buy",
+      "key_quotes": [
+        "Stock price down 80% free cash flow generation to owners not only about par puru with when it was a $300 stock uh but re accelerating growth",
+        "They did make some mistakes but they did keep 92 million users it's the fourth most trafficed website on for e-commerce site in the US",
+        "The good news is they recognize the problem they're fixing it and we're seeing re accelerating growth and this is a phenomenal Niche platform",
+        "It's not a me too platform where everyone's selling the same product and it's a race to the bottom with price and margins which you're never going to win against Amazon right they don't have to have the same type of margin here it's bestok products it's custom products it's gifted products it's supporting small businesses"
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "actionable": "Monitor",
+      "key_quotes": [
+        "I think GE in 2018 is a better analogy of a mismanaged hard- tokill business that eventually turned around under the right management",
+        "They're getting into action turning it around they just need to announce the CEO",
+        "We love buying at a tangible book we love owning it in the 20s we'll take a look in the 40s after you know after the Legacy business is fully valued and then um determine what they're doing with the foundaries and what they're doing with AI I think that there's going to be a reason to hold it after it's in the' 40s but we'll we'll keep an open mind"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "tom_sentiment": "Negative",
+      "conviction": 8,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "Here's the Nvidia okay so it peaked out at 14074 literally the day before I wrote that article on June 20th and since then we've had exactly zero gains first we had an immediate 35% drop so that was pretty nice call and then um we recovered and now we're back down literally negative this is the hottest stock that people can't get get enough down at you know wherever it was in the 2020 lows you couldn't give it away now everybody wants it and that's why you're seeing some distribution here",
+        "I think it does mean they are going to underperform relative to the unmagnify and xus"
+      ]
+    },
+    {
+      "ticker": "KRE",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "actionable": "Monitor",
+      "key_quotes": [
+        "I'm keeping an eye on our kre small cap you know we took profits on Bank of America and City over the summer after big moves um I think K's got some more juice and there's going to be a lot of consolidation but it's also had a huge move so I'm going to keep an eye on that after the beginning of the year"
+      ]
+    },
+    {
+      "ticker": "VF Corp",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Consumer discretionary VF Corp we love it"
+      ]
+    },
+    {
+      "ticker": "DIS",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Disney boost dividend 33% after achieving streaming profit that was a key part of our original thesis when you couldn't give it away in the 70s and 80s uh now you know knocking on the door of 120 people are starting to pay attention is just getting started"
+      ]
+    }
+  ],
+  "new_or_recent_additions": [
+    "BA",
+    "CRI",
+    "AAP",
+    "ETSY"
+  ],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy Boeing (BA)",
+      "conviction": 10
+    },
+    {
+      "rank": 2,
+      "idea": "Buy Alibaba (BABA)",
+      "conviction": 10
+    },
+    {
+      "rank": 3,
+      "idea": "Buy Cooper Standard (CRI)",
+      "conviction": 9
+    },
+    {
+      "rank": 4,
+      "idea": "Buy Advanced Auto Parts (AAP)",
+      "conviction": 9
+    },
+    {
+      "rank": 5,
+      "idea": "Buy Etsy (ETSY)",
+      "conviction": 8
+    },
+    {
+      "rank": 6,
+      "idea": "Monitor Intel (INTC)",
+      "conviction": 7
+    },
+    {
+      "rank": 7,
+      "idea": "Avoid Nvidia (NVDA)",
+      "conviction": 8
+    },
+    {
+      "rank": 8,
+      "idea": "Monitor KRE",
+      "conviction": 6
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "High valuations in the Magnificent 7",
+    "Potential for a pullback after the inauguration",
+    "Risk of Japanese bond yields rising and unwinding the carry trade"
+  ],
+  "technical_takeaways": "Emerging Markets are breaking out and retesting, indicating a potential violent upward move. The Hang Seng Index is showing an uptrend with higher highs and higher lows. The 10-year yield is rolling over. The dollar is showing a fake out above resistance and now rolling back over.",
+  "publish_date": "2024-12-12"
+}

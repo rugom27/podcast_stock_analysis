@@ -1,0 +1,11 @@
+Ticker,Action,Conviction,Entry_Price,Current_Price,Current_Return_Pct,T+1m,T+3m,T+6m
+BABA,Buy on any weakness,10,117.55,151.14,28.57,23.45,3.65,3.15
+PYPL,Buy on dips,8,76.41,59.58,-22.03,-9.06,-6.55,-9.61
+CCI,Buy on dips,8,85.47,86.77,1.53,16.43,14.0,16.28
+HRL,Consider Buying,7,27.65,23.93,-13.46,4.98,6.7,1.72
+GXO,Hold,7,36.31,53.13,46.32,13.49,13.74,44.73
+INTC,Buy on Weakness,8,24.13,37.47,55.3,6.46,-10.69,1.78
+GM,Monitor,6,47.4,82.44,73.93,2.58,4.92,18.26
+F,Monitor,6,8.7,13.45,54.51,9.56,20.46,29.92
+FMC,Monitor,6,35.1,13.64,-61.15,16.26,8.33,4.88
+UBER,Pass,5,80.29,78.68,-2.01,-9.42,12.29,15.33

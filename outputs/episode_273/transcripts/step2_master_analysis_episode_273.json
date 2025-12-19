@@ -1,0 +1,276 @@
+{
+  "episode_number": "273",
+  "episode_date": "2025-01-09",
+  "executive_summary": "Tom Hayes is extremely bullish on value stocks, small caps, international equities, healthcare (XBI), materials, Comstock Resources (CTO), Generac (GNRC), Boeing (BA), Etsy (ETSY), and Alibaba (BABA). He believes the market is in a regime change where value will outperform growth, and that the post-inauguration period will be ripe for a significant rally in these undervalued sectors. He is cautious on the Magnificent Seven, believing their earnings growth is decelerating and their multiples are too high. He emphasizes the importance of buying stocks with a margin of safety and a clear turnaround story.",
+  "tom_current_conviction": {
+    "overall_market": "Bullish on specific sectors and stocks, cautious on indices and growth stocks.",
+    "score_1_to_10": 9,
+    "key_reasons": [
+      "Value stocks are historically cheap relative to growth.",
+      "Small caps are poised for earnings growth acceleration.",
+      "International equities offer better value than US equities.",
+      "Post-inauguration period typically sees a rally.",
+      "Market is in a regime change favoring value."
+    ]
+  },
+  "macro_thesis_summary": "The market is undergoing a regime change where value will outperform growth after a decade of growth dominance due to zero interest rate policies. The post-inauguration period will see yields compress and a rally in undervalued sectors. International and emerging markets are poised to outperform the US. A weaker labor market will keep the Fed in the game, supporting equities.",
+  "key_macro_data_points": [
+    {
+      "indicator": "Small Speculators Short Natural Gas",
+      "value": "First time since 2001",
+      "tom_interpretation": "Super exciting, indicating a potential breakout in natural gas."
+    },
+    {
+      "indicator": "Corporate Net Interest Payments",
+      "value": "Near record lows",
+      "tom_interpretation": "Not what you see at recession time, indicating economic strength."
+    },
+    {
+      "indicator": "US vs International Earnings Growth",
+      "value": "International 13% vs US 14%",
+      "tom_interpretation": "International offers better value at lower multiples."
+    },
+    {
+      "indicator": "Automotive Sales",
+      "value": "16.8 million annualized SAR in December",
+      "tom_interpretation": "Super exciting news, indicating a strong recovery in the auto sector."
+    },
+    {
+      "indicator": "Euro Short Positions",
+      "value": "All leveraged funds are short the Euro",
+      "tom_interpretation": "The Euro is going to absolutely rip higher."
+    }
+  ],
+  "featured_company_deep_dives": {
+    "GNRC": {
+      "thesis_summary": "Generac is poised for significant growth due to increasing grid instability, AI-driven demand for power, and a low penetration rate of home standby generators. The company is experiencing accelerating free cash flows and is dominating the residential, commercial, and industrial markets.",
+      "key_metrics": [
+        "Sales recovering",
+        "Margins recovering",
+        "Free cash flow off the charts",
+        "US penetration rate only 6.25%"
+      ],
+      "price_target_or_valuation": "Getting back to $200 and beyond is easy peasy.  Previous high was $524.",
+      "conviction": "High",
+      "action": "Buy"
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "XBI",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "Significant upside potential, following the Trump 1.0 playbook where biotech rallied 75% after the inauguration.",
+      "actionable": "Buy",
+      "key_quotes": [
+        "We express the health care through xbi biotech if you recall during Trump when he got elected biotech and Healthcare so off in those two months because he was going to rip up the Affordable Car Act they rallied bigly as he would say 75% for biotech in the next year after the inauguration so that's how we're expressing that"
+      ]
+    },
+    {
+      "ticker": "BA",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "Double in 2-3 years",
+      "actionable": "Buy",
+      "key_quotes": [
+        "They have a half a trillion doll backlog I mean imagine buying a business that had 10 years of demand that they couldn't possibly fulfill",
+        "All the components that I look for turnaround Tom looks for in a turnaround situation are perfectly in place pricing power durable sustainable moat performs through Cycles pricing power it's all there you just have to be patient now you play the time Arbitrage game and most people can't wait two to three years for a double uh but we're patient we like to do that rinse repeat over and over and we think Boeing is going to be one of our next ones"
+      ]
+    },
+    {
+      "ticker": "ETSY",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "Significant upside potential due to turnaround plan and strong free cash flow.",
+      "actionable": "Buy",
+      "key_quotes": [
+        "This is another one of my favorites down 80%",
+        "They've been able to keep that level of free cash flow keep the level of peak level of covid revenues and it's now trading at about a nine times free cash flow so they got so much cash gushing in healthy balance sheet a turnaround in plan they've got this gift mode they've better curated the website they're growing internationally they're focused on men they've got all these initiatives in place that are getting traction but at the same time they're buying in all the float"
+      ]
+    },
+    {
+      "ticker": "C",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "$7-10 a share earnings potential, implying significant upside.",
+      "actionable": "Buy",
+      "key_quotes": [
+        "This company's down 90% it had a refinancing risk they got it refinanced in 2022 they do the ceiling systems around the doors boring stuff fluid transfer systems the operating leverage in this business is huge uh all this is is a is a play on volumes increasing we did 16.8 million annualized SAR in December if you remember those Auto numbers surprised everyone the volumes are coming back up the last time they did1 17 million the business earned $7 of $140 stock Stock's trading at $14 uh they've taken $400 million of of uh uh cost out of the business so this thing we leave over the next two years could earn $7 to $10 a share which means you know you apply 10 times multiple it's it's really going to move all right"
+      ]
+    },
+    {
+      "ticker": "GNRC",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "Getting back to $200 and Beyond is easy peasy.  Previous high was $524.",
+      "actionable": "Buy",
+      "key_quotes": [
+        "Free cash flows accelerating and free cash flows now at the levels you saw when it was a $524 stock it's at $158 so you know getting back to 200 and Beyond is easy peasy"
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 10,
+      "price_target_or_upside": "Significant upside potential as China's economy recovers and stimulus kicks in.",
+      "actionable": "Buy",
+      "key_quotes": [
+        "I can't wait for Baba I just want to see all these people chase up at 200",
+        "If you want to own a piece of every single AI startup in China you want to own Alibaba if you want to benefit from AI apps and computer demand going exponential you want the number one cloud provider Baba if you want to benefit on a recovery of a middle class you bet on Baba"
+      ]
+    },
+    {
+      "ticker": "CTO",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "Significant upside potential, but wait for a pullback to $15-16 before buying.",
+      "actionable": "Buy on pullback",
+      "key_quotes": [
+        "We were pounding the table on Comstock at $78 $9 on this podcast now I think it got up to like19 or $20 and he says is it too late I think we're just getting started in in the cycle now",
+        "This thing can run for a long long time"
+      ]
+    },
+    {
+      "ticker": "AAP",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "$180-220 by 2027",
+      "actionable": "Buy",
+      "key_quotes": [
+        "They are targeting $630 million of operating income by 2027 the last two times they they traded at that level of operating income it was $180 to $220 stock it's trading at $45 today so this thing can really grow over the next couple years under the right leadership"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "tom_sentiment": "Cautiously Bullish",
+      "conviction": 6,
+      "price_target_or_upside": "Potential to push to $4 trillion market cap (8% upside), but competition is coming.",
+      "actionable": "Hold",
+      "key_quotes": [
+        "The bad news is Jensen Wong is flying too close to the Sun the good news news is his wings are not melting yet",
+        "I think that the the company's at $3.7 trillion it wants to probably push to 4 trillion that would be 8% I think Beyond then like every semiconductor cycle right now he has no competition competition is coming"
+      ]
+    },
+    {
+      "ticker": "DIS",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "Upside potential due to content renaissance and streaming profit growth.",
+      "actionable": "Hold",
+      "key_quotes": [
+        "Disney stock gets an upgrade amid content Renaissance and streaming profit growth remember when we got involved 70s 8s you couldn't give it away uh people said the streaming is losing money it's never going to turn well they did it they turned profitable they're huge they I mean same story over and over we had to go through the whole bass family to convince you and this and that this happens every Cycles but that's what Buffett's talking about of being able to estimate the turnarounds and the cyclical because you see these things happen over and over again they just found a new way to sell the content their amazing Content Library in 1984 when the bass family took a huge position in it they went from uh you know movie theaters to VHS then they caught another run in the 90s with DVDs and now they're catching another run with with streaming but streaming is better than DVDs because it recurs every single month uh you weren't selling someone one new DVD every single month guaranteed uh which is just beautiful so"
+      ]
+    },
+    {
+      "ticker": "VF",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "price_target_or_upside": "Decent trade potential.",
+      "actionable": "Consider",
+      "key_quotes": [
+        "We like VF better be for the same reason because it's not an easy double uh like many of the other things that were in uh you'll just get a decent trade for a lot of risk R"
+      ]
+    },
+    {
+      "ticker": "EW",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "50-75% over 3-5 years",
+      "actionable": "Hold",
+      "key_quotes": [
+        "It's an okay call but you got to do your work and really understand how durable are their products I I I think it's a pretty solid compounder over time but for me it's it's a not I don't have any urgency to do a lot of work on this one I'll just leave it at that but it's interesting so I think your framework is good uh you just need to get some confidence in how they're going to turn around the free cash flow story and if you can get it towards that inflection you know you might have a over 3 to 5 years on this but more likely 50 to 75% which doesn't really pass my IR hurdle"
+      ]
+    },
+    {
+      "ticker": "UBER",
+      "tom_sentiment": "Neutral",
+      "conviction": 4,
+      "price_target_or_upside": "Unknown",
+      "actionable": "Pass",
+      "key_quotes": [
+        "I just have to guess the future on this one and I don't like to guess the future so for me it's no I I think it looks reasonable um at a glance I think it's more of a trading vehicle than something you want to be in forever but um you know why am I getting this question at 60 instead of at 20 that's when it was an interesting one so that's not for me right now now it could be 100 could be 300 could be all that stuff but I'm not going to guess the future I just like things that I can predict with reasonable certainty"
+      ]
+    },
+    {
+      "ticker": "BURBERRY",
+      "tom_sentiment": "Negative",
+      "conviction": 2,
+      "price_target_or_upside": "Unknown",
+      "actionable": "Pass",
+      "key_quotes": [
+        "I've continue to say no because even when China was doing well the stock couldn't get out of its own way it's done nothing for basically 12 years so for me and uh and I think that's consistent with the fundamentals I think it's just a dead brand"
+      ]
+    },
+    {
+      "ticker": "GPC",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "Unknown",
+      "actionable": "Pass",
+      "key_quotes": [
+        "I mean GPC is a better quality business but you have much less up side with the same amount of risk so uh I know that Mommy and Daddy tell you to buy the best quality company in the industry uh and that's perfectly fine and good advice uh you know but if you're looking for doubles and triples over a few years uh you're not going to get that when everyone's already seeing what you see and the stock is fully priced so uh for me it's a pass but if you bought it and held it I don't think you'd really be disappointed but you're just not going to get double and triples"
+      ]
+    },
+    {
+      "ticker": "NIKE",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "Unknown",
+      "actionable": "Hold",
+      "key_quotes": [
+        "How do you feel about Nike the same way I feel every week it's good not great it's going to work but not as much as some of our others"
+      ]
+    }
+  ],
+  "new_or_recent_additions": [],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy Alibaba (BABA)",
+      "conviction": 10
+    },
+    {
+      "rank": 2,
+      "idea": "Buy Boeing (BA)",
+      "conviction": 9
+    },
+    {
+      "rank": 3,
+      "idea": "Buy Etsy (ETSY)",
+      "conviction": 9
+    },
+    {
+      "rank": 4,
+      "idea": "Buy Generac (GNRC)",
+      "conviction": 9
+    },
+    {
+      "rank": 5,
+      "idea": "Buy Advanced Auto Parts (AAP)",
+      "conviction": 8
+    },
+    {
+      "rank": 6,
+      "idea": "Buy Cooper Standard (C)",
+      "conviction": 8
+    },
+    {
+      "rank": 7,
+      "idea": "Buy XBI (Biotech Basket)",
+      "conviction": 8
+    },
+    {
+      "rank": 8,
+      "idea": "Buy Comstock Resources (CTO) on pullback",
+      "conviction": 8
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Recency bias blinding investors to the potential of value stocks.",
+    "Market complacency regarding the Magnificent Seven's decelerating earnings growth.",
+    "Geopolitical risks in emerging markets.",
+    "Potential for Trump's policies to negatively impact certain sectors."
+  ],
+  "technical_takeaways": "The S&P 500 equal weight index is showing a double bottom, indicating a potential move higher. The 10-year Treasury yield is up against resistance, suggesting a potential move lower after the inauguration. The dollar is also up against resistance, with a similar potential for a move lower.",
+  "publish_date": "2025-01-09"
+}

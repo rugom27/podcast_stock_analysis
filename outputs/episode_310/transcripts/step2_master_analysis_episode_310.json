@@ -1,0 +1,347 @@
+{
+  "episode_number": "310",
+  "episode_date": "2025-09-25",
+  "executive_summary": "Tom Hayes is extremely bullish on small caps, energy (especially natural gas), and select international stocks like Alibaba. He believes the market is nuanced, with opportunities in overlooked sectors despite potential overvaluation in the MAG 7. He emphasizes the importance of value investing and identifying generational opportunities.",
+  "tom_current_conviction": {
+    "overall_market": "Bullish on specific sectors and stocks, but cautious about broad indices due to MAG 7 overvaluation.",
+    "score_1_to_10": 8,
+    "key_reasons": [
+      "Consumer sentiment is washed out, historically a bullish signal.",
+      "The Fed is expected to cut rates, boosting cyclicals and small caps.",
+      "Earnings are accelerating in specific sectors like energy and small caps.",
+      "Household balance sheets are healthy and will be unlocked by lower rates."
+    ]
+  },
+  "macro_thesis_summary": "The market is at an inflection point. While the MAG 7 may be overvalued, significant opportunities exist in small caps, energy, and select international stocks. Lower interest rates will unlock consumer spending and boost cyclical sectors. Focus on value and identify generational opportunities in overlooked areas.",
+  "key_macro_data_points": [
+    {
+      "indicator": "Consumer Sentiment",
+      "value": "At levels not seen since COVID lows, European debt crisis lows (2011), and the Great Financial Crisis (2008).",
+      "tom_interpretation": "Extremely washed out, historically a bullish signal. S&P up 24.1% on average 12 months later."
+    },
+    {
+      "indicator": "Fed Rate Cuts",
+      "value": "Markets expecting four to five cuts over the next 12 months.",
+      "tom_interpretation": "Historically, the S&P is up 16.1% on average over the next 12 months when the Fed restarts an easing cycle with four to five cuts."
+    },
+    {
+      "indicator": "S&P 500 Earnings Growth",
+      "value": "Estimates for next year are 13.7%, up from $300 a share to $35 a share.",
+      "tom_interpretation": "Earnings are accelerating, providing a tailwind for the market."
+    },
+    {
+      "indicator": "Small Cap Earnings Growth",
+      "value": "Expected to be something like 30-35% next year.",
+      "tom_interpretation": "Small caps have faster earnings growth relative to the S&P 500."
+    },
+    {
+      "indicator": "Energy Sector Multiple",
+      "value": "Trading at the lowest multiple in the S&P 500 at 15.2 times earnings.",
+      "tom_interpretation": "Energy is undervalued and poised for growth, especially with data center demand."
+    }
+  ],
+  "featured_company_deep_dives": {
+    "Albamaro": {
+      "thesis_summary": "Albamaro is a best-in-class lithium producer poised to benefit from long-term demand growth in EVs and energy storage. The company's low-cost position and strong balance sheet will allow it to weather short-term volatility and capitalize on the secular trend.",
+      "key_metrics": [
+        "Lithium demand up 35% year-to-date",
+        "Cost-cutting initiatives saving $400 million",
+        "Positive free cash flow projected for 2025",
+        "Lithium demand expected to more than double by 2030"
+      ],
+      "price_target_or_valuation": "Morningstar price target of $200 (stock is at $85).",
+      "conviction": "High",
+      "action": "Add on any weakness and watch the story play out."
+    },
+    "PayPal": {
+      "thesis_summary": "PayPal is undervalued and poised for a turnaround under CEO Alex Chris. The company's partnership with Google and leverage of AI will drive growth in payment volume and profitability.",
+      "key_metrics": [
+        "Multi-year deal with Google",
+        "Leveraging Google AI capabilities",
+        "Positioned to benefit from AI without high capex",
+        "Reminds Tom of Alibaba a few months ago"
+      ],
+      "price_target_or_valuation": "Double from cost basis.",
+      "conviction": "High",
+      "action": "Buy"
+    },
+    "Comstock Resources (CRK)": {
+      "thesis_summary": "Comstock Resources is a natural gas play poised to benefit from increasing data center demand. The company's assets in the Haynesville shale and proximity to export facilities make it a compelling investment.",
+      "key_metrics": [
+        "1.1 million acres in the Haynesville shale",
+        "Close to export and liquification facilities",
+        "Trading at book value (PV10 reserves of $5.7 billion)",
+        "30 years of unproved reserves"
+      ],
+      "price_target_or_valuation": "$45-$50 over the next 3-5 years.",
+      "conviction": "Very High",
+      "action": "Buy"
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 10,
+      "price_target_or_upside": "Double over the next three years (from yesterday's price).",
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "Alibaba is the cheapest way to play AI in the entire world.",
+        "This story hasn't even begun.",
+        "We pounded the table. Buy buy buy."
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "Multi-bagger potential.",
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "Intel could be a multi multi-bagger from here and no one's paying attention to it.",
+        "They're the only game in town after Taiwan Semiconductor and all the forces are behind it."
+      ]
+    },
+    {
+      "ticker": "CRK",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 10,
+      "price_target_or_upside": "$45-$50 over the next 3-5 years.",
+      "actionable": "Buy",
+      "position_status": "Existing, adding to position",
+      "key_quotes": [
+        "This thing's going to be a multi-bagger. Covert way to play the AI boom.",
+        "We are putting new money to work at these levels."
+      ]
+    },
+    {
+      "ticker": "XOM",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "Not specified",
+      "actionable": "Consider selective opportunities",
+      "position_status": "Existing",
+      "key_quotes": [
+        "We were buying Exxon Mobile hand overfist at $33 when oil turned negative in 2020.",
+        "Every time you've taken a bid when it's that forgotten, you've made tremendous amounts of money over the next 12 to 18 months"
+      ]
+    },
+    {
+      "ticker": "ALB",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "Double again and beyond.",
+      "actionable": "Buy on weakness",
+      "position_status": "Existing",
+      "key_quotes": [
+        "We see one of the clearest secular plays on the market.",
+        "Rather than overthinking it, we are happy to sit on our hands, add on any weakness, and watch the story play out."
+      ]
+    },
+    {
+      "ticker": "IWM",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "Not specified",
+      "actionable": "Increase exposure",
+      "position_status": "Existing",
+      "key_quotes": [
+        "Everyone is net short and they're going to get their faces ripped in small caps.",
+        "Nearly four years without a new high for small caps is over."
+      ]
+    },
+    {
+      "ticker": "PYPL",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "Double from cost basis",
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "PayPal actually reminds us a lot of Alibaba, which is likely just a few months ahead on the sentiment cycle.",
+        "You can only hold a beach ball underwater for so long."
+      ]
+    },
+    {
+      "ticker": "NOW",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "Not specified",
+      "actionable": "Monitor",
+      "position_status": "Existing",
+      "key_quotes": [
+        "We've been talking about this with National Oil Well, Varco, the oil sector in general"
+      ]
+    },
+    {
+      "ticker": "BYD",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "Not specified",
+      "actionable": "Monitor",
+      "position_status": "Existing",
+      "key_quotes": [
+        "Chinese equities have soared. I mean, if you look here, BYD, the electric vehicle company, up 33 plus% year to date."
+      ]
+    },
+    {
+      "ticker": "DIS",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "Not specified",
+      "actionable": "Monitor",
+      "position_status": "Existing",
+      "key_quotes": [
+        "he was buying PNG, he was buying Disney, he was buying boring staples. In the next four years, he outperformed while everyone else was crashing."
+      ]
+    },
+    {
+      "ticker": "UPS",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "Not specified",
+      "actionable": "Monitor",
+      "position_status": "Existing",
+      "key_quotes": [
+        "We like it. We don't we're not doing anything with it at the moment, but we like it."
+      ]
+    },
+    {
+      "ticker": "NOG",
+      "tom_sentiment": "Negative",
+      "conviction": 2,
+      "price_target_or_upside": "Not specified",
+      "actionable": "Avoid",
+      "position_status": "None",
+      "key_quotes": [
+        "I don't think the ENTPs have come down enough relative to the underlying price. I don't like it here."
+      ]
+    },
+    {
+      "ticker": "AVIS",
+      "tom_sentiment": "Negative",
+      "conviction": 1,
+      "price_target_or_upside": "Not specified",
+      "actionable": "Avoid",
+      "position_status": "None",
+      "key_quotes": [
+        "Yeah, that's a that's that's a bag of fleas. All right. Um, yeah, Avis, what a disaster."
+      ]
+    },
+    {
+      "ticker": "CAR",
+      "tom_sentiment": "Negative",
+      "conviction": 1,
+      "price_target_or_upside": "Not specified",
+      "actionable": "Avoid",
+      "position_status": "None",
+      "key_quotes": [
+        "Carrier had a big downgrade. That's interesting."
+      ]
+    },
+    {
+      "ticker": "MDC",
+      "tom_sentiment": "Neutral",
+      "conviction": 4,
+      "price_target_or_upside": "Not specified",
+      "actionable": "Monitor",
+      "position_status": "None",
+      "key_quotes": [
+        "I like the theme. I kind of like the company but um just want to understand when the maturities are and go from there."
+      ]
+    },
+    {
+      "ticker": "NLY",
+      "tom_sentiment": "Negative",
+      "conviction": 2,
+      "price_target_or_upside": "Not specified",
+      "actionable": "Avoid",
+      "position_status": "None",
+      "key_quotes": [
+        "I mean, the time to buy it was at 11, not at 20. So, I No, not for me."
+      ]
+    },
+    {
+      "ticker": "EL",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "Not specified",
+      "actionable": "Monitor",
+      "position_status": "Existing",
+      "key_quotes": [
+        "This reminds me of Estee Lauder, which we already own."
+      ]
+    },
+    {
+      "ticker": "SPY",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "Not specified",
+      "actionable": "Monitor",
+      "position_status": "Existing",
+      "key_quotes": [
+        "Stocks overbought. not not showing extreme overbought here even in the S&P when it comes to breath"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "Not specified",
+      "actionable": "Monitor",
+      "position_status": "Existing",
+      "key_quotes": [
+        "Nvidia Open AI. I mean, this is a massive, massive deal that could involve the need for millions of NVIDIA chips."
+      ]
+    }
+  ],
+  "new_or_recent_additions": [
+    "Comstock Resources (CRK)"
+  ],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy Comstock Resources (CRK)",
+      "conviction": 10
+    },
+    {
+      "rank": 2,
+      "idea": "Buy Alibaba (BABA)",
+      "conviction": 10
+    },
+    {
+      "rank": 3,
+      "idea": "Buy Intel (INTC)",
+      "conviction": 9
+    },
+    {
+      "rank": 4,
+      "idea": "Buy Albamaro (ALB) on weakness",
+      "conviction": 9
+    },
+    {
+      "rank": 5,
+      "idea": "Increase exposure to small caps (IWM)",
+      "conviction": 8
+    },
+    {
+      "rank": 6,
+      "idea": "Buy PayPal (PYPL)",
+      "conviction": 8
+    },
+    {
+      "rank": 7,
+      "idea": "Consider selective opportunities in energy (XOM)",
+      "conviction": 8
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Potential overvaluation in the MAG 7.",
+    "Short-term market volatility due to Rosh Hashanah to Yom Kippur.",
+    "Uncertainty in the job market.",
+    "Small caps always have solvency risk."
+  ],
+  "technical_takeaways": "S&P pausing at current levels, but extensions leading to 6940. 30-year yield ticking back up (counter-trend bounce). Utility sector starting to move up. Consumer staples to S&P haven't had an opportunity like this since 2000."
+}

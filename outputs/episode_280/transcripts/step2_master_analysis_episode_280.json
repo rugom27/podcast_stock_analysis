@@ -1,0 +1,289 @@
+{
+  "episode_number": "280",
+  "episode_date": "2025-02-27",
+  "executive_summary": "Tom Hayes is extremely bearish on the Magnificent 7, particularly Nvidia, due to decelerating growth and high valuations. He is extremely bullish on China, especially Alibaba, citing a regime change and a shift in investor sentiment. He also highlights opportunities in small caps, value stocks, and select healthcare and materials companies. He emphasizes the importance of stock picking and avoiding crowded trades.",
+  "tom_current_conviction": {
+    "overall_market": "Cautiously Optimistic with a focus on select sectors and international markets.",
+    "score_1_to_10": 7,
+    "key_reasons": [
+      "Regime change favoring value and small caps.",
+      "Potential for a rally in March followed by a choppier market.",
+      "Unbelievable fortunes to be made under the surface by stock picking."
+    ]
+  },
+  "macro_thesis_summary": "The market is undergoing a regime change, with a rotation out of expensive US AI plays and into cheap Chinese AI plays and other value stocks. International markets, particularly China, are poised to outperform. Deflationary forces are emerging, and a weaker dollar is expected. Stock picking is crucial in this environment.",
+  "key_macro_data_points": [
+    {
+      "indicator": "Global Light Vehicle Sales",
+      "value": "Recovering from COVID, with production expected to increase.",
+      "tom_interpretation": "Cooper Standard is an awesome position. Management is sandbagging production numbers to keep OEMs at bay."
+    },
+    {
+      "indicator": "US Equities Share of Global Equity Market",
+      "value": "56% share, but only 44% of earnings.",
+      "tom_interpretation": "A huge premium for US earnings power, indicating potential for international outperformance."
+    },
+    {
+      "indicator": "Bearish Sentiment",
+      "value": "AAII percentage of bears at levels seen near major bottoms.",
+      "tom_interpretation": "This level of pessimism may prove to be a very positive thing once the bottom's in."
+    },
+    {
+      "indicator": "China's M2 Money Supply",
+      "value": "Turning up.",
+      "tom_interpretation": "A big precursor to massive expansion in China."
+    }
+  ],
+  "featured_company_deep_dives": {
+    "Alibaba": {
+      "thesis_summary": "Alibaba is the number one play on the recovery of China's middle class and a cheap AI play. The stock is poised for significant upside due to improving fundamentals, government support, and a shift in investor sentiment.",
+      "key_metrics": [
+        "Revenue per share up 1,000% over the past decade.",
+        "Cash flow per share up over 500% over the past decade.",
+        "Earnings per share up over 500% over the past decade.",
+        "AI-related Cloud products delivered triple-digit year-over-year growth for the sixth consecutive quarter."
+      ],
+      "price_target_or_valuation": "Base case $200-$210 per share.",
+      "conviction": "Extremely Bullish",
+      "action": "Buy on dips, especially if it returns to the low 120s. If you get a gift of Baba at 120 125, that's probably going to be your last gift."
+    },
+    "Baxter International": {
+      "thesis_summary": "Baxter is a healthcare company with a durable moat that is poised for a turnaround. The company has divested its lowest-margin business and is expected to see earnings growth and multiple re-rating.",
+      "key_metrics": [
+        "Divested the Kidney Care business.",
+        "Depressed PE due to the divestiture.",
+        "Cash flow is going to start to hum again, get back to growth."
+      ],
+      "price_target_or_valuation": "Double from current levels.",
+      "conviction": "Bullish",
+      "action": "Buy"
+    },
+    "Advanced Auto Parts": {
+      "thesis_summary": "Advanced Auto Parts is a turnaround story with a new leader and a focus on core markets. The company is expected to see improved margins and revenue growth as it executes its turnaround plan.",
+      "key_metrics": [
+        "Selling unprofitable stores on the West Coast.",
+        "Investing in concentrated areas in the Northeast.",
+        "Balance sheet derisked."
+      ],
+      "price_target_or_valuation": "Triple from current levels.",
+      "conviction": "Very Bullish",
+      "action": "Buy"
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "NVDA",
+      "tom_sentiment": "Very Bearish",
+      "conviction": 10,
+      "price_target_or_upside": "Expect it to go lower after earnings.",
+      "actionable": "Sell/Avoid",
+      "key_quotes": [
+        "Their revenue growth is decelerating.",
+        "When you're trading at 30 times sales and 44 times earnings sometimes you need to take a break.",
+        "Nvidia stock price has had negative returns since June so you would not be Buy buying Nvidia at 127 this morning because you think there's a good shot that it goes lower after tomorrow's earnings call correct correct"
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "tom_sentiment": "Bearish",
+      "conviction": 8,
+      "actionable": "Trim Back",
+      "key_quotes": [
+        "Magnificent 7 we've been warning on your show for a couple of months to trim back magnificent 7 not because they're not great companies it's just prices what you pay values what you get.",
+        "Their earnings growth again is decelerating from 33% last year to now it's expected to just be 16% this year because of all the capex because of all the spend without a clear near term return and you know the market likes near-term returns too."
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "actionable": "Buy",
+      "key_quotes": [
+        "Four months ago when Intel dropped below 20 on your show we said buy it the government is going to stand them up.",
+        "Intel will be stood up they will absorb some of the excess Demand with their Fab business it just won't be in the next couple of quarters it'll be probably three four four quarters out and everyone will wake up and say wow Intel is the next Taiwan semiconductor."
+      ]
+    },
+    {
+      "ticker": "TSM",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Monitor",
+      "key_quotes": [
+        "They are depending on the kindness of strangers in TSM Taiwan semiconductor."
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Extremely Bullish",
+      "conviction": 10,
+      "price_target_or_upside": "First stop 188 or 219",
+      "actionable": "Buy on dips",
+      "position_status": "Largest position",
+      "key_quotes": [
+        "If you get a move back to the low 120s and you don't have enough stock that's probably where I'd buy it.",
+        "When this thing moves it's not going to let anyone in.",
+        "It will be the best investment ever at 250 mark my words and we will be helping people out as they all crowd into the boat begging for shares of China stocks we will help them out and give them as many of ours as they want"
+      ]
+    },
+    {
+      "ticker": "PFE",
+      "tom_sentiment": "Interesting",
+      "conviction": 6,
+      "actionable": "Monitor",
+      "key_quotes": [
+        "Fizer is interesting been a notable lagard but is showing early signs of bottoming in the mid-20s this one is starting to be interested interesting in the healthcare theme so uh we'll continue to pay attention to that"
+      ]
+    },
+    {
+      "ticker": "AAP",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "Triple from these levels",
+      "actionable": "Buy",
+      "key_quotes": [
+        "From these levels I mean I think this is triple from these levels it's probably 24 36 months",
+        "This for me uh with my eyes closed uh my view is that it&#39;s at least a double from recent levels and I think it&#39;s going to be a lot more as um Shane o Kelly uh just straightens it out"
+      ]
+    },
+    {
+      "ticker": "CCI",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "Goes to 140 over the next 12 to 24 months",
+      "actionable": "Buy",
+      "key_quotes": [
+        "We think this goes to 140 over the next 12 to 24 months plus you get a 7% dividend yield while you wait",
+        "If you think the treasury prints money you should see Crown Castle's primary business of the 40,000 Towers it just they have to do nothing and it just keeps spitting out cash so I want to own that and when I can do it at a you know 60% discount from its recent Peak I'm going to do it all day long and collect the big dividend yield lock that in in the meantime this could wind up being something you own for 10 years and the dividend keeps going up so you wind up with like a 10 15% yield on your basis and you double your money on top of it uh that's what I like to do cha-ching cha-ching"
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "tom_sentiment": "Bearish",
+      "conviction": 7,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "Tesla is down from almost $480 down to 300 so it took its post-election rally back uh at least 60% of it back"
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Buy on pullbacks",
+      "key_quotes": [
+        "You saw this level of pessimism at the 2022 lows if you remember that's when we were buying uh Amazon and Google deep in the hole when no one wanted it quick doubles within it was like a year"
+      ]
+    },
+    {
+      "ticker": "GOOG",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Buy on pullbacks",
+      "key_quotes": [
+        "You saw this level of pessimism at the 2022 lows if you remember that's when we were buying uh Amazon and Google deep in the hole when no one wanted it quick doubles within it was like a year"
+      ]
+    },
+    {
+      "ticker": "CPS",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 9,
+      "actionable": "Buy",
+      "position_status": "Awesome position",
+      "key_quotes": [
+        "Global light vehicle sales this is related to Cooper standard which is an awesome position we're super excited about",
+        "Cooper standard is for the first time in in a long time seeing Insider buying"
+      ]
+    },
+    {
+      "ticker": "BAX",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Buy",
+      "position_status": "Large portion of our healthcare exposure",
+      "key_quotes": [
+        "Baxter represents a large portion of our health care exposure and as you can see this thing has done the same thing over and over uh for 40 plus years",
+        "This thing is going to be a double and more over time uh and we're pretty excited about"
+      ]
+    },
+    {
+      "ticker": "GOOS",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Buy",
+      "key_quotes": [
+        "Canada Goose cash flow exploding again a lot of collabs had a cold winter everything's back on track with that"
+      ]
+    },
+    {
+      "ticker": "ETSY",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Buy",
+      "key_quotes": [
+        "Etsy he did an update all you need to know is this thing is a cash machine so you're generating the same amount of cash as you were when it was a $300 stock they just hit record revenues and you can't give away the stock so this is going to be another Alibaba everyone's going to be selling in the hole and then when it gets up to 100 120 everyone's going to be interested and that's just the way it goes they're going to turn the corner this thing is absolutely fine and they've got everything they need strong balance sheet lots of cash pretty good leadership uh and a niche market"
+      ]
+    }
+  ],
+  "new_or_recent_additions": [
+    "Cooper Standard (CPS)",
+    "Advanced Auto Parts (AAP)"
+  ],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy Alibaba (BABA) on dips, especially if it returns to the low 120s.",
+      "conviction": 10
+    },
+    {
+      "rank": 2,
+      "idea": "Buy Advanced Auto Parts (AAP).",
+      "conviction": 9
+    },
+    {
+      "rank": 3,
+      "idea": "Buy Intel (INTC).",
+      "conviction": 9
+    },
+    {
+      "rank": 4,
+      "idea": "Sell/Avoid Nvidia (NVDA).",
+      "conviction": 10
+    },
+    {
+      "rank": 5,
+      "idea": "Buy Cooper Standard (CPS).",
+      "conviction": 9
+    },
+    {
+      "rank": 6,
+      "idea": "Buy Crown Castle (CCI).",
+      "conviction": 8
+    },
+    {
+      "rank": 7,
+      "idea": "Buy Baxter International (BAX).",
+      "conviction": 8
+    },
+    {
+      "rank": 8,
+      "idea": "Buy Etsy (ETSY).",
+      "conviction": 8
+    },
+    {
+      "rank": 9,
+      "idea": "Trim back Magnificent 7, especially Microsoft (MSFT).",
+      "conviction": 8
+    },
+    {
+      "rank": 10,
+      "idea": "Buy Canada Goose (GOOS).",
+      "conviction": 7
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Potential for Trump to prevent investment in Chinese AI companies.",
+    "Risk of delisting of Chinese ADRs.",
+    "Uncertainty surrounding the timing and extent of the market rotation."
+  ],
+  "technical_takeaways": "The Russell 2000 is consolidating and forming a cup and handle pattern, implying a potential 40% move above the highs. The Hang Seng Index is breaking out. The 10-year yield is rolling over."
+}

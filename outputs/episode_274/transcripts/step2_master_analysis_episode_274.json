@@ -1,0 +1,200 @@
+{
+  "episode_number": "274",
+  "episode_date": "2025-01-16",
+  "executive_summary": "Tom Hayes is extremely bullish on value stocks, small caps, international equities (especially China), and turnarounds. He sees a potential paradigm shift away from growth due to normalized interest rates. He highlights Advanced Auto Parts and Baxter as compelling turnaround opportunities. He emphasizes the importance of being a student of history and having the fortitude to sit through short-term volatility to achieve long-term outperformance. He believes the market is setting up for a major rotation out of concentrated growth stocks into undervalued areas.",
+  "tom_current_conviction": {
+    "overall_market": "Bullish, especially on value, small caps, and international equities.",
+    "score_1_to_10": 9,
+    "key_reasons": [
+      "Normalization of interest rates favoring value over growth.",
+      "Extreme concentration in the Magnificent Seven creating a reversion opportunity.",
+      "Oversold conditions in emerging markets and international equities.",
+      "Potential for a weaker dollar benefiting international investments.",
+      "Turnaround opportunities driven by new CEOs and cyclical recoveries."
+    ]
+  },
+  "macro_thesis_summary": "The macro environment is shifting from a zero-interest rate policy-driven growth market to a more normalized environment favoring value. The equity risk premium is very bearish for concentrated growth stocks but creates a generational buying opportunity for value, international, and small caps. The dollar is likely to weaken, benefiting international equities. A cyclical rebound in manufacturing is expected. Rate cuts are coming.",
+  "key_macro_data_points": [
+    {
+      "indicator": "Equity Risk Premium",
+      "value": "Lowest since 2000",
+      "tom_interpretation": "Very bearish for concentrated growth stocks, generational buy for value, international, and small caps."
+    },
+    {
+      "indicator": "Implied Interest Rate Cut Odds",
+      "value": "63% chance of a cut in June",
+      "tom_interpretation": "Implying two cuts for the year, taking the Fed funds rate down to 3.75%, which is beautiful and will help the homebuilding business."
+    },
+    {
+      "indicator": "US minus China Real Yield Spread",
+      "value": "Record",
+      "tom_interpretation": "Historically, this has been the time to be an owner of China's stocks."
+    },
+    {
+      "indicator": "Hyperscaler Capex Growth",
+      "value": "Declining from 50% to 21%",
+      "tom_interpretation": "Coincident with earnings growth deceleration, impacting concentrated tech stocks."
+    }
+  ],
+  "featured_company_deep_dives": {
+    "DIO": {
+      "thesis_summary": "Diageo is a long-term compounder with a moat, benefiting from the trend of consumers drinking less but better. It is well-positioned in emerging markets and has a strong innovation pipeline. Concerns about China and GLP-1s are overblown.",
+      "key_metrics": [
+        "Consistent free cash flow generation",
+        "High return on invested capital",
+        "Shrinking share count",
+        "Premiumization trend",
+        "Strong presence in emerging markets"
+      ],
+      "conviction": "Strong",
+      "action": "Buy"
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "AAP",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "Stock traded between $180 and $240 the last four times it had $630 million operating income. It's a $45 stock today.",
+      "actionable": "Buy",
+      "key_quotes": [
+        "Turn around Tom likes Advanced Auto Parts",
+        "This is the worst run auto retailing business... but they've got Chan o Kelly... that's the number one thing in a turnaround is that you have solvency risk off the table."
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "Parabolic move from 84 to 200 and change is possible.",
+      "actionable": "Buy",
+      "key_quotes": [
+        "The only Chinese stock we care about in the year of the snake is Baba",
+        "We're going to ride this last parabolic move and say cyanara."
+      ]
+    },
+    {
+      "ticker": "BAX",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "$40 to $60",
+      "actionable": "Buy",
+      "key_quotes": [
+        "Baxter is going to move because they're going to sell off... you're going to get a multiple reating... and you get a stock that shoots from 40 to 60 pretty quick."
+      ]
+    },
+    {
+      "ticker": "VF CORP",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "key_quotes": [
+        "VF Corp which you couldn't give away... now we're at $23 so you know up some 50 plus per and the story is literally just getting started."
+      ]
+    },
+    {
+      "ticker": "CCI",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Buy",
+      "key_quotes": [
+        "We like crown castle here."
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "tom_sentiment": "Bearish",
+      "conviction": 8,
+      "price_target_or_upside": "N/A",
+      "actionable": "Sell/Lighten Up",
+      "key_quotes": [
+        "Competition is coming for NVIDIA and the margins will contract."
+      ]
+    },
+    {
+      "ticker": "LLY",
+      "tom_sentiment": "Bearish",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Sell/Lighten Up",
+      "key_quotes": [
+        "Sell or lighten up on Eli Lily."
+      ]
+    },
+    {
+      "ticker": "TDOA",
+      "tom_sentiment": "Very Bearish",
+      "conviction": 9,
+      "price_target_or_upside": "N/A",
+      "actionable": "Avoid",
+      "key_quotes": [
+        "This is dog... not for me."
+      ]
+    },
+    {
+      "ticker": "HSY",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "price_target_or_upside": "N/A",
+      "actionable": "Watch",
+      "key_quotes": [
+        "Hershey we like it... we're just not doing anything yet we think it's going to come down"
+      ]
+    },
+    {
+      "ticker": "DG",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "key_quotes": [
+        "Dollar General I think is going to be fine here this is part of the Beatdown on tariffs trade which is a lot of the stuff which when come in less bad than expected it will rebound"
+      ]
+    }
+  ],
+  "new_or_recent_additions": [
+    "AAP",
+    "BAX"
+  ],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy Advanced Auto Parts (AAP) for a turnaround.",
+      "conviction": 9
+    },
+    {
+      "rank": 2,
+      "idea": "Buy Baxter (BAX) for a turnaround.",
+      "conviction": 8
+    },
+    {
+      "rank": 3,
+      "idea": "Buy Alibaba (BABA) to ride the last parabolic move.",
+      "conviction": 8
+    },
+    {
+      "rank": 4,
+      "idea": "Sell/Lighten Up on Nvidia (NVDA) due to increasing competition.",
+      "conviction": 8
+    },
+    {
+      "rank": 5,
+      "idea": "Buy Crown Castle (CCI) as a value play.",
+      "conviction": 7
+    },
+    {
+      "rank": 6,
+      "idea": "Sell/Lighten Up on Eli Lilly (LLY).",
+      "conviction": 7
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Recency bias leading to false assumptions based on short-term performance.",
+    "Overweighting concentrated growth stocks (Magnificent Seven).",
+    "Private equity and private credit risks due to mark-to-make-believe valuations."
+  ],
+  "technical_takeaways": "The NYSI is oversold, suggesting a bounce. The S&P 500 bullish percent is down to 40% on a point and figure Buy Signal. Real estate looks oversold. The Hang Seng Index is projected to rally 40% based on the year of the snake.",
+  "publish_date": "2025-01-16"
+}

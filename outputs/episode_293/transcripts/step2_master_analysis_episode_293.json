@@ -1,0 +1,472 @@
+{
+  "episode_number": "293",
+  "episode_date": "2025-05-29",
+  "executive_summary": "Tom Hayes is extremely bullish on China tech (specifically Alibaba), home building suppliers (QXO, Stanley Black & Decker, Generac), and healthcare. He emphasizes the importance of moats and betting on proven jockeys like Brad Jacobs. He is taking profits on Boeing options but holding the stock. He sees a generational opportunity in healthcare and continues to like Comstock Resources in the energy space.",
+  "tom_current_conviction": {
+    "overall_market": "Bullish",
+    "score_1_to_10": 8,
+    "key_reasons": [
+      "Equal weight S&P valuation is cheap.",
+      "Sentiment is not fully stretched.",
+      "Growing our way out of the problem with deregulation and housing leading the economy.",
+      "Growing our way out of the problem with deregulation and housing leading the economy."
+    ]
+  },
+  "macro_thesis_summary": "Hayes believes the market is poised to move higher, driven by deregulation, a recovery in housing, and easing capital rules. He anticipates a weaker dollar, benefiting international markets and China. He sees potential for a significant rally in small caps and emerging markets. He expects rates to go down this summer with the SLR.",
+  "key_macro_data_points": [
+    {
+      "indicator": "S&P 500 Debt",
+      "value": "Record Lows",
+      "tom_interpretation": "Companies have so much room to lever up. When Bessant gives them the green light this summer with the SLR and brings rates down, you are going to see huge huge refinancings, borrowings, deals, everything happen all at once."
+    },
+    {
+      "indicator": "China Business Confidence",
+      "value": "Record High (May 2025)",
+      "tom_interpretation": "Growth expectations have now shot through the roof. You haven't seen these levels in years."
+    },
+    {
+      "indicator": "US Equities Rolling 10-Year Return",
+      "value": "13%",
+      "tom_interpretation": "So we can stay up at these levels for a pronounced period of time."
+    },
+    {
+      "indicator": "Healthcare Market Cap as % of S&P 500",
+      "value": "Lowest since 2001 and 2011",
+      "tom_interpretation": "Those type of divergences are generational opportunities."
+    }
+  ],
+  "featured_company_deep_dives": {
+    "Alibaba": {
+      "thesis_summary": "Alibaba is poised to benefit from China's economic recovery, government stimulus, and its leading position in e-commerce and AI. Xi Jinping is now helping his country versus hurting his country. Alibaba is a toll taker for domestic consumption.",
+      "key_metrics": [
+        "40% of China's e-commerce market",
+        "Leader in AI",
+        "$80 billion of cash on the balance sheet",
+        "$20 billion of free cash flow"
+      ],
+      "price_target_or_valuation": "N/A",
+      "conviction": "High",
+      "action": "Buy"
+    },
+    "QXO": {
+      "thesis_summary": "QXO is set to benefit from the home building boom, driven by Brad Jacobs' leadership and his strategy of rolling up the home building supply sector. Brad Jacobs is a money maker. This guy earns for his shareholders.",
+      "key_metrics": [
+        "Brad Jacobs' track record of creating wealth",
+        "Roll-up strategy in an $800 billion industry",
+        "Jacobs put a billion dollars of his own money in QXO"
+      ],
+      "price_target_or_valuation": "6-7-8 bagger from these levels",
+      "conviction": "High",
+      "action": "Buy and tuck away for 5-7 years"
+    },
+    "VF Corp": {
+      "thesis_summary": "VF Corp is a turnaround story led by Bracken, who has a proven track record of increasing gross margins and reducing debt. Bracken is delivering.",
+      "key_metrics": [
+        "Gross margins reached 53%, up 560 basis points year-on-year",
+        "Debt reduced by $1.8 billion during the year",
+        "Insider buying by CEO, COO, and director"
+      ],
+      "price_target_or_valuation": "Morning Star fair value is $40 a share",
+      "conviction": "High",
+      "action": "Buy"
+    },
+    "Intel": {
+      "thesis_summary": "Intel is a turnaround story led by Lip Bhutan. If he gets the fabs right and catches a couple lucky breaks which this guy has a tendency to do I do think it could be a four or five bagger and your downside's largely predicted if they liquidated the whole thing today.",
+      "key_metrics": [
+        "Lip Bhutan's track record",
+        "Trading at about book"
+      ],
+      "price_target_or_valuation": "4-5 bagger",
+      "conviction": "Medium",
+      "action": "Buy"
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "DIS",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "Significant stake owned",
+      "key_quotes": [
+        "So, they got to contribute to Walt Disney's earnings uh which we own a significant stake in."
+      ]
+    },
+    {
+      "ticker": "BA",
+      "tom_sentiment": "Positive",
+      "conviction": 8,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold stock, took profits on options",
+      "position_status": "Long-term holding",
+      "key_quotes": [
+        "We were on Varnney saying bye bye bye like crazy and loading the boat with options and spreads and all the different things.",
+        "We actually harvested millions upon millions of dollars of options in Boeing today, this morning into strength. We sell into strength. We buy into weakness. Uh however, we have not sold one single share of Boeing. Okay, that is a long-term holding for us.",
+        "great company is not a great investment if you take pay too much for the stock. Okay? Uh you know buying Boeing at 211 still a great investment a lot different than buying it at 150 or 160 uh but it still has a lot of upside in it."
+      ]
+    },
+    {
+      "ticker": "KO",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "N/A",
+      "key_quotes": [
+        "Then you have brand modes like Buffett invested a lot in Coca-Cola in 1989, 1990. Uh now his dividends each year are bigger than his original basis because they keep increasing the dividends. It has that brand mode. It has the distribution mode."
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "Top of the range",
+      "actionable": "Hold, potential profit-taking in midsummer",
+      "position_status": "N/A",
+      "key_quotes": [
+        "The Mag 7 has kind of been stuck here. Apple stuck in the range. Google and we we've said that you know the earnings growth has decelerated in those. I think they probably trade back to the top of the range into midsummer and then uh and then we'll have some profit taking."
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Extremely Bullish",
+      "conviction": 10,
+      "price_target_or_upside": "N/A",
+      "actionable": "Buy",
+      "position_status": "Own shares in Hong Kong (9988) and derivatives in the US",
+      "key_quotes": [
+        "Bob has a nine times 2026 earnings. I mean with with low double digit earnings growth, all the outs that we've talked about, this is just unbelievable. Um so cheap market, cheapest in the market with accelerating earnings growth, top a cheapest AI play, most advanced lang large language model, uh leader in cloud, leader in middle class uh recovery and China's government now was a headwind is now a massive tailwind.",
+        "Not to have a piece of that I think is uh is going to prove to I think not owning Alibaba in the next 24 months is probably going to have bigger career risk for most managers than owning too much mag 7 which has gotten shellacked.",
+        "Alibaba is the number one waiting in the international value and growth index.",
+        "So Baba has the most outs most opportunities and the most things that government wants to promote right now. So just keep it simple. Mirror don't take country and company risk. You're taking country risk with China. It's a communist government. So you don't want to take country and company. Baba, as goes Baba, so goes China."
+      ]
+    },
+    {
+      "ticker": "QXO",
+      "tom_sentiment": "Extremely Bullish",
+      "conviction": 10,
+      "price_target_or_upside": "6-7-8 bagger from these levels",
+      "actionable": "Buy on dips, tuck away for 5-7 years",
+      "position_status": "Own",
+      "key_quotes": [
+        "Brad Jacobs makes. He's a money maker. This guy earns for his shareholders. And here's the beauty. He put 150 million in QXO. He just put a billion dollars of his own money in QXO.",
+        "We think you know this is one you tuck away for 5 to seven years you probably wind up with a 678 bagger from these levels."
+      ]
+    },
+    {
+      "ticker": "XHP",
+      "tom_sentiment": "Neutral",
+      "conviction": 4,
+      "price_target_or_upside": "N/A",
+      "actionable": "Could buy for beta exposure, but prefers single stock names for alpha",
+      "position_status": "N/A",
+      "key_quotes": [
+        "I mean you could you could buy XHP and participate uh uh in a beta sense but if you want an alpha sense you got to do some work and say where am I going to get the most return for the same amount of money."
+      ]
+    },
+    {
+      "ticker": "XPO",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "N/A",
+      "position_status": "Past holding, Brad Jacobs track record",
+      "key_quotes": [
+        "If you got involved when he put 150 million in XPO Logistics in 2009, uh, you made like 160 times your money. 1 million became 160 million."
+      ]
+    },
+    {
+      "ticker": "VTI",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Buy every month, double in months where your stomach is turning",
+      "position_status": "N/A",
+      "key_quotes": [
+        "So if you're just buying the overall indices like a VTI, Vanguard total market uh or an S&P 500, buy it every single month a fixed amount. Okay? And the months that you really don't want to buy it, where your stomach is turnurning, you're afraid you're going to lose your job, whatever it happens to be, those are the months you should buy double because uh when you buy down, you get more shares and over time that compounds materially."
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "Top of the range",
+      "actionable": "Hold, potential profit-taking in midsummer",
+      "position_status": "N/A",
+      "key_quotes": [
+        "Nvidia will be be back up to the top of the range there. I think they're going to be rangebound for a little while because with, you know, the the key thing with Nvidia is not a demand problem. It's a supply problem."
+      ]
+    },
+    {
+      "ticker": "AMGN",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "price_target_or_upside": "N/A",
+      "actionable": "Take a quick look",
+      "position_status": "N/A",
+      "key_quotes": [
+        "Couple staples. Colgate might be worth taking a quick look at. Lot of lot of amazing things still to do. I got to take a look at Amgen."
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "price_target_or_upside": "4-5 bagger",
+      "actionable": "Buy",
+      "position_status": "N/A",
+      "key_quotes": [
+        "I do think if we're if he gets the fabs right and catches a couple lucky breaks which this guy has a tendency to do I do think it could be a four or five bagger and your downside's largely predicted if they liquidated the whole thing today."
+      ]
+    },
+    {
+      "ticker": "XBI",
+      "tom_sentiment": "Positive",
+      "conviction": 8,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "Own",
+      "key_quotes": [
+        "I think that's probably going to be the new area of huge opportunity relative to risk. Uh so we currently have exposure to that through um the biotech basket of biotech with the XBI that will be doing starting to recover massively as it did in uh Trump 1.0"
+      ]
+    },
+    {
+      "ticker": "LVMH",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold for long term",
+      "position_status": "N/A",
+      "key_quotes": [
+        "I think if you own this thing for a while and you're not worried about short term, I think long term you're going to make good money with this."
+      ]
+    },
+    {
+      "ticker": "UNH",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Consider buying",
+      "position_status": "N/A",
+      "key_quotes": [
+        "Ben's telling me to buy the Healthc Care Spider ETF. All right, we have the biotech. Uh, he's he's leaning towards United Healthcare. Um, he's probably right on that."
+      ]
+    },
+    {
+      "ticker": "GILD",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "price_target_or_upside": "N/A",
+      "actionable": "Consider buying",
+      "position_status": "N/A",
+      "key_quotes": [
+        "Ben's telling me to buy the Healthc Care Spider ETF. All right, we have the biotech. Uh, he's he's leaning towards United Healthcare. Um, he's probably right on that. Humanana. Okay. In the targets, Danaher. Yeah, kind of like that. Uh, Gilead, maybe."
+      ]
+    },
+    {
+      "ticker": "AAP",
+      "tom_sentiment": "Positive",
+      "conviction": 8,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "N/A",
+      "key_quotes": [
+        "Advanced Auto Park Parts stock source 55% guidance is holding up in the face of tariffs. So, uh, they're executing on everything they said. They delevered the balance sheet. They shut the unprofitable stores. They consolidated the the distribution hubs. And now they're opening up new stores in the areas where they're number one and two, and it's working."
+      ]
+    },
+    {
+      "ticker": "GOOS",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "N/A",
+      "key_quotes": [
+        "Canada goose sales up unexpectedly rise as luxury spending holds up. High-end coats posted a 7.4% increase in fourth quarter sales ahead of consensus estimates for a slight drop in the stock is now starting to rip."
+      ]
+    },
+    {
+      "ticker": "VFC",
+      "tom_sentiment": "Positive",
+      "conviction": 9,
+      "price_target_or_upside": "Morning Star fair value is $40 a share",
+      "actionable": "Buy",
+      "position_status": "Own",
+      "key_quotes": [
+        "insider buying in VF Corporation. Brack and Daryl Abishek Dalmia and Richard Karuchi uh CEO, COO and director collectively purchased a total of $185,000 shares of VF Corp with prices ranging from 1173 to 1205 per share. The total out-of- pocket cost for these purchases was $2.2 million."
+      ]
+    },
+    {
+      "ticker": "DOW",
+      "tom_sentiment": "Neutral",
+      "conviction": 4,
+      "price_target_or_upside": "N/A",
+      "actionable": "Wait for positive free cash flow",
+      "position_status": "N/A",
+      "key_quotes": [
+        "Dow I was less confident in than FMC, but let's just take a quick look. I think Dow might have a little more trouble. Let's Yeah, Dow's still negative cash flow, free cash flow. So, I want to see that start to inflect"
+      ]
+    },
+    {
+      "ticker": "FMC",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Consider buying",
+      "position_status": "N/A",
+      "key_quotes": [
+        "FMC looks a lot more promising if I recall. Yeah, they're cash flow positive. They're they're in just in a cyclical trough. I I kind of like that one."
+      ]
+    },
+    {
+      "ticker": "CRK",
+      "tom_sentiment": "Positive",
+      "conviction": 8,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "Own",
+      "key_quotes": [
+        "What other energy names besides CRK are interesting to you? [Music] Um, none yet. They haven't come down commensurate to the price. So, we'll keep looking."
+      ]
+    },
+    {
+      "ticker": "BYON",
+      "tom_sentiment": "Negative",
+      "conviction": 2,
+      "price_target_or_upside": "N/A",
+      "actionable": "Avoid",
+      "position_status": "N/A",
+      "key_quotes": [
+        "B Y O N beyond negative free cash flow, collapsing revenues, collapsing margins. What do you like about this again? What does this thing do? What is this? A website of the former Bed Bath and Beyond or something? I have no idea what this is."
+      ]
+    },
+    {
+      "ticker": "CIVI",
+      "tom_sentiment": "Negative",
+      "conviction": 3,
+      "price_target_or_upside": "N/A",
+      "actionable": "Avoid",
+      "position_status": "N/A",
+      "key_quotes": [
+        "These type of guys scare the hell out of me. When you see a stock that's split adjusted from $5,000 down to six and then it's 10 bags. This is a this is scumbaggery at its finest."
+      ]
+    },
+    {
+      "ticker": "OSCR",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "N/A",
+      "actionable": "Need to understand the business",
+      "position_status": "N/A",
+      "key_quotes": [
+        "This one you just really have to understand the business cuz like it's very hard to break into health care as a startup."
+      ]
+    },
+    {
+      "ticker": "HP",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "N/A",
+      "actionable": "Consider Hallebertton instead",
+      "position_status": "N/A",
+      "key_quotes": [
+        "I think this falls into the Hallebertton category, but Hallebertton is a better play, higher quality."
+      ]
+    },
+    {
+      "ticker": "TEVA",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "price_target_or_upside": "N/A",
+      "actionable": "Consider buying",
+      "position_status": "N/A",
+      "key_quotes": [
+        "Teva is a generic. That business has been decimated and I think it's finally recovering after all the lawsuits and everything else. Um, it's up a lot already, but it probably has more room to run."
+      ]
+    },
+    {
+      "ticker": "BIOMARIN",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "price_target_or_upside": "Potential double",
+      "actionable": "Consider buying",
+      "position_status": "N/A",
+      "key_quotes": [
+        "Biomarine I think is a better play. You just have to understand the pipeline well enough, but um I do think you want to get some. We don't do individual names in biotech, but this is more of an established farmer company."
+      ]
+    },
+    {
+      "ticker": "LVMH",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold for long term",
+      "position_status": "N/A",
+      "key_quotes": [
+        "I think if you own this thing for a while and you're not worried about short term, I think long term you're going to make good money with this."
+      ]
+    }
+  ],
+  "new_or_recent_additions": [
+    "VF Corp"
+  ],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy Alibaba (9988.HK)",
+      "conviction": 10
+    },
+    {
+      "rank": 2,
+      "idea": "Buy QXO and tuck away for 5-7 years",
+      "conviction": 10
+    },
+    {
+      "rank": 3,
+      "idea": "Buy VF Corp",
+      "conviction": 9
+    },
+    {
+      "rank": 4,
+      "idea": "Buy XBI",
+      "conviction": 8
+    },
+    {
+      "rank": 5,
+      "idea": "Buy UNH",
+      "conviction": 7
+    },
+    {
+      "rank": 6,
+      "idea": "Buy INTC",
+      "conviction": 7
+    },
+    {
+      "rank": 7,
+      "idea": "Buy BIOMARIN",
+      "conviction": 7
+    },
+    {
+      "rank": 8,
+      "idea": "Buy LVMH",
+      "conviction": 7
+    },
+    {
+      "rank": 9,
+      "idea": "Buy FMC",
+      "conviction": 7
+    },
+    {
+      "rank": 10,
+      "idea": "Buy TEVA",
+      "conviction": 6
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Potential for tariffs to impact companies, but many have already adjusted.",
+    "Reliance on Brad Jacobs' leadership for QXO.",
+    "China's communist government poses country risk for Alibaba."
+  ],
+  "technical_takeaways": "S&P 500 could be up against resistance, but fundamentals suggest it wants to push higher. Small caps are poised for a rip your face off rally. Dollar looks like it wants to break lower, which will be good for earnings in the second half."
+}

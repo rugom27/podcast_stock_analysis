@@ -1,0 +1,230 @@
+{
+  "episode_number": "283",
+  "episode_date": "2025-03-20",
+  "executive_summary": "This episode features a deep dive into Cooper Standard (CPS) with CEO Jeff Edwards, where Tom Hayes expresses extreme bullishness. Hayes draws parallels to Charlie Munger's successful investment in Tenneco and believes CPS offers even greater potential. He also highlights Intel (INTC) as a top pick, emphasizing Lip-Bu Tan's turnaround expertise and the company's strategic position in the semiconductor industry. Hayes reiterates a positive outlook on Alibaba (BABA) and QXO, and provides updates on various other stocks, including Generac (GNRC), PayPal (PYPL) and VF Corp (VFC).",
+  "tom_current_conviction": {
+    "overall_market": "Bullish",
+    "score_1_to_10": 9,
+    "key_reasons": [
+      "Contrarian indicators flashing green (washed out fear indicators)",
+      "Fed put back in play for June (rate cut expectations)",
+      "Earnings growth exceeding expectations",
+      "Shift out of MAG 7 into international and unmagnificent 493"
+    ]
+  },
+  "macro_thesis_summary": "Hayes believes the market is in a post-election year pattern, with weakness in February-March followed by a bottom and a rally into the summer. He anticipates a shift from the Magnificent 7 to international markets and the 'unmagnificent 493'. He sees potential for continued dollar weakness and rising commodity prices. He also notes the importance of lowering the 10-year Treasury yield to spur economic growth.",
+  "key_macro_data_points": [
+    {
+      "indicator": "Average S&P returns following corrections",
+      "value": "11% up 12 months later (no recession)",
+      "tom_interpretation": "Supports bullish outlook, expecting market to be much higher by end of month."
+    },
+    {
+      "indicator": "Bank of America Fund Manager Survey",
+      "value": "Record drop in US equity allocation",
+      "tom_interpretation": "Contrarian indicator, signaling a buying opportunity."
+    },
+    {
+      "indicator": "China's economic policy",
+      "value": "Action plan for boosting consumption",
+      "tom_interpretation": "Positive for Chinese equities, particularly Alibaba."
+    }
+  ],
+  "featured_company_deep_dives": {
+    "CPS": {
+      "thesis_summary": "Cooper Standard is poised for significant margin expansion and EPS growth due to cost reductions, improved pricing discipline, and a reorganized business structure. The company is well-positioned to benefit from a recovery in North American vehicle production and increasing content per vehicle in hybrid and electric vehicles. CEO Jeff Edwards is shareholder-friendly and has a significant ownership stake.",
+      "key_metrics": [
+        "Variable Contribution Margin (VCM) improvement",
+        "EBITDA growth",
+        "Return on Invested Capital (ROIC)",
+        "Free Cash Flow generation",
+        "Revenue per vehicle"
+      ],
+      "price_target_or_valuation": "Hayes estimates $9-10 EPS at peak cycle production, implying substantial upside from current levels. He references the stock trading at $146 in 2017 with $7.19 EPS.",
+      "conviction": "Extremely High (10/10). Hayes draws parallels to Charlie Munger's successful investment in Tenneco and believes CPS offers even greater potential. He emphasizes the company's strong management team, shareholder-friendly culture, and significant insider ownership.",
+      "action": "Aggressively accumulate shares. Hayes states, \"I think we're going to do a lot better with Cooper Standard than Charlie did in Tenico.\""
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "CPS",
+      "tom_sentiment": "Extremely Bullish",
+      "conviction": 10,
+      "price_target_or_upside": "$9-10 EPS at peak cycle production",
+      "actionable": "Aggressively accumulate",
+      "position_status": "Large shareholder",
+      "key_quotes": [
+        "I think we're going to do a lot better with Cooper Standard than Charlie did in Tenico.",
+        "Cooper Standard couldn't be better positioned.",
+        "It's literally the early days of the early days."
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "Double and beyond in the next 12-24 months",
+      "actionable": "Buy",
+      "position_status": "Core holding",
+      "key_quotes": [
+        "Lip Bhutan is a miracle worker and Intel needs a miracle and I think they're going to get it.",
+        "Intel is the most underrated story.",
+        "Lip Bhan is going to come in and spike the football in the end zone."
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "Over $200 over the next 12-24 months",
+      "actionable": "Hold/Accumulate on dips",
+      "position_status": "Largest position",
+      "key_quotes": [
+        "Alibaba is going straight up.",
+        "They're just going to mint money.",
+        "It takes years then it happens all at once just like we saw with Alibaba."
+      ]
+    },
+    {
+      "ticker": "QXO",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "8-10 bagger over a decade ($80-$100 stock)",
+      "actionable": "Buy and hold",
+      "position_status": "Invested alongside Brad Jacobs",
+      "key_quotes": [
+        "This is one that you just buy, close your eyes, and in 5 years you have a multibagger.",
+        "No one has created more wealth for shareholders than Brad Jacobs repeatedly over time.",
+        "Winners win and Brad Jacobs is a winner."
+      ]
+    },
+    {
+      "ticker": "GNRC",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Add on dips",
+      "position_status": "Existing position",
+      "key_quotes": [
+        "Generac even has come into a point where it actually add even though we bought well below 100. I'd love to add more at these levels."
+      ]
+    },
+    {
+      "ticker": "PYPL",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Accumulate",
+      "position_status": "Existing position",
+      "key_quotes": [
+        "PayPal. God, I love it here. Every new dollar that comes in, we're we've been able to pick up some PayPal."
+      ]
+    },
+    {
+      "ticker": "VFC",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Accumulate",
+      "position_status": "Existing position",
+      "key_quotes": [
+        "We'll be picking up some more VF Corp. all these incredible companies that we're excited about."
+      ]
+    },
+    {
+      "ticker": "ASOS",
+      "tom_sentiment": "Neutral",
+      "conviction": 4,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold, monitor for turnaround",
+      "position_status": "Mini position",
+      "key_quotes": [
+        "A lot of talk and not enough action.",
+        "I'm very skeptical about this."
+      ]
+    },
+    {
+      "ticker": "NET",
+      "tom_sentiment": "Avoid",
+      "conviction": 2,
+      "price_target_or_upside": "N/A",
+      "actionable": "Avoid",
+      "position_status": "No position",
+      "key_quotes": [
+        "Cloudflare is going to be like black line and I'm going to, you know, like Buffett, it's like you really have to be, you know, you got to be damn certain that you have a defensible mode.",
+        "look, this thing is up 12x and now it's pulled back 5 cents and you think it's a bargain."
+      ]
+    },
+    {
+      "ticker": "BTU",
+      "tom_sentiment": "Avoid",
+      "conviction": 2,
+      "price_target_or_upside": "N/A",
+      "actionable": "Avoid",
+      "position_status": "No position",
+      "key_quotes": [
+        "It's not something we really want to be involved in. We'll just stick with natural gas for now.",
+        "cash flow and revenues are all turning negative."
+      ]
+    }
+  ],
+  "new_or_recent_additions": [],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Aggressively accumulate Cooper Standard (CPS)",
+      "conviction": 10
+    },
+    {
+      "rank": 2,
+      "idea": "Buy Intel (INTC)",
+      "conviction": 9
+    },
+    {
+      "rank": 3,
+      "idea": "Hold/Accumulate Alibaba (BABA) on dips",
+      "conviction": 9
+    },
+    {
+      "rank": 4,
+      "idea": "Buy and hold QXO",
+      "conviction": 9
+    },
+    {
+      "rank": 5,
+      "idea": "Add Generac (GNRC) on dips",
+      "conviction": 7
+    },
+    {
+      "rank": 6,
+      "idea": "Accumulate PayPal (PYPL)",
+      "conviction": 7
+    },
+    {
+      "rank": 7,
+      "idea": "Accumulate VF Corp (VFC)",
+      "conviction": 7
+    },
+    {
+      "rank": 8,
+      "idea": "Hold ASOS, monitor for turnaround",
+      "conviction": 4
+    },
+    {
+      "rank": 9,
+      "idea": "Avoid Cloudflare (NET)",
+      "conviction": 2
+    },
+    {
+      "rank": 10,
+      "idea": "Avoid BTU",
+      "conviction": 2
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Potential for tariffs to disrupt the auto industry",
+    "Skepticism surrounding ASOS turnaround",
+    "Broken momentum stocks can take a long time to recover"
+  ],
+  "technical_takeaways": "Notes that broken momentum stocks need to build a base for a year or two before recovering. Mentions that the trend is your friend."
+}

@@ -1,0 +1,306 @@
+{
+  "episode_number": "279",
+  "episode_date": "2025-02-20",
+  "executive_summary": "Tom Hayes is extremely bullish on China, small caps, and value stocks, seeing a generational opportunity to profit from the shift away from expensive mega-cap growth stocks. He emphasizes patience and doing deep research, not chasing headlines. He reiterates high conviction in Alibaba, Cooper Standard, and other turnaround plays.",
+  "tom_current_conviction": {
+    "overall_market": "Bullish, with a focus on specific sectors and themes.",
+    "score_1_to_10": 9,
+    "key_reasons": [
+      "Regime change favoring value and international stocks.",
+      "Emerging Markets and European equities outperforming.",
+      "Potential for 10-year Treasury yield to reach 4% before 5%, benefiting underperforming sectors."
+    ]
+  },
+  "macro_thesis_summary": "The market is undergoing a regime change, with a shift away from US mega-cap growth stocks towards value, small caps, and international markets, particularly China. This is driven by factors such as dollar weakness, declining yields, and a re-rating of previously unloved sectors. Sandbagging by companies is creating buying opportunities.",
+  "key_macro_data_points": [
+    {
+      "indicator": "China's Terrific 10 vs. Magnificent 7",
+      "value": "China Terrific 10 up 85% vs. Mag 7 up 81% since December 2023",
+      "tom_interpretation": "China is outperforming the US mega-caps, indicating a shift in market leadership."
+    },
+    {
+      "indicator": "US Auto Sales Forecasts",
+      "value": "Cox Automotive forecasting 16.3 million new vehicle sales in 2025",
+      "tom_interpretation": "Underscores the sandbagging by Cooper Standard, creating a buying opportunity."
+    },
+    {
+      "indicator": "Small Cap Earnings Growth",
+      "value": "S&P 600 small cap 8% earnings growth last year, 21% earnings growth this year",
+      "tom_interpretation": "Small caps are undervalued relative to large caps, offering more earnings growth for a lower price."
+    }
+  ],
+  "featured_company_deep_dives": {
+    "Alibaba": {
+      "thesis_summary": "Alibaba is a compelling investment due to its leadership in cloud computing and AI in China, its exposure to the Chinese middle-class recovery, and its international growth potential. It is currently undervalued relative to its growth prospects.",
+      "key_metrics": [
+        "Number one cloud provider in China",
+        "Number one AI provider in China",
+        "International e-commerce business growing at 40%"
+      ],
+      "price_target_or_valuation": "Sum of the parts is worth well over $200",
+      "conviction": "Extremely High",
+      "action": "Buy on pullbacks after earnings."
+    },
+    "Cooper Standard": {
+      "thesis_summary": "Cooper Standard is a compelling turnaround play due to the cyclical recovery in auto production, cost-cutting measures, and increased content per vehicle. The company is significantly undervalued relative to its potential earnings power.",
+      "key_metrics": [
+        "Incentives up, volumes up",
+        "Making $190 a car",
+        "Cut $600 million of cost out of their business"
+      ],
+      "price_target_or_valuation": "Potential to trade at $90-$180 based on historical multiples and earnings potential.",
+      "conviction": "Extremely High",
+      "action": "Buy at current levels, add on dips."
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Extremely Bullish",
+      "conviction": 10,
+      "price_target_or_upside": "Over $200",
+      "actionable": "Buy",
+      "position_status": "Core Holding",
+      "key_quotes": [
+        "This game is just beginning.",
+        "We're nowhere near intrinsic value.",
+        "The price and the excitement is going to dramatically overshoot the intrinsic value the same way that it undershot the intrinsic value on the downside."
+      ]
+    },
+    {
+      "ticker": "ALB",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Buy",
+      "position_status": "Core Holding",
+      "key_quotes": [
+        "Alam Maro is a leader it's down materially it's got the liquidity it's going to it's going to rebound over the next two to three years.",
+        "It's on sale so it needs you need toone when you can get D you know when you can get stocks down 50 60 70% that are high quality durable businesses through many cycles and you a dou in years that that is going to beat Market sing day the that's why they call me turn that's what I do for a living my man but I think that's absolutely right and that's what a lot of people Miss Right a lot of people well first of all you got a lot of people that just want they just want the names that move all the time right in the"
+      ]
+    },
+    {
+      "ticker": "CSTM",
+      "tom_sentiment": "Extremely Bullish",
+      "conviction": 10,
+      "price_target_or_upside": "$90-$180",
+      "actionable": "Buy",
+      "position_status": "Core Holding",
+      "key_quotes": [
+        "This was modeled after Charlie munger's Teno deal",
+        "I would put new money to work till the cows come home at these levels"
+      ]
+    },
+    {
+      "ticker": "BA",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Hold",
+      "position_status": "Core Holding",
+      "key_quotes": [
+        "It's a duopoly it's not even getting started",
+        "Talk about the most beautiful business ever"
+      ]
+    },
+    {
+      "ticker": "DIS",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "Back over $200",
+      "actionable": "Hold",
+      "position_status": "Core Holding",
+      "key_quotes": [
+        "This thing is going back up it's going to take a few years it'll be back over 200 bucks",
+        "This one's a winner for a long time"
+      ]
+    },
+    {
+      "ticker": "ESTEE LAUDER",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Hold",
+      "position_status": "Core Holding",
+      "key_quotes": [
+        "Bought a ton in the hole that's what we like",
+        "These are getting started"
+      ]
+    },
+    {
+      "ticker": "VF CORP",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "$40",
+      "actionable": "Buy on pullbacks to $20",
+      "position_status": "Core Holding",
+      "key_quotes": [
+        "This is just getting started",
+        "I hope it pulls back to 20 so we can buy more before it goes to 40"
+      ]
+    },
+    {
+      "ticker": "GXO",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Hold",
+      "position_status": "Core Holding",
+      "key_quotes": [
+        "We think is going to be a home run",
+        "One of the greatest duopolistic businesses and recovery on the Europe play ever in existence"
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "$35-$40 if breakup occurs, $80-$100 long term",
+      "actionable": "Hold",
+      "position_status": "Core Holding",
+      "key_quotes": [
+        "If they liquidated the whole damn thing tomorrow you're getting your money back and if they actually do something right you could get a double and God forbid they execute on their plan you could get a four bagger"
+      ]
+    },
+    {
+      "ticker": "PYPL",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Buy",
+      "position_status": "Core Holding",
+      "key_quotes": [
+        "We would put new money to work here we're we're comfortable with that",
+        "He's a smart guy focusing on value add to existing customers increasing the margins increasing the take rate the guy knows what he's doing"
+      ]
+    },
+    {
+      "ticker": "SWK",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Hold",
+      "position_status": "Core Holding",
+      "key_quotes": [
+        "This housing thing is going to Boom",
+        "This stock is going to fly"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "tom_sentiment": "Bearish",
+      "conviction": 2,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "I'm not paying that 50 time sales have had it"
+      ]
+    },
+    {
+      "ticker": "SAMSUNG",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Do some work",
+      "key_quotes": [
+        "Looks like it's recovering probably worth doing some moreon it's not really it's not something I would do but it's probably worth doing some workon if you're interested in it"
+      ]
+    },
+    {
+      "ticker": "CMCO",
+      "tom_sentiment": "Bearish",
+      "conviction": 2,
+      "actionable": "Pass",
+      "key_quotes": [
+        "Not for me cash flow's turning down tell me when that's going to turn around and why"
+      ]
+    },
+    {
+      "ticker": "EVH",
+      "tom_sentiment": "Bearish",
+      "conviction": 2,
+      "actionable": "Pass",
+      "key_quotes": [
+        "Historically it's been a crap return on invested Capital business low quality business",
+        "I don't like the direction this is going so no pass"
+      ]
+    },
+    {
+      "ticker": "NKE",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Pass",
+      "key_quotes": [
+        "You're going to have to wait this one's going to take a long time to turn around and you don't have Brack and Daryl so"
+      ]
+    },
+    {
+      "ticker": "CELH",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Pass",
+      "key_quotes": [
+        "It's okay we haven't done anything with it"
+      ]
+    },
+    {
+      "ticker": "MPWR",
+      "tom_sentiment": "Bearish",
+      "conviction": 2,
+      "actionable": "Pass",
+      "key_quotes": [
+        "I don't think this one's come down enough mpwr no that I mean it might bounce up I'm not going to partip in that"
+      ]
+    },
+    {
+      "ticker": "UPS",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Pass",
+      "key_quotes": [
+        "We've covered those not yet on UPS"
+      ]
+    },
+    {
+      "ticker": "DIS",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "He's just an employee and that's how they employees generally behave"
+      ]
+    }
+  ],
+  "new_or_recent_additions": [
+    "Alibaba",
+    "Cooper Standard",
+    "VF Corp",
+    "Stanley Black and Decker",
+    "PayPal"
+  ],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy Cooper Standard (CSTM)",
+      "conviction": 10
+    },
+    {
+      "rank": 2,
+      "idea": "Buy Alibaba (BABA)",
+      "conviction": 10
+    },
+    {
+      "rank": 3,
+      "idea": "Buy Stanley Black and Decker (SWK)",
+      "conviction": 8
+    },
+    {
+      "rank": 4,
+      "idea": "Buy VF Corp (VFC) on pullbacks",
+      "conviction": 8
+    },
+    {
+      "rank": 5,
+      "idea": "Buy PayPal (PYPL)",
+      "conviction": 7
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Recency bias favoring growth stocks may persist.",
+    "Tariff fears could negatively impact global growth.",
+    "Potential for unexpected geopolitical events."
+  ],
+  "technical_takeaways": "Small caps are consolidating and poised for a breakout, similar to patterns seen in 2002-2006 and the 1980s. A breakout is imminent, and investors should increase exposure."
+}

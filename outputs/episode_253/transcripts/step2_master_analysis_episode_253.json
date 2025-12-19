@@ -1,0 +1,187 @@
+{
+  "episode_number": "253",
+  "episode_date": "2024-08-22",
+  "executive_summary": "This episode is extremely bullish on Alibaba, highlighting its potential for significant growth due to policy changes, new buyers, and a weakening dollar. It also emphasizes the importance of being contrarian and taking advantage of market dislocations, particularly in value stocks and emerging markets. Tom is also pounding the table on Cooper Standard.",
+  "tom_current_conviction": {
+    "overall_market": "Constructive in the intermediate term, with short-term strength followed by potential weakness ahead of the election, and then a year-end rally.",
+    "score_1_to_10": 8,
+    "key_reasons": [
+      "Earnings are strong enough to justify a year-end rally.",
+      "Rates are down far enough to justify a year-end rally.",
+      "Estimated 15.2% earnings growth for 2025.",
+      "Increased money supply (half a trillion dollars since the beginning of the year).",
+      "The FED will start to ease."
+    ]
+  },
+  "macro_thesis_summary": "The macro thesis revolves around a weakening dollar, increased money supply, and a potential shift in market leadership from US equities to emerging markets, particularly China. The FED is expected to cut rates, which will further weaken the dollar and benefit emerging markets. There is also a focus on value stocks and the potential for significant outperformance in the unmagnified 493 stocks of the S&P 500.",
+  "key_macro_data_points": [
+    {
+      "indicator": "Money Supply",
+      "value": "Increased by half a trillion dollars since the beginning of the year",
+      "tom_interpretation": "You cannot fight the increased money supply."
+    },
+    {
+      "indicator": "Earnings Growth (Unmagnified S&P 493)",
+      "value": "-4% in 2023 to +6.5% this year to 13.5% next year",
+      "tom_interpretation": "The good news is you can make a tremendous amount of money in the 493 that have lagged where you can find Value."
+    },
+    {
+      "indicator": "Small Cap Earnings Growth",
+      "value": "-12.2% in 2023, +7.3% this year, +37.6% next year",
+      "tom_interpretation": "If you're skeptical about small caps because because they had a little sell down because of the Yen nonsense uh you're going to miss the boat ladies and gentlemen it's going to move bigly in our view"
+    },
+    {
+      "indicator": "Vehicle Incentives",
+      "value": "7% of total purchase price, highest in 3 years",
+      "tom_interpretation": "Incentives are the name of the game when you want volume. We are not in the business of Ford and GM making as much money per car as possible we are in the business of Ford and GM making as many cars as possible that is the critical name of the game"
+    },
+    {
+      "indicator": "Initial Jobless Claims",
+      "value": "Big Numbers",
+      "tom_interpretation": "FED is going to move this is big news and that supports all of our portfolio we're we're lined up for it"
+    }
+  ],
+  "featured_company_deep_dives": {
+    "Alibaba": {
+      "thesis_summary": "Alibaba is poised for significant growth due to policy changes, new buyers from southbound connect, and a weakening dollar. The company is also benefiting from the growth in its cloud business and international expansion. The dual primary listing in Hong Kong will unlock a new wave of buyers. The company is shareholder friendly and is buying back stock hand over fist.",
+      "key_metrics": [
+        "Potential $20-40 billion inflow from southbound connect.",
+        "60 basis points service fee on Tmall and Taobao transactions adding $342 million to the bottom line.",
+        "Cloud business revenues accelerated to 6% year-over-year.",
+        "AI product Revenue grew at triple digits year-over-year.",
+        "International commerce grew 32%."
+      ],
+      "price_target_or_valuation": "Multibagger potential",
+      "conviction": "10",
+      "action": "Buy. This thing looks primed and poised to and when it turns it turns abruptly whether the Catalyst will be some policy from the Chinese government or this 20 billion to 30 billion of new buyers uh or the weakening dollar or the actual change in fed policy where we've seen historically dollar goes down Yuan starts to appreciate bond yields Chinese bond yields start to go up a Yen starts to go up uh and and all of these things click all at once"
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "PYPL",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "Turning the corner",
+      "actionable": "Buy",
+      "key_quotes": [
+        "Alex Chris came from into it he ran half the business at into it the stock was a 38 bagger while he was there he's coming to PayPal he's increasing the margins he's got this uh branded checkout called uh that increases conversion to 50% at at the checkout to 80% what does that mean it means he can charge more so margins are going up they were supposed to do $5 billion of free cash flow this year he said no we're not going to do five billion we're going to do six billion oh and by the way we're not going to buy back $5 billion of stock we're going to buy back $6 billion of stock this thing is turning the corner"
+      ]
+    },
+    {
+      "ticker": "GXO",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "$100 over the next 24 to 36 months",
+      "actionable": "Buy",
+      "key_quotes": [
+        "Management is expecting iida to nearly double by 2027 so that implies the stock could not only double but you get multiple expansion once they get the double digigit earnings growth and double digigit Revenue growth back so we think this stock can go up to $100 over the next 24 to 36 months too no you really do like it"
+      ]
+    },
+    {
+      "ticker": "BA",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Hold",
+      "key_quotes": [
+        "At Boeing we're going to have an engineer versus a Salesman running the company his first day he spent on the floor of the factory and the United CEO he met with yesterday he says I've got renewed confidence in Boeing now that I've met with the new CEO this is a great thing at the end of the day it's a duopoly it's good to be the king if you don't want to play it's not only a duopoly but if you look at the demand for aircraft commercial aircraft for the next 20 years this was a stock that I used to tell people never to sell and it's almost going to get back there"
+      ]
+    },
+    {
+      "ticker": "Cooper Standard",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "$30-$60",
+      "actionable": "Buy",
+      "position_status": "Adding to position",
+      "key_quotes": [
+        "Every single cycle in the last 45 years you've had 18 million SAR is the peak the sell through total vehicle sales in the United States we're at 15.8 right now if they just get to 16.1 forget about 18 which they'll do this cycle the the business is going to earn $3 a share you add a trough multiple of 10 times you got a $30 stock you add a peak multiple of 20 times you have a $60 stock and God forbid we actually get to $18 million SAR Peak this thing could fly so we're excited about this one"
+      ]
+    },
+    {
+      "ticker": "Utilities (XLU)",
+      "tom_sentiment": "Bearish",
+      "conviction": 7,
+      "actionable": "Sell/Reduce",
+      "key_quotes": [
+        "We were pounding the table last fall when you couldn't give away utilities everyone said no one needs energy anym I don't know what people were thinking but basically there was an expectation about rates that's different than the expectation right now so this has rallied on two basic things first of all as a group this is a defensive sector it's up 5050 % in less than a year so that tells me it's a little bit overdone here"
+      ]
+    },
+    {
+      "ticker": "Advanced Auto Parts",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "actionable": "Buy",
+      "key_quotes": [
+        "All today was in the morning was an opportunity to increase my position and bring down my bases in a great business in a in a good business with great management and uh those are the things you can get doubles and triples in reasonable amounts of time over a handful of years so uh less than a handful of years"
+      ]
+    },
+    {
+      "ticker": "Intel",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Buy",
+      "position_status": "Bringing basis down",
+      "key_quotes": [
+        "It's like the government won't let them fail they're going to have a doop we went through that story last week so anyway it's just Christmas time is all I'm saying"
+      ]
+    },
+    {
+      "ticker": "QXO",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Buy",
+      "key_quotes": [
+        "Every time he's done it he's made his owner's Fortune so you could say why would I ever pay $2 for $1 of cash he hasn't done a deal yet and the answer is because when he does a deal it's not going to trade at $12 it's probably going to trade up to $20 and then you've missed the opportunity and then when it goes from 20 to 100 you've only made 5x instead of 12 to 100 you've made 8X so if you own it at 12 and he doesn't do a deal for a year and it drops back down to the cash price per share of $6 so I got 50% downside and 1,000% upside based on his you know if you look at his"
+      ]
+    }
+  ],
+  "new_or_recent_additions": [
+    "Advanced Auto Parts",
+    "QXO"
+  ],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy Alibaba",
+      "conviction": 10
+    },
+    {
+      "rank": 2,
+      "idea": "Buy Cooper Standard",
+      "conviction": 9
+    },
+    {
+      "rank": 3,
+      "idea": "Buy Advanced Auto Parts",
+      "conviction": 9
+    },
+    {
+      "rank": 4,
+      "idea": "Buy GXO Logistics",
+      "conviction": 9
+    },
+    {
+      "rank": 5,
+      "idea": "Buy Intel",
+      "conviction": 8
+    },
+    {
+      "rank": 6,
+      "idea": "Buy PayPal",
+      "conviction": 8
+    },
+    {
+      "rank": 7,
+      "idea": "Sell/Reduce Utilities (XLU)",
+      "conviction": 7
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Potential for short-term market weakness ahead of the election.",
+    "Risk of recession if the FED dithers and doesn't cut rates in September.",
+    "The market is overbought and due for a breather.",
+    "Crowded trades in defensive sectors like utilities."
+  ],
+  "technical_takeaways": "The S&P is hitting a little resistance, but the rebound looks like it has a little more to go. Midcaps are just breaking out, and small caps are just coming off the mat. The theme for the next 18 months is small caps.",
+  "publish_date": "2024-08-22"
+}

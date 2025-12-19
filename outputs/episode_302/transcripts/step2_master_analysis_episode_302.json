@@ -1,0 +1,358 @@
+{
+  "episode_number": "302",
+  "episode_date": "2025-07-31",
+  "executive_summary": "Tom Hayes details a Christmas-like buying opportunity in cyclicals and small caps after Powell's hawkish comments created a market pullback. He emphasizes the importance of buying companies with strong fundamentals during times of market panic, highlighting specific stocks like Baxter, VF Corp, Intel, and National Oil Well Varco. He also discusses the potential for a weaker dollar and the importance of releveraging the private sector.",
+  "tom_current_conviction": {
+    "overall_market": "Constructive with sideways chop",
+    "score_1_to_10": 8,
+    "key_reasons": [
+      "Too many people behind the benchmark that have to buy every single dip that got destroyed in April.",
+      "Market gets a 20%+ intra-year bear market correction every 4.2 years on average. We have now had three of those in the last 5 years.",
+      "I would not expect a big crash of 20%. you're at the most you're going to see during this weak seasonal period of August through October is 5 to 10% pullback to be bought and um and some volatility at the most and I and I wouldn't get too cute with it"
+    ]
+  },
+  "macro_thesis_summary": "The market is in a period of sideways chop with a constructive outlook. Powell's hawkish stance is a short-term interruption and Trump will undermine him. The private sector needs to relever, and the public sector needs to delever. A weaker dollar is coming.",
+  "key_macro_data_points": [
+    {
+      "indicator": "US firms exceeding profit estimates",
+      "value": "Strongest rate in four years",
+      "tom_interpretation": "Earnings are going fine."
+    },
+    {
+      "indicator": "FINRA margin debt over Wilshire total market index",
+      "value": "Near all-time lows",
+      "tom_interpretation": "Implies room for private sector releveraging and public sector deleveraging."
+    },
+    {
+      "indicator": "Two Fed governors dissent at July FOMC meeting",
+      "value": "Largest number of government descents since 1993",
+      "tom_interpretation": "The natives are getting restless and now internally he's getting dissent in addition to President Trump's dissent and common sense argument that we're paying 600 billion dollars more with taxpayers money on interest than we need to be, particularly when inflation is quelled."
+    }
+  ],
+  "featured_company_deep_dives": {
+    "Intel": {
+      "thesis_summary": "Intel is a turnaround story led by Lip Bhan, who has a proven track record. The legacy PC and server business is worth $45 to $50 per share on its own, providing a margin of safety. The foundry business is just whipped cream on top.",
+      "key_metrics": [
+        "Q2 revenue beat consensus by $1 billion",
+        "Q3 guidance held up well",
+        "Lip Bhutan wrote a $25 million personal check for stock"
+      ],
+      "price_target_or_valuation": "$45-$50/share based on legacy business alone",
+      "conviction": "High",
+      "action": "Buy on weakness"
+    },
+    "PayPal": {
+      "thesis_summary": "PayPal is a lights-out quarter with profitable growth, Venmo growth, and share repurchases. Alex Chris is a winner. The stock is in the aversion stage of the mammoth cycle, headed towards a parabolic move.",
+      "key_metrics": [
+        "Revenue of $8.3 billion, up 5.1% year-over-year",
+        "Non-GAAP EPS of $1.40, beat expectations",
+        "Management raised full-year EPS guidance",
+        "Reiterated full-year free cash flow guidance of $6 to $7 billion"
+      ],
+      "price_target_or_valuation": "Well over $150",
+      "conviction": "High",
+      "action": "Buy on weakness"
+    },
+    "Boeing": {
+      "thesis_summary": "Boeing is a turnaround story with Kelly Ortberg at the helm. Free cash flow is improving, and the 737 program is running at a production rate of 38 per month, expected to climb to 42. The long-term $10 billion of free cash flow target remains intact.",
+      "key_metrics": [
+        "Adjusted free cash flow usage of $200 million vs. consensus of $1.8 billion usage",
+        "Highest number of deliveries in Q2 and first half of the year since 2018",
+        "Strongest quarterly revenue in six years"
+      ],
+      "price_target_or_valuation": "N/A",
+      "conviction": "High",
+      "action": "Hold, consolidate gains"
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "ALB",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "actionable": "Buy on weakness",
+      "position_status": "Existing",
+      "key_quotes": [
+        "Albamaro crushed it. Stock shot all the way up close to, you know, 90 and change, reversed a little bit, but if you zoom out, you can see it's starting its recovery and we are in the nent stages. So any weakness can be bought."
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 10,
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "In our view, a gift from the gods.",
+        "Lip Bhutan would have never taken the job if he didn't truly believe Intel could be turned around.",
+        "Betting against Lip Boutan has never been a profitable trade and we don't think this time will be any different."
+      ]
+    },
+    {
+      "ticker": "PYPL",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 10,
+      "price_target_or_upside": "Well over $150",
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "PayPal delivered another lights out quarter this week.",
+        "We will gladly be mailing you Christmas cards for the next few years.",
+        "Remember, short-term voting machine, long-term weighing machine."
+      ]
+    },
+    {
+      "ticker": "BA",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "2025 is Boeing's turnaround year.",
+        "Ladies and gentlemen, this thing is going higher. It probably consolidates in the short term."
+      ]
+    },
+    {
+      "ticker": "BAX",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 9,
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "This guy's a winner. Sevenbagger in his last company. He's going to turn this thing around. This is going to be easy peasy.",
+        "This thing's going to be three, four, 5x. It's just going to be a matter of time."
+      ]
+    },
+    {
+      "ticker": "VFC",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 10,
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "This thing is going to be many, many bags over the next 5 years.",
+        "Bracken did an amazing interview with Jim Kramer...He's personally purchased over $3 million of stock...We love that."
+      ]
+    },
+    {
+      "ticker": "NOV",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "Varco is a much better bargain cuz it's just getting started."
+      ]
+    },
+    {
+      "ticker": "GNRC",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "This thing's going a lot higher, but we did trim."
+      ]
+    },
+    {
+      "ticker": "CCI",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "You could see the recovery is just beginning there."
+      ]
+    },
+    {
+      "ticker": "CPS",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "Would love to see it get a three handle in front in the next week.",
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "It's broke into new highs there...highest levels since back in 2021."
+      ]
+    },
+    {
+      "ticker": "ETSY",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "Etsy, again, just starting the recovery, shot up after earnings, retraced after Powell. Uh, that will all go away."
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 9,
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "Baba's going to go into that parabolic move. Everyone's going to be surprised except for those amazing, incredible, loyal listeners of hedge fund tips with Tom Hayes that are making all that money and smiling so wide they could eat a banana sideways."
+      ]
+    },
+    {
+      "ticker": "SWK",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Monitor",
+      "position_status": "Existing",
+      "key_quotes": [
+        "I think you're right but there's no factual basis."
+      ]
+    },
+    {
+      "ticker": "DIS",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Monitor",
+      "position_status": "Existing",
+      "key_quotes": [
+        "Disney stock is ready to rally after a lost decade. No one wanted it at 85. Everyone wants it at 120."
+      ]
+    },
+    {
+      "ticker": "QXO",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "Just buy QXO."
+      ]
+    },
+    {
+      "ticker": "MNST",
+      "tom_sentiment": "Bearish",
+      "conviction": 2,
+      "actionable": "Avoid",
+      "position_status": "Not in portfolio",
+      "key_quotes": [
+        "That is a sucker game. stay away."
+      ]
+    },
+    {
+      "ticker": "UNH",
+      "tom_sentiment": "Bearish",
+      "conviction": 3,
+      "actionable": "Avoid",
+      "position_status": "Not in portfolio",
+      "key_quotes": [
+        "Anytime there's a DOJ investigation..."
+      ]
+    },
+    {
+      "ticker": "TFX",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Monitor",
+      "position_status": "Not in portfolio",
+      "key_quotes": [
+        "This is a broken Momo stock."
+      ]
+    },
+    {
+      "ticker": "DOW",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Monitor",
+      "position_status": "Not in portfolio",
+      "key_quotes": [
+        "It's probably getting close."
+      ]
+    },
+    {
+      "ticker": "HSIC",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Monitor",
+      "position_status": "Not in portfolio",
+      "key_quotes": [
+        "That one's held up a little bit better."
+      ]
+    },
+    {
+      "ticker": "DCT",
+      "tom_sentiment": "Bearish",
+      "conviction": 2,
+      "actionable": "Avoid",
+      "position_status": "Not in portfolio",
+      "key_quotes": [
+        "Still negative free cash flow. No, not for me. This is a promote."
+      ]
+    },
+    {
+      "ticker": "PFE",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Monitor",
+      "position_status": "Not in portfolio",
+      "key_quotes": [
+        "I think you're not going to get hurt at this level, but you're not going to make a lot of money anytime soon."
+      ]
+    },
+    {
+      "ticker": "GMED",
+      "tom_sentiment": "Bearish",
+      "conviction": 2,
+      "actionable": "Avoid",
+      "position_status": "Not in portfolio",
+      "key_quotes": [
+        "That's a nonsense article from Oppenheimer GMED."
+      ]
+    }
+  ],
+  "new_or_recent_additions": [
+    "Baxter",
+    "VF Corp",
+    "Intel",
+    "National Oil Well Varco"
+  ],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy VF Corp",
+      "conviction": 10
+    },
+    {
+      "rank": 2,
+      "idea": "Buy Intel",
+      "conviction": 10
+    },
+    {
+      "rank": 3,
+      "idea": "Buy PayPal",
+      "conviction": 10
+    },
+    {
+      "rank": 4,
+      "idea": "Buy Baxter",
+      "conviction": 9
+    },
+    {
+      "rank": 5,
+      "idea": "Buy Albemarle on weakness",
+      "conviction": 9
+    },
+    {
+      "rank": 6,
+      "idea": "Buy National Oil Well Varco",
+      "conviction": 8
+    },
+    {
+      "rank": 7,
+      "idea": "Buy QXO",
+      "conviction": 7
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Powell's hawkish stance is a short-term interruption.",
+    "The market is overreacting to short-term news.",
+    "Small caps and cyclicals are oversold."
+  ],
+  "technical_takeaways": "The mammoth stock market cycle indicates that many stocks are in the aversion or denial phase, suggesting a potential for a parabolic move higher."
+}

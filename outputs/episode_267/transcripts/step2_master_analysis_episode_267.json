@@ -1,0 +1,258 @@
+{
+  "episode_number": "267",
+  "episode_date": "2024-11-28",
+  "executive_summary": "Tom Hayes is extremely bullish on Emerging Markets and China, particularly after the inauguration. He sees a major catch-up trade setting up, similar to 2001. He is also very positive on small caps, healthcare (XBI), Canada Goose, PayPal, and Intel. He expects yields and the dollar to decline in 2025, surprising many investors. He emphasizes the importance of buying quality merchandise when it's marked down, and distinguishing between value traps and true value opportunities with growth potential.",
+  "tom_current_conviction": {
+    "overall_market": "Bullish",
+    "score_1_to_10": 9,
+    "key_reasons": [
+      "Emerging Markets are at rock bottom cheap relative to the US.",
+      "Small caps are breaking out.",
+      "Healthcare sector is poised for a catch-up trade.",
+      "The market is misinterpreting the potential impact of tariffs.",
+      "Demographics are tailwinds for housing demand and spending."
+    ]
+  },
+  "macro_thesis_summary": "Hayes believes that the market is mispositioned for 2025. He anticipates yields and the dollar will decline, contrary to current expectations. He sees a significant opportunity in Emerging Markets and small caps, driven by a catch-up trade relative to the US. He also expects a boom in manufacturing and industrials, supported by reshoring and increased domestic investment. He believes that the FED will cut rates and that the economy will continue to grow, leading to a 'Roaring 2020s' scenario.",
+  "key_macro_data_points": [
+    {
+      "indicator": "US Duties Collected as a Percentage of Total Imports",
+      "value": "Near 130-year lows, lower than under Clinton and Carter",
+      "tom_interpretation": "This indicates that fears of tariffs causing a market crash are overblown. There's a long runway before tariffs become a significant problem."
+    },
+    {
+      "indicator": "Emerging Market Stocks Relative to US Stocks",
+      "value": "As cheap as they were during the second term of the Reagan era",
+      "tom_interpretation": "This presents a generational opportunity to make fortunes by investing in Emerging Markets."
+    },
+    {
+      "indicator": "Consumer Sentiment",
+      "value": "Turning up after despondent levels",
+      "tom_interpretation": "This is the beginning of good things to come, similar to 2009 and 2011."
+    },
+    {
+      "indicator": "Global Money Market Funds",
+      "value": "Elevated at 6.2 trillion",
+      "tom_interpretation": "This money has to be put to work, providing fuel for the market rally."
+    },
+    {
+      "indicator": "US Household Balance Sheets",
+      "value": "In excellent shape, with debt service as a percentage of disposable income near all-time lows",
+      "tom_interpretation": "This supports the expectation of increased consumption and consumer discretionary spending."
+    }
+  ],
+  "featured_company_deep_dives": {
+    "Canada Goose": {
+      "thesis_summary": "Canada Goose is a growth story that turned into a value story and has the potential to turn back into a growth story. The company is focused on reducing wholesale and expanding DTC stores and broader product offerings. The stock is undervalued relative to its free cash flow.",
+      "key_metrics": [
+        "Revenue beat expectations despite a year-over-year decline.",
+        "EPS beat estimates.",
+        "Inventory levels decreased by 9%.",
+        "Gross margin at 68%.",
+        "Free cash flow is recovering."
+      ],
+      "price_target_or_valuation": "Undisclosed, but Hayes is looking for Windows that will make sense to upssize it into a full-size holding",
+      "conviction": "High",
+      "action": "Accumulate on weakness, looking for opportunities to upsize into a full-size holding."
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "Generac",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "Over $200, pushing higher to $250",
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "This is going to go not only over 200 it's going to keep pushing higher 250",
+        "They have 70% of the home standby generator system so you're not the only one that has it but you've got more hurricanes you've got more strain on the power grid they're the only game in town it's like the kleenex of Home standby generators"
+      ]
+    },
+    {
+      "ticker": "Small Cap Stocks",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "Significant upside potential",
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "The biggest performer was small cap stocks they were up 1 and a half% today and those are the biggest bang for your buck moving forward you get the most amount of growth over the next year for the least amount of multiple",
+        "Those stocks can be up 40 50 70 some 100% And The indices subdued and that's the environment where we can absolutely take advantage of"
+      ]
+    },
+    {
+      "ticker": "XBI (Biotech)",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "Significant upside potential",
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "We are going to see a massive catch-up trade in xbi in 2017 and Beyond just like you saw in the early Trump presidency as well risk appetite comes back the game gets on",
+        "Biotechs are going to catch up and we're going to Mint on both sides super excited"
+      ]
+    },
+    {
+      "ticker": "Emerging Markets",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 10,
+      "price_target_or_upside": "Significant upside potential",
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "These are the opportunities where fortunes are generational fortunes are made when you can catch these lows these divergences like you haven't had since the Reagan error second term of the Reagan error second term of the Trump error when Emerging Markets relative to us markets were as cheap as they are",
+        "Once it gets started it is so it's unreal it is unreal"
+      ]
+    },
+    {
+      "ticker": "BABA (Alibaba)",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 10,
+      "price_target_or_upside": "Significant upside potential",
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "We're buying in the hole",
+        "I've never been more excited",
+        "Alibaba is the Tollgate for the China recovery",
+        "They are the number one way to play AI in China"
+      ]
+    },
+    {
+      "ticker": "PayPal (PYPL)",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "Significant upside potential",
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "Unbelievable what's happening people don't even realize pounding the tables in the 50s and 60s",
+        "Stocks up 30 plus percent 35% and just beginning ladies and gentlemen"
+      ]
+    },
+    {
+      "ticker": "Intel (INTC)",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "Significant upside potential",
+      "actionable": "Buy",
+      "position_status": "New Addition",
+      "key_quotes": [
+        "Inference Intel wins and this game is just beginning",
+        "They got their $8 billion from the government which is awesome"
+      ]
+    },
+    {
+      "ticker": "Canada Goose (GOOS)",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "Significant upside potential",
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "Canada Goose has been around since 1957 it was hot before Drake was hot and it'll be hot after Drake is forgotten",
+        "I wouldn't bet against a 67y old brand of this caliber trading at these levels"
+      ]
+    },
+    {
+      "ticker": "Disney (DIS)",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "Significant upside potential",
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "I got to give credit to my friend and Wall Street colleague Tom Hayes from great Hill Capital he's picked this bottom early and been right",
+        "I think there's much more room that Disney can go under Bob Iger"
+      ]
+    },
+    {
+      "ticker": "DII (Diageo)",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "price_target_or_upside": "Significant upside potential",
+      "actionable": "Hold",
+      "position_status": "New Addition",
+      "key_quotes": [
+        "We own diio we like it it's going to be a bit of a track turnaround",
+        "This is going to benefit from Emerging Markets it did the exact same thing in when 2001"
+      ]
+    },
+    {
+      "ticker": "Etsy (ETSY)",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "Double in three years",
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "We don't get involved in any stock that we don't anticipate a double inside of three years"
+      ]
+    }
+  ],
+  "new_or_recent_additions": [
+    "Intel (INTC)",
+    "DII (Diageo)"
+  ],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy Emerging Markets",
+      "conviction": 10
+    },
+    {
+      "rank": 2,
+      "idea": "Buy Alibaba (BABA)",
+      "conviction": 10
+    },
+    {
+      "rank": 3,
+      "idea": "Buy Small Cap Stocks",
+      "conviction": 9
+    },
+    {
+      "rank": 4,
+      "idea": "Buy Generac (GNRC)",
+      "conviction": 9
+    },
+    {
+      "rank": 5,
+      "idea": "Buy XBI (Biotech)",
+      "conviction": 9
+    },
+    {
+      "rank": 6,
+      "idea": "Buy PayPal (PYPL)",
+      "conviction": 8
+    },
+    {
+      "rank": 7,
+      "idea": "Buy Intel (INTC)",
+      "conviction": 8
+    },
+    {
+      "rank": 8,
+      "idea": "Buy Canada Goose (GOOS)",
+      "conviction": 8
+    },
+    {
+      "rank": 9,
+      "idea": "Hold Disney (DIS)",
+      "conviction": 7
+    },
+    {
+      "rank": 10,
+      "idea": "Hold Diageo (DII)",
+      "conviction": 7
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "The market is overly pessimistic about the impact of tariffs.",
+    "The consensus is positioned for higher yields and a stronger dollar, creating an opportunity for a surprise reversal.",
+    "Energy stocks may underperform in the initial period after a Trump inauguration, contrary to popular belief.",
+    "Retailers may underperform after the inauguration in Trump 1."
+  ],
+  "technical_takeaways": "Small caps are breaking out. The 10-year yield seems capped at 5%. The dollar is expensive and likely to roll back over. Healthcare sector is poised for a catch-up trade.",
+  "publish_date": "2024-11-28"
+}

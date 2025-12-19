@@ -1,0 +1,489 @@
+{
+  "episode_number": "297",
+  "episode_date": "2025-06-26",
+  "executive_summary": "Tom Hayes remains bullish, citing the ceasefire, the potential tax bill, and the natives getting restless at the Fed. He emphasizes looking under the surface for opportunities in the unmagnificent 493 stocks and highlights turnaround stories like Estee Lauder and Advanced Auto Parts. He also discusses the implications of stable coins, robo taxis, and various economic data points, maintaining a selectively constructive outlook.",
+  "tom_current_conviction": {
+    "overall_market": "Bullish",
+    "score_1_to_10": 8,
+    "key_reasons": [
+      "Ceasefire in the Middle East",
+      "Potential tax cuts",
+      "Dissent among Fed members",
+      "Low institutional sentiment",
+      "Global liquidity at record highs"
+    ]
+  },
+  "macro_thesis_summary": "The market is poised to push to new highs this summer, driven by a V-shaped recovery and global liquidity. The Fed is expected to become more dovish, leading to rate cuts. Selectively constructive approach is key, focusing on undervalued opportunities outside the Magnificent Seven.",
+  "key_macro_data_points": [
+    {
+      "indicator": "Oil Price",
+      "value": "$66 a barrel",
+      "tom_interpretation": "Helpful to inflation down the road. The Saudis and Russians are going to continue to pump. Oil is going to stay down. Inflation's going to stay low."
+    },
+    {
+      "indicator": "Institutional Sentiment",
+      "value": "Near COVID lows",
+      "tom_interpretation": "Institutional sentiment is at near COVID lows still. With markets near near-time highs, institutional sentiment, you saw from Bank of America and the fund manager survey, uh, near great financial crisis lows. The markets climb a wall of worry. These people are going to be forced in."
+    },
+    {
+      "indicator": "Global M2 Money Supply",
+      "value": "Record Highs",
+      "tom_interpretation": "Global M2 money supply you look is at record highs after flatlining since 2022. So, there's a lot to be constructive about here."
+    },
+    {
+      "indicator": "US Debt to GDP",
+      "value": "120%",
+      "tom_interpretation": "The only way we're going to get out of 120% debt to GDP is through growth and we need tax cuts. We need deregulation."
+    },
+    {
+      "indicator": "Non-commercial futures percentage open interest",
+      "value": "Contrarian buy levels",
+      "tom_interpretation": "This is back to contrarian buy levels what we saw near COVID lows which is unbelievable. We talked about the sentiment uh today with Brad Smith. Uh these are just still not numbers you see near top. So we're going to run higher."
+    },
+    {
+      "indicator": "Emerging Markets",
+      "value": "Breaking out of long cup and handle",
+      "tom_interpretation": "This is a critical chart here uh showing emerging markets just now breaking out of this long cup and handle which implies a measured move of at least uh 12 points. So 59 for starters. And then at that point, you're breaking out to new all-time highs and you get a bigger cup and you're looking more like uh move from 32 to 60 28 plus 60 you're looking at a move to 88. We're at 47. So a basic double uh if you have a little patience with emerging markets over the next couple few years."
+    }
+  ],
+  "featured_company_deep_dives": {
+    "EL": {
+      "thesis_summary": "Estee Lauder is a high-quality business marked down due to COVID policies in China. With China recovering, a new CEO in place, and a margin reacceleration plan, the stock can double over the next 3 to 5 years.",
+      "key_metrics": [
+        "Revenue growth in China",
+        "Margin expansion",
+        "New CEO",
+        "Deutsche Bank upgrade to $90"
+      ],
+      "price_target_or_valuation": "Double over the next 3 to 5 years",
+      "conviction": "8",
+      "action": "Buy"
+    },
+    "AAP": {
+      "thesis_summary": "Advanced Auto Parts is a turnaround story with a new CEO, Shane O Kelly, deleveraging the balance sheet and closing unprofitable stores. Margins are expected to expand, leading to a double or triple in the stock price over the next 3 to 4 years.",
+      "key_metrics": [
+        "New CEO Shane O Kelly",
+        "Store closures",
+        "Margin expansion from 2% to 7-12%",
+        "Consolidating distribution centers"
+      ],
+      "price_target_or_valuation": "Double to triple over the next 3 to 4 years",
+      "conviction": "7",
+      "action": "Buy"
+    },
+    "ALB": {
+      "thesis_summary": "Albermarle is a lithium producer at the trough of a 5-8 year cycle. With huge operating leverage and demand growth from energy storage systems, the stock could go back up to $150. It is a dividend aristocrat with a stable balance sheet.",
+      "key_metrics": [
+        "Lithium prices",
+        "Operating leverage",
+        "Demand from energy storage systems",
+        "Dividend aristocrat status"
+      ],
+      "price_target_or_valuation": "$150",
+      "conviction": "8",
+      "action": "Buy"
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "PYPL",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Buy",
+      "key_quotes": [
+        "I gave your audience a stock called PayPal in the in the high50s. It's now in the low7s. They are the sixth largest issuer of stable coins. So if you like the fee business, PayPal's got 450 million users. If you like the stable coin business, they're the sixth largest issuer."
+      ]
+    },
+    {
+      "ticker": "MA",
+      "tom_sentiment": "Negative",
+      "conviction": 9,
+      "price_target_or_upside": "N/A",
+      "actionable": "Do not buy",
+      "key_quotes": [
+        "I would not be a buyer of Visa or Mastercard here."
+      ]
+    },
+    {
+      "ticker": "V",
+      "tom_sentiment": "Negative",
+      "conviction": 9,
+      "price_target_or_upside": "N/A",
+      "actionable": "Do not buy",
+      "key_quotes": [
+        "I would not be a buyer of Visa or Mastercard here."
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "key_quotes": [
+        "It's like a magician. Look over here. It's the illusion. I mean, the car business has deteriorated uh since his involvement in politics."
+      ]
+    },
+    {
+      "ticker": "GOOG",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "key_quotes": [
+        "Whimo's been going for years. Google gets zero value for Whimo and Google stock."
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "key_quotes": [
+        "Microsoft just hit an all-time high and we got some more drama between Microsoft and Open AI."
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "key_quotes": [
+        "Amazon, they've expanded their same day delivery service where now. They're going to be investing about $4 billion to triple their delivery network by 2026."
+      ]
+    },
+    {
+      "ticker": "EL",
+      "tom_sentiment": "Positive",
+      "conviction": 8,
+      "price_target_or_upside": "Double over the next 3-5 years",
+      "actionable": "Buy",
+      "key_quotes": [
+        "Turnaround Tom loves turnaround stories. Great businesses when they're marked down.",
+        "This can be a double over the next 3 to 5 years. We love high quality business."
+      ]
+    },
+    {
+      "ticker": "BA",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "key_quotes": [
+        "Boeing makes those bunker bunker buster bombs. They make the GPU 57. That's absolutely right. 30,000. Yeah. And did they work or not? They they work like nobody's business."
+      ]
+    },
+    {
+      "ticker": "ALB",
+      "tom_sentiment": "Positive",
+      "conviction": 8,
+      "price_target_or_upside": "$150",
+      "actionable": "Buy",
+      "key_quotes": [
+        "The amount of operating leverage that Albamaro has to benefit as prices go up is astounding.",
+        "My nickname is turnaround Tom."
+      ]
+    },
+    {
+      "ticker": "PLTR",
+      "tom_sentiment": "Negative",
+      "conviction": 9,
+      "price_target_or_upside": "N/A",
+      "actionable": "Avoid",
+      "key_quotes": [
+        "Stocks overvalued. Yeah, look, 83, it's $324 billion market cap on $3.9 billion of sales.",
+        "The chief technology offers officer selling like it like his pants are on fire."
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "key_quotes": [
+        "Their business model depends on the kindness of strangers."
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "price_target_or_upside": "Meaningful upside if they get it right",
+      "actionable": "Watch",
+      "key_quotes": [
+        "They're the only game in town with fabs at the 10 yard line ready to spike the football and the touchdown."
+      ]
+    },
+    {
+      "ticker": "ACUITY",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "key_quotes": [
+        "This is a preview of coming attractions. I think we're going into this Q2 earning season with very low expectations."
+      ]
+    },
+    {
+      "ticker": "MCCORMACK",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "price_target_or_upside": "N/A",
+      "actionable": "Watch",
+      "key_quotes": [
+        "I'm looking at consumer staples and defensives and I'm you're seeing a lot in that group, whether it's Craft Hind, there was some recent news out Mills, Hormeell. Uh these are all kind of left for dead stock."
+      ]
+    },
+    {
+      "ticker": "NKE",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "price_target_or_upside": "N/A",
+      "actionable": "Watch for lower entry",
+      "key_quotes": [
+        "I would love to buy a lot of Nike. I should be buying a lot of Nike at these levels. I really hope it goes down a lot after earnings and maybe that'll be a new position"
+      ]
+    },
+    {
+      "ticker": "BLK",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "key_quotes": [
+        "I think they're doing it because they can. Okay, it's a huge market. the idea is to democratize private equity."
+      ]
+    },
+    {
+      "ticker": "VFC",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "price_target_or_upside": "N/A",
+      "actionable": "Watch",
+      "key_quotes": [
+        "I'm betting on another turnaround specialist, Bracken Daryl, over at VF Corp. He's got his work cut out for him. He's going to turn that business."
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "key_quotes": [
+        "Magnificent me. Uh you can see even now with all this huge rally year to date, you still have these majors that are down materially like Google, Amazon, Tesla, Apple."
+      ]
+    },
+    {
+      "ticker": "DIS",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "key_quotes": [
+        "Disney baby number one. How do you like them apples? Zero credit attributed to the stock. It's just getting started."
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "key_quotes": [
+        "Like you could send me a million Chinese stocks if they're not named Alibaba or 10-centent. Like I'm just not buying them."
+      ]
+    },
+    {
+      "ticker": "CLX",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "key_quotes": [
+        "It's fine. Not the highest and best use for us, but uh, decent company at a good price."
+      ]
+    },
+    {
+      "ticker": "ETSY",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "key_quotes": [
+        "They wanted to be as non-dilutive as they could and not pay high interest. So, uh, I kind of like that play."
+      ]
+    },
+    {
+      "ticker": "SHOO",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "key_quotes": [
+        "I haven't heard anyone talk about Steve Madden forever."
+      ]
+    },
+    {
+      "ticker": "ARG.TO",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "key_quotes": [
+        "Cash flows are recovering, revenues are recovering, margins are recovering. So, they're in the circular mo secular move here, but I think they're towards the top of the range."
+      ]
+    },
+    {
+      "ticker": "GENERAL MILLS",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "N/A",
+      "actionable": "Watch",
+      "key_quotes": [
+        "I think this is in the group that's going to start to get bid in the fall."
+      ]
+    },
+    {
+      "ticker": "PAYPAL",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "key_quotes": [
+        "I'd rather be in PayPal"
+      ]
+    },
+    {
+      "ticker": "TEP",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Research",
+      "key_quotes": [
+        "I think this one is definitely definitely warrants doing some work."
+      ]
+    },
+    {
+      "ticker": "HAL",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "key_quotes": [
+        "I think I said Hallebertton was fine a few weeks ago. If you have to be in it, that I'd probably choose that or Slumber."
+      ]
+    },
+    {
+      "ticker": "GXI",
+      "tom_sentiment": "Negative",
+      "conviction": 8,
+      "price_target_or_upside": "N/A",
+      "actionable": "Avoid",
+      "key_quotes": [
+        "Hard pass, huge negative free cash flow, margins declining."
+      ]
+    },
+    {
+      "ticker": "QXO",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "key_quotes": [
+        "What do you do when a position gets away from you before you can make a meaningful position? Uh, nothing."
+      ]
+    },
+    {
+      "ticker": "BBWI",
+      "tom_sentiment": "Negative",
+      "conviction": 8,
+      "price_target_or_upside": "N/A",
+      "actionable": "Avoid",
+      "key_quotes": [
+        "I don't think that's a great business. I don't think it has a great moat. I think it's like a fad that runs in cycles and eventually goes out of business."
+      ]
+    },
+    {
+      "ticker": "RACE",
+      "tom_sentiment": "Negative",
+      "conviction": 8,
+      "price_target_or_upside": "N/A",
+      "actionable": "Avoid",
+      "key_quotes": [
+        "I won't buy any OEMs no matter how cheap they are. uh even Ferrari which has done well."
+      ]
+    },
+    {
+      "ticker": "AAP",
+      "tom_sentiment": "Positive",
+      "conviction": 8,
+      "price_target_or_upside": "Double to triple over the next 3-4 years",
+      "actionable": "Buy",
+      "key_quotes": [
+        "I'm known on Wall Street as Turnaround Tom. I like to buy highquality companies when they're marked down."
+      ]
+    }
+  ],
+  "new_or_recent_additions": [
+    "AAP",
+    "EL",
+    "ALB"
+  ],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy Estee Lauder (EL)",
+      "conviction": 8
+    },
+    {
+      "rank": 2,
+      "idea": "Buy Advanced Auto Parts (AAP)",
+      "conviction": 8
+    },
+    {
+      "rank": 3,
+      "idea": "Buy Albermarle (ALB)",
+      "conviction": 8
+    },
+    {
+      "rank": 4,
+      "idea": "Hold PayPal (PYPL)",
+      "conviction": 7
+    },
+    {
+      "rank": 5,
+      "idea": "Watch General Mills",
+      "conviction": 6
+    },
+    {
+      "rank": 6,
+      "idea": "Watch Nike for lower entry",
+      "conviction": 6
+    },
+    {
+      "rank": 7,
+      "idea": "Research Teleperformance (TEP)",
+      "conviction": 7
+    },
+    {
+      "rank": 8,
+      "idea": "Avoid Palantir (PLTR)",
+      "conviction": 9
+    },
+    {
+      "rank": 9,
+      "idea": "Do not buy Visa (V) or Mastercard (MA)",
+      "conviction": 9
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "A downside risk would be if President Trump didn't like how quickly the tariff negotiations were going and he did the hard stop on July 9th.",
+    "Biggest downside risk for Albemarle would be if the Chinese government did an about face and they said we're no longer going to subsidize our green initiative."
+  ],
+  "technical_takeaways": "Small caps are outperforming, indicating a risk-on environment. The Magnificent Seven are back to the top of their range. US stock valuations are at a 75-year high relative to the rest of the world, suggesting international exposure is warranted."
+}

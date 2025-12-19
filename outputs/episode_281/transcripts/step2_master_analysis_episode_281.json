@@ -1,0 +1,249 @@
+{
+  "episode_number": "281",
+  "episode_date": "2025-03-06",
+  "executive_summary": "Tom Hayes is extremely bullish on international stocks, particularly Chinese tech (specifically Alibaba), small caps, and select healthcare and home-building related stocks. He believes the market is in a rotation out of the overvalued Mag 7 and into these undervalued areas. He sees a technical bounce coming for Mag 7 but expects range-bound trading while other sectors outperform. He emphasizes the importance of focusing on Japanese and European bond yields and sees potential for a significant rally through the summer, especially if the Fed cuts rates sooner than expected.",
+  "tom_current_conviction": {
+    "overall_market": "Bullish",
+    "score_1_to_10": 9,
+    "key_reasons": [
+      "International stocks are dramatically outperforming.",
+      "Small caps are poised for a rippy face off rally.",
+      "The 10-year yield is rolling over, favoring growth outside of the crowded Mag 7.",
+      "Earnings growth is accelerating outside of the Mag 7.",
+      "The Fed is likely to cut rates sooner than expected."
+    ]
+  },
+  "macro_thesis_summary": "The market is undergoing a rotation from overvalued, crowded trades (Mag 7) to undervalued sectors like international stocks, small caps, and select value plays. This rotation is driven by decelerating earnings growth in the Mag 7, a weakening US dollar, compressing bond yields, and the potential for Fed rate cuts. Trump 2.0 will bring volatility but ultimately resolve to the upside.",
+  "key_macro_data_points": [
+    {
+      "indicator": "Japanese Government Bond (JGB) Yields",
+      "value": "Rising",
+      "tom_interpretation": "Rising JGB yields are unwinding the carry trade that supported the Mag 7, putting pressure on those stocks and freeing up capital to flow into undervalued markets."
+    },
+    {
+      "indicator": "US 10-Year Treasury Yield",
+      "value": "Rolling Over",
+      "tom_interpretation": "The 10-year yield is rolling over, signaling potential for lower mortgage rates and increased growth in sectors like homebuilding and autos."
+    },
+    {
+      "indicator": "US GDP Now (Q1)",
+      "value": "Negative -2.4%",
+      "tom_interpretation": "While potentially inaccurate, this negative GDP print, if realized, could force the Fed to cut rates sooner than expected, boosting risk assets."
+    },
+    {
+      "indicator": "Mag 7 Earnings Growth",
+      "value": "Decelerating from 33% to 16%",
+      "tom_interpretation": "Decelerating earnings growth in the Mag 7 makes their high multiples unsustainable, driving a rotation to sectors with accelerating growth and lower valuations."
+    },
+    {
+      "indicator": "S&P 600 Earnings Growth",
+      "value": "Accelerating to 21%",
+      "tom_interpretation": "Small caps are poised to outperform due to their accelerating earnings growth and low valuations."
+    }
+  ],
+  "featured_company_deep_dives": {
+    "PYPL": {
+      "thesis_summary": "PayPal is dramatically undervalued with a new CEO, Alex Chriss, who is underpromising and overdelivering. The market is overlooking the company's strong free cash flow, buyback program, and growth opportunities in branded checkout and advertising.",
+      "key_metrics": [
+        "Strong free cash flow generation ($7-8 billion)",
+        "15% stock buyback program",
+        "800 basis point improvement in transaction margin",
+        "Growth in branded checkout and advertising"
+      ],
+      "price_target_or_valuation": "$120-$150 per share",
+      "conviction": "High",
+      "action": "Buy on dips"
+    },
+    "AAP": {
+      "thesis_summary": "Advanced Auto Parts is undergoing a successful turnaround under CEO Shane O'Kelly, who is executing a clear plan to improve supply chain and reverse sales slump. The market is underestimating the potential for a significant recovery in the stock price.",
+      "key_metrics": [
+        "7% operating margin (target)",
+        "Improved supply chain",
+        "Store closures and consolidation",
+        "Strong free cash flow"
+      ],
+      "price_target_or_valuation": "$186-$244 (based on historical operating income)",
+      "conviction": "High",
+      "action": "Buy on dips"
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 10,
+      "price_target_or_upside": "Doubling from current levels",
+      "actionable": "Buy on dips",
+      "position_status": "Largest position",
+      "key_quotes": [
+        "Every single dip in Alibaba we bought because it was the cheapest amount of value for the highest earnings growth and upside opportunity.",
+        "When it turns, it turns all at once, and you know, yeah, 60% in a few weeks, but it's early days for the China trade.",
+        "Mainland buying Baba like it's going out of style."
+      ]
+    },
+    {
+      "ticker": "PYPL",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "$120-$150",
+      "actionable": "Buy on dips",
+      "position_status": "Existing position",
+      "key_quotes": [
+        "Somewhere around $120-$150 per share people are going to figure it out.",
+        "It's trading at a dramatic discount to intrinsic value.",
+        "It's got an incredible catalyst with Alex Chriss running the ship."
+      ]
+    },
+    {
+      "ticker": "AAP",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "$186-$244",
+      "actionable": "Buy on dips",
+      "position_status": "Existing position",
+      "key_quotes": [
+        "You can't give it away.",
+        "With the balance sheet healthy with a competent management executing on the plan.",
+        "It's raining gold, we're pulling out the buckets."
+      ]
+    },
+    {
+      "ticker": "S&P 600",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "Significant upside",
+      "actionable": "Buy",
+      "position_status": "Not specified",
+      "key_quotes": [
+        "Small caps S&P 600 21% earnings growth you can't give these away they're in the gutter right now because of the Tariff noise but that that's going to get resolved"
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "Significant upside",
+      "actionable": "Buy",
+      "position_status": "Not specified",
+      "key_quotes": [
+        "Intel is going to be a money machine and no one is prepared for that except for the folks listening here",
+        "Nvidia and broadcom are already testing the production in their 18a facility which is showing really good results and will probably be live before the end of the year and hockey stick and no one's expecting"
+      ]
+    },
+    {
+      "ticker": "GXO",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "Significant upside",
+      "actionable": "Buy",
+      "position_status": "Existing position",
+      "key_quotes": [
+        "That should bode well for gxo in coming quarters once the CMA stuff is pretty much resolved and the new CEO is announced which will be a rock star if passes any prologue as it relates to the type of people that Brad Jacobs attracts"
+      ]
+    },
+    {
+      "ticker": "CSX",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "Significant upside",
+      "actionable": "Buy",
+      "position_status": "Existing position",
+      "key_quotes": [
+        "Comstock has more upside on a multiple basis so we're already at double and a half on 2 and a half X on comto resources I wouldn't bet on aache even being a double and I think Comstock is going to probably double again from here so that'll be like four 5x"
+      ]
+    },
+    {
+      "ticker": "UMORE",
+      "tom_sentiment": "Potentially Bullish",
+      "conviction": 6,
+      "price_target_or_upside": "Doubler",
+      "actionable": "Further Research",
+      "position_status": "Not specified",
+      "key_quotes": [
+        "This thing is a falling knife but uh you could have an opportunity there I would really love to see this CEO fired who made an all-in bet on battery recycling oh excuse me former CEO I think he might have some I think this is worth looking into"
+      ]
+    },
+    {
+      "ticker": "CELSIUS",
+      "tom_sentiment": "Potentially Bullish",
+      "conviction": 6,
+      "price_target_or_upside": "Doubler Triple",
+      "actionable": "Further Research",
+      "position_status": "Not specified",
+      "key_quotes": [
+        "This one's definitely worth doing more work on because I do think you can get a doubler triple if you're right"
+      ]
+    },
+    {
+      "ticker": "GREG",
+      "tom_sentiment": "Potentially Bullish",
+      "conviction": 6,
+      "price_target_or_upside": "Doubler",
+      "actionable": "Further Research",
+      "position_status": "Not specified",
+      "key_quotes": [
+        "I think if you're longterm you're probably going to be okay but I don't know the business so you got to really understand the business like is there something wrong with the business has it fallen out of fashion or is it just a normal cyclical trough"
+      ]
+    }
+  ],
+  "new_or_recent_additions": [],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy Alibaba on dips",
+      "conviction": 10
+    },
+    {
+      "rank": 2,
+      "idea": "Buy PayPal on dips",
+      "conviction": 9
+    },
+    {
+      "rank": 3,
+      "idea": "Buy Advanced Auto Parts on dips",
+      "conviction": 9
+    },
+    {
+      "rank": 4,
+      "idea": "Buy S&P 600",
+      "conviction": 8
+    },
+    {
+      "rank": 5,
+      "idea": "Buy Intel",
+      "conviction": 7
+    },
+    {
+      "rank": 6,
+      "idea": "Buy GXO Logistics",
+      "conviction": 7
+    },
+    {
+      "rank": 7,
+      "idea": "Buy Comstock Resources",
+      "conviction": 7
+    },
+    {
+      "rank": 8,
+      "idea": "Further Research Umore",
+      "conviction": 6
+    },
+    {
+      "rank": 9,
+      "idea": "Further Research Celsius",
+      "conviction": 6
+    },
+    {
+      "rank": 10,
+      "idea": "Further Research Greggs",
+      "conviction": 6
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Tariff fears are overblown and will likely be resolved.",
+    "Recency bias is blinding investors to the potential of international stocks and small caps.",
+    "The market is underestimating the impact of passive deregulation under Trump 2.0.",
+    "The consensus is too bearish on the economy and the potential for earnings growth outside of the Mag 7."
+  ],
+  "technical_takeaways": "The Mag 7 are due for a technical bounce but will likely trade in a range while other sectors outperform. The 10-year yield is rolling over, signaling lower rates and potential for growth in sectors like homebuilding and autos. Several indicators point to a technical bounce in the coming weeks."
+}

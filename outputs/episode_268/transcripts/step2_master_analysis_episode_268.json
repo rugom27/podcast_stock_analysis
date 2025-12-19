@@ -1,0 +1,305 @@
+{
+  "episode_number": "268",
+  "episode_date": "2024-12-05",
+  "executive_summary": "Tom Hayes reviews market trends, highlighting potential opportunities in bonds, emerging markets, and specific stocks like Etsy, Albemarle, and Intel. He emphasizes the importance of value investing, taking advantage of market fluctuations, and understanding macro trends.",
+  "tom_current_conviction": {
+    "overall_market": "Bullish, anticipating a continued bull run with potential for significant gains in specific sectors and stocks.",
+    "score_1_to_10": 9,
+    "key_reasons": [
+      "Anticipated bidding of bonds in 2025 due to Scott Bessent's treasury plan.",
+      "Expected weakening of the US dollar, benefiting emerging markets and China.",
+      "Positive outlook on specific turnaround situations like Etsy, Albemarle and Intel."
+    ]
+  },
+  "macro_thesis_summary": "Hayes anticipates a shift in market leadership from large-cap tech to unmagnified stocks and small caps. He expects bonds to get bid, yields to compress, and the US dollar to weaken. He sees opportunities in emerging markets and China, driven by stimulus and economic recovery. He also believes that the manufacturing recession is ending, fueling the next phase of the bull market.",
+  "key_macro_data_points": [
+    {
+      "indicator": "US Auto Sales SAR",
+      "value": "16.5 million",
+      "tom_interpretation": "This level could lead Cooper Standard to earn potentially more than $7 a share, similar to 2017 levels. This is amazing news."
+    },
+    {
+      "indicator": "Bank of America projects policy easing in 2025",
+      "value": "Near 100 basis points",
+      "tom_interpretation": "Hayes will take the under on that. He thinks the Fed might do one cut in December, then wait until March for further action."
+    },
+    {
+      "indicator": "US boom versus global bust",
+      "value": "3.3 standard deviations",
+      "tom_interpretation": "This presents an asymmetric opportunity. \"Go ahead and bet against that but if you don't take advantage of asymmetric opportunities with some portion of your portfolio you're never going to get seriously rich.\""
+    },
+    {
+      "indicator": "China Manufacturing PMI",
+      "value": "Turning up from negative to positive",
+      "tom_interpretation": "All the things in the stimulus that people are impatient about are coming through."
+    }
+  ],
+  "featured_company_deep_dives": {
+    "Etsy": {
+      "thesis_summary": "Etsy is a turnaround story, significantly undervalued after a major drop. It maintains a large user base and free cash flow, with growth potential in international markets, men's products, gifting, and loyalty programs.",
+      "key_metrics": [
+        "Third most trafficked retail website with 92 million users",
+        "Free cash flow generation is reaccelerating",
+        "Billion-dollar buyback authorization"
+      ],
+      "conviction": "High. Hayes likes this one.",
+      "action": "Buy"
+    },
+    "Albemarle": {
+      "thesis_summary": "Albemarle is a materials play with exposure to lithium production, benefiting from the increasing demand for EVs, particularly in China. It is currently undervalued due to short-term lithium overcapacity, presenting a buying opportunity.",
+      "key_metrics": [
+        "Estimates are for 18.9% earnings growth for 2025",
+        "Solid return on capital and equity",
+        "Low-cost lithium production in Chile"
+      ],
+      "conviction": "High. Hayes wants more materials exposure and hopes for a few more bad days on Albemarle to make it a real position.",
+      "action": "Buy on dips"
+    },
+    "Intel": {
+      "thesis_summary": "Intel is a turnaround situation with a potential new CEO who could revitalize the company. Despite current challenges, Intel holds a significant market share in traditional PCs and servers, making it a potentially lucrative investment.",
+      "key_metrics": [
+        "65% of the market for traditional PCs",
+        "85% of the server market",
+        "Potential for a new CEO to drive positive change"
+      ],
+      "price_target_or_valuation": "Legacy business worth $45-$50. Potential 5x+ bagger if they get their head on straight.",
+      "conviction": "Moderate. Hayes believes the business is worth $45 to $50 on the legacy business and may be a five plus bagger if they actually get their head on straight.",
+      "action": "Hold. Reinitiate position."
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "ETSY",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Buy",
+      "key_quotes": [
+        "Etsy has been left for dead Etsy was a covid darling the stock is down 85% but what most people don't realize it's the third most trafficed retail website 92 million users and what's really interesting about that Brian is that they don't compete it's not a race to the bottom on prices because the things you can get on Etsy you can get nowhere else and this is a company that while the stock is down 85% they've been able to maintain all the users they picked up during covid and maintain the free cash flow generation is reaccelerating 600 million plus trailing 12 months a billion doll buyback authorization growth in international growth in men's growth in gifting growth in loyalty programs we like this one"
+      ]
+    },
+    {
+      "ticker": "ALB",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Buy on dips",
+      "key_quotes": [
+        "Alam Maro is in keeping with our theme to find more materials exposure in 2025 as the sector has been decimated and earnings growth is expected to recover handsomely estimates are for 18.9% earnings growth",
+        "We're buying it like Buffett said oh in this one four available at a very attractive price that is the key that most people forget"
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "I know for certain that the business is worth $45 to $50 on the Legacy business and we've said that since day one",
+        "It'll run back up to 45 at some point and then we're going to decide is it all that it is just a just another double and we're out uh or has something changed and they can they become a real player with the big boys and girls and uh take advantage of some of these major trends that are happening over the next five years I think it's going to be the ladder and I think at 45 we're going to be hodlers to a lot higher 80 90 100"
+      ]
+    },
+    {
+      "ticker": "GXO",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 10,
+      "price_target_or_upside": "$100",
+      "actionable": "Buy",
+      "position_status": "Increased position",
+      "key_quotes": [
+        "I'm super excited that they didn't sell it and I'm more excited that I was able to get more people more positioning uh where available uh across the accounts today and take advantage of that opportunity",
+        "Anything below 100 I think in this stock over the next three years is going to be a bargain so excited about that"
+      ]
+    },
+    {
+      "ticker": "QXO",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Hold",
+      "key_quotes": [
+        "And we own a position in qxo and we own a position uh in gxo uh a big position which got a lot bigger this morning"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "tom_sentiment": "Neutral to Bearish",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "At 40 time sales as we move from training the models which is where gpus are the most critical and the spend for gpus is the most important thing two the more efficient part of the AI process which we're slowly shifting into which is inference inference can be done on more basic chips with lower energy use lower demand uh more chips but lower quality chips that's where the amds of the world and the intels of the world are going to start to arise from the dead and the and the p is going to be split up a little bit better so uh on that basis maybe they can e out a couple more quarters of stock growth but uh where it's priced I think uh it's it's certainly makes sense that it's consolidating and stalling a little bit and maybe even pulling back."
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Buy",
+      "key_quotes": [
+        "Baba what did it do after Trump got elected in 16 kept selling down which is what it's been doing before the inauguration on January 1 as soon as the calendar year turned and the tax loss selling was done went straight up and never looked back from $84 to $187 in 11 months",
+        "I'd rather play it through Baba because they've got the cloud business"
+      ]
+    },
+    {
+      "ticker": "AAP",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Advanced Auto Parts I hadn't planned to talk about it they got a debt downgrade duh uh this week it sold off and now it's back up 10% from where it sold off to which is pretty exciting to see so it was a final sell uh people selling in the hole and uh all the all the weak money's out now and uh Shane Shane o Kelly can can go execute on the dense plan in the number one and two month markets which we talked about two weeks ago super excited about that"
+      ]
+    },
+    {
+      "ticker": "TLT",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "actionable": "Buy",
+      "key_quotes": [
+        "TLT okay so sold off big which means yields went up after Trump was elected we had the same thing now and then slightly before the inauguration and then a little choppiness after but the whole following year bonds got bid yields compressed I think that's going to be the biggest surprise"
+      ]
+    },
+    {
+      "ticker": "XLE",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "XLE same thing people think it'll be strong probably won't be as strong as people think certainly in that first year"
+      ]
+    },
+    {
+      "ticker": "AXA",
+      "tom_sentiment": "Very Bearish",
+      "conviction": 2,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "I would never consider European Bank they're the biggest garbage businesses in the history of humanity"
+      ]
+    },
+    {
+      "ticker": "BNP",
+      "tom_sentiment": "Very Bearish",
+      "conviction": 2,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "I would never consider European Bank they're the biggest garbage businesses in the history of humanity"
+      ]
+    },
+    {
+      "ticker": "UBS",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "actionable": "Hold",
+      "key_quotes": [
+        "With the exception of UBS which is a high quality business that a good friend works at"
+      ]
+    },
+    {
+      "ticker": "DEUTSCHE BANK",
+      "tom_sentiment": "Very Bearish",
+      "conviction": 2,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "I would never consider European Bank they're the biggest garbage businesses in the history of humanity"
+      ]
+    },
+    {
+      "ticker": "MPW",
+      "tom_sentiment": "Very Bearish",
+      "conviction": 2,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "I think you're playing with fire here I would avoid even though the trade will probably work in the short term in the long term it's not a good business"
+      ]
+    },
+    {
+      "ticker": "INTEL",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "I honestly don't think they had to fire gelsinger um but I think there's a possibility that because they did his planning his plan coming through under a different face will get the stock accelerated much faster than his plan coming through under his own face"
+      ]
+    },
+    {
+      "ticker": "BBWI",
+      "tom_sentiment": "Neutral",
+      "conviction": 4,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "I don't like this business yes I have we've looked at it on the podcast it looks fine I don't want to be involved"
+      ]
+    },
+    {
+      "ticker": "NKE",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "This was very interesting I was doing Channel checks everywhere and this was the Nike flagship store there were no lines outside but it was it was pretty busy inside I know we've talked about that this right"
+      ]
+    },
+    {
+      "ticker": "CRM",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "December's been the best month for small relative to large caps I think we're going to see a follow through on that despite today was led by Tech because CRM said the word Ai and their results and everyone got excited"
+      ]
+    },
+    {
+      "ticker": "BA",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Boeing's got 10 years of backlog that's what's albam Maro is going to be"
+      ]
+    },
+    {
+      "ticker": "EL",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "China is going to go through the roof whether that's Starbucks whether that's Estee louder whether that's her whether that's Nike whether that's Lulu whether that's Alibaba whether that's albam Maro SE louder"
+      ]
+    }
+  ],
+  "new_or_recent_additions": [
+    "GXO",
+    "ALB"
+  ],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy GXO Logistics",
+      "conviction": 10
+    },
+    {
+      "rank": 2,
+      "idea": "Buy TLT (Long Bonds)",
+      "conviction": 9
+    },
+    {
+      "rank": 3,
+      "idea": "Buy BABA (Alibaba)",
+      "conviction": 8
+    },
+    {
+      "rank": 4,
+      "idea": "Buy Etsy",
+      "conviction": 8
+    },
+    {
+      "rank": 5,
+      "idea": "Buy Albemarle on Dips",
+      "conviction": 7
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Corporate insiders are selling at all-time highs, but this is often early.",
+    "High enthusiasm levels in the market, but not at extreme crash levels.",
+    "Potential for a correction in Magnificent 7 stocks in 2025."
+  ],
+  "technical_takeaways": "The S&P 500 typically experiences a choppy first half of December before a year-end rally. Small caps are breaking out. Materials sector is poised for a recovery.",
+  "publish_date": "2024-12-05"
+}

@@ -1,0 +1,280 @@
+{
+  "episode_number": "284",
+  "executive_summary": "Tom Hayes is extremely bullish, stating it's time to be a buyer, not a seller. He sees a bottom forming and highlights contrarian indicators such as record put buying by retail investors and insider buying. He anticipates a market rally through the summer, driven by factors like the unwinding of the carry trade and potential policy shifts. He emphasizes focusing on high-quality businesses and playing the 'time Arbitrage game'. He also discusses potential for a Mara Lago Accord leading to a Chinese asset price bubble.",
+  "tom_current_conviction": {
+    "overall_market": "Bullish",
+    "score_1_to_10": 9,
+    "key_reasons": [
+      "Market bottomed a couple weeks ago",
+      "Going to be straight up to the summer",
+      "Sell the rumor, buy the news on tariffs"
+    ]
+  },
+  "macro_thesis_summary": "Hayes believes the market is poised for a rally, driven by contrarian indicators and potential policy shifts. He anticipates a weaker dollar, benefiting international equities and US multinationals. He also sees a potential housing boom driven by federal land development and policy changes, but also acknowledges potential for a housing price correction in certain areas.",
+  "key_macro_data_points": [
+    {
+      "indicator": "AAII Sentiment Survey",
+      "value": "21% bullish, 58% bearish",
+      "tom_interpretation": "Sentiment is flushed out, creating a buying opportunity."
+    },
+    {
+      "indicator": "Corporate Insider Buying",
+      "value": "Largest extent since the lows in 2022",
+      "tom_interpretation": "Smart money is buying back stock."
+    },
+    {
+      "indicator": "Housing Supply Gap",
+      "value": "3.8 million units",
+      "tom_interpretation": "Indicates potential for a housing boom, especially with new policies."
+    },
+    {
+      "indicator": "10-year JGB Yield",
+      "value": "Rising to 20-year high",
+      "tom_interpretation": "Driving the unwind of the carry trade, impacting crowded trades like the Magnificent 7."
+    }
+  ],
+  "featured_company_deep_dives": {},
+  "all_stock_opinions": [
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "Going a lot higher",
+      "actionable": "Hold/Accumulate",
+      "position_status": "Existing",
+      "key_quotes": [
+        "Baba a lot of people miss that I mean it's going a lot higher there's no question about it but you know we're now up 120% off the lows",
+        "This is standard Fair ladies and gentlemen because you just get the dumb money that come in right after you have the massive rallies then you take them all out and then you take the next huge leg up and then they'll buy up here at 160 take it back to 140 before you let them off the bus and then you go straight to 200 plus and that's the way the game works"
+      ]
+    },
+    {
+      "ticker": "BAX",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "New highs",
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "Baxter ... again this is a defensive stock they take a you know year year and a half two years to base every cycle here we are and then it just goes straight up and it recaptures new highs why because it has a moat the IV business it's the switching costs are high their pumps are fantastic and they got rid of the lowquality business the low growth business called the kidney business and you can't give it away and that's what happens right before they go to the room"
+      ]
+    },
+    {
+      "ticker": "CPS",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "A ton higher from here",
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "This one's going to be a fantastic one for us",
+        "I'm probably taking some off at where I intended which I didn't publicly disclose at all so ... all I can say is it's a ton higher from here"
+      ]
+    },
+    {
+      "ticker": "DIS",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "New highs and beyond",
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "Disney I like here I I would put new money to work but ... this is going to take a few years and it's going to work its way back to New highs and Beyond"
+      ]
+    },
+    {
+      "ticker": "ALB",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "Monster",
+      "actionable": "Hold",
+      "position_status": "New Addition",
+      "key_quotes": [
+        "Materials uh this one I think there's immense opportunities we've got albam Maro I think that's going to be a monster for us uh relatively new position"
+      ]
+    },
+    {
+      "ticker": "SBLK",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "Three bagger",
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "We continue to have exposure through Comstock which has been a home run uh probably be a three bagger within within a few months from where we bought"
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "Soar",
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "Intel stock could soar if this Nvidia rumor is true",
+        "Intel is closing in on scoring Nvidia as a Foundry customer"
+      ]
+    },
+    {
+      "ticker": "QXO",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 10,
+      "price_target_or_upside": "Seven to 10 bagger",
+      "actionable": "Buy and set and forget",
+      "position_status": "Existing",
+      "key_quotes": [
+        "The ones that are going to benefit are going to be the homeb Building Supplies Distributors and those type of businesses like qxo with Brad Jacobs which we own and uh had had an opportunity to be able to participate in the early days that is one that you just buy and you wake up in eight years and you've got a seven to 10 bagger I mean that's how Brad Jacob rolls and uh the guy's a winner he knows how how to do a creative Acquisitions he knows how to add technology value add to drive profits synergies and then he knows how to play the multiple Arbitrage games so yes he paid up for Beacon but you can you can be sure tucks and um um Acquisitions in a fragmented Market he's going to be able to buy at lower multiples and get the public market multiple um Arbitrage and it's going to be fantastic so excited for that"
+      ]
+    },
+    {
+      "ticker": "VF CORP",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "Seven bagger",
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "Rallies off the lows checks back takes everyone off the bus and then goes back on to new highs same thing here rallies makes everyone doubt it and then back to to new highs so it takes a little while to consolidate and Brad Brack and Daryl's going to take this thing back up to new highs and it's going to be you know a handful of years but off of a 13 $15 basis you're going to wind up with a seven bagger so I mean you know uh or you can just switch to the next shiny object and keep missing great opportunities"
+      ]
+    },
+    {
+      "ticker": "BA",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "Previous levels in 2018 when the stock was $400 revenues were 101 billion earnings per share 17.85%",
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "Boeing update and all the turnarounds that Kelly um ortberg has brought to bear and how sentiment is starting to shift from pessimism to optimism and from losses to wins and you want to go through this Q&A word for word because when you see what's happening you're going to realize why we've been pounding the table on Boeing for so long uh whether it was at 138 or 1 this thing is just getting started"
+      ]
+    },
+    {
+      "ticker": "AAP",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "N/A",
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "If new as new clients money is being put to work is Advanced Auto Parts in the mix and the answer is yes"
+      ]
+    },
+    {
+      "ticker": "XOM",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "I remember buying Exxon at $33 when oil was negative and pounding the table on the podcast went a little against us before it went off took absolutely took off and then we were laying off in 2022 and everyone was getting excited about it and they basically done nothing since"
+      ]
+    },
+    {
+      "ticker": "NKE",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "N/A",
+      "actionable": "Wait",
+      "position_status": "Potential",
+      "key_quotes": [
+        "Nike will be back over time just not yet and not as soon as most people think"
+      ]
+    },
+    {
+      "ticker": "UPS",
+      "tom_sentiment": "Neutral",
+      "conviction": 4,
+      "price_target_or_upside": "N/A",
+      "actionable": "Pass",
+      "position_status": "Potential",
+      "key_quotes": [
+        "UPS I'm interested in but it's not been beaten down enough yet for me to get super interested so ... there's not enough margin of safety for me to get excited yet"
+      ]
+    },
+    {
+      "ticker": "CNM",
+      "tom_sentiment": "Bearish",
+      "conviction": 2,
+      "price_target_or_upside": "N/A",
+      "actionable": "Pass",
+      "position_status": "Avoid",
+      "key_quotes": [
+        "CNM cash flow is eroding price hasn't eroded commensurate with the deterioration in cash flow so tell me how they're going to turn this back around and I'll take another look but for now it just looks like it's you missed it"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "Potential",
+      "key_quotes": [
+        "Nvidia Intel is the only game in town to solve their problem"
+      ]
+    }
+  ],
+  "new_or_recent_additions": [
+    "ALB"
+  ],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy QXO",
+      "conviction": 10
+    },
+    {
+      "rank": 2,
+      "idea": "Buy Boeing",
+      "conviction": 9
+    },
+    {
+      "rank": 3,
+      "idea": "Hold BABA",
+      "conviction": 9
+    },
+    {
+      "rank": 4,
+      "idea": "Hold CPS",
+      "conviction": 9
+    },
+    {
+      "rank": 5,
+      "idea": "Hold BAX",
+      "conviction": 8
+    },
+    {
+      "rank": 6,
+      "idea": "Hold INTC",
+      "conviction": 8
+    },
+    {
+      "rank": 7,
+      "idea": "Buy AAP",
+      "conviction": 8
+    },
+    {
+      "rank": 8,
+      "idea": "Buy DIS",
+      "conviction": 7
+    },
+    {
+      "rank": 9,
+      "idea": "Hold XOM",
+      "conviction": 7
+    },
+    {
+      "rank": 10,
+      "idea": "Wait for NKE",
+      "conviction": 5
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Potential housing price correction in certain areas due to Chinese capital flows reversing.",
+    "Market volatility due to the unwind of the carry trade.",
+    "Tariffs are a known risk and largely priced in."
+  ],
+  "technical_takeaways": "Market likely bottomed a couple weeks ago and is poised to rally through the summer. International stocks are outperforming US stocks. Small cap value is starting to outperform.",
+  "episode_date": "2025-03-27"
+}

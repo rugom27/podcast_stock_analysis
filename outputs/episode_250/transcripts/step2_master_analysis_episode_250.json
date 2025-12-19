@@ -1,0 +1,491 @@
+{
+  "episode_number": "250",
+  "episode_date": "2024-08-01",
+  "executive_summary": "Tom Hayes discusses the market rotation from Magnificent Seven to un-magnified stocks, small caps, and cyclicals. He emphasizes the importance of earnings growth and the potential for significant outperformance in these areas. He also highlights specific stock picks like PayPal, Stanley Black & Decker, Disney and GXO Logistics. He notes the shift in Japan's monetary policy and its potential impact on global liquidity. He anticipates short-term volatility ahead of the election and the Fed meeting in September, followed by a year-end rally.",
+  "tom_current_conviction": {
+    "overall_market": "Bullish on rotation into un-magnified stocks, small caps, and cyclicals, but cautious about short-term volatility.",
+    "score_1_to_10": 8,
+    "key_reasons": [
+      "Earnings growth is accelerating in the un-magnified stocks and small caps.",
+      "The cost of capital cycle supports the outperformance of these sectors.",
+      "Japan's tightening monetary policy creates a need for the Fed to ease.",
+      "The destocking cycle has bottomed and is starting to turn up."
+    ]
+  },
+  "macro_thesis_summary": "The key macro themes are the rotation from growth to value, the shift in Japan's monetary policy from liquidity provider to extractor, and the potential for the Fed to ease in response to weakening economic data. The destocking cycle is ending, and a restocking cycle is beginning, which is positive for cyclicals and manufacturing.",
+  "key_macro_data_points": [
+    {
+      "indicator": "Japan's Monetary Policy",
+      "value": "Shift from quantitative easing to tightening",
+      "tom_interpretation": "This creates a liquidity shock and puts pressure on the Fed to ease."
+    },
+    {
+      "indicator": "Destocking Cycle",
+      "value": "Bottomed and starting to turn up",
+      "tom_interpretation": "This is positive for cyclicals and manufacturing."
+    },
+    {
+      "indicator": "Earnings Growth",
+      "value": "Accelerating in un-magnified stocks and small caps, decelerating in Magnificent Seven",
+      "tom_interpretation": "This supports the rotation from growth to value."
+    },
+    {
+      "indicator": "US Dollar Japanese Yen",
+      "value": "Japanese yen is collapsing",
+      "tom_interpretation": "That's going to be good in time for China"
+    }
+  ],
+  "featured_company_deep_dives": {
+    "PYPL": {
+      "thesis_summary": "PayPal is a turnaround story with a new CEO, strong free cash flow, and increasing share repurchases. The company is reaccelerating growth and expanding its partnerships.",
+      "key_metrics": [
+        "Revenues up 8%",
+        "Earnings up 177%",
+        "Payment volume up 11%",
+        "Free cash flow $6 billion per year",
+        "Share repurchases increased to $6 billion"
+      ],
+      "price_target_or_valuation": "Not specified, but expected to continue to move up.",
+      "conviction": "High",
+      "action": "Buy"
+    },
+    "SWK": {
+      "thesis_summary": "Stanley Black & Decker is benefiting from lower inventory destocking costs, supply chain transformation, and cost reductions. The company is raising its earnings guidance and free cash flow.",
+      "key_metrics": [
+        "Organic Revenue growth led by DeWalt",
+        "Gross margin up 600 basis points to 28.4%",
+        "Free cash flow was 486 million",
+        "Earnings guidance raised"
+      ],
+      "price_target_or_valuation": "Implied $80/share based on historic multiple.",
+      "conviction": "High",
+      "action": "Buy"
+    },
+    "DIS": {
+      "thesis_summary": "Disney is undervalued, with the market assigning zero value to Disney+, ESPN, Hulu, TV networks, and movie theatrical releases. The parks and experiences business is worth about $80 a share, and the stock could double over the next three to five years.",
+      "key_metrics": [
+        "Parks and experiences do about $10 billion of ebitda",
+        "Disney+ has 153 million subscriptions",
+        "Potential for $15 billion of ebit from streaming and media"
+      ],
+      "price_target_or_valuation": "$180-$200 in the next three years",
+      "conviction": "High",
+      "action": "Buy"
+    },
+    "GXO": {
+      "thesis_summary": "GXO Logistics is a boring business with a huge total addressable market and a track record of success under Brad Jacobs. The company is expected to nearly double adjusted EBITDA by 2027.",
+      "key_metrics": [
+        "Total addressable market of $430 billion",
+        "Only 5% market share",
+        "Expected to nearly double adjusted EBITDA by 2027"
+      ],
+      "price_target_or_valuation": "Potential to double or more over the next few years.",
+      "conviction": "High",
+      "action": "Buy"
+    },
+    "MMM": {
+      "thesis_summary": "3M is a turnaround story with a new CEO, increasing guidance, and a strong balance sheet. The company is generating free cash flow and returning capital to shareholders.",
+      "key_metrics": [
+        "Organic growth up modestly",
+        "Gap EPS up 117%",
+        "Adjusted EPS up 39%",
+        "Adjusted free cash flow was 1.2 billion"
+      ],
+      "price_target_or_valuation": "Not specified",
+      "conviction": "High",
+      "action": "Buy"
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "PYPL",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "Not specified, but expected to continue to move up.",
+      "actionable": "Buy",
+      "position_status": "Held",
+      "key_quotes": [
+        "We love PayPal we've lik that for a while it's been dead money for a number of months but I think today was the Breakthrough quarter",
+        "How many turnaround quote unquote turnaround situations do you see that they're generating six6 billion dollars of cash per year and you can't give the stock away"
+      ]
+    },
+    {
+      "ticker": "SWK",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "Implied $80/share based on historic multiple.",
+      "actionable": "Buy",
+      "position_status": "Held",
+      "key_quotes": [
+        "If you believe in construction and you believe in manufacturing and you believe there's going to be an increased demand for tools and you believe in the housing shortage and you believe that uh that the Millennials are going to continue housing formation for the next five years you want to own Stanley Black and& Decker or at least we own it"
+      ]
+    },
+    {
+      "ticker": "DIS",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "$180-$200 in the next three years",
+      "actionable": "Buy",
+      "position_status": "Held",
+      "key_quotes": [
+        "You can't give Disney stock away",
+        "The market is assigning zero value to Disney plus",
+        "The stock could over the next three to five years in our in our opinion could be $180 to $200 stock"
+      ]
+    },
+    {
+      "ticker": "GXO",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "Potential to double or more over the next few years.",
+      "actionable": "Buy",
+      "position_status": "Held",
+      "key_quotes": [
+        "This one as well could be double double plus over the next handful of years",
+        "Huge track record of success and a huge total addressable Market of 430 billion which they've only got about 5%"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "tom_sentiment": "Cautious",
+      "conviction": 6,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "Held",
+      "key_quotes": [
+        "AI arms dealers are the short-term winners Nvidia",
+        "Nvidia's margin is going to be Intel opportunity"
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "tom_sentiment": "Neutral",
+      "conviction": 6,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "Held",
+      "key_quotes": [
+        "Nvidia's margin is going to be Intel opportunity"
+      ]
+    },
+    {
+      "ticker": "AMD",
+      "tom_sentiment": "Neutral",
+      "conviction": 6,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "N/A",
+      "key_quotes": [
+        "AI arms dealers are the short-term winners Nvidia AMD and Intel"
+      ]
+    },
+    {
+      "ticker": "MMM",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "N/A",
+      "actionable": "Buy",
+      "position_status": "Held",
+      "key_quotes": [
+        "When they go they go all at once"
+      ]
+    },
+    {
+      "ticker": "BAC",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Re-enter on pullback",
+      "position_status": "Reduced",
+      "key_quotes": [
+        "I do want to get back into those because I don't think the banking cycle has even begun yet"
+      ]
+    },
+    {
+      "ticker": "C",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Re-enter on pullback",
+      "position_status": "Reduced",
+      "key_quotes": [
+        "City was a big move pulls back we can add add back"
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "N/A",
+      "key_quotes": [
+        "Tesla people are underestimating this demand for grid storage probably by orders of magnitude which helps gener"
+      ]
+    },
+    {
+      "ticker": "GE",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "N/A",
+      "key_quotes": [
+        "Tesla people are underestimating this demand for grid storage probably by orders of magnitude which helps gener"
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "tom_sentiment": "Bearish",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Underperform",
+      "position_status": "N/A",
+      "key_quotes": [
+        "Microsoft 77% growth in capex and a 15% growth in Revenue means their margins are going to go to hell in the short term which is why this rotation is going to be sustained"
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "N/A",
+      "key_quotes": [
+        "N/A"
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "N/A",
+      "key_quotes": [
+        "N/A"
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "N/A",
+      "key_quotes": [
+        "All these things are happening in the background and then they're all going to matter all at once"
+      ]
+    },
+    {
+      "ticker": "UBER",
+      "tom_sentiment": "Negative",
+      "conviction": 6,
+      "price_target_or_upside": "N/A",
+      "actionable": "Underperform",
+      "position_status": "N/A",
+      "key_quotes": [
+        "N/A"
+      ]
+    },
+    {
+      "ticker": "FDX",
+      "tom_sentiment": "Negative",
+      "conviction": 6,
+      "price_target_or_upside": "N/A",
+      "actionable": "Underperform",
+      "position_status": "N/A",
+      "key_quotes": [
+        "N/A"
+      ]
+    },
+    {
+      "ticker": "UPS",
+      "tom_sentiment": "Negative",
+      "conviction": 6,
+      "price_target_or_upside": "N/A",
+      "actionable": "Underperform",
+      "position_status": "N/A",
+      "key_quotes": [
+        "N/A"
+      ]
+    },
+    {
+      "ticker": "CRWD",
+      "tom_sentiment": "Negative",
+      "conviction": 2,
+      "price_target_or_upside": "N/A",
+      "actionable": "Avoid",
+      "position_status": "N/A",
+      "key_quotes": [
+        "I don't own stocks like that"
+      ]
+    },
+    {
+      "ticker": "F",
+      "tom_sentiment": "Negative",
+      "conviction": 1,
+      "price_target_or_upside": "N/A",
+      "actionable": "Avoid",
+      "position_status": "N/A",
+      "key_quotes": [
+        "Ford and GM are annuity and healthcare companies with a car business attached on the side and for that reason I will never own own an oem a union-based business because you don't control your margins you don't control your future"
+      ]
+    },
+    {
+      "ticker": "GM",
+      "tom_sentiment": "Negative",
+      "conviction": 1,
+      "price_target_or_upside": "N/A",
+      "actionable": "Avoid",
+      "position_status": "N/A",
+      "key_quotes": [
+        "Ford and GM are annuity and healthcare companies with a car business attached on the side and for that reason I will never own own an oem a union-based business because you don't control your margins you don't control your future"
+      ]
+    },
+    {
+      "ticker": "SWBI",
+      "tom_sentiment": "Negative",
+      "conviction": 2,
+      "price_target_or_upside": "N/A",
+      "actionable": "Avoid",
+      "position_status": "N/A",
+      "key_quotes": [
+        "I've looked at this thing a million times the numbers look great and the stock never does anything"
+      ]
+    },
+    {
+      "ticker": "GPN",
+      "tom_sentiment": "Negative",
+      "conviction": 3,
+      "price_target_or_upside": "N/A",
+      "actionable": "Avoid",
+      "position_status": "N/A",
+      "key_quotes": [
+        "It's too opaque for me because you've got Consumer Debt that I can't quantify and I don't understand what's on off balance sheet on balance sheet so for me it's probably a pass"
+      ]
+    },
+    {
+      "ticker": "PAYC",
+      "tom_sentiment": "Negative",
+      "conviction": 3,
+      "price_target_or_upside": "N/A",
+      "actionable": "Avoid",
+      "position_status": "N/A",
+      "key_quotes": [
+        "I don't have any Edge as to what their mode is so for me it's a pass"
+      ]
+    },
+    {
+      "ticker": "ATKR",
+      "tom_sentiment": "Negative",
+      "conviction": 3,
+      "price_target_or_upside": "N/A",
+      "actionable": "Avoid",
+      "position_status": "N/A",
+      "key_quotes": [
+        "I'm a little weary of that Revenue deceleration after a 10 bagger move as well that concerns me so for that reason I would pass"
+      ]
+    },
+    {
+      "ticker": "XLU",
+      "tom_sentiment": "Negative",
+      "conviction": 6,
+      "price_target_or_upside": "N/A",
+      "actionable": "Take a break",
+      "position_status": "N/A",
+      "key_quotes": [
+        "The fact that hedge funds are getting excited and crowding in probably tells me that it's time to take a little bit of a break"
+      ]
+    },
+    {
+      "ticker": "NXPI",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Monitor",
+      "position_status": "N/A",
+      "key_quotes": [
+        "The other thing that was interesting there were two semiconductor companies I'm trying to remember if it was Qualcomm or nxpi who had like 87% year-on-year growth in semiconductor demand for Autos which is a nice look through for Cooper standard we'll see there was a plant shut down uh in June so you know we time will tell we'll see what the earnings tell us"
+      ]
+    },
+    {
+      "ticker": "SPY",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "N/A",
+      "key_quotes": [
+        "The Bloomberg economic surprise index in purple relative to the S&P 500 so this is starting to turn back up which is what we want to see"
+      ]
+    },
+    {
+      "ticker": "SPX",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "N/A",
+      "key_quotes": [
+        "The Bloomberg economic surprise index in purple relative to the S&P 500 so this is starting to turn back up which is what we want to see"
+      ]
+    },
+    {
+      "ticker": "CSCO",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "N/A",
+      "key_quotes": [
+        "These do have earnings power they're decelerating earnings power but huge free cash flow and they'll get to a multiple attractive enough that bids will come in unless they dramatically overspend then they'll come down more"
+      ]
+    }
+  ],
+  "new_or_recent_additions": [],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy PayPal (PYPL)",
+      "conviction": 9
+    },
+    {
+      "rank": 2,
+      "idea": "Buy Stanley Black & Decker (SWK)",
+      "conviction": 9
+    },
+    {
+      "rank": 3,
+      "idea": "Buy Disney (DIS)",
+      "conviction": 9
+    },
+    {
+      "rank": 4,
+      "idea": "Buy GXO Logistics (GXO)",
+      "conviction": 8
+    },
+    {
+      "rank": 5,
+      "idea": "Buy 3M (MMM)",
+      "conviction": 8
+    },
+    {
+      "rank": 6,
+      "idea": "Re-enter Bank of America (BAC) on pullback",
+      "conviction": 7
+    },
+    {
+      "rank": 7,
+      "idea": "Re-enter City (C) on pullback",
+      "conviction": 7
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Short-term volatility ahead of the election and the Fed meeting in September",
+    "Japan's tightening monetary policy could create liquidity issues",
+    "Potential for a hard landing if the Fed doesn't ease soon enough"
+  ],
+  "technical_takeaways": "The Russell 2000 is turning the corner, indicating a potential outperformance of small caps. Equity sentiment is mid-level, moving towards extreme, but not there yet. September is historically the worst month of the year for the S&P 500, but positive returns are expected after the first Fed cut."
+}

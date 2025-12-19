@@ -1,0 +1,11 @@
+Ticker,Action,Conviction,Entry_Price,Current_Price,Current_Return_Pct,T+1m,T+3m,T+6m
+CPS,Aggressively accumulate,10,16.93,35.27,108.33,-29.95,20.61,124.28
+INTC,Buy,9,23.96,37.47,56.41,-21.37,-12.02,23.46
+BABA,Hold/Accumulate on dips,9,134.63,151.14,12.26,-19.55,-16.06,20.93
+QXO,Buy and hold,9,13.43,21.85,62.66,-5.29,77.14,53.54
+GNRC,Add on dips,7,133.36,138.11,3.56,-20.08,-4.51,36.68
+PYPL,Accumulate,7,69.51,59.58,-14.28,-13.47,0.55,-2.08
+VFC,Accumulate,7,15.96,18.69,17.12,-35.57,-27.44,-9.99
+ASOMY,"Hold, monitor for turnaround",4,3.19,3.54,10.97,15.36,30.41,16.93
+NET,Avoid,2,117.94,196.99,67.03,-13.42,52.03,91.57
+BTU,Avoid,2,13.68,31.14,127.65,-11.05,-2.54,65.68

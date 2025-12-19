@@ -1,0 +1,264 @@
+{
+  "episode_number": "260",
+  "episode_date": "2024-10-10",
+  "executive_summary": "Tom Hayes is bullish on the market going into year-end, anticipating a rally after the election clears. He emphasizes the importance of liquidity coming from central bank cuts and the rotation from the Magnificent Seven to the other 493 stocks in the S&P 500. He is extremely bullish on Alibaba, viewing any pullback as a buying opportunity. He highlights the disconnect between negative headlines and the underlying value of quality companies, particularly in China. He also discusses potential opportunities in small caps, emerging markets, and value stocks.",
+  "tom_current_conviction": {
+    "overall_market": "Bullish",
+    "score_1_to_10": 8,
+    "key_reasons": [
+      "Expected Fed rate cuts adding liquidity",
+      "Rotation to undervalued stocks outside the Magnificent Seven",
+      "Historical trends favoring small caps and emerging markets after the first Fed cut",
+      "Low expectations for Q3 earnings leading to positive surprises"
+    ]
+  },
+  "macro_thesis_summary": "The market is poised for a year-end rally driven by central bank liquidity and a rotation to undervalued assets. Small caps, emerging markets, and value stocks are expected to outperform. Despite potential choppiness in October, the overall outlook is positive, especially after the election.",
+  "key_macro_data_points": [
+    {
+      "indicator": "CPI",
+      "value": "Expected 2.3% year-over-year",
+      "tom_interpretation": "Good for the market, consistent with expected Fed rate cuts."
+    },
+    {
+      "indicator": "Q3 Earnings Growth",
+      "value": "Analysts lowered expectations to 4.2%",
+      "tom_interpretation": "Sets a low bar, potentially leading to positive earning surprises."
+    },
+    {
+      "indicator": "Central Bank Cuts",
+      "value": "Most amount of Central Bank Cuts happen since 2020 and 2009",
+      "tom_interpretation": "Those were times to be buyers of equities not sellers of equities"
+    }
+  ],
+  "featured_company_deep_dives": {
+    "BABA": {
+      "thesis_summary": "Alibaba is significantly undervalued and poised for a major rally. Negative headlines are creating a buying opportunity. The company is in the early stages of a move from despondency to euphoria.",
+      "key_metrics": [
+        "Earnings power",
+        "Cash flow",
+        "Potential for re-rating due to reduced pessimism",
+        "China stimulus"
+      ],
+      "price_target_or_valuation": "Eventual target of $200, first tranche of selling when China's GDP is expected to overtake the US.",
+      "conviction": "Extremely Bullish",
+      "action": "Buy on pullbacks, especially below $100 to reload long-dated options.  Tom has not sold one share and we own a ton."
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "GS",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "actionable": "Monitor",
+      "key_quotes": [
+        "Biggest gainers on the Dow accounting for some of this 164 Point gain are Goldman"
+      ]
+    },
+    {
+      "ticker": "UNH",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "actionable": "Monitor",
+      "key_quotes": [
+        "Biggest gainers on the Dow accounting for some of this 164 Point gain are United Health"
+      ]
+    },
+    {
+      "ticker": "CAT",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "actionable": "Monitor",
+      "key_quotes": [
+        "Biggest gainers on the Dow accounting for some of this 164 Point gain are caterpillar"
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Extremely Bullish",
+      "conviction": 10,
+      "price_target_or_upside": "$200",
+      "actionable": "Buy on pullbacks, reload options under $100",
+      "position_status": "Core Holding",
+      "key_quotes": [
+        "We're more likely here in which case after a little bit of consolidation after that first violent move up we are going to make another violent moving up and just",
+        "If it goes back to 90 it would be a gift from God we could reload the options like nobody's business out to 2027 and make another mint",
+        "When Alibaba's at 200 it's going to say China's rally is just getting started",
+        "We have not sold one share and we own a ton"
+      ]
+    },
+    {
+      "ticker": "KWEB",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "actionable": "Monitor for entry point",
+      "key_quotes": [
+        "They will punish this late money...they'll smoke them out they'll they'll puke it in the hole whether that's 105 I think 98 95 gets them out of their stock that that they bought at 115"
+      ]
+    },
+    {
+      "ticker": "FXI",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Monitor",
+      "key_quotes": [
+        "You got to smoke all these people with the premium once you burn through that premium you can start to ride again"
+      ]
+    },
+    {
+      "ticker": "COM",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 9,
+      "actionable": "Hold",
+      "position_status": "Core Holding",
+      "key_quotes": [
+        "It's going to be good for com stock which we love and we own"
+      ]
+    },
+    {
+      "ticker": "PFE",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "actionable": "Monitor",
+      "key_quotes": [
+        "Fizer has an activist in it I like it um I'm keeping an eye on it"
+      ]
+    },
+    {
+      "ticker": "ILMN",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "actionable": "Monitor",
+      "key_quotes": [
+        "ILMN this is another activist Carl icon's been bagged in for you know a year and a half I think this thing starts to work"
+      ]
+    },
+    {
+      "ticker": "UPS",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "actionable": "Monitor",
+      "key_quotes": [
+        "UPS FedEx stocks are right for buying the case for a shipping upturn I've got my eye on those are kind of interesting"
+      ]
+    },
+    {
+      "ticker": "FDX",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "actionable": "Monitor",
+      "key_quotes": [
+        "UPS FedEx stocks are right for buying the case for a shipping upturn I've got my eye on those are kind of interesting"
+      ]
+    },
+    {
+      "ticker": "CVS",
+      "tom_sentiment": "Neutral",
+      "conviction": 4,
+      "actionable": "Pass",
+      "key_quotes": [
+        "Yes to fiser maybe to CVS I don't like it I like it anyway so we'll leave it there"
+      ]
+    },
+    {
+      "ticker": "CPS",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Hold",
+      "position_status": "Core Holding",
+      "key_quotes": [
+        "The impact on EPS for CPS is possible we could hit our earnings Target much sooner than anticipated and the implications would be massive"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "tom_sentiment": "Negative",
+      "conviction": 2,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "When you have the CEO telling you that demand is quote unquote insane and he's dumping a billion dollars a stock at the same time you know I I I watch what people do not what they say"
+      ]
+    },
+    {
+      "ticker": "CNXC",
+      "tom_sentiment": "Negative",
+      "conviction": 2,
+      "actionable": "Pass",
+      "key_quotes": [
+        "I'm gonna say pass"
+      ]
+    },
+    {
+      "ticker": "TLT",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Monitor",
+      "key_quotes": [
+        "It's just not as asymmetric as it was"
+      ]
+    },
+    {
+      "ticker": "BA",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "price_target_or_upside": "$250-$260 in a year to year and a half, probably over $300 shortly thereafter",
+      "actionable": "Buy on dips",
+      "key_quotes": [
+        "At the end of the day it's going to be 250 260 in a year year and a half and probably over 300 shortly thereafter so I'm not really worried about it"
+      ]
+    },
+    {
+      "ticker": "TXT",
+      "tom_sentiment": "Negative",
+      "conviction": 3,
+      "actionable": "Pass",
+      "key_quotes": [
+        "I don't like it as much I think this I mean you know this thing's up 5x in the last few years why are you interested now"
+      ]
+    }
+  ],
+  "new_or_recent_additions": [],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy Alibaba on pullbacks, especially below $100 to reload long-dated options.",
+      "conviction": 10
+    },
+    {
+      "rank": 2,
+      "idea": "Hold Comstock Resources (COM)",
+      "conviction": 9
+    },
+    {
+      "rank": 3,
+      "idea": "Hold Cooper Standard (CPS)",
+      "conviction": 8
+    },
+    {
+      "rank": 4,
+      "idea": "Buy Boeing (BA) on dips.",
+      "conviction": 7
+    },
+    {
+      "rank": 5,
+      "idea": "Monitor Pfizer (PFE) for potential entry point.",
+      "conviction": 7
+    },
+    {
+      "rank": 6,
+      "idea": "Monitor ILMN",
+      "conviction": 7
+    },
+    {
+      "rank": 7,
+      "idea": "Monitor UPS and FedEx for potential entry point.",
+      "conviction": 6
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Potential choppiness in October due to election uncertainty.",
+    "Risk of being shaken out by negative headlines, especially regarding China.",
+    "Market is pretty fully valued trading at 21 times forward earnings"
+  ],
+  "technical_takeaways": "The S&P 500 is consolidating, potentially retesting before moving higher. Small caps and midcaps are breaking out. The dollar and 10-year yield are in counter-trend rallies but expected to resume downtrends.",
+  "publish_date": "2024-10-10"
+}

@@ -1,0 +1,265 @@
+{
+  "episode_number": "256",
+  "episode_date": "2024-09-12",
+  "executive_summary": "Tom Hayes discusses the potential for a 25 basis point rate cut, the outperformance of S&P 500 members, and the trough in leading indicators. He highlights opportunities in international stocks, small caps, value stocks, and energy. He also touches on the Chinese real estate market and potential opportunities in beaten-down Chinese equities. He expresses bullish sentiment towards Intel and VF Corp, while remaining cautious on luxury retail and consumer staples. He emphasizes the importance of data-driven decision-making and taking advantage of generational opportunities.",
+  "tom_current_conviction": {
+    "overall_market": "Bullish",
+    "score_1_to_10": 8,
+    "key_reasons": [
+      "Leading indicators already trough, signaling the beginning of an expansion.",
+      "S&P 500 members outperforming the S&P 500, similar to early 2000s.",
+      "Potential for international stocks and emerging markets to outperform.",
+      "Expectation of strength into the first rate cut."
+    ]
+  },
+  "macro_thesis_summary": "The market is transitioning from a period of large-cap growth outperformance to one where value, small caps, and international stocks will lead. The Fed's easing cycle will further fuel this rotation. Despite concerns about a potential recession, data suggests the economy is in the early stages of an expansion. International equities are poised to outperform US equities, and Chinese equities present a generational buying opportunity.",
+  "key_macro_data_points": [
+    {
+      "indicator": "Job Openings",
+      "value": "Pointing to a 25 basis point cut",
+      "tom_interpretation": "Supports the expectation of a 25 basis point rate cut, which is a positive catalyst for the market."
+    },
+    {
+      "indicator": "German Factory Orders",
+      "value": "Unexpectedly increased for the second month",
+      "tom_interpretation": "Suggests a re-acceleration of the German economy, supporting the narrative for international stock outperformance."
+    },
+    {
+      "indicator": "Leading Indicators",
+      "value": "Already troughed",
+      "tom_interpretation": "A strong signal that the recession everyone was waiting for already happened in the first half of 2022 and we are now in an expansion."
+    },
+    {
+      "indicator": "Chinese Real Estate B Stocks",
+      "value": "Back to 2008 lows",
+      "tom_interpretation": "Presents a generational buying opportunity in high-quality Chinese businesses."
+    },
+    {
+      "indicator": "International Price to Earnings Discount vs US",
+      "value": "Trading at two standard deviations lower than the average of its relationship to the S&P 500 PE ratio",
+      "tom_interpretation": "International equities are poised to dramatically outperform the US over the next 5-10 years."
+    }
+  ],
+  "featured_company_deep_dives": {
+    "Canada Goose": {
+      "thesis_summary": "Canada Goose is experiencing revenue growth, recovering free cash flow, and high margins. The company is growing double digits in China and Asia Pacific. They are transitioning to an all-season brand and improving retail execution.",
+      "key_metrics": [
+        "Revenue growth",
+        "Free cash flow recovery",
+        "Double-digit growth in China",
+        "Expansion into non-jacket apparel"
+      ],
+      "conviction": "High",
+      "action": "Hold"
+    },
+    "Baxter": {
+      "thesis_summary": "Baxter is a turnaround story with margin expansion, earnings growth, and improved operating efficiency. The company has completed the sale of its Kidney Care business and is deleveraging.",
+      "key_metrics": [
+        "Margin expansion",
+        "Earnings growth of 24%",
+        "Sale of Kidney Care business",
+        "Deleveraging"
+      ],
+      "conviction": "High",
+      "action": "Hold"
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "VFC",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "I would never buy up",
+        "The upside is a lot higher",
+        "This thing could I don't know if it'll go to new Highs but it wouldn't surprise me if it went to New highs over the next 5 years but we're certainly going to get a multibagger out of it and we'll look at the um we will look at the fundamentals when we get to our initial Target for intrinsic value based on what they're doing"
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "$30-40 short term, $60-100 long term",
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "If they liquidate tomorrow I get my money out if they live another day I probably get double my money and if they actually execute I get Triple to quadruple of my money and it's just a question of waiting",
+        "All of a sudden you got a $30 and $40 stock and then we figure out is it really going to be worth 60 to 100 or do we take the profits again in the high 40s and call it a day",
+        "Gelsinger insists the time to reap the rewards is finally arriving"
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 10,
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "This time will be no different",
+        "I literally feel like I'm going to a treasure hunt and I'm looking for these rare opportunities where you can buy stuff quality assets that are totally marked down right at or near the inflection",
+        "You can bet that this time will be different you can say no way I want to become a Rockefeller or Joe Kennedy or Vanderbilt or anyone who took advantage and created these generational fortunes when other people were running for the hills because you're impatient or you're on Leverage"
+      ]
+    },
+    {
+      "ticker": "GOOS",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "Revenues continue to grow free cash flow recovering margins are high stock price subdued",
+        "Growing double digits in China Asia Pacific is up 25%"
+      ]
+    },
+    {
+      "ticker": "CRI",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "I just want to supply to the I want to be the Arms Dealer and as they cut prices and increase incentives and volume goes through the roof uh we will make tons of money on more volume with huge operating leverage with Cooper standard"
+      ]
+    },
+    {
+      "ticker": "NKE",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "actionable": "Monitor",
+      "key_quotes": [
+        "I already have China exposure which is basically what what Nike is but at some point it becomes so compelling we'll have to act it's just not today"
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "actionable": "Hold",
+      "position_status": "Profits Taken",
+      "key_quotes": [
+        "Even Amazon I'll say even though we took profits on Amazon because we had such a huge run from Fall of 2022 buying in the hole in March of 2023 we rang the register on that but I think a lot of discretionary are going to start doing well against all consensus as these Cuts kick in and lower people's interest rates and credit card bills and all that stuff"
+      ]
+    },
+    {
+      "ticker": "BA",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "I don't have to stay up all night wondering if Boeing is going to sell planes next year I mean I it's a no-brainer so if I own it at 150 or 160 and it goes to 130 before it goes to 350 I don't care I'm not on Leverage"
+      ]
+    },
+    {
+      "ticker": "BBWI",
+      "tom_sentiment": "Negative",
+      "conviction": 2,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "I generally don't like this type of business",
+        "This looks like I don't know what this Revenue drop is they must have sold off the division their margins are declining their revenues have been flat I I don't know what's to really like here cash flow has been declining"
+      ]
+    },
+    {
+      "ticker": "BMI",
+      "tom_sentiment": "Neutral",
+      "conviction": 4,
+      "actionable": "Pass",
+      "key_quotes": [
+        "Everything's going great right now what do they do my guess is everything's going great and it's mostly all priced in so for me it's a pass",
+        "I need this thing to drop down to you know 160 to take a look and it may never do that but that's not for me I one thing I can guarantee you I'm not getting a double on it over the next couple of years so I'm not interested"
+      ]
+    },
+    {
+      "ticker": "VLKAF",
+      "tom_sentiment": "Negative",
+      "conviction": 2,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "I would never buy an oem",
+        "Let these guys kill each other it's going to be a race to the bottom with pricing and incentives in the next two years"
+      ]
+    },
+    {
+      "ticker": "F",
+      "tom_sentiment": "Negative",
+      "conviction": 2,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "I would never buy an oem",
+        "Let these guys kill each other it's going to be a race to the bottom with pricing and incentives in the next two years"
+      ]
+    },
+    {
+      "ticker": "GM",
+      "tom_sentiment": "Negative",
+      "conviction": 2,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "I would never buy an oem",
+        "Let these guys kill each other it's going to be a race to the bottom with pricing and incentives in the next two years"
+      ]
+    },
+    {
+      "ticker": "TM",
+      "tom_sentiment": "Negative",
+      "conviction": 2,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "I would never buy an oem",
+        "Let these guys kill each other it's going to be a race to the bottom with pricing and incentives in the next two years"
+      ]
+    },
+    {
+      "ticker": "LVMH",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "actionable": "Monitor",
+      "key_quotes": [
+        "That's kind of interesting cuz that's been in the camp because of China weakness and that's another one we keep our eye on because China's going to come back and all these things are going to come back Hermes and so all again consumer discretionary"
+      ]
+    }
+  ],
+  "new_or_recent_additions": [],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Hold Alibaba (BABA) for generational wealth creation.",
+      "conviction": 10
+    },
+    {
+      "rank": 2,
+      "idea": "Hold VF Corp (VFC) for multibagger potential.",
+      "conviction": 9
+    },
+    {
+      "rank": 3,
+      "idea": "Hold Intel (INTC) for turnaround potential.",
+      "conviction": 9
+    },
+    {
+      "rank": 4,
+      "idea": "Hold Cooper Standard (CRI) to benefit from increased auto production.",
+      "conviction": 8
+    },
+    {
+      "rank": 5,
+      "idea": "Hold Boeing (BA) as TSA passenger volumes continue to increase.",
+      "conviction": 7
+    },
+    {
+      "rank": 6,
+      "idea": "Hold Canada Goose (GOOS) for growth in China and expansion into new products.",
+      "conviction": 7
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Potential for pre-election jitters in late September and October.",
+    "Risk of a shorter bull market if it ends in July 2025.",
+    "Luxury spending diverging from lower-income spending.",
+    "Shelter inflation making bigger rate cuts less likely."
+  ],
+  "technical_takeaways": "The yield curve is suggesting higher VIX for years to come. Bullish engulfing pattern suggests strength into the first rate cut.",
+  "publish_date": "2024-09-12"
+}

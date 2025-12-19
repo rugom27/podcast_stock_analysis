@@ -1,0 +1,264 @@
+{
+  "episode_number": "286",
+  "episode_date": "2025-04-10",
+  "executive_summary": "Tom Hayes discusses market recovery analogies, the impact of potential tariff pauses, and the importance of focusing on individual business fundamentals rather than broad market indices. He emphasizes buying high-quality companies during market dips, drawing parallels to past crises and recoveries. He highlights the potential for a quick rebound driven by positive news and the overreaction of hedge funds.",
+  "tom_current_conviction": {
+    "overall_market": "Bullish, especially on high-quality companies experiencing temporary setbacks due to tariff concerns.",
+    "score_1_to_10": 9,
+    "key_reasons": [
+      "Market overreaction to tariff news creates buying opportunities.",
+      "Potential for a quick resolution of trade tensions.",
+      "Strong fundamentals of the businesses he follows.",
+      "Analogies to past market recoveries suggest a positive outlook.",
+      "Hedge fund selling creates opportunities for retail investors."
+    ]
+  },
+  "macro_thesis_summary": "The market is currently experiencing a man-made correction due to tariff concerns, presenting opportunities to buy high-quality companies at discounted prices. A resolution to trade tensions, coupled with strong business fundamentals, will drive a market recovery and new highs. The Fed may need to step in to backstop the treasury market.",
+  "key_macro_data_points": [],
+  "featured_company_deep_dives": {
+    "QXO": {
+      "thesis_summary": "QXO is a building supply rollup led by Brad Jacobs, a proven money maker for shareholders. The company presents a ground floor opportunity to invest with a successful operator in a consolidating industry.",
+      "key_metrics": [
+        "Brad Jacobs' track record with XPO Logistics and United Rentals (URI)",
+        "QXO's recent acquisition of Beacon Roofing",
+        "Potential for consolidation in the building supply industry"
+      ],
+      "conviction": "High. Brad Jacobs is a \"money maker for shareholders.\"",
+      "action": "Buy QXO on the ground floor."
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "QXO",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 10,
+      "actionable": "Buy",
+      "key_quotes": [
+        "Brad Jacobs is a money maker for shareholders.",
+        "This is one of the few times you can get in on the ground floor with Brad Jacobs with QXO."
+      ]
+    },
+    {
+      "ticker": "URI",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Hold",
+      "key_quotes": [
+        "If you did a million dollars with him in United Rentals, URI, in 1997 when he got involved, it's worth 89 million today."
+      ]
+    },
+    {
+      "ticker": "BA",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "$250",
+      "actionable": "Buy",
+      "key_quotes": [
+        "If you can buy businesses like Boeing around $150 here, it doesn't matter when you think three years out and the market's back at new highs and Boeing's at $250"
+      ]
+    },
+    {
+      "ticker": "DIS",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "$150",
+      "actionable": "Buy",
+      "key_quotes": [
+        "Disney at $85 when it's at $150, not five months from now, but you know, 12 months from now, is certainly realistic."
+      ]
+    },
+    {
+      "ticker": "VF CORP",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Buy",
+      "key_quotes": [
+        "Whether you pay buy VF VF Corp for $10 or $15 or Boeing at $130 or 150, it simply won't matter. Either way, you'll be smiling so wide you could eat a banana sideways."
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "They are also in the market buying Alibaba stock."
+      ]
+    },
+    {
+      "ticker": "SWK",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Buy",
+      "key_quotes": [
+        "Stanley Black & Decker has the least exposure to China 18% and one of the largest domestic footprints manufacturing more than 40% of its sales in the United States for nearly a decade."
+      ]
+    },
+    {
+      "ticker": "BAX",
+      "tom_sentiment": "Neutral",
+      "conviction": 6,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Boeing, same story. Go through this article. He did a good job of actually highlighting what the CEOs said about tariffs on recent calls. Same with Baxter."
+      ]
+    },
+    {
+      "ticker": "VFC",
+      "tom_sentiment": "Neutral",
+      "conviction": 6,
+      "actionable": "Hold",
+      "key_quotes": [
+        "VF Corp balance sheet, they paid off 1.5 billion of debt."
+      ]
+    },
+    {
+      "ticker": "NKE",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Buy",
+      "key_quotes": [
+        "Insider buying in Nike about a half a million dollars worth."
+      ]
+    },
+    {
+      "ticker": "ETSY",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Etsy similar story they're beneficiary"
+      ]
+    },
+    {
+      "ticker": "NSC",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Transports earnings revisions last 60 days are revised down uh that's probably one or two companies Looks like NSC."
+      ]
+    },
+    {
+      "ticker": "EL",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Estee Lauder. We like Estee Lauder."
+      ]
+    },
+    {
+      "ticker": "FSLR",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Watch",
+      "key_quotes": [
+        "Tom, do you have any thoughts on First Solar? Uh, we've covered that a few times. It hasn't come down enough for me yet, but I keep my eye on those."
+      ]
+    },
+    {
+      "ticker": "DG",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Dollar General. We've covered that a million times. It's up from where we said generally."
+      ]
+    },
+    {
+      "ticker": "DAL",
+      "tom_sentiment": "Bullish",
+      "conviction": 6,
+      "actionable": "Trade",
+      "key_quotes": [
+        "D A L. I mean, at 30 bucks, you probably definitely want to take a stab."
+      ]
+    },
+    {
+      "ticker": "NCH",
+      "tom_sentiment": "Bearish",
+      "conviction": 2,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "I wouldn't touch it right now."
+      ]
+    },
+    {
+      "ticker": "SWKS",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Research",
+      "key_quotes": [
+        "Okay, that one is uh definitely worth looking at."
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "We're playing it through Intel because we like Lip Banan."
+      ]
+    },
+    {
+      "ticker": "CPB",
+      "tom_sentiment": "Neutral",
+      "conviction": 4,
+      "actionable": "Pass",
+      "key_quotes": [
+        "Eric Haney, thoughts on Campbell? I think we covered this a few weeks ago and took a pass."
+      ]
+    },
+    {
+      "ticker": "JHX",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Research",
+      "key_quotes": [
+        "This looks pretty good. So, just just start studying their competitive advantage."
+      ]
+    }
+  ],
+  "new_or_recent_additions": [
+    "QXO",
+    "SWK",
+    "DAL",
+    "SWKS",
+    "JHX"
+  ],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy QXO on the ground floor with Brad Jacobs.",
+      "conviction": 10
+    },
+    {
+      "rank": 2,
+      "idea": "Buy Boeing (BA) around $150, target $250 in three years.",
+      "conviction": 8
+    },
+    {
+      "rank": 3,
+      "idea": "Buy Disney (DIS) around $85, target $150 in 12 months.",
+      "conviction": 8
+    },
+    {
+      "rank": 4,
+      "idea": "Buy Stanley Black & Decker (SWK) to capitalize on housing market recovery.",
+      "conviction": 7
+    },
+    {
+      "rank": 5,
+      "idea": "Take a stab at Delta (DAL) around $30 for a trade.",
+      "conviction": 6
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Risk of further market declines if trade tensions escalate.",
+    "Potential for hedge fund liquidations to create further selling pressure.",
+    "Uncertainty regarding the timing and extent of Fed intervention."
+  ],
+  "technical_takeaways": "The market showed signs of a double bottom on a 60-minute chart, but further consolidation is possible. The 2011 European debt crisis provides an analogy for a potential choppy recovery followed by new highs within five months."
+}

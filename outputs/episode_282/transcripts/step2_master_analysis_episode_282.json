@@ -1,0 +1,212 @@
+{
+  "episode_number": "282",
+  "episode_date": "2025-03-13",
+  "executive_summary": "Tom Hayes is extremely bullish on Intel (INTC) due to the appointment of Lip-Bu Tan as CEO, viewing it as a potential \"five-bagger plus.\" He also reiterates his bullish stance on Alibaba (BABA) and Cooper Standard (CPS). He emphasizes the importance of focusing on value stocks and international opportunities, while lightening up on the Magnificent Seven. He believes the market is in a bottoming process and expects a rally into the summer.",
+  "tom_current_conviction": {
+    "overall_market": "Bullish, expecting a rally into the summer after a period of weakness due to policy uncertainty.",
+    "score_1_to_10": 9,
+    "key_reasons": [
+      "Market sentiment is flushed out.",
+      "Hedge funds are selling in the hole.",
+      "Retail investors are buying insurance after the house is already half burned down.",
+      "Earnings are up 18.2% for the last quarter.",
+      "Expectation of lower tariffs leading to free trade."
+    ]
+  },
+  "macro_thesis_summary": "Hayes believes the market weakness in February and early March is a normal seasonal pattern in an election year due to policy uncertainty. He expects a rally from March through the summer once there is clarity on policy. He is watching the Japanese government bond yield and the unwind of the carry trade, which he believes is impacting the Mag 7. He anticipates lower tariffs and a move towards free trade.",
+  "key_macro_data_points": [
+    {
+      "indicator": "Japanese Government Bond Yield (JGB)",
+      "value": "Increased from 0 to 1.57%",
+      "tom_interpretation": "The increase in JGB yields is causing an unwind of the carry trade, leading to deleveraging in crowded trades like the Mag 7. This is more important than tariffs."
+    },
+    {
+      "indicator": "US Auto Sales (SAR)",
+      "value": "Historically peaks between 17 and 20 million units",
+      "tom_interpretation": "With an aging car fleet and a growing population, the US could see a surge in auto sales, potentially reaching 20 million units."
+    },
+    {
+      "indicator": "Fed Funds Futures",
+      "value": "89% chance of a June rate cut",
+      "tom_interpretation": "The market is pricing in a higher probability of a rate cut, which could provide support for risk assets."
+    }
+  ],
+  "featured_company_deep_dives": {
+    "VF Corp (VFC)": {
+      "thesis_summary": "VF Corp is a turnaround story under CEO Bracken Darrell, who has a proven track record. The company has addressed solvency risks and is now focused on re-accelerating growth and expanding through acquisitions.",
+      "key_metrics": [
+        "Cost savings initiatives",
+        "Revenue growth potential",
+        "Gross margin improvement"
+      ],
+      "price_target_or_valuation": "Double from current levels",
+      "conviction": "High",
+      "action": "Buy"
+    },
+    "Albemarle (ALB)": {
+      "thesis_summary": "Albemarle is a lithium producer positioned to benefit from the long-term growth in electric vehicles, particularly in China. The company has ample liquidity to weather the cyclical downturn in lithium prices.",
+      "key_metrics": [
+        "Lithium prices",
+        "EV adoption rates",
+        "Liquidity"
+      ],
+      "price_target_or_valuation": "200-300+",
+      "conviction": "High",
+      "action": "Buy"
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "INTC",
+      "tom_sentiment": "Extremely Bullish",
+      "conviction": 10,
+      "price_target_or_upside": "5x from current levels",
+      "actionable": "Buy",
+      "position_status": "Third largest position",
+      "key_quotes": [
+        "This thing could be a five bagger plus",
+        "If Nvidia is going to double from here Intel's probably going to 5x from"
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "N/A",
+      "actionable": "Buy on pullbacks",
+      "position_status": "Largest position",
+      "key_quotes": [
+        "This is an absolute home run",
+        "We backed up the truck in the 60s",
+        "It is just getting started"
+      ]
+    },
+    {
+      "ticker": "CPS",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "Potentially $100+",
+      "actionable": "Buy",
+      "position_status": "N/A",
+      "key_quotes": [
+        "You won't believe what he's done to set this thing up for the next turn",
+        "I think we're going to hit 20 for a minute in this cycle"
+      ]
+    },
+    {
+      "ticker": "STLA",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "N/A",
+      "key_quotes": [
+        "We like it",
+        "We've said we liked it"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "Double from here",
+      "actionable": "Consider Intel instead",
+      "position_status": "N/A",
+      "key_quotes": [
+        "If Nvidia is going to double from here Intel's probably going to 5x from"
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "tom_sentiment": "Avoid",
+      "conviction": 3,
+      "price_target_or_upside": "N/A",
+      "actionable": "Avoid",
+      "position_status": "N/A",
+      "key_quotes": [
+        "As a car company this thing's way overvalued",
+        "I can't value it so I just avoid it"
+      ]
+    },
+    {
+      "ticker": "VFC",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "Double",
+      "actionable": "Buy",
+      "position_status": "N/A",
+      "key_quotes": [
+        "This thing's just getting started",
+        "Bet on Bracken"
+      ]
+    },
+    {
+      "ticker": "ALB",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "200-300+",
+      "actionable": "Buy",
+      "position_status": "N/A",
+      "key_quotes": [
+        "Some things are just too easy",
+        "We're going to be glad that we're bringing our basis down"
+      ]
+    },
+    {
+      "ticker": "GOOG",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "N/A",
+      "key_quotes": [
+        "Maybe I'd buy some Google",
+        "I don't have to participate in every stock that's in the headlines"
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "N/A",
+      "key_quotes": [
+        "I don't have to participate in every stock that's in the headlines"
+      ]
+    }
+  ],
+  "new_or_recent_additions": [
+    "INTC",
+    "VFC",
+    "ALB"
+  ],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy Intel (INTC) for a potential 5x return, driven by Lip-Bu Tan's appointment and the company's foundry business.",
+      "conviction": 10
+    },
+    {
+      "rank": 2,
+      "idea": "Buy Cooper Standard (CPS) in anticipation of a surge in auto sales, potentially reaching 20 million units.",
+      "conviction": 9
+    },
+    {
+      "rank": 3,
+      "idea": "Buy VF Corp (VFC) as a turnaround play under CEO Bracken Darrell, targeting a double from current levels.",
+      "conviction": 8
+    },
+    {
+      "rank": 4,
+      "idea": "Buy Albemarle (ALB) to capitalize on the long-term growth in electric vehicles, particularly in China.",
+      "conviction": 8
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Risk of policy changes affecting Chinese stocks.",
+    "Reliance on China's economic growth.",
+    "Potential for volatility in commodity prices."
+  ],
+  "technical_takeaways": "The market is in a bottoming process, with many indicators showing oversold conditions. Expect a rally into the summer."
+}

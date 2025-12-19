@@ -1,0 +1,258 @@
+{
+  "episode_number": "290",
+  "episode_date": "2025-05-08",
+  "executive_summary": "Tom Hayes is cautiously optimistic, anticipating a high single-digit upside for the S&P 500, potentially reaching low double digits with positive news. He emphasizes the resilience of the US consumer and the potential for international equities to outperform. He highlights opportunities in specific sectors like auto suppliers (Cooper Standard), housing-related stocks (Stanley Black & Decker, Generac, QXO), and Chinese equities (Alibaba). He believes that bears are praying for a retest of the lows, but forced buying due to trade deal announcements will likely push the market higher. He also notes that the market is in a similar position to the 2018 recovery in Trump 1.0.",
+  "tom_current_conviction": {
+    "overall_market": "Cautiously Bullish",
+    "score_1_to_10": 7,
+    "key_reasons": [
+      "Earnings and guidance are holding up well.",
+      "Potential for trade deal announcements to drive market higher.",
+      "US consumer remains resilient.",
+      "International equities offer potential outperformance.",
+      "Market sentiment is still skeptical, leaving room for upside."
+    ]
+  },
+  "macro_thesis_summary": "The US economy is more resilient than people think, and the negative GDP print was a wake-up call for the administration to show flexibility on tariffs. The US consumer is strong, and the labor market is holding up. International equities are poised to outperform US equities in the next 10 years due to valuation and earnings growth opportunities. A weaker dollar will also support international equities and boost tourism in the US.",
+  "key_macro_data_points": [
+    {
+      "indicator": "Consumer Balance Sheet",
+      "value": "Assets: $190 trillion vs Liabilities: $20 trillion",
+      "tom_interpretation": "Consumers are well-capitalized, creating opportunities for increased spending as rates come down."
+    },
+    {
+      "indicator": "Q1 Earnings Growth",
+      "value": "12.8% vs 6% expected",
+      "tom_interpretation": "Earnings are strong and guidance is better than expected, indicating a resilient economy."
+    },
+    {
+      "indicator": "US Dollar",
+      "value": "Expected to trend down",
+      "tom_interpretation": "A weaker dollar will boost international equities and increase tourism in the US."
+    },
+    {
+      "indicator": "Retail Inventories",
+      "value": "Near record lows",
+      "tom_interpretation": "Retailers will need to rebuild inventories, supporting production and economic growth."
+    },
+    {
+      "indicator": "Earnings Estimates for 2026",
+      "value": "$302 on the S&P",
+      "tom_interpretation": "Implies an 18.5x multiple, which is not crazy compared to a 10-year average of 18.3x"
+    }
+  ],
+  "featured_company_deep_dives": {
+    "Cooper Standard": {
+      "thesis_summary": "Cooper Standard is a play on the volume recovery in the auto industry, driven by an aging US vehicle fleet and strong demand from millennials. The company is executing well, improving margins, and winning new business. Tariffs are not a significant threat, and a potential refinance could further boost earnings.",
+      "key_metrics": [
+        "Adjusted EBITDA went from $29 million to $58 million",
+        "Positive net income of $3.5 million vs negative $30 million loss",
+        "New business awards of $55 million",
+        "Targeting net leverage ratio of less than 2x by the end of 2027"
+      ],
+      "price_target_or_valuation": "Potential to match or exceed 2017 earnings of $7.19 per share, with potential for even higher earnings this cycle.",
+      "conviction": "High",
+      "action": "Buy"
+    },
+    "Stanley Black & Decker": {
+      "thesis_summary": "Stanley Black & Decker is a play on the housing market recovery. The company has taken out significant costs and is poised to benefit from increased construction activity. The stock is undervalued, with a potential to reach $160-$180 based on historical margins.",
+      "key_metrics": [
+        "Nearly $2 billion of costs taken out",
+        "Margins came in at 30.4% with a target of 35%",
+        "DeWalt is back to revenue growth"
+      ],
+      "price_target_or_valuation": "Potential to reach $160-$180 based on historical margins.",
+      "conviction": "High",
+      "action": "Buy"
+    },
+    "Generac": {
+      "thesis_summary": "Generac is a play on the increasing demand for energy, particularly natural gas, to power data centers and AI applications. The company is in a normal cyclical recovery and is poised to benefit from increased demand for generators.",
+      "key_metrics": [
+        "Free cash flow is recovering",
+        "CNI business is starting to recover"
+      ],
+      "price_target_or_valuation": "N/A",
+      "conviction": "High",
+      "action": "Buy"
+    },
+    "Alibaba": {
+      "thesis_summary": "Alibaba is a play on the Chinese economy and the shift towards consumption. The company is undervalued as a sum of its parts, including its cloud computing and retail businesses. The risk of delisting is low, and the company is well-positioned to benefit from the Chinese government's stimulus efforts.",
+      "key_metrics": [
+        "Number one cloud provider in China",
+        "Number one retailer to the middle class",
+        "Quen 2.5 is outperforming Deepseek and ChatG GPT"
+      ],
+      "price_target_or_valuation": "N/A",
+      "conviction": "High",
+      "action": "Buy"
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "CPS",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "Potential to do another 4x from here over time",
+      "actionable": "Buy",
+      "position_status": "Core Holding",
+      "key_quotes": [
+        "People are asking me like, \"Wow, you must be so excited about Cooper Standard.\" I got to be honest with you, uh, I was more excited about Cooper Standard when I was buying it in the low fives in May of 2022 than I am today because I knew that what you're seeing today was going to be happening whether it took 2 years, 3 years, four years, 5 years.",
+        "So far, we believe it's just getting started.",
+        "We think that if the execution goes right and what we heard about the tariffs and everything else, uh, not only can it match what it did in 2017 earning $7.19 a share, but we also think that um because of all the costs that they've taken out of the business that it could potentially earn more this cycle."
+      ]
+    },
+    {
+      "ticker": "SBD",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "Three to four bagger from here",
+      "actionable": "Buy",
+      "position_status": "Core Holding",
+      "key_quotes": [
+        "Stanley, different story, more like a BABA, three bagger, four bagger type of thing from here, uh, is is amazing.",
+        "We've been buying more. That's all I can tell you. This is uh you know mana from heaven.",
+        "The smallest amount of improvement in construction is going to be a hockey stick to earnings."
+      ]
+    },
+    {
+      "ticker": "QXO",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "Seven to eight bagger over 5-7 years",
+      "actionable": "Buy",
+      "position_status": "Core Holding",
+      "key_quotes": [
+        "If you want more than a double triple, you you buy something like QXO uh where you're betting on the guy in uh the case of Brad Jacobs and you know that you tuck away for 5 to seven years and you wind up with a 78 bagger uh as well because he's doing what he does amazingly well.",
+        "He's using public multiple arbitrage to buy small businesses and fragmented businesses now that he has his platform."
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "Just getting started",
+      "actionable": "Buy",
+      "position_status": "Core Holding",
+      "key_quotes": [
+        "We've got a average basis across all accounts of about $83. We think that's just getting started.",
+        "We've shifted all of our equity exposure to Hong Kong Holdings just in case stupid political decisions are made",
+        "Their Quen 2.5 is outperforming Deepseek. It's outperforming ChatG GPT and they own a equity stake in pretty much every AI startup in China because they give them cloud computing services."
+      ]
+    },
+    {
+      "ticker": "BA",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "I love Boeing. Boeing's up 50% in a couple of weeks and no one's paying attention. Those are the best movers when no one's paying attention after it's moved so much because it got so hated and forgotten."
+      ]
+    },
+    {
+      "ticker": "DIS",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "Disney, same thing. They just beat it's starting to fly again. Um, these are the best ones when they fly and no one cares about it."
+      ]
+    },
+    {
+      "ticker": "AAP",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "We love what Shane Kelly has done. He's done everything that he said he was going to do.",
+        "They're going to open up a hundred new stores over the next couple of years. That is not what you hear from a company that's going out of business that they're opening up a hundred new stores."
+      ]
+    },
+    {
+      "ticker": "BDX",
+      "tom_sentiment": "Neutral",
+      "conviction": 4,
+      "price_target_or_upside": "N/A",
+      "actionable": "Pass",
+      "position_status": "N/A",
+      "key_quotes": [
+        "This has always kind of been a low quality business in terms of inability to compound capital that you give to it above what you could get for free.",
+        "This stock has gone nowhere in almost a decade. So, you definitely need a catalyst of new management."
+      ]
+    },
+    {
+      "ticker": "BGS",
+      "tom_sentiment": "Bearish",
+      "conviction": 2,
+      "price_target_or_upside": "N/A",
+      "actionable": "Pass",
+      "position_status": "N/A",
+      "key_quotes": [
+        "If you're buying it for the dividend, don't waste your time.",
+        "Their sales are not growing and they're issuing equity at record low valuations. That is a no no for me."
+      ]
+    },
+    {
+      "ticker": "PLCE",
+      "tom_sentiment": "Bearish",
+      "conviction": 1,
+      "price_target_or_upside": "N/A",
+      "actionable": "Pass",
+      "position_status": "N/A",
+      "key_quotes": [
+        "This thing is a chronic bag of crap.",
+        "I don't think this thing turns."
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "Quick double, potential for four to five bagger",
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "Let me own Intel where my downside is pretty much protected and if they fail I come out flat and if they succeed I get a quick double and if they really succeed and execute like I think they can with Lip Boutan I wind up with a four to five bagger."
+      ]
+    }
+  ],
+  "new_or_recent_additions": [],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy Cooper Standard (CPS)",
+      "conviction": 9
+    },
+    {
+      "rank": 2,
+      "idea": "Buy Alibaba (BABA) Hong Kong shares",
+      "conviction": 9
+    },
+    {
+      "rank": 3,
+      "idea": "Buy Stanley Black & Decker (SBD)",
+      "conviction": 8
+    },
+    {
+      "rank": 4,
+      "idea": "Buy Intel (INTC)",
+      "conviction": 7
+    },
+    {
+      "rank": 5,
+      "idea": "Buy QXO",
+      "conviction": 7
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Potential for short-term volatility in the coming weeks.",
+    "Risk of negative wealth effect if the market declines.",
+    "Uncertainty surrounding trade deals and tariffs."
+  ],
+  "technical_takeaways": "N/A"
+}

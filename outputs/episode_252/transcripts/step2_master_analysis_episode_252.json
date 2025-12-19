@@ -1,0 +1,390 @@
+{
+  "episode_number": "252",
+  "episode_date": "2024-08-15",
+  "executive_summary": "Tom Hayes is extremely bullish, particularly on opportunities arising from the destock to restock cycle and the expected Fed rate cuts. He emphasizes the strength of the consumer and the potential for significant market upside, especially in small caps and specific sectors like energy and autos. He highlights Disney and Cooper Standard as key opportunities, while also discussing GXO Logistics and Alibaba. He anticipates a market rally into early September, followed by potential volatility before a year-end rally.",
+  "tom_current_conviction": {
+    "overall_market": "Bullish. Hayes believes the market is poised for a rally into early September, followed by a potential pullback before a year-end rally. He sees strong earnings and GDP growth as supportive factors, provided the Fed starts cutting rates.",
+    "score_1_to_10": 9,
+    "key_reasons": [
+      "Strong earnings growth (10.8% year-on-year).",
+      "GDP growth at 2.9%.",
+      "Expectations for Fed rate cuts in September.",
+      "Destock to restock cycle providing opportunities.",
+      "Strong consumer balance sheets and deleveraging."
+    ]
+  },
+  "macro_thesis_summary": "Hayes's macro thesis centers on the expectation of Fed rate cuts, which he believes are necessary to support the economy and prevent deflation. He sees the current market environment as a mid-cycle cut scenario, similar to 1995, which historically leads to a massive rally. He also emphasizes the importance of the destock to restock cycle, which is creating opportunities in various sectors. He is closely watching inflation data and believes that the Fed needs to act quickly to avoid a recession.",
+  "key_macro_data_points": [
+    {
+      "indicator": "PPI",
+      "value": "2.2% vs 2.3% expected",
+      "tom_interpretation": "Better than expected, leading indicator for CPI."
+    },
+    {
+      "indicator": "CPI",
+      "value": "0.2% month-on-month, 2.9% year-on-year",
+      "tom_interpretation": "Better than expected, confirming the trend of moderating inflation."
+    },
+    {
+      "indicator": "Earnings Growth",
+      "value": "10.8% vs 8.9% expected",
+      "tom_interpretation": "Strong earnings growth indicates a healthy economy."
+    },
+    {
+      "indicator": "GDP Growth",
+      "value": "2.9%",
+      "tom_interpretation": "Solid GDP growth supports the bullish outlook."
+    },
+    {
+      "indicator": "Household Debt",
+      "value": "Down as a share of GDP",
+      "tom_interpretation": "Consumers have deleveraged, indicating a strong financial position."
+    },
+    {
+      "indicator": "Economic Surprise Index",
+      "value": "Turning up",
+      "tom_interpretation": "Key indicator suggesting positive economic momentum."
+    }
+  ],
+  "featured_company_deep_dives": {
+    "Cooper Standard": {
+      "thesis_summary": "Cooper Standard is poised to benefit from the recovery in auto production volumes. As incentives increase and pent-up demand is released, Cooper Standard's earnings will increase significantly due to operating leverage. The company is currently undervalued, trading at a low multiple of its potential earnings.",
+      "key_metrics": [
+        "Auto production volumes (SAR).",
+        "Incentives offered by OEMs.",
+        "Average age of vehicles on the road.",
+        "Earnings per share (EPS)."
+      ],
+      "price_target_or_valuation": "$30 to $60 per share based on 16.1 million SAR, significantly higher with peak SAR of 18 million.",
+      "conviction": "High. Hayes emphasizes the company's strong position and the predictable nature of auto cycles.",
+      "action": "Buy. Hayes is adding to the position at $12-13, considering it super cheap."
+    },
+    "GXO Logistics": {
+      "thesis_summary": "GXO Logistics is benefiting from the restock cycle and the trend of companies outsourcing their supply chain management. The company is experiencing strong revenue growth, new business wins, and improved free cash flow. Demand is particularly strong in Europe and the UK.",
+      "key_metrics": [
+        "Revenue growth.",
+        "New business wins.",
+        "Free cash flow.",
+        "Organic revenue growth.",
+        "Sales pipeline."
+      ],
+      "price_target_or_valuation": "Not explicitly stated, but implied upside based on growth and free cash flow conversion.",
+      "conviction": "High. Hayes highlights the company's strong performance and positive trends.",
+      "action": "Buy. Hayes is very excited about the stock, considering it a growth stock trading at a discount."
+    },
+    "Disney": {
+      "thesis_summary": "Disney is undervalued based on the sum of its parts, with the parks and streaming businesses having significant potential. The market is currently valuing Disney Plus and ESPN at zero, which is unrealistic. Value Act's involvement as an activist investor is a positive catalyst.",
+      "key_metrics": [
+        "EBIT from parks and experiences.",
+        "Subscribers on Disney Plus and ESPN.",
+        "Theatrical releases performance.",
+        "Streaming prices."
+      ],
+      "price_target_or_valuation": "$150 to $200 over the next few years.",
+      "conviction": "High. Hayes believes the stock is significantly undervalued and has substantial upside.",
+      "action": "Buy. Hayes sees the stock as a major opportunity, with potential for multi-bagger returns on options."
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "DIS",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "$150-$200",
+      "actionable": "Buy",
+      "position_status": "Core Holding",
+      "key_quotes": [
+        "Disney's all the way down to $84 a share I mean that's a dip and a half Disney you can't give away right now",
+        "I'm going to take a wild and crazy bet that it's worth more than zero",
+        "At the end of the day it still takes the stock between 150 to 200 over the next few years and that's what we need the options will be a lot you know the stock will be a double the options will be multi-baggers and we'll be r in the register like 3M in no time no time was a year and a half"
+      ]
+    },
+    {
+      "ticker": "GEN",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "$200",
+      "actionable": "Buy",
+      "position_status": "Core Holding",
+      "key_quotes": [
+        "This thing is probably over time going to work towards 200 give it it 12 24 36 months",
+        "They've got 6.25% gener uh penetration for their total addressable Market uh this has tremendous opportunity moving forward"
+      ]
+    },
+    {
+      "ticker": "MMM",
+      "tom_sentiment": "Neutral",
+      "conviction": 6,
+      "price_target_or_upside": "Re-enter at lower levels",
+      "actionable": "Hold SVENT spin-off, consider re-entry",
+      "position_status": "Profits Taken",
+      "key_quotes": [
+        "We've had a huge run in 3M huge run in the stock multibagger in the options and option spreads we took profits",
+        "We would love to re-enter this at lower levels"
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "Unknown",
+      "actionable": "Hold, Re-added",
+      "position_status": "Core Holding",
+      "key_quotes": [
+        "Like Intel like we did last year went from 25 to 48 we took off 2/3 we readded we bought more down after uh earnings last week a lot more down brought our basis down I think now our basis is down to 23 bucks"
+      ]
+    },
+    {
+      "ticker": "GXO",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "Unknown",
+      "actionable": "Buy",
+      "position_status": "Core Holding",
+      "key_quotes": [
+        "Stock down 54% is it time to buy the dip on this growth stock which is gxo logistics uh amen baby you preaching to the choir"
+      ]
+    },
+    {
+      "ticker": "ASOS",
+      "tom_sentiment": "Neutral",
+      "conviction": 4,
+      "price_target_or_upside": "Unknown",
+      "actionable": "Watch",
+      "position_status": "Tiny Position",
+      "key_quotes": [
+        "A tiny position in Asos uh which we have yet to find a reason to make into a real position but we're keeping an eye on it"
+      ]
+    },
+    {
+      "ticker": "STARBUCKS",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "Unknown",
+      "actionable": "Watch",
+      "position_status": "No Position",
+      "key_quotes": [
+        "Maybe there'll be another chance to get in but I think that's going to be a harder ship to correct"
+      ]
+    },
+    {
+      "ticker": "NIKE",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "Unknown",
+      "actionable": "Watch",
+      "position_status": "No Position",
+      "key_quotes": [
+        "We'll probably miss it with Nike you're going to you're going to wake up and there'll be an activist in Nike and we'll miss it"
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "Unknown",
+      "actionable": "Hold",
+      "position_status": "Core Holding",
+      "key_quotes": [
+        "We have a meaningful China exposure through Baba so we didn't want to have a high correlated trade"
+      ]
+    },
+    {
+      "ticker": "PYPL",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "Unknown",
+      "actionable": "Hold",
+      "position_status": "Core Holding",
+      "key_quotes": [
+        "PayPal stock Rises its fast track to better margins with new guest checkout system we've been talking about this for months"
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "tom_sentiment": "Bearish",
+      "conviction": 3,
+      "price_target_or_upside": "Downside",
+      "actionable": "Avoid",
+      "position_status": "No Position",
+      "key_quotes": [
+        "Why why buffets dumped 55.8% of its Apple stock well I one reason could be that it's historically traded at a 14 times multiple now it was at a 28 to 30 times multiple oh and by the way the earnings growth expectations have haved so you're paying you know twice as much for half the growth"
+      ]
+    },
+    {
+      "ticker": "HD",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "Unknown",
+      "actionable": "Watch",
+      "position_status": "No Position",
+      "key_quotes": [
+        "Home Depot stock bounces as Home Improvement demand may have just bottomed so that's good to see everyone had been negative that's all going to be a function of rat"
+      ]
+    },
+    {
+      "ticker": "SWK",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "Unknown",
+      "actionable": "Hold",
+      "position_status": "Core Holding",
+      "key_quotes": [
+        "Stanley Black and Decker is going to be a function of rates J is going to be a function of rates as much as they've all both already rallied they're just getting started"
+      ]
+    },
+    {
+      "ticker": "GM",
+      "tom_sentiment": "Bearish",
+      "conviction": 3,
+      "price_target_or_upside": "Downside",
+      "actionable": "Avoid",
+      "position_status": "No Position",
+      "key_quotes": [
+        "This will hurt OEM margins GM Ford Stanis Toyota Motor Corp so to make up the profit they will have to produce more volume to meet profitability goals if they hold out for Price meaning they they're unwilling to cut they will lose meaningful share the race to the bottom will be on"
+      ]
+    },
+    {
+      "ticker": "FORD",
+      "tom_sentiment": "Bearish",
+      "conviction": 3,
+      "price_target_or_upside": "Downside",
+      "actionable": "Avoid",
+      "position_status": "No Position",
+      "key_quotes": [
+        "This will hurt OEM margins GM Ford Stanis Toyota Motor Corp so to make up the profit they will have to produce more volume to meet profitability goals if they hold out for Price meaning they they're unwilling to cut they will lose meaningful share the race to the bottom will be on"
+      ]
+    },
+    {
+      "ticker": "TOYOTA MOTOR CORP",
+      "tom_sentiment": "Bearish",
+      "conviction": 3,
+      "price_target_or_upside": "Downside",
+      "actionable": "Avoid",
+      "position_status": "No Position",
+      "key_quotes": [
+        "This will hurt OEM margins GM Ford Stanis Toyota Motor Corp so to make up the profit they will have to produce more volume to meet profitability goals if they hold out for Price meaning they they're unwilling to cut they will lose meaningful share the race to the bottom will be on"
+      ]
+    },
+    {
+      "ticker": "BOEING",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "Unknown",
+      "actionable": "Hold",
+      "position_status": "Core Holding",
+      "key_quotes": [
+        "They're getting some of the Industrials now rathon in UK Boeing carfor uh wh Smith trindall Etc and then their wins came from 21 from competitors 32% new activity from existing and 47% came from uh clients that were Outsourcing their supply chain management and Logistics Outsourcing to gxo which is a trend why because your margins increase when you Outsource that business and uh and that's a good thing for earnings and that's a good thing for uh CEO stock options and they all want to do it and that trend is going to accelerate in coming years"
+      ]
+    },
+    {
+      "ticker": "GEN",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "$200",
+      "actionable": "Buy",
+      "position_status": "Core Holding",
+      "key_quotes": [
+        "This thing is probably over time going to work towards 200 give it it 12 24 36 months",
+        "They've got 6.25% gener uh penetration for their total addressable Market uh this has tremendous opportunity moving forward"
+      ]
+    },
+    {
+      "ticker": "NVR",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "Unknown",
+      "actionable": "Watch",
+      "position_status": "No Position",
+      "key_quotes": [
+        "This has been a steady grower for a long time it's basically at new highs I I I just wait for this stuff to pull back"
+      ]
+    },
+    {
+      "ticker": "AMR",
+      "tom_sentiment": "Bearish",
+      "conviction": 2,
+      "price_target_or_upside": "Downside",
+      "actionable": "Avoid",
+      "position_status": "No Position",
+      "key_quotes": [
+        "Cash flow peaked two years ago it's collapsing revenues are rolling over uh return on Capital margins are rolling over I want nothing to do this is a stock that's up 400x and is rolling over on every single metric I mean this would be probably something to short to be honest with you"
+      ]
+    },
+    {
+      "ticker": "OXY",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "Unknown",
+      "actionable": "Watch",
+      "position_status": "No Position",
+      "key_quotes": [
+        "The name is not near as average because he did a warrant deal and everyone thinks he's buying all this stock what he's doing is converting warrants that he had at much lower prices so everyone's following him and buying the stock up"
+      ]
+    }
+  ],
+  "new_or_recent_additions": [
+    "GXO",
+    "Cooper Standard"
+  ],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy Disney (DIS)",
+      "conviction": 9
+    },
+    {
+      "rank": 2,
+      "idea": "Buy GXO Logistics (GXO)",
+      "conviction": 9
+    },
+    {
+      "rank": 3,
+      "idea": "Buy Cooper Standard (CPS)",
+      "conviction": 8
+    },
+    {
+      "rank": 4,
+      "idea": "Hold Generac (GEN)",
+      "conviction": 8
+    },
+    {
+      "rank": 5,
+      "idea": "Hold PayPal (PYPL)",
+      "conviction": 8
+    },
+    {
+      "rank": 6,
+      "idea": "Hold Stanley Black & Decker (SWK)",
+      "conviction": 7
+    },
+    {
+      "rank": 7,
+      "idea": "Hold Alibaba (BABA)",
+      "conviction": 7
+    },
+    {
+      "rank": 8,
+      "idea": "Hold Boeing",
+      "conviction": 7
+    },
+    {
+      "rank": 9,
+      "idea": "Watch Starbucks (SBUX)",
+      "conviction": 5
+    },
+    {
+      "rank": 10,
+      "idea": "Watch Nike (NKE)",
+      "conviction": 5
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Potential for volatility in the fall after the first Fed rate cut and before the election.",
+    "Risk of the Fed making a policy mistake and causing a recession.",
+    "Uncertainty in North America for GXO Logistics.",
+    "Dependence on auto production volumes for Cooper Standard."
+  ],
+  "technical_takeaways": "Small caps are retesting a breakout level and are expected to break out due to increasing earning power. The market is expected to rally into mid-September, followed by potential weakness into the end of October before a year-end rally.",
+  "publish_date": "2024-08-15"
+}

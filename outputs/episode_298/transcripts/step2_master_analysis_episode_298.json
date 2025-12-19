@@ -1,0 +1,466 @@
+{
+  "episode_number": "298",
+  "episode_date": "2025-07-03",
+  "executive_summary": "Tom Hayes is extremely bullish on the unmagnificent 493, international equities, and the weakening dollar. He believes the Trump budget bill will spur massive growth and that Powell is not the right guy for the job. He is also very positive on the consumer and discretionary stocks, especially those that have been left for dead. He sees a rotation out of mega cap stocks and into smaller buys. He also likes turnarounds and dividend aristocrats. He is particularly bullish on Canada Goose and believes it is a generational opportunity. He also added Etsy as a new position.",
+  "tom_current_conviction": {
+    "overall_market": "Bullish",
+    "score_1_to_10": 9,
+    "key_reasons": [
+      "Trump's budget bill will spur massive growth.",
+      "Sentiment is still near COVID low levels and great financial crisis low levels.",
+      "Global M2 money supply is now at a record.",
+      "Earnings expectations are low, setting the stage for beats.",
+      "CEO and seuite confidence is coming back, animal spirits coming back, deals coming back, investment coming back."
+    ]
+  },
+  "macro_thesis_summary": "The market has shifted from focus on tariffs and bombs to tax cuts, growth, and deregulation. The only way to fight the situation of high debt to GDP is to spur massive growth. Deregulation in the second half, changing capital requirements for banks, allowing them to lend more, allowing them to hold treasuries, uh allowing the stable coins with the Genius Act, creating massive demand for US treasuries, you're going to see rates come down.",
+  "key_macro_data_points": [
+    {
+      "indicator": "Debt to GDP",
+      "value": "120%",
+      "tom_interpretation": "The last thing you can do is cut your way to prosperity, the only thing you can do is grow your way out of the problem like we did in the 1950s."
+    },
+    {
+      "indicator": "10-year yield",
+      "value": "4% foreign change",
+      "tom_interpretation": "There's no uneasiness in the bond market at present."
+    },
+    {
+      "indicator": "Global M2 money supply",
+      "value": "Record high",
+      "tom_interpretation": "You got liquidity in the market."
+    },
+    {
+      "indicator": "Earnings growth Q2",
+      "value": "5%",
+      "tom_interpretation": "Sets the stage for earnings to beat expectations."
+    },
+    {
+      "indicator": "Dollar",
+      "value": "Weakening",
+      "tom_interpretation": "Expect continued weakening dollar, expect continued great performance from of international equities relative to the US"
+    }
+  ],
+  "featured_company_deep_dives": {
+    "GOOS": {
+      "thesis_summary": "Canada Goose is a turnaround story with a focus on reducing wholesale exposure and increasing DTC sales. The company is also expanding into all-season apparel and has a strong management team with significant skin in the game.",
+      "key_metrics": [
+        "Record high gross margins",
+        "Revenues reacelerating",
+        "Near record free cash flow",
+        "DTC revenues jumped 15.7% in Q4 with comp sales up 6.8%.",
+        "Inventories have declined for six straight quarters down to just $384 million and 14% lower year-one."
+      ],
+      "price_target_or_valuation": "Not provided, but believes the train hasn't left the station yet.",
+      "conviction": "High",
+      "action": "Buy"
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "SWK",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "Upgrade to $90 price target, They're going to have to take that up again.",
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "Chris Nelson to become CEO effective October 1st should be welcomed by investors."
+      ]
+    },
+    {
+      "ticker": "ALB",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "$93 price target",
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "Bank of America downgrading Albamaro in the hold despite um you can see here lithium prices are bottoming."
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "$28 price target",
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "Intel got upgraded $28 price target from Northland. Talking about the different nodes and the opportunities and basically Intel is the only alternative to Taiwan semiconductor."
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "Potential multi-bagger",
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "I continue to say Alibaba is the cheapest AI play in the world.",
+        "For the first time in a long time, I was able to put new clients into Alibaba because of the short-term pullback. Super excited about that."
+      ]
+    },
+    {
+      "ticker": "GOOS",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 10,
+      "price_target_or_upside": "Not provided, but believes the train hasn't left the station yet.",
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "Despite the 70% move off the April lows, we don't even think the train has left the station yet with this name.",
+        "We love buying things that are not in the headlines  that no one wants and selling when they're in the headlines"
+      ]
+    },
+    {
+      "ticker": "NKE",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "N/A",
+      "actionable": "Monitor",
+      "position_status": "Not owned",
+      "key_quotes": [
+        "Nike is not one we own we we would own but we're we're going to play the turnaround with Brack and Daryl over at VF Corp which is a similar type theme"
+      ]
+    },
+    {
+      "ticker": "VF CORP",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "N/A",
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "we're going to play the turnaround with Brack and Daryl over at VF Corp which is a similar type theme"
+      ]
+    },
+    {
+      "ticker": "F",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "Ford sales jumped 14% in the second quarter, well above industry forecast. How you doing? F-150s. Cooper Standard loves you."
+      ]
+    },
+    {
+      "ticker": "GM",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "the average car on the road is 13.5 years. So not only are the uh OEMs like Ford, GM, etc. going to going to start to flourish from something like this, but all the auto parts suppliers which have been kind of left for dead uh because the volumes have been anemic are going to start to accelerate."
+      ]
+    },
+    {
+      "ticker": "DIS",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "Price target increased to 144 from 100. Next will be 180. And then it'll be a $200 stock a few years out.",
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "Disney stock jumps after upgrade. Why parks and cruises can drive it even higher. No one wanted it at 85. Everyone wants it at 120. Still skeptics."
+      ]
+    },
+    {
+      "ticker": "FDX",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "N/A",
+      "actionable": "Monitor",
+      "position_status": "Existing",
+      "key_quotes": [
+        "I keep looking at there's going to be a pony in the pile for FedEx and UPS I think at some point. It's just not yet."
+      ]
+    },
+    {
+      "ticker": "UPS",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "N/A",
+      "actionable": "Monitor",
+      "position_status": "Existing",
+      "key_quotes": [
+        "I keep looking at there's going to be a pony in the pile for FedEx and UPS I think at some point. It's just not yet."
+      ]
+    },
+    {
+      "ticker": "MATX",
+      "tom_sentiment": "Neutral",
+      "conviction": 4,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "In the meantime, it drags and then what's this company? MATX. Yeah, those are kind of the big hits on that economic data."
+      ]
+    },
+    {
+      "ticker": "SWK",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "$90",
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "Chris Nelson to become CEO effective October 1st should be welcomed by investors."
+      ]
+    },
+    {
+      "ticker": "QXO",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "does this lessen your conviction in Stanley Black & Decker, Generrack, and QXO? No. No. No."
+      ]
+    },
+    {
+      "ticker": "PG&E",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "Do you think Hawaiian Electric can have a similar turnaround to PG&E? We played PG&E."
+      ]
+    },
+    {
+      "ticker": "PII",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "Thoughts on Polaris PII? This is consumer discretionary. All this is is a wrapped up rate play and I think the time is finally right for that."
+      ]
+    },
+    {
+      "ticker": "FI",
+      "tom_sentiment": "Neutral",
+      "conviction": 4,
+      "price_target_or_upside": "N/A",
+      "actionable": "Sell",
+      "position_status": "Existing",
+      "key_quotes": [
+        "FI not for me. I just don't see a quick double or or triple in the next few years doing this."
+      ]
+    },
+    {
+      "ticker": "BA",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "N/A",
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "Boeing has been a monster. If you go back to Vney a few months ago when we were just pounding the table at 135, now it's 214 and it's going higher."
+      ]
+    },
+    {
+      "ticker": "BF.B",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "N/A",
+      "actionable": "Sell",
+      "position_status": "Existing",
+      "key_quotes": [
+        "looking at Brown Foreman, just want to know why you prefer Dagio over this one. This from Johnny S. Uh, premiumization."
+      ]
+    },
+    {
+      "ticker": "JD.L",
+      "tom_sentiment": "Neutral",
+      "conviction": 4,
+      "price_target_or_upside": "N/A",
+      "actionable": "Sell",
+      "position_status": "Existing",
+      "key_quotes": [
+        "JD Sports. This is, uh, Jay Gallant. Let's take a look. J D Sports JD.L. margins have come in quite a bit. something. This kind of decline in return on capital looks like uh they probably did a dumb acquisition."
+      ]
+    },
+    {
+      "ticker": "VAL",
+      "tom_sentiment": "Negative",
+      "conviction": 2,
+      "price_target_or_upside": "N/A",
+      "actionable": "Sell",
+      "position_status": "Existing",
+      "key_quotes": [
+        "Someone is out promoting the hell out of this stock because I get it like every single week. Someone asking me about Valaris. Offshore drilling. No, I don't like that business."
+      ]
+    },
+    {
+      "ticker": "LVMH",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "How's it LVMH reaching levels worth considering? I think we covered LVMH like a month ago and I said it was fine."
+      ]
+    },
+    {
+      "ticker": "ALGT",
+      "tom_sentiment": "Negative",
+      "conviction": 3,
+      "price_target_or_upside": "N/A",
+      "actionable": "Sell",
+      "position_status": "Existing",
+      "key_quotes": [
+        "this guy had sent me Jaz Rube had sent me uh Allegiance. I I don't I don't think I I like this one. Um, ALGT pro it's like a second tier carrier."
+      ]
+    },
+    {
+      "ticker": "VCT",
+      "tom_sentiment": "Interesting",
+      "conviction": 6,
+      "price_target_or_upside": "N/A",
+      "actionable": "Due diligence",
+      "position_status": "Not owned",
+      "key_quotes": [
+        "VCT Chris, if you can get confidence that they can turn the top line and uh I do like these business a lot of the chemical related businesses have been left for dead. I I like this area. I think it's going to start to recover. I think it's interesting, but you got to get you got to understand their moat and you got to understand the turnaround plan."
+      ]
+    },
+    {
+      "ticker": "PYPL",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Buy",
+      "position_status": "Existing",
+      "key_quotes": [
+        "draw down that followed. Uh, similar to PayPal, by the way, which is on an absolute tear lately."
+      ]
+    },
+    {
+      "ticker": "GMS",
+      "tom_sentiment": "Negative",
+      "conviction": 1,
+      "price_target_or_upside": "N/A",
+      "actionable": "N/A",
+      "position_status": "N/A",
+      "key_quotes": [
+        "QXO turns attention elsewhere as Home Depot nabs GMS."
+      ]
+    },
+    {
+      "ticker": "IBM",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "Goran Stogic uh famous Warren Buffettly famously said that turnaround seldom turn. I don't think that's true. Uh they did seldom turn for Buffett who bought uh IBM when uh that lady was running it into the ground. But IBM was a big enough business. It's now turned around."
+      ]
+    },
+    {
+      "ticker": "RRC",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "$60",
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "I almost gave up on and that was Range Resources. We bought at 11 bucks in 2018. It was down from 90.  immediately not immediately went up to $18. We thought we were geniuses. Then COVID came. It dropped down to a buck 60. We backed up the truck. We bought our B brought our basis down to $4 and change and and now it's at  over around $40. So it's a 10 bagger in seven years and probably going to 60 is which is where we initially underwrote it before we got involved."
+      ]
+    },
+    {
+      "ticker": "CCSI",
+      "tom_sentiment": "Negative",
+      "conviction": 2,
+      "price_target_or_upside": "N/A",
+      "actionable": "Sell",
+      "position_status": "Existing",
+      "key_quotes": [
+        "I want nothing to do with it. Jason Greenblat, love the content.  Consensus Cloud Solutions, CCSI. Let's take a look. I know Jason's been watching for a while. Revenues have just been flat. cash flow collapsed."
+      ]
+    },
+    {
+      "ticker": "BYD",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "Existing",
+      "key_quotes": [
+        "there is one that he did stick with called BYD in China. 11 years the stock did nothing. had three 50% plus draw downs and then in the 12th year it was a 10bagger."
+      ]
+    }
+  ],
+  "new_or_recent_additions": [
+    "BABA",
+    "Etsy"
+  ],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy Canada Goose (GOOS)",
+      "conviction": 10
+    },
+    {
+      "rank": 2,
+      "idea": "Buy Boeing (BA)",
+      "conviction": 8
+    },
+    {
+      "rank": 3,
+      "idea": "Buy VF Corp",
+      "conviction": 8
+    },
+    {
+      "rank": 4,
+      "idea": "Buy Alibaba (BABA)",
+      "conviction": 8
+    },
+    {
+      "rank": 5,
+      "idea": "Buy Stanley Black & Decker (SWK)",
+      "conviction": 7
+    },
+    {
+      "rank": 6,
+      "idea": "Buy Ford (F)",
+      "conviction": 7
+    },
+    {
+      "rank": 7,
+      "idea": "Buy General Motors (GM)",
+      "conviction": 7
+    },
+    {
+      "rank": 8,
+      "idea": "Buy Polaris (PII)",
+      "conviction": 7
+    },
+    {
+      "rank": 9,
+      "idea": "Buy Disney (DIS)",
+      "conviction": 7
+    },
+    {
+      "rank": 10,
+      "idea": "Due diligence on Vic Trex (VCT)",
+      "conviction": 6
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Tariffs",
+    "Powell's monetary policy mistakes",
+    "Geopolitical risks"
+  ],
+  "technical_takeaways": "S&P 500 breaking out. Home builders starting to break this downtrend. Biotech now starting to break the downtrend."
+}

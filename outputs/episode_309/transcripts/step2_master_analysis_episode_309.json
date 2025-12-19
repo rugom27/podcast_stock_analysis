@@ -1,0 +1,345 @@
+{
+  "episode_number": "309",
+  "episode_date": "2025-09-18",
+  "executive_summary": "Tom Hayes is extremely bullish on small caps, international equities, and value stocks, particularly energy. He emphasizes the importance of looking beneath the surface of the market, where significant opportunities for doubles and triples exist. He highlights Alibaba as a key holding and discusses the potential for Intel due to government support and partnerships with Nvidia. He also points out the undervaluation of energy stocks and their role as a pick-and-shovel play on AI.",
+  "tom_current_conviction": {
+    "overall_market": "Extremely Bullish",
+    "score_1_to_10": 9,
+    "key_reasons": [
+      "Small caps are breaking out after 967 days since the last all-time high.",
+      "Bearish sentiment is unbelievably high, which is not typical at market tops.",
+      "Weaker dollar benefits international equities and small caps.",
+      "Consumer sentiment is at lows, indicating a buy opportunity.",
+      "Liquidity versus yield curve is about to change, which will benefit stocks."
+    ]
+  },
+  "macro_thesis_summary": "The market is in the early stages of a bull market, with significant opportunities beneath the surface. Small caps, international equities, and value stocks are poised to outperform. A weaker dollar and declining interest rates will further fuel growth. The key is to focus on fundamentals and avoid chasing overvalued tech stocks.",
+  "key_macro_data_points": [
+    {
+      "indicator": "S&P Monthly Range",
+      "value": "Looks like it pushes up to 6,900 or beyond",
+      "tom_interpretation": "The S&P is expected to rise significantly, indicating a strong market outlook."
+    },
+    {
+      "indicator": "Russell 2000",
+      "value": "Up 2.5% today",
+      "tom_interpretation": "Small caps are breaking out, signaling a buying opportunity."
+    },
+    {
+      "indicator": "Small vs Large Stocks Annualizing",
+      "value": "Negative 10% last 10 years",
+      "tom_interpretation": "This is a twice in a 100-year opportunity to buy small caps at these valuations."
+    },
+    {
+      "indicator": "Energy Sector Weight in S&P 500",
+      "value": "Dropped to all-time lows of around 3%",
+      "tom_interpretation": "Energy is left for dead, presenting a buying opportunity."
+    },
+    {
+      "indicator": "Consumer Sentiment",
+      "value": "Retested the sentiment lows that we saw in October 2022",
+      "tom_interpretation": "Indicates a massive, unbelievable buy opportunity."
+    }
+  ],
+  "featured_company_deep_dives": {
+    "Comstock Resources": {
+      "thesis_summary": "Comstock Resources is a natural gas producer with a best-in-class cost structure and strong growth potential due to rising demand from data centers. Management is bullish on 2026 and has no intention of issuing equity.",
+      "key_metrics": [
+        "Natural gas and oil sales reached $344 million in Q2, up 24% year-over-year.",
+        "Production costs average 80 cents per MCFE, giving a 74% cash margin.",
+        "Management expects drilling efficiencies to further reduce DNC costs.",
+        "New partnership with Nextera Energy to explore gas-fired power generation assets near the western Hannesville aimed at serving potential data center customers."
+      ],
+      "conviction": "High",
+      "action": "Buy"
+    },
+    "National Oilwell Varco": {
+      "thesis_summary": "National Oilwell Varco is an energy equipment company with a rock-solid balance sheet and a commitment to returning capital to shareholders. Management expects offshore to return to growth and reacelerate in 2026.",
+      "key_metrics": [
+        "Energy equipment segment generated revenue of $1.21 billion during the quarter.",
+        "New orders totaled $420 million.",
+        "Backlog for capital equipment orders stands at $4.3 billion.",
+        "Management announced a companywide cost reduction initiative targeting more than $100 million in annual savings by the end of 2026."
+      ],
+      "conviction": "High",
+      "action": "Buy"
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Extremely Bullish",
+      "conviction": 10,
+      "price_target_or_upside": "250",
+      "actionable": "Buy",
+      "position_status": "Core Holding",
+      "key_quotes": [
+        "All the same people who got you out of your Alibaba stock at $50 are going to be the exact same people that get you into Alibaba stock at $250 per share. Mark my words, that one you can take to the bank.",
+        "People are still skeptical about this rally and it'll take a little breather and then it'll go up to 200 and then all the negative anti-China D-listing ADR people are going to get forced in over 200 on Baba and um uh there will be a point where we're going to be happy to help them out. It probably has a three handle on it, but uh God bless or or as they say in the South, bless your heart."
+      ]
+    },
+    {
+      "ticker": "PYPL",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Buy",
+      "key_quotes": [
+        "If you're on Google's properties, you're paying with PayPal. PayPal is a leader in digital commerce.",
+        "Broad embedding of PayPal solutions across Google's platforms."
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "actionable": "Buy",
+      "key_quotes": [
+        "Nvidia needs Intel almost as much, if not more, than Intel needs Nvidia.",
+        "Intel had nothing to lose. They were in the gutter. It was all asymmetry to the upside."
+      ]
+    },
+    {
+      "ticker": "SPX",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "This monthly range looks like it pushes up to 6,900 or beyond."
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "tom_sentiment": "Neutral",
+      "conviction": 6,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Nvidia needs Intel almost as much, if not more, than Intel needs Nvidia."
+      ]
+    },
+    {
+      "ticker": "AMD",
+      "tom_sentiment": "Bearish",
+      "conviction": 8,
+      "actionable": "Sell",
+      "key_quotes": [
+        "I think this is going to completely gut punch AMD."
+      ]
+    },
+    {
+      "ticker": "COOPER",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Volume growth is the leading indicator for Cooper Standards earnings per share."
+      ]
+    },
+    {
+      "ticker": "DIS",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "I'd rather play it through Disney to be honest with you. Disney's investing a lot in the cruises and you have outs in case the crude cruise business goes a little sideways."
+      ]
+    },
+    {
+      "ticker": "GXO",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Buy",
+      "key_quotes": [
+        "Got to get more exposure there beyond GXO."
+      ]
+    },
+    {
+      "ticker": "NOV",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Buy",
+      "key_quotes": [
+        "Give this guy the co gold medal Emmy for buying shares back at the right time versus the other losers who are buying shares back at 100 times sales so they can dump their stock on idiot retail investors that don't realize what's happening to them."
+      ]
+    },
+    {
+      "ticker": "WEN",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "I think you're going to be so right because the whole restaurant group is going to rip as beef prices come down."
+      ]
+    },
+    {
+      "ticker": "ATKR",
+      "tom_sentiment": "Interesting",
+      "conviction": 6,
+      "actionable": "Watch",
+      "key_quotes": [
+        "I think you're on the money on this but we got to do some work but I think it warrants some work."
+      ]
+    },
+    {
+      "ticker": "NCL",
+      "tom_sentiment": "Neutral",
+      "conviction": 4,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "Problem with NCL. Problem with all these is that they're overlevered from COVID."
+      ]
+    },
+    {
+      "ticker": "LEG",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "actionable": "Hold",
+      "key_quotes": [
+        "I like it. Like it and plat furniture play. little overlevered so it's not like bet the ranch but I think it's I think it's gonna be okay."
+      ]
+    },
+    {
+      "ticker": "IFF",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "actionable": "Buy",
+      "key_quotes": [
+        "I love IFFF. I I would consider putting that in kind of the materials bucket. I like it here."
+      ]
+    },
+    {
+      "ticker": "FLW",
+      "tom_sentiment": "Negative",
+      "conviction": 3,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "This looks like a compounder whose moat has been breached."
+      ]
+    },
+    {
+      "ticker": "CYH",
+      "tom_sentiment": "Interesting",
+      "conviction": 5,
+      "actionable": "Watch",
+      "key_quotes": [
+        "CH might be interesting. They got potential balance sheet problem."
+      ]
+    },
+    {
+      "ticker": "PRMBB",
+      "tom_sentiment": "Too Early",
+      "conviction": 2,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "Too early on PRMBB."
+      ]
+    },
+    {
+      "ticker": "ADBE",
+      "tom_sentiment": "Cannot Handicap",
+      "conviction": 1,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "Adobe, I'm not going to get confidence there. I can't handicap."
+      ]
+    },
+    {
+      "ticker": "REGN",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "actionable": "Buy",
+      "key_quotes": [
+        "Regeneron, yes."
+      ]
+    },
+    {
+      "ticker": "SBUX",
+      "tom_sentiment": "Neutral",
+      "conviction": 4,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Starbucks. I love the new CEO. Uh, I just don't think it's a good use of capital because it's going to, you know, it's 50% versus two or three hex."
+      ]
+    },
+    {
+      "ticker": "DECK",
+      "tom_sentiment": "Negative",
+      "conviction": 3,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "No, I don't like Deckers at these levels."
+      ]
+    },
+    {
+      "ticker": "DGE",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "actionable": "Buy",
+      "key_quotes": [
+        "Only one we want is Diagio in that space because of the premiumization trend."
+      ]
+    }
+  ],
+  "new_or_recent_additions": [
+    "Comstock Resources",
+    "National Oilwell Varco"
+  ],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy Alibaba (BABA) for long-term growth.",
+      "conviction": 10
+    },
+    {
+      "rank": 2,
+      "idea": "Buy Intel (INTC) due to government support and Nvidia partnership.",
+      "conviction": 9
+    },
+    {
+      "rank": 3,
+      "idea": "Buy Comstock Resources for exposure to natural gas.",
+      "conviction": 8
+    },
+    {
+      "rank": 4,
+      "idea": "Buy National Oilwell Varco (NOV) for exposure to energy equipment.",
+      "conviction": 8
+    },
+    {
+      "rank": 5,
+      "idea": "Buy PayPal (PYPL) to capitalize on Google partnership.",
+      "conviction": 8
+    },
+    {
+      "rank": 6,
+      "idea": "Buy IFF for exposure to materials.",
+      "conviction": 7
+    },
+    {
+      "rank": 7,
+      "idea": "Buy GXO for exposure to international equities.",
+      "conviction": 7
+    },
+    {
+      "rank": 8,
+      "idea": "Buy Diagio (DGE) for exposure to premiumization trend.",
+      "conviction": 7
+    },
+    {
+      "rank": 9,
+      "idea": "Consider ATKR for potential turnaround.",
+      "conviction": 6
+    },
+    {
+      "rank": 10,
+      "idea": "Hold S&P 500 index for broad market exposure.",
+      "conviction": 7
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Overleveraged balance sheets in certain sectors (e.g., cruise lines).",
+    "Chasing fads and not doing thorough research.",
+    "Being influenced by short-term market emotions rather than long-term fundamentals.",
+    "Potential for short-term volatility in Chinese stocks due to geopolitical negotiations."
+  ],
+  "technical_takeaways": "Small caps are breaking out, indicating a potential for significant gains. Equal weight indices are expected to outperform cap-weighted indices. The dollar index is breaking down, which benefits international equities and small caps."
+}

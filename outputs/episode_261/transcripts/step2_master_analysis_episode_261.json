@@ -1,0 +1,244 @@
+{
+  "episode_number": "261",
+  "episode_date": "2024-10-17",
+  "executive_summary": "Tom Hayes discusses earnings season, the broadening market, and potential investment opportunities in small caps, China, and value stocks. He emphasizes the importance of low expectations and split government for market health. He also highlights the potential impact of a Trump presidency on small caps and Chinese stocks.",
+  "tom_current_conviction": {
+    "overall_market": "Bullish",
+    "score_1_to_10": 8,
+    "key_reasons": [
+      "Massive liquidity",
+      "More central banks cut last month than have cut since 2020 and prior to that 2009",
+      "Complacency",
+      "Market voting with liquidity and beating expectations so far"
+    ]
+  },
+  "macro_thesis_summary": "The market is in a mid-cycle of an 18-year secular bull market, driven by demographics (Millennials) and an easing cycle. Value will outperform growth. China and Emerging Markets offer the best value. A split government is good for the market.",
+  "key_macro_data_points": [
+    {
+      "indicator": "Earnings Growth Expectations",
+      "value": "4.2% (low bar)",
+      "tom_interpretation": "The market likes beating expectations. Looking out to 2025, you're looking at 15% earnings growth and margins are actually accelerating."
+    },
+    {
+      "indicator": "GDP Now",
+      "value": "Up 3.2% from 2.5%",
+      "tom_interpretation": "Positive sign for the economy."
+    },
+    {
+      "indicator": "Rail Freight Car Loadings",
+      "value": "Up",
+      "tom_interpretation": "Bodes well for a manufacturing recovery."
+    },
+    {
+      "indicator": "Private Client weekly outflow from T bills",
+      "value": "Highest we've seen",
+      "tom_interpretation": "Sign of risk appetite"
+    },
+    {
+      "indicator": "Record inflow into Chinese Equity Funds",
+      "value": "End of September",
+      "tom_interpretation": "Positive for Chinese equities"
+    },
+    {
+      "indicator": "Federal Fund Rate Changes Expected",
+      "value": "6 cuts",
+      "tom_interpretation": "More than enough. Wouldn't be surprised if the terminal rate is 4% not 3%."
+    },
+    {
+      "indicator": "Total containers coming through LA",
+      "value": "New Highs",
+      "tom_interpretation": "Bodes well for retail sales."
+    }
+  ],
+  "featured_company_deep_dives": {
+    "BABA": {
+      "thesis_summary": "Baba is being added to the Hangsang family of indexes, forcing institutional buying.  It is a play on AI in China.  The Chinese government will jam so much liquidity into that market it is going to continue to go up in serious size in fits and starts.",
+      "key_metrics": [
+        "Stock Connect Hong Kong Index",
+        "Hangsang 25 Index",
+        "Artificial Intelligence Theme Index",
+        "China Technology Index",
+        "New Economy Index"
+      ],
+      "conviction": "High",
+      "action": "Buy on dips, especially if it flushes down to 98. Reload on longer dated options.  What is David Tepper doing? The question is what are you doing?"
+    },
+    "BA": {
+      "thesis_summary": "Boeing won't go bankrupt.  The strike will be resolved soon.  The company has a massive backlog and is in a duopoly.  The company is in the stronger position relative to the union.",
+      "key_metrics": [
+        "23 billion in cash",
+        "6200 unfilled orders",
+        "Hundreds of billions of dollars of sale of backlog",
+        "Tens of billions of free cash flow backlog"
+      ],
+      "conviction": "High",
+      "action": "Buy. If it won't go bankrupt, it's going to be a double over the next few years."
+    },
+    "GXO": {
+      "thesis_summary": "GXO Logistics is exploring potential sales. A deal will be close to 80 or $85. The UK is having the most amount of economic surprises to the upside.",
+      "key_metrics": [
+        "Potential takeover price of $85 per share"
+      ],
+      "conviction": "Medium",
+      "action": "Hold.  Tom would prefer they didn't do a deal because he thinks it goes over a 100 over the next few years."
+    },
+    "CRI": {
+      "thesis_summary": "Cooper Standard will benefit from increased auto production and a recovery in the auto industry.  The lower the price gets, the more incentives, the more volume we're going to see because the average car on the road is over 13 years old.",
+      "key_metrics": [
+        "Morgan Stanley estimating 16 million SAR",
+        "150 bucks a car above 15.8 million SAR",
+        "Break even is basically 100% margin"
+      ],
+      "conviction": "High",
+      "action": "Buy.  Tom is putting new clients in in Cooper standard at 13 bucks all day long.  The ones that have been with me for a while have it at five bucks and change but I think 13 bucks is like unbelievable."
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "IWM",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Buy",
+      "key_quotes": [
+        "Small caps are finally breaking out, they were the lagger now they're turning into the leader",
+        "This is a whatever cup and handle which means measured move would imply another 80 points on top of that so we've got a long way to go ladies and gentlemen this is just just getting started"
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 9,
+      "actionable": "Buy on dips",
+      "key_quotes": [
+        "I hope we see a flush down to 98 we'll reload on longer dated options",
+        "What is David Tepper doing? The question is what are you doing?"
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "We have exposure through Intel which we like I know you can't give it away but just just hang in there ladies and gentlemen",
+        "The government will stand them up and make them succeed in spite of themselves and we will benefit as Equity holders just patience Daniel Son"
+      ]
+    },
+    {
+      "ticker": "CRI",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 9,
+      "actionable": "Buy",
+      "key_quotes": [
+        "I'm putting new clients in in Cooper standard at 13 bucks all day long",
+        "I think 13 bucks is like unbelievable"
+      ]
+    },
+    {
+      "ticker": "GXO",
+      "tom_sentiment": "Neutral",
+      "conviction": 6,
+      "price_target_or_upside": "$85",
+      "actionable": "Hold",
+      "key_quotes": [
+        "I would prefer they didn't do it because I think it goes over a 100 over the next few years"
+      ]
+    },
+    {
+      "ticker": "PYPL",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Healthcare would include biotech which is moved quite a lot it's been consolidating I think we're getting ready for the next move up which is going to be awesome"
+      ]
+    },
+    {
+      "ticker": "ALB",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Look to add more",
+      "key_quotes": [
+        "We will look to add more"
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "I would never bet against him"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "The boom bus semiconductor cycle implies that you know you could have a downturn which would hurt the nvidias and the amds"
+      ]
+    },
+    {
+      "ticker": "AMD",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "The boom bus semiconductor cycle implies that you know you could have a downturn which would hurt the nvidias and the amds"
+      ]
+    },
+    {
+      "ticker": "QXOX",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "We do have a position in qxo at 11:57 and a pretty big one at that"
+      ]
+    },
+    {
+      "ticker": "ULTA",
+      "tom_sentiment": "Bullish",
+      "conviction": 6,
+      "actionable": "Watch",
+      "key_quotes": [
+        "I got my eye on both of them I'm not doing anything on either but they do fall in the area of consumer discretionary that I want to be in"
+      ]
+    }
+  ],
+  "new_or_recent_additions": [
+    "QXOX"
+  ],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy Cooper Standard (CRI) at $13",
+      "conviction": 9
+    },
+    {
+      "rank": 2,
+      "idea": "Buy Alibaba (BABA) on dips, especially if it flushes down to 98",
+      "conviction": 9
+    },
+    {
+      "rank": 3,
+      "idea": "Buy Small Caps (IWM)",
+      "conviction": 8
+    },
+    {
+      "rank": 4,
+      "idea": "Look to add more Albemarle (ALB)",
+      "conviction": 7
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Year three of bull markets tend to be weaker",
+    "Potential for short-term consolidation in higher weighted companies",
+    "Semiconductors could face a downturn",
+    "High Equity index valuations in the US market"
+  ],
+  "technical_takeaways": "High yield OAS spreads are close to record lows. The 10-year yield was a counter trend rally, the trend is down. The S&P broke out, maybe checking back or maybe goes straight up.",
+  "publish_date": "2024-10-17"
+}

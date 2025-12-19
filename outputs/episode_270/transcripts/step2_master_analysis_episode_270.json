@@ -1,0 +1,340 @@
+{
+  "episode_number": "270",
+  "episode_date": "2024-12-19",
+  "executive_summary": "Tom Hayes is extremely bullish on beaten-down sectors like healthcare, emerging markets, and specific turnaround stories like VF Corp, PayPal, Boeing, and Disney. He emphasizes the importance of being burdened by facts, not perceptions, and taking advantage of market despondency. He sees a stock picker's market in 2025 with opportunities in the 'unmagnificent 493'. He is pounding the table on Alibaba (BABA) and sees a repeat of the Trump 1.0 rally in beaten down sectors.",
+  "tom_current_conviction": {
+    "overall_market": "Bullish, but nuanced",
+    "score_1_to_10": 8,
+    "key_reasons": [
+      "Global easing cycle is favorable.",
+      "Correlations of stocks are at a 23-year low, creating opportunities outside of the Magnificent 7.",
+      "Trump 2.0 will be pro-business and deregulatory."
+    ]
+  },
+  "macro_thesis_summary": "The global easing cycle, low stock correlations, and a potential pro-business Trump administration create a favorable environment for stock picking in 2025. Emerging markets and beaten-down sectors are poised to outperform. Be burdened by the facts, not perceptions.",
+  "key_macro_data_points": [
+    {
+      "indicator": "Corporate Tax Rate",
+      "value": "Potential decrease from 21% to 15%",
+      "tom_interpretation": "Would increase S&P 500 earnings by 4%, a big deal for consumer discretionary, healthcare, and industrials."
+    },
+    {
+      "indicator": "Stock Correlations",
+      "value": "23-year low",
+      "tom_interpretation": "Creates a stock picker's market in 2025, with opportunities in the 'unmagnificent 493'."
+    },
+    {
+      "indicator": "China Trade Surplus",
+      "value": "Record high of $957 billion",
+      "tom_interpretation": "Sets the stage for outperformance of Chinese equities, especially with easing financial conditions."
+    },
+    {
+      "indicator": "US Retail Sales",
+      "value": "Driven by motor vehicles and motor parts",
+      "tom_interpretation": "Incentives are going up, volumes are going up, inventories are going up. This is all perfect for Cooper Standard."
+    },
+    {
+      "indicator": "Healthcare Relative Performance",
+      "value": "Lowest relative performance to the S&P 500 since 2008",
+      "tom_interpretation": "A generational buy opportunity. 'The rumors of My Demise have been greatly exaggerated.'"
+    }
+  ],
+  "featured_company_deep_dives": {
+    "VF Corp": {
+      "thesis_summary": "New CEO Brack and Daryl is turning the company around by selling Supreme, deleveraging the balance sheet, and launching new collaborations. The stock is going to double over the next two years.",
+      "key_metrics": [
+        "New CEO Brack and Daryl",
+        "Sold Supreme",
+        "Deleveraged balance sheet ($1.5B cash)",
+        "Northface/Skims collaboration",
+        "Vans stabilizing"
+      ],
+      "price_target_or_valuation": "Double over the next two years",
+      "conviction": "9",
+      "action": "Buy"
+    },
+    "PayPal": {
+      "thesis_summary": "New CEO Alex Chris is improving margins and take rate, generating significant cash flow, and executing buybacks. The stock is going to hum over 100 over 150 over the next couple years.",
+      "key_metrics": [
+        "New CEO Alex Chris",
+        "$6B cash flow",
+        "$6B buybacks",
+        "Improving margins",
+        "Checkout fast lane increased conversion from 50% to 80%"
+      ],
+      "price_target_or_valuation": "Over $100, then $150 over the next couple years",
+      "conviction": "9",
+      "action": "Buy"
+    },
+    "Etsy": {
+      "thesis_summary": "Down 80% from COVID highs, Etsy is the fourth most trafficked e-commerce site with unique offerings. They are generating over $600 million of free cash flow and have announced a $1 billion buyback.",
+      "key_metrics": [
+        "Down 80% from COVID highs",
+        "Fourth most trafficked e-commerce site",
+        "Over $600M free cash flow",
+        "$1B buyback",
+        "Loyalty and gifting programs"
+      ],
+      "price_target_or_valuation": "Significant upside",
+      "conviction": "8",
+      "action": "Buy"
+    },
+    "Cooper Standard": {
+      "thesis_summary": "Perfectly on track. With interest rates and borrowing costs coming down, and mobility costs decreasing, light vehicle sales are going up. American automakers are selling $30,000-$40,000 cars, and incentives are increasing.",
+      "key_metrics": [
+        "Interest rates coming down",
+        "Mobility costs decreasing",
+        "Light vehicle sales increasing",
+        "Incentives increasing",
+        "Industry projection for 2025 is 16.3 million"
+      ],
+      "price_target_or_valuation": "Significant upside",
+      "conviction": "8",
+      "action": "Buy"
+    },
+    "Baxter": {
+      "thesis_summary": "Healthcare sector is beaten down due to RFK Jr. fears, but the sector is expected to have the second-largest earnings growth next year at 21%. Baxter is oversold, solvency risk is off the table, and free cash flow is positive.",
+      "key_metrics": [
+        "Healthcare sector beaten down",
+        "Expected earnings growth of 21%",
+        "Oversold technically",
+        "Solvency risk off the table",
+        "Free cash flow positive"
+      ],
+      "price_target_or_valuation": "Doubles and triples over a few years",
+      "conviction": "8",
+      "action": "Buy"
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "VFC",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "Double over the next two years",
+      "actionable": "Buy",
+      "position_status": "Held",
+      "key_quotes": [
+        "You can't give it away right now.",
+        "Brack and Daryl is the new CEO... he's doing the exact same thing he's taking solvency risk off the table."
+      ]
+    },
+    {
+      "ticker": "PYPL",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "Over $100, then $150 over the next couple years",
+      "actionable": "Buy",
+      "position_status": "Held",
+      "key_quotes": [
+        "This thing is going to hum over 100 over 150 over the next couple years.",
+        "Another bet on the jockey, new CEO Alex Chris."
+      ]
+    },
+    {
+      "ticker": "XBI",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "Significant upside",
+      "actionable": "Buy",
+      "position_status": "Held",
+      "key_quotes": [
+        "It's time for XBI... they've finally come aggressively off that bottom.",
+        "Deals and drugs are working in favor."
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Extremely Bullish",
+      "conviction": 10,
+      "price_target_or_upside": "50% upside in 2025 (Barron's estimate, Tom thinks higher)",
+      "actionable": "Buy",
+      "position_status": "Held",
+      "key_quotes": [
+        "Alibaba stock could be up 50% in 2025 if investors warm to the depressed China stock market.",
+        "When Financial conditions were this easy what happened in the next 12 and 24 months and the answer is a lot of good happened after Financial conditions were this easy"
+      ]
+    },
+    {
+      "ticker": "BA",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "Significant upside",
+      "actionable": "Buy",
+      "position_status": "Held",
+      "key_quotes": [
+        "Boeing is turning around... new CEO is turning around the ship.",
+        "They have a 10-year half a trillion dollar backlog."
+      ]
+    },
+    {
+      "ticker": "DIS",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "Significant upside",
+      "actionable": "Buy",
+      "position_status": "Held",
+      "key_quotes": [
+        "Disney that's still down 50% you can't give the stock away.",
+        "Everyone loves Disney it's going to recover."
+      ]
+    },
+    {
+      "ticker": "TLT",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "Yield compression",
+      "actionable": "Buy",
+      "position_status": "New Addition",
+      "key_quotes": [
+        "We bought some TLT yesterday."
+      ]
+    },
+    {
+      "ticker": "ETSY",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "Significant upside",
+      "actionable": "Buy",
+      "position_status": "Not Specified",
+      "key_quotes": [
+        "This was a covid darling the stock is down 80%.",
+        "You could move the market with that Rec that was very strong young man very strong"
+      ]
+    },
+    {
+      "ticker": "COOPER STANDARD",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "Significant upside",
+      "actionable": "Buy",
+      "position_status": "Held",
+      "key_quotes": [
+        "Perfectly on track here nothing more to add.",
+        "Good things come to those who wait and those who wait longer they the Gratitude is the uh the good things are even better"
+      ]
+    },
+    {
+      "ticker": "BAXTER",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "Doubles and triples over a few years",
+      "actionable": "Buy",
+      "position_status": "Held",
+      "key_quotes": [
+        "Healthcare sector is beaten down due to RFK Jr. fears, but the sector is expected to have the second-largest earnings growth next year at 21%.",
+        "This business is impossible to destroy"
+      ]
+    },
+    {
+      "ticker": "YETI",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "Not Specified",
+      "actionable": "Hold",
+      "position_status": "Not Held",
+      "key_quotes": [
+        "I have no objection to it I'm just not going to own it.",
+        "I can't understand the moat but I can't understand the moat for a $20,000 handbag either so I think this is the you know Birkin bag for pickup truck driving Real Americans"
+      ]
+    },
+    {
+      "ticker": "PZZA",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "Not Specified",
+      "actionable": "Hold",
+      "position_status": "Not Held",
+      "key_quotes": [
+        "I don't think there's anything wrong with it.",
+        "I'm just not in love with it"
+      ]
+    },
+    {
+      "ticker": "HUDSON TECHNOLOGIES",
+      "tom_sentiment": "Negative",
+      "conviction": 2,
+      "price_target_or_upside": "Not Specified",
+      "actionable": "Pass",
+      "position_status": "Not Held",
+      "key_quotes": [
+        "Looks like it should probably be a private company versus a public company.",
+        "Why they've destroyed sharehold capital for 30 years and why now is different"
+      ]
+    },
+    {
+      "ticker": "VALE",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "Not Specified",
+      "actionable": "Hold",
+      "position_status": "Not Held",
+      "key_quotes": [
+        "Mining companies they have a tendency to just screw it up no matter how good the conditions are.",
+        "You probably don't get hurt with the stock it probably bounces back to 15 but it's not not not what I do I think it's okay though"
+      ]
+    }
+  ],
+  "new_or_recent_additions": [
+    "TLT"
+  ],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy Alibaba (BABA)",
+      "conviction": 10
+    },
+    {
+      "rank": 2,
+      "idea": "Buy VF Corp (VFC)",
+      "conviction": 9
+    },
+    {
+      "rank": 3,
+      "idea": "Buy PayPal (PYPL)",
+      "conviction": 9
+    },
+    {
+      "rank": 4,
+      "idea": "Buy XBI (Biotech)",
+      "conviction": 8
+    },
+    {
+      "rank": 5,
+      "idea": "Buy Boeing (BA)",
+      "conviction": 8
+    },
+    {
+      "rank": 6,
+      "idea": "Buy Etsy",
+      "conviction": 8
+    },
+    {
+      "rank": 7,
+      "idea": "Buy Cooper Standard",
+      "conviction": 8
+    },
+    {
+      "rank": 8,
+      "idea": "Buy Baxter",
+      "conviction": 8
+    },
+    {
+      "rank": 9,
+      "idea": "Buy Disney (DIS)",
+      "conviction": 7
+    },
+    {
+      "rank": 10,
+      "idea": "Buy TLT (Treasuries)",
+      "conviction": 7
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Potential volatility in late January/early February.",
+    "Risk of being too overweight in the Magnificent 7.",
+    "Economic surprises could turn in favor of global XUS."
+  ],
+  "technical_takeaways": "Healthcare sector is at the lowest relative performance to the S&P since 2008, a generational buy opportunity. Election year seasonal composite suggests a Santa Claus rally after December 21st. S&P 500 Advanced decline percent is flushed towards levels that you see near bottoms and bounces.",
+  "publish_date": "2024-12-19"
+}

@@ -1,0 +1,271 @@
+{
+  "episode_number": "307",
+  "episode_date": "2025-09-04",
+  "executive_summary": "Tom Hayes is extremely bullish on small caps, midcaps, and international stocks, particularly Chinese equities like Alibaba. He believes the Magnificent 7 are overvalued and their earnings growth is decelerating, while the unmagnificent 493 offer better value with accelerating earnings growth. He is also bullish on housing-related stocks, particularly building suppliers, as well as regional banks and PayPal. He sees a potential for significant upside in Intel due to government support and a strong turnaround leader. He is bearish on Nvidia at current levels, citing supply constraints and valuation concerns. He is also bearish on FuboTV and Cava.",
+  "tom_current_conviction": {
+    "overall_market": "Constructive, favoring small caps, midcaps, and international.",
+    "score_1_to_10": 9,
+    "key_reasons": [
+      "Earnings growth reacceleration in the unmagnificent 493.",
+      "Potential for Fed rate cuts to boost interest rate sensitive sectors.",
+      "Undervaluation of Chinese equities and potential for foreign capital to return."
+    ]
+  },
+  "macro_thesis_summary": "The market is undergoing a shift in leadership from the Magnificent 7 to the unmagnificent 493. Earnings growth is decelerating in the MAG7 while accelerating in the 493. Fed rate cuts will disproportionately benefit interest rate sensitive sectors like housing and small caps. Chinese equities are undervalued and poised for a rally driven by domestic and eventually foreign capital.",
+  "key_macro_data_points": [
+    {
+      "indicator": "S&P 493 Earnings Growth",
+      "value": "Accelerating from negative to positive",
+      "tom_interpretation": "This is the key divergence that people haven't dialed into yet. You want to go for accelerating at half the multiple."
+    },
+    {
+      "indicator": "MAG7 Earnings Growth",
+      "value": "Decelerating from 30%+ to single digits",
+      "tom_interpretation": "You're paying 33 times still for declining earnings growth."
+    },
+    {
+      "indicator": "China Allocations in Active Funds Globally",
+      "value": "6.5%, near historical lows",
+      "tom_interpretation": "Missed the entire rally. Unbelievable. They are going to be chasing when Alibaba's 250 and 300."
+    },
+    {
+      "indicator": "US Light Vehicle Inventory",
+      "value": "Low, below pre-pandemic levels",
+      "tom_interpretation": "Gives reason to think new vehicle sales will rise in the next few years."
+    }
+  ],
+  "featured_company_deep_dives": {
+    "Alibaba": {
+      "thesis_summary": "Alibaba is a proxy for Chinese AI and the toll taker of the middle-class recovery and pivot toward consumption. The stock is undervalued and poised for a rally driven by domestic and eventually foreign capital.",
+      "key_metrics": [
+        "Cloud revenue accelerated to 26% year-over-year.",
+        "AI related product revenue posted triple-digit growth for the eighth straight quarter.",
+        "China e-commerce accelerated 10% topline growth.",
+        "Trades at 17 times earnings with analysts now pricing in 31.2% earnings growth for next year."
+      ],
+      "price_target_or_valuation": "Target $250-300 when foreign capital capitulates.",
+      "conviction": "High",
+      "action": "Buy"
+    },
+    "Intel": {
+      "thesis_summary": "Intel is a dark horse in the AI game and is poised for a turnaround due to government support, a strong turnaround leader (Lip Boutan), and the need for diversified chip manufacturing capacity. Downside protected, upside unlimited.",
+      "key_metrics": [
+        "Government support and funding for the Arizona 18A node.",
+        "Lip Boutan's track record of turning around Cadence Design Systems.",
+        "Trading at liquidation value."
+      ],
+      "price_target_or_valuation": "If half of what they say is going to work, you wind up with 80, 100 or more per share.",
+      "conviction": "High",
+      "action": "Buy"
+    },
+    "Disney": {
+      "thesis_summary": "Disney is back to doing what it does best, creating blockbuster hits. Record free cash flow and subscriber growth. The company's three-year target of sustaining doubledigit earnings growth through 2027 remains firmly intact.",
+      "key_metrics": [
+        "Adjusted EPS crushed expectations at 1.61, well above the 1.45, up 16% year-on-year earnings growth.",
+        "Direct to consumer delivered another strong corner, rising 6% year-on-year to 6.18 billion.",
+        "Year-to date free cash flow stands at 7.52 billion, up nearly three billion from the LA same time last year, pushing trailing 12 month free cash flow to a record 11.5 billion."
+      ],
+      "price_target_or_valuation": "Nowhere near done with its move.",
+      "conviction": "High",
+      "action": "Buy"
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "INTC",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "80-100+",
+      "actionable": "Buy",
+      "position_status": "Core Holding",
+      "key_quotes": [
+        "Downside protected uns upside unlimited you got the biggest winner running the turnaround in Lip Bhutan",
+        "They're going to spike the football and people are going to say, 'What happened?' And you're going to have five, six, seven bagger in Intel"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "tom_sentiment": "Bearish at current levels",
+      "conviction": 7,
+      "actionable": "Hold or Reduce",
+      "position_status": "Existing position",
+      "key_quotes": [
+        "Nvidia is not going to go up nearly as much from these levels.",
+        "The issue for Nvidia, the the negative sequential growth is not for lack of demand. They're putting out a great product. They've got unlimited backlog demand. They have a supply bottleneck. They're dependent on the kindness of strangers."
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Extremely Bullish",
+      "conviction": 10,
+      "price_target_or_upside": "Potential to double again",
+      "actionable": "Strong Buy",
+      "position_status": "Core Holding",
+      "key_quotes": [
+        "If our analysis is correct, which we believe it will, it's got a chance to double again. So we're super duper excited about that one.",
+        "The train has only started to leave the station.",
+        "They are going to be chasing when Alibaba's 250 and 300."
+      ]
+    },
+    {
+      "ticker": "PYPL",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Buy",
+      "position_status": "Largest Financial Position",
+      "key_quotes": [
+        "Our biggest financial position, believe it or not, is PayPal. It's been left for dead.",
+        "They're generating record free cash, buying record amounts of shares back."
+      ]
+    },
+    {
+      "ticker": "QXO",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Buy",
+      "position_status": "New Idea",
+      "key_quotes": [
+        "I'd play the arms dealers, the building suppliers like Brad Jacobs, QXO",
+        "He's one of the greatest wealth creators for shareholders"
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "tom_sentiment": "Bearish",
+      "conviction": 6,
+      "actionable": "Avoid",
+      "position_status": "Not owned",
+      "key_quotes": [
+        "Down 40%. Other than that, how was the play, Mrs. Lincoln? I mean, holy cow."
+      ]
+    },
+    {
+      "ticker": "FUBO TV",
+      "tom_sentiment": "Very Bearish",
+      "conviction": 2,
+      "actionable": "Avoid",
+      "position_status": "Not owned",
+      "key_quotes": [
+        "They're destroying your shareholders, your pigs and um you deserve to die.",
+        "They're absolutely fiscally financially reckless. They have no respect for owners and uh therefore they're dead to me."
+      ]
+    },
+    {
+      "ticker": "CAVA",
+      "tom_sentiment": "Bearish",
+      "conviction": 3,
+      "actionable": "Avoid",
+      "position_status": "Not owned",
+      "key_quotes": [
+        "History is littered with a bunch of dead salad sellers.",
+        "For that reason, I'm out on to the next."
+      ]
+    },
+    {
+      "ticker": "ETSY",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Buy",
+      "position_status": "Adding to position",
+      "key_quotes": [
+        "We're buying a ton of Etsy this week.",
+        "Short-term voting machine based on emotion long-term weighing machine based on fundamentals so no issues there just created huge opportunity for us"
+      ]
+    },
+    {
+      "ticker": "CTO",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Buy",
+      "position_status": "Existing position",
+      "key_quotes": [
+        "We love commto stock albeit our initial basis is much lower",
+        "We were able to confidently put some new money to work at these levels recently"
+      ]
+    },
+    {
+      "ticker": "DIS",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Buy",
+      "position_status": "Existing position",
+      "key_quotes": [
+        "Disney is back to doing what it does best, creating blockbuster hits.",
+        "Nowhere near done with its move."
+      ]
+    },
+    {
+      "ticker": "ISRG",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "position_status": "Not owned",
+      "key_quotes": [
+        "This is a great business at a decent price but not a great price.",
+        "I don't think you're going to go wrong with this long term."
+      ]
+    }
+  ],
+  "new_or_recent_additions": [
+    "QXO",
+    "ETSY"
+  ],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy Alibaba (BABA)",
+      "conviction": 10
+    },
+    {
+      "rank": 2,
+      "idea": "Buy Intel (INTC)",
+      "conviction": 9
+    },
+    {
+      "rank": 3,
+      "idea": "Buy PayPal (PYPL)",
+      "conviction": 8
+    },
+    {
+      "rank": 4,
+      "idea": "Buy QXO",
+      "conviction": 8
+    },
+    {
+      "rank": 5,
+      "idea": "Buy Etsy (ETSY)",
+      "conviction": 8
+    },
+    {
+      "rank": 6,
+      "idea": "Buy Disney (DIS)",
+      "conviction": 8
+    },
+    {
+      "rank": 7,
+      "idea": "Buy Regional Banks",
+      "conviction": 7
+    },
+    {
+      "rank": 8,
+      "idea": "Buy Comstock Resources (CTO)",
+      "conviction": 7
+    },
+    {
+      "rank": 9,
+      "idea": "Hold Intuitive Surgical (ISRG)",
+      "conviction": 5
+    },
+    {
+      "rank": 10,
+      "idea": "Avoid Tesla (TSLA)",
+      "conviction": 6
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Potential for Trump's tariffs to be overturned in court (though unlikely).",
+    "Risk of disintermediation in technology businesses.",
+    "Solvency risk in Flower Foods (FLO)."
+  ],
+  "technical_takeaways": "The surge is going to be more felt in individual names versus the quote unquote MAG7 index index aka S&P 500 which is why we underwrite each company."
+}

@@ -1,0 +1,379 @@
+{
+  "episode_number": "263",
+  "episode_date": "2024-10-31",
+  "executive_summary": "Tom Hayes is extremely bullish on small caps, China, and bonds. He sees a buying opportunity in the current weakness, particularly in names he already likes such as Alibaba, Cooper Standard, VF Corp and PayPal. He believes the market is misinterpreting the potential impact of Trump's tariffs on China and that a stimulus package is coming regardless of the election outcome. He is also positioning for a rally in bonds and a weaker dollar.",
+  "tom_current_conviction": {
+    "overall_market": "Bullish",
+    "score_1_to_10": 9,
+    "key_reasons": [
+      "Seasonality favors strength in November and December, especially in election years.",
+      "GDP growth is still positive, and inflation is coming down.",
+      "Consumer spending is strong.",
+      "Manufacturing is recovering.",
+      "Earnings are expected to re-accelerate in Q4.",
+      "Sentiment is stretched but not insane, leaving room for further upside."
+    ]
+  },
+  "macro_thesis_summary": "The macro environment is more constructive than many believe. The misery index is low, GDP growth is positive, inflation is coming down, and consumer spending is strong. The market is poised for a rally after the election, particularly in small caps and emerging markets. China is set to unleash a major stimulus package, and bonds are due for a rally.",
+  "key_macro_data_points": [
+    {
+      "indicator": "Misery Index",
+      "value": "Approaching lows not seen since the bull market in 2014-2019 and the late 90s",
+      "tom_interpretation": "Indicates a favorable economic environment."
+    },
+    {
+      "indicator": "GDP Growth Rate",
+      "value": "2.8%",
+      "tom_interpretation": "Refutes recession calls and indicates continued growth."
+    },
+    {
+      "indicator": "Core PCE",
+      "value": "2.2%",
+      "tom_interpretation": "Shows inflation continues to come down."
+    },
+    {
+      "indicator": "Real Consumer Spending",
+      "value": "Up 3.7%",
+      "tom_interpretation": "Indicates a strong and confident consumer."
+    },
+    {
+      "indicator": "Intentions to Purchase Automobiles",
+      "value": "Highest level since pre-pandemic",
+      "tom_interpretation": "Suggests increased production and benefits for related companies like Cooper Standard."
+    },
+    {
+      "indicator": "Small Cap Election Return (Oct 27 - Dec 31)",
+      "value": "10.99%",
+      "tom_interpretation": "Small caps tend to have the highest returns in the shortest amount of time during election years."
+    }
+  ],
+  "featured_company_deep_dives": {
+    "PYPL": {
+      "thesis_summary": "PayPal is undergoing a successful turnaround, focusing on profitable growth and strategic partnerships. The company is firing unprofitable business and focusing on higher margin business by adding value. New initiatives like Fast Lane and expansion into China are driving growth.",
+      "key_metrics": [
+        "Total Payment Volume up 9%",
+        "Net Revenues up 6%",
+        "Operating Income up 18%",
+        "Operating Margin up 194 basis points",
+        "Free Cash Flow $1.4 billion"
+      ],
+      "conviction": "Strong",
+      "action": "Hold.  Continue to ride this thing."
+    },
+    "VFC": {
+      "thesis_summary": "VF Corp is undergoing a successful turnaround led by Brack and Daryl. The company is deleveraging, cutting costs, and improving its operating model. Key brands like Vans and North Face are performing well, and the company is poised for long-term sustainable growth.",
+      "key_metrics": [
+        "Gross margin up 120 basis points",
+        "EPS was 52 cents versus -1116 last year",
+        "APAC in China was up bigly 6%",
+        "New school is selling out everywhere"
+      ],
+      "conviction": "Strong",
+      "action": "Hold.  The company is hitting on all cylinders and delivering on what they said they were going to do."
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "CSPR",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Buy more on weakness",
+      "key_quotes": [
+        "I hope they do terribly so I can buy more stock how's that?",
+        "If the volumes come in Cooper standard they've got that thing run like a lean mean fighting machine and if as that SAR gets over 158 their cash flow Break Even every couple hundred thousand cars they're going to just mint money"
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 10,
+      "actionable": "Double down on pullback",
+      "position_status": "Core holding",
+      "key_quotes": [
+        "God willing we get a pullback I'm going to double down again and break my position limits and add more",
+        "Back to the Future ladies and gentlemen uh pretty exciting to see",
+        "Same frenzy as a matter of fact it's funny because Baba was in the same type of bottoming process breaking out and then taking a little breather before taking its big run and this is a very similar situation so"
+      ]
+    },
+    {
+      "ticker": "TLT",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "actionable": "Opportunistically buying",
+      "key_quotes": [
+        "November bonds are going to Rally okay that that's that's my view and I'm sticking to it",
+        "I would be opportunistically buying TLT not selling it",
+        "I think it's great I think we got a nice little pullback and I think we're ready to to flip the switch here"
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Hold",
+      "key_quotes": [
+        "November is the best month of the year they're up 100% of the time in November so I think we're going to get some follow through with the after hour um Spike particularly after the election"
+      ]
+    },
+    {
+      "ticker": "NKE",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "actionable": "Buyer at these levels",
+      "key_quotes": [
+        "I would be a buyer at these levels"
+      ]
+    },
+    {
+      "ticker": "EL",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "actionable": "Starter position, buy more if it goes lower",
+      "key_quotes": [
+        "I think it's getting cheap enough here to put a starter position and then if it goes lower by more"
+      ]
+    },
+    {
+      "ticker": "SMCI",
+      "tom_sentiment": "Negative",
+      "conviction": 10,
+      "actionable": "Do not chase",
+      "key_quotes": [
+        "Do not chase this and not for me"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Leave it to others to chase the last few pennies",
+      "key_quotes": [
+        "I'll leave that to you guys all I know is the odds of Nvidia doubling before many of these other stocks doubling are are very low because it would be a fourth of GD GDP but I'll leave that to others to chase the last few pennies"
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Neutral",
+      "key_quotes": [
+        "I think it was down a little bit after hours we'll see how that plays out"
+      ]
+    },
+    {
+      "ticker": "VFC",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 9,
+      "actionable": "Hold",
+      "key_quotes": [
+        "We're just getting started"
+      ]
+    },
+    {
+      "ticker": "PYPL",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 10,
+      "actionable": "Hold",
+      "key_quotes": [
+        "I have a great company at an unbelievable basis and we're going to ride this thing"
+      ]
+    },
+    {
+      "ticker": "AAP",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "actionable": "Top up a few shares every day that is weak",
+      "key_quotes": [
+        "Advanced Auto Parts has done everything that they said they were going to do"
+      ]
+    },
+    {
+      "ticker": "GOOS",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "actionable": "No change",
+      "key_quotes": [
+        "Goose no change there so far both companies have executed on everything they said they were going to execute since we got involved with the turnaround"
+      ]
+    },
+    {
+      "ticker": "META",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Neutral",
+      "key_quotes": [
+        "We did nothing with it and we wound up buying Google and Amazon and made a ton of money on those"
+      ]
+    },
+    {
+      "ticker": "GOOG",
+      "tom_sentiment": "Positive",
+      "conviction": 8,
+      "actionable": "Hold",
+      "key_quotes": [
+        "We wound up buying Google and Amazon and made a ton of money on those"
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "tom_sentiment": "Positive",
+      "conviction": 8,
+      "actionable": "Hold",
+      "key_quotes": [
+        "We wound up buying Google and Amazon and made a ton of money on those"
+      ]
+    },
+    {
+      "ticker": "CPRI",
+      "tom_sentiment": "Negative",
+      "conviction": 2,
+      "actionable": "Pass",
+      "key_quotes": [
+        "I think for me this one is probably a pass"
+      ]
+    },
+    {
+      "ticker": "SOFI",
+      "tom_sentiment": "Negative",
+      "conviction": 1,
+      "actionable": "Pass",
+      "key_quotes": [
+        "I have zero interest in Sofi"
+      ]
+    },
+    {
+      "ticker": "NTR",
+      "tom_sentiment": "Negative",
+      "conviction": 3,
+      "actionable": "Pass",
+      "key_quotes": [
+        "It's not something I want to have capital in for multiple Years"
+      ]
+    },
+    {
+      "ticker": "XBI",
+      "tom_sentiment": "Positive",
+      "conviction": 8,
+      "actionable": "Hold",
+      "key_quotes": [
+        "We do think that there's a lot more left in this investment so we're pretty excited about that"
+      ]
+    },
+    {
+      "ticker": "K",
+      "tom_sentiment": "Positive",
+      "conviction": 8,
+      "actionable": "Hold",
+      "key_quotes": [
+        "We continue to hold and we think this will work to new highs"
+      ]
+    },
+    {
+      "ticker": "BA",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Once that strike gets resolved those estimates will start to go up overtime"
+      ]
+    },
+    {
+      "ticker": "CVX",
+      "tom_sentiment": "Negative",
+      "conviction": 3,
+      "actionable": "Pass",
+      "key_quotes": [
+        "They're all down a lot"
+      ]
+    },
+    {
+      "ticker": "COP",
+      "tom_sentiment": "Negative",
+      "conviction": 3,
+      "actionable": "Pass",
+      "key_quotes": [
+        "They're all down a lot"
+      ]
+    },
+    {
+      "ticker": "PSX",
+      "tom_sentiment": "Negative",
+      "conviction": 3,
+      "actionable": "Pass",
+      "key_quotes": [
+        "They're all down a lot"
+      ]
+    },
+    {
+      "ticker": "ETSY",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Etsy is a new position that we have not disclosed on the podcast that we entered a couple of weeks ago"
+      ]
+    }
+  ],
+  "new_or_recent_additions": [
+    "ETSY"
+  ],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Double down on Alibaba on a pullback",
+      "conviction": 10
+    },
+    {
+      "rank": 2,
+      "idea": "Buy TLT opportunistically",
+      "conviction": 9
+    },
+    {
+      "rank": 3,
+      "idea": "Buy more Cooper Standard on weakness",
+      "conviction": 8
+    },
+    {
+      "rank": 4,
+      "idea": "Hold Intel",
+      "conviction": 8
+    },
+    {
+      "rank": 5,
+      "idea": "Hold XBI",
+      "conviction": 8
+    },
+    {
+      "rank": 6,
+      "idea": "Hold KWEB",
+      "conviction": 8
+    },
+    {
+      "rank": 7,
+      "idea": "Hold VF Corp",
+      "conviction": 9
+    },
+    {
+      "rank": 8,
+      "idea": "Hold PayPal",
+      "conviction": 10
+    },
+    {
+      "rank": 9,
+      "idea": "Buy Nike at these levels",
+      "conviction": 7
+    },
+    {
+      "rank": 10,
+      "idea": "Put a starter position in Estee Lauder and buy more if it goes lower",
+      "conviction": 7
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Market may be overestimating the negative impact of Trump's tariffs on China.",
+    "Retail investors are chasing gold and were chasing Nvidia before its correction, indicating potential for a contrarian play.",
+    "Energy earnings are expected to be the worst sector, potentially creating a buying opportunity in select names."
+  ],
+  "technical_takeaways": "Small caps look beautiful to break out meaningfully. Hang Seng Index has rallies and consolidations, presenting buying opportunities. Bonds are going to rally in November. Dollar Index is expected to weaken.",
+  "publish_date": "2024-10-31"
+}

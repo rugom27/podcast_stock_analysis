@@ -1,0 +1,284 @@
+{
+  "episode_number": "301",
+  "executive_summary": "Tom Hayes is extremely bullish on small caps, healthcare, and emerging markets, particularly China. He believes that money is rotating into laggards and short squeezes will continue. He emphasizes the importance of having exposure to these areas and staying the course despite potential volatility. He also highlights specific companies like Albamaro, National Oil Well Varco, and Crown Castle as attractive opportunities.",
+  "tom_current_conviction": {
+    "overall_market": "Bullish, with a focus on specific sectors and themes.",
+    "score_1_to_10": 9,
+    "key_reasons": [
+      "Money rotating into small and shorted stocks.",
+      "Emerging markets, especially China, showing strength.",
+      "Healthcare sector poised for a breakout.",
+      "Managers are caught offside and need to chase laggards."
+    ]
+  },
+  "macro_thesis_summary": "The market is in a V-shaped recovery, and managers who were wrong-footed are now panic buying. Small caps, healthcare, and emerging markets are undervalued and offer significant upside. Despite potential consolidation and volatility, the overall trend is positive, driven by strong consumer spending, recovering global economy, and China's economic recovery.",
+  "key_macro_data_points": [
+    {
+      "indicator": "Stocks on a PMO crossover buy signal",
+      "value": "Down at zero",
+      "tom_interpretation": "Breath is weak, indicating many names can keep pushing higher even if indices stall."
+    },
+    {
+      "indicator": "Cox Automotive Report (July)",
+      "value": "Retail sales for new and used vehicles are rising; loan rates are easing.",
+      "tom_interpretation": "Signaling renewed consumer momentum, benefiting companies like Cooper Standard."
+    },
+    {
+      "indicator": "Emerging Markets Allocation in Global Mutual Funds",
+      "value": "Unbelievably underweight",
+      "tom_interpretation": "Similar to 2001-2006, indicating a beautiful time to be involved."
+    },
+    {
+      "indicator": "Russell 2000 Net Speculators",
+      "value": "Net position record lows",
+      "tom_interpretation": "That's when you want to be a buyer."
+    }
+  ],
+  "featured_company_deep_dives": {
+    "Crown Castle": {
+      "thesis_summary": "Crown Castle is a REIT that benefits from falling interest rates and the ongoing 5G rollout. It is a high-quality business with accelerating organic growth and a strong balance sheet. The sale of its fiber business will make it a leaner, pure-play tower company.",
+      "key_metrics": [
+        "Raised full year 2025 guidance.",
+        "Organic revenue growth of 4.7%.",
+        "Sale of capital-intensive small sales and fiber solutions business on track.",
+        "Sprint related churn is expected to be largely behind CCI at the end of 2025."
+      ],
+      "conviction": "Strong",
+      "action": "Buy"
+    },
+    "Albamaro": {
+      "thesis_summary": "Albamaro is the world's lowest cost lithium producer, poised to benefit from rebounding lithium prices and China's crackdown on overcapacity. The short squeeze is just beginning, and the stock has significant upside as lithium prices recover.",
+      "key_metrics": [
+        "Lithium prices rebounding off multi-year lows.",
+        "China curbing overcapacity in lithium production.",
+        "High short interest setting up more pain for shorts.",
+        "World's lowest and largest and lowest cost lithium producer."
+      ],
+      "conviction": "Very Strong",
+      "action": "Buy"
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "30-50% upside, Blows through $148, next move to $180, then $220",
+      "actionable": "Buy",
+      "key_quotes": [
+        "I could tell we were at a turning point at 105 when everyone was just puking, oh, it's not doing anything, blah, blah, blah. And we were just buying. It was so beautiful because we got so much new money in.",
+        "Baba probably gets 30, 40, 50%.",
+        "Everyone will think it's going to top at $148 again and it's going to just blow right through it and people are going to go, 'Oh no, oh no.' And then all these people who sold at $60, who sold at $105 will be buying over $200."
+      ]
+    },
+    {
+      "ticker": "KB ETF",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "Skyrocket",
+      "actionable": "Buy",
+      "key_quotes": [
+        "Brendan's Kb ETF, this sideways channel for three years. This thing is going to absolutely skyrocket."
+      ]
+    },
+    {
+      "ticker": "CPS",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "A lot higher",
+      "actionable": "Hold",
+      "key_quotes": [
+        "We have a huge position in Cooper Standard from May of 2022 when we initiated at about $510. It's uh I think it got close to $25 this week. This thing is going a lot higher and the volumes haven't even begun yet."
+      ]
+    },
+    {
+      "ticker": "NOV",
+      "tom_sentiment": "Bullish",
+      "conviction": 10,
+      "price_target_or_upside": "Triple or Quadruple",
+      "actionable": "Buy",
+      "key_quotes": [
+        "National Oil Well Varco, this again is a once in a-lifetime opportunity here.",
+        "We prefer national oil.",
+        "Early days, ladies and gentlemen."
+      ]
+    },
+    {
+      "ticker": "CCI",
+      "tom_sentiment": "Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "A lot higher",
+      "actionable": "Buy",
+      "key_quotes": [
+        "Crown Castle is the nation's largest provider of shared communications infrastructure.",
+        "This business is so good it'll work with or without a good CEO.",
+        "Another lights out quarter for CCI beating both top and bottom line expectations and raising fullear guidance."
+      ]
+    },
+    {
+      "ticker": "ALB",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 10,
+      "price_target_or_upside": "Minting more cash than they know what to do with",
+      "actionable": "Buy",
+      "key_quotes": [
+        "Albamaro is the world's lowest and largest and lowest cost lithium producer.",
+        "Just getting started.",
+        "At that point, we'll be smiling so wide we could eat a banana sideways or two."
+      ]
+    },
+    {
+      "ticker": "XBI",
+      "tom_sentiment": "Bullish",
+      "conviction": 8,
+      "actionable": "Buy",
+      "key_quotes": [
+        "Here's biotech just starting guys. This is going to break through and just crush it.",
+        "We do have a lot of exposure there. So I'm excited."
+      ]
+    },
+    {
+      "ticker": "CP",
+      "tom_sentiment": "Neutral",
+      "conviction": 6,
+      "actionable": "Watch",
+      "key_quotes": [
+        "Canadian Pacific is something I've got my eye on and I want to start to study the railroad sector a little bit more carefully."
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Hold",
+      "key_quotes": [
+        "Apple's been kind of dead money for a while here."
+      ]
+    },
+    {
+      "ticker": "GXO",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Hold",
+      "position_status": "Owned",
+      "key_quotes": [
+        "GXO with Brad Jacobs is on a run. We own that."
+      ]
+    },
+    {
+      "ticker": "XLE",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Watch",
+      "key_quotes": [
+        "XLE looking like it wants to potentially break out and move. We think that's going to be the case."
+      ]
+    },
+    {
+      "ticker": "BTE",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "actionable": "Research",
+      "key_quotes": [
+        "I think you're on the right track with this one despite the hair.",
+        "find out why they're such disrespectful pigs when it comes to equity."
+      ]
+    },
+    {
+      "ticker": "BTU",
+      "tom_sentiment": "Bearish",
+      "conviction": 3,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "I don't think you need to go that far down.",
+        "It's not my favorite."
+      ]
+    },
+    {
+      "ticker": "TDDW",
+      "tom_sentiment": "Bearish",
+      "conviction": 2,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "I mean, anyone that could destroy that much value that quickly, I'm not a fan.",
+        "Oh, I don't expect the scorpion's going to bite my back again."
+      ]
+    },
+    {
+      "ticker": "WCP",
+      "tom_sentiment": "Bearish",
+      "conviction": 3,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "Where the time to be asking me this question was in 2020 when it was a buck, not at 2025 when it's at 10.",
+        "I'm going to say pass on this one, Joe. There are better opportunities."
+      ]
+    },
+    {
+      "ticker": "PYPL",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "actionable": "Buy",
+      "key_quotes": [
+        "We like PayPal."
+      ]
+    },
+    {
+      "ticker": "GPN",
+      "tom_sentiment": "Bearish",
+      "conviction": 2,
+      "actionable": "Avoid",
+      "key_quotes": [
+        "Not for me."
+      ]
+    }
+  ],
+  "new_or_recent_additions": [
+    "BABA",
+    "NOV"
+  ],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy National Oil Well Varco (NOV)",
+      "conviction": 10
+    },
+    {
+      "rank": 2,
+      "idea": "Buy Albamaro (ALB)",
+      "conviction": 10
+    },
+    {
+      "rank": 3,
+      "idea": "Buy Alibaba (BABA)",
+      "conviction": 9
+    },
+    {
+      "rank": 4,
+      "idea": "Buy Crown Castle (CCI)",
+      "conviction": 9
+    },
+    {
+      "rank": 5,
+      "idea": "Buy Biotech Basket (XBI)",
+      "conviction": 8
+    },
+    {
+      "rank": 6,
+      "idea": "Buy Brendan's KB ETF",
+      "conviction": 8
+    },
+    {
+      "rank": 7,
+      "idea": "Buy PayPal (PYPL)",
+      "conviction": 7
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Potential market consolidation and volatility in the next couple of weeks.",
+    "Recency bias leading to incorrect assumptions about market corrections.",
+    "Managers being forced to lever up and throw Hail Marys to catch up to benchmarks."
+  ],
+  "technical_takeaways": "Small caps are showing powerful breakout patterns, indicating significant upside potential. The longer these things go sideways when they break out it is so monster. This is small cap index. This is where you're going to get your value. Yeah, it's had a huge run in the last few weeks. It's just beginning. When this thing breaks out, it's going to go for years. This is going to be like 2001 to 2006 for small caps.",
+  "episode_date": "2025-07-24"
+}

@@ -1,0 +1,263 @@
+{
+  "episode_number": "291",
+  "episode_date": "2025-05-15",
+  "executive_summary": "Tom Hayes is extremely bullish, citing trapped bears, record buybacks, and strong earnings as drivers for continued market rally. He emphasizes opportunities in cyclicals, small caps, and international markets. He highlights Disney and Albemarle as key picks, while warning against chasing overvalued stocks.",
+  "tom_current_conviction": {
+    "overall_market": "Extremely Bullish",
+    "score_1_to_10": 9,
+    "key_reasons": [
+      "Trapped bears forced to cover shorts",
+      "Record buyback announcements",
+      "Earnings exceeding expectations",
+      "Trump's pro-market policies and accurate market calls",
+      "Global M2 money supply booming, led by China"
+    ]
+  },
+  "macro_thesis_summary": "The market is poised for continued upside due to a combination of technical factors (trapped shorts), strong earnings, and supportive macro policies. International markets and small caps are particularly attractive. The Fed is too restrictive and will eventually ease.",
+  "key_macro_data_points": [
+    {
+      "indicator": "Earnings Growth",
+      "value": "13.4% vs 6% estimated",
+      "tom_interpretation": "Earnings came in twice as good as expected, even in the face of uncertainty."
+    },
+    {
+      "indicator": "S&P 2026 Earnings",
+      "value": "$300/share",
+      "tom_interpretation": "We're only trading at 18.5 times compared to 18.3 times for the last 10-year average. So there's a lot to do."
+    },
+    {
+      "indicator": "Record Selling in April",
+      "value": "$1.1 Trillion",
+      "tom_interpretation": "Record selling in the hole by hedge funds and CTAs. Now you have a whole slew of forced buyers that are not only covering their shorts but are forced to chase up."
+    },
+    {
+      "indicator": "Buybacks",
+      "value": "$665 Billion",
+      "tom_interpretation": "Record amount of buyback announcements. These guys are in trouble. Okay, let let's just put it that way. As they chase up."
+    },
+    {
+      "indicator": "US Inflation Rate",
+      "value": "Lower than September",
+      "tom_interpretation": "US inflation rate is lower than it was in September when they did an emergency 50 basis point cut. Fed's too restrictive."
+    },
+    {
+      "indicator": "Global M2 Money Supply",
+      "value": "Booming",
+      "tom_interpretation": "Global M2 money supply is booming which means liquidity is coming into the market and largely it's coming from China."
+    }
+  ],
+  "featured_company_deep_dives": {
+    "DIS": {
+      "thesis_summary": "Disney is hitting on all cylinders with growth across parks, cruises, and streaming. It is significantly undervalued.",
+      "key_metrics": [
+        "180 million streaming subscribers",
+        "$17 billion cash from operations guided",
+        "Mid-teens double-digit growth across segments",
+        "Cruise ships with mid-20s return on invested capital"
+      ],
+      "price_target_or_valuation": "$200 within two years",
+      "conviction": "Strong",
+      "action": "Buy"
+    },
+    "ALB": {
+      "thesis_summary": "Albemarle is the number one and lowest cost lithium producer, positioned to benefit from long-term EV demand growth, particularly in China. It will be the last man standing.",
+      "key_metrics": [
+        "Lowest cost lithium producer",
+        "$3.1 billion of liquidity",
+        "Positioned for materials highest earnings growth in 2026",
+        "Lithium demand expected to triple in 5 years"
+      ],
+      "price_target_or_valuation": "Potential to triple in 3-5 years",
+      "conviction": "High",
+      "action": "Buy"
+    },
+    "GXO": {
+      "thesis_summary": "GXO is poised to become the world's leading logistics provider, with strong revenue growth, a record sales pipeline, and significant cost synergies expected. New board members signal confidence in the company's turnaround plan.",
+      "key_metrics": [
+        "Q1 revenue +21% YOY",
+        "Sales pipeline at three-year high of $2.5 billion",
+        "Expected $58 million in cost synergies",
+        "Potential 10% share repurchase this year",
+        "Operating return on invested capital was 45%"
+      ],
+      "price_target_or_valuation": "Winkitin full clearance would be $10-20 deal",
+      "conviction": "Strong",
+      "action": "Buy"
+    },
+    "BAX": {
+      "thesis_summary": "Baxter is recovering, with revenues starting to improve, return on capital going up, and margins set to expand from cost cuts. It represents a compelling healthcare play.",
+      "key_metrics": [
+        "Revenues starting to recover",
+        "Return on capital is going up",
+        "Margins are going to improve from the cost cuts"
+      ],
+      "price_target_or_valuation": "Fair value 60% higher",
+      "conviction": "Positive",
+      "action": "Hold"
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "DIS",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 10,
+      "price_target_or_upside": "$200",
+      "actionable": "Buy",
+      "position_status": "Core Holding",
+      "key_quotes": [
+        "Disney, we came out publicly like 3 4 weeks ago. It was a no-brainer.",
+        "We said buy Disney at $85...now it's at 108. It's going to continue to climb over the next two years, probably over 200 in our view.",
+        "These are no-brainers."
+      ]
+    },
+    {
+      "ticker": "ALB",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 9,
+      "price_target_or_upside": "Potential to triple",
+      "actionable": "Buy",
+      "position_status": "New Addition",
+      "key_quotes": [
+        "Here's one that no one's going to want to buy...They're all going to like you know say this guy's crazy.",
+        "Albam Marorrow could be a triple over the next three to five years."
+      ]
+    },
+    {
+      "ticker": "GXO",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "Winkitin full clearance would be $10-20 deal",
+      "actionable": "Buy",
+      "position_status": "Existing Holding",
+      "key_quotes": [
+        "GXO, no-brainer there.",
+        "You don't attract this quality of directors if the turnaround plan is not clear."
+      ]
+    },
+    {
+      "ticker": "COOPER",
+      "tom_sentiment": "Very Bullish",
+      "conviction": 8,
+      "price_target_or_upside": "Multibagger from these levels",
+      "actionable": "Hold",
+      "position_status": "Existing Holding",
+      "key_quotes": [
+        "We think this is going to be a multibagger even from these levels."
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Bullish",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "Existing Holding",
+      "key_quotes": [
+        "Super excited about Alibaba. They're going to report this week by the way.",
+        "AI will be the mainstay of Alibaba's business in the next three to five years."
+      ]
+    },
+    {
+      "ticker": "BAX",
+      "tom_sentiment": "Positive",
+      "conviction": 6,
+      "price_target_or_upside": "Fair value 60% higher",
+      "actionable": "Hold",
+      "position_status": "Existing Holding",
+      "key_quotes": [
+        "You got to have a healthcare play. This is ours. This is going to be a good stock."
+      ]
+    },
+    {
+      "ticker": "UAL",
+      "tom_sentiment": "Neutral",
+      "conviction": 4,
+      "price_target_or_upside": "$200-$250 (potential)",
+      "actionable": "Monitor",
+      "position_status": "No Position",
+      "key_quotes": [
+        "I continue to keep an eye on that. I continue to do nothing.",
+        "I should probably just stick an alert on this at $200 to $250."
+      ]
+    },
+    {
+      "ticker": "DST",
+      "tom_sentiment": "Negative",
+      "conviction": 2,
+      "price_target_or_upside": "Potential to go to 50",
+      "actionable": "Avoid",
+      "position_status": "No Position",
+      "key_quotes": [
+        "I think this is a complete promote and they're buying back stock to get themselves out.",
+        "I've just seen this movie before. It's not going to end well."
+      ]
+    },
+    {
+      "ticker": "FOXF",
+      "tom_sentiment": "Negative",
+      "conviction": 2,
+      "price_target_or_upside": "N/A",
+      "actionable": "Avoid",
+      "position_status": "No Position",
+      "key_quotes": [
+        "You missed it. It's full distribution. This bottoming is going to take forever."
+      ]
+    },
+    {
+      "ticker": "MCHP",
+      "tom_sentiment": "Neutral",
+      "conviction": 4,
+      "price_target_or_upside": "N/A",
+      "actionable": "Trade Only",
+      "position_status": "No Position",
+      "key_quotes": [
+        "I don't like it, but it probably works as a trade.",
+        "With this much deterioration, the stock hasn't really fallen enough in my estimation to justify taking a bet."
+      ]
+    },
+    {
+      "ticker": "IIPR",
+      "tom_sentiment": "Negative",
+      "conviction": 1,
+      "price_target_or_upside": "N/A",
+      "actionable": "Avoid",
+      "position_status": "No Position",
+      "key_quotes": [
+        "There must be someone promoting this piece of crap.",
+        "Put that in the too hard pile. You can't you can't handicap what's going to happen in that industry."
+      ]
+    }
+  ],
+  "new_or_recent_additions": [
+    "ALB"
+  ],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy Disney (DIS) at dips",
+      "conviction": 10
+    },
+    {
+      "rank": 2,
+      "idea": "Buy Albemarle (ALB) for long-term lithium demand",
+      "conviction": 9
+    },
+    {
+      "rank": 3,
+      "idea": "Buy GXO Logistics (GXO) for logistics exposure",
+      "conviction": 8
+    },
+    {
+      "rank": 4,
+      "idea": "Hold Cooper Standard (COOPER) for automotive recovery",
+      "conviction": 8
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Potential short-term market consolidation after initial rally",
+    "Risk of chasing overvalued stocks",
+    "Uncertainty regarding the timing and extent of Fed easing",
+    "Recency bias influencing investment decisions"
+  ],
+  "technical_takeaways": "The advanced decline line is very strong. Small caps are just getting started with record short interest. International is outperforming US. The dollar faces a secular decline."
+}
