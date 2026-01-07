@@ -1,0 +1,501 @@
+{
+  "episode_number": "324",
+  "episode_date": "2026-01-01",
+  "executive_summary": "Tom Hayes discusses a potential Santa Claus rally, a rotation out of the MAG 7 into the unmagnificent 493 (defensives, healthcare, cyclicals, industrials, and energy), and reviews many long-term holdings, highlighting entry points and future potential. He emphasizes a focus on value and buying high-quality assets in dislocated markets.",
+  "tom_current_conviction": {
+    "overall_market": "Bullish",
+    "score_1_to_10": 8,
+    "key_reasons": [
+      "Santa Claus rally expected from December 15th to 30th.",
+      "Supportive Fed policies.",
+      "Tax loss selling season is in the rear view mirror.",
+      "Potential for a 13% rally in 2026 according to City Bank, mimicking Morgan Stanley, Deutsche Bank, and Goldman Sachs."
+    ]
+  },
+  "macro_thesis_summary": "Hayes anticipates a rotation out of the MAG 7 into other sectors due to decelerating earnings growth in tech and accelerating earnings growth elsewhere. He expects defensives, healthcare, cyclicals, industrials and energy to outperform. He also sees a potential rise in energy prices and emphasizes the importance of dividend payers in an easing cycle. He believes that the market will experience volatility in 2026, but fiscal stimulus and an easing cycle will limit the downside.",
+  "key_macro_data_points": [
+    {
+      "indicator": "China Car Sales",
+      "value": "Record highs in December",
+      "tom_interpretation": "Benefiting Cooper Standard."
+    },
+    {
+      "indicator": "Fund Manager Sentiment",
+      "value": "Rose to 7.4 from 6.4, highest since July 2021",
+      "tom_interpretation": "Getting a little frothier when they were despondent."
+    },
+    {
+      "indicator": "Global Growth Expectations",
+      "value": "Most optimistic since August 2021, rising a net 18%",
+      "tom_interpretation": "Strong global economy."
+    },
+    {
+      "indicator": "Fund Managers Average Cash Level",
+      "value": "Fell to a record low of 3.3%",
+      "tom_interpretation": "Seeing some a little bit of chop here. Makes sense."
+    },
+    {
+      "indicator": "Fund Managers Allocation to Energy Sector",
+      "value": "Net 26% underweight",
+      "tom_interpretation": "When the rubber band gets stretched the mean reversion becomes inevitable."
+    },
+    {
+      "indicator": "Fund Managers Allocation to Consumer Staples",
+      "value": "Net 20% underweight",
+      "tom_interpretation": "We expect staples to move back into vogue in a hurry 100%."
+    }
+  ],
+  "featured_company_deep_dives": {
+    "Boeing": {
+      "thesis_summary": "Boeing is a national champion in a duopoly with a large backlog. A new leader with an engineering background is turning the company around, focusing on production and cash flow. The greatest salesman and ultimate closer in the White House is helping to secure deals.",
+      "key_metrics": [
+        "Positive free cash flow of $238 million in the quarter.",
+        "Commercial airplane deliveries reached 160 for the quarter, up 38% year-on-year.",
+        "Commercial backlog now stands at $535 billion.",
+        "737 max output to 42 per month.",
+        "787 program continued to stabilize production at seven per month with management expecting to finish the year at eight per month and to move to 10 next year."
+      ],
+      "price_target_or_valuation": "Greater than $10 billion of annual free cash flow target.",
+      "conviction": "High",
+      "action": "Hold. Continue to monitor production and cash flow improvements."
+    },
+    "Estee Lauder": {
+      "thesis_summary": "Estee Lauder is experiencing a turnaround with improving revenue, profitability, and margins. Growth in China and digital channels are key drivers. A profit recovery and growth plan is expected to yield significant benefits.",
+      "key_metrics": [
+        "Q1 revenue of $3.48 billion, up 4% year-on-year.",
+        "Organic growth of 3%.",
+        "Adjusted EPS of 32 cents.",
+        "Mainland China revenue up 9%.",
+        "Adjusted gross margins of 73.3%.",
+        "Adjusted operating margins expanded by 300 basis points in Q1 to 7.3%."
+      ],
+      "price_target_or_valuation": "N/A",
+      "conviction": "High",
+      "action": "Hold. Monitor progress of the profit recovery and growth plan."
+    }
+  },
+  "all_stock_opinions": [
+    {
+      "ticker": "XBI",
+      "tom_sentiment": "Took Profits",
+      "conviction": 7,
+      "price_target_or_upside": "Potential 40-50% upside before profit taking.",
+      "actionable": "Monitor for potential re-entry after pullback.",
+      "position_status": "Sold",
+      "key_quotes": [
+        "XBI, the biotech basket has now more than doubled off the lows here.",
+        "I do think it's going uh probably another 40 50% higher, but we had to make room for a new position in the healthc care sector."
+      ]
+    },
+    {
+      "ticker": "ABML",
+      "tom_sentiment": "Trimmed",
+      "conviction": 7,
+      "price_target_or_upside": "Consolidate for a little while but this is going a lot higher over time.",
+      "actionable": "Hold core position.",
+      "position_status": "Core Position",
+      "key_quotes": [
+        "This thing's up almost triple off the bottom now. So we took some profits.",
+        "Think it's going to consolidate for a little while but this is going a lot higher over time."
+      ]
+    },
+    {
+      "ticker": "BA",
+      "tom_sentiment": "Long",
+      "conviction": 9,
+      "price_target_or_upside": "Greater than $10 billion of annual free cash flow target.",
+      "actionable": "Hold",
+      "position_status": "Long-Term Play",
+      "key_quotes": [
+        "This is long-term play duopoly. We love it.",
+        "Turbulence is in the rearview mirror. Smooth skies ahead."
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "tom_sentiment": "Long",
+      "conviction": 8,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "Long-Term Play",
+      "key_quotes": [
+        "Everyone's like, \"What's happening to the BABA?\" I don't know. It's gone straight the f up and now it's consolidating gains like like stocks do when they go straight up in a short period of time. So chillax, ladies and gentlemen.",
+        "We have kept our 100% of our position and uh no change there."
+      ]
+    },
+    {
+      "ticker": "BX",
+      "tom_sentiment": "Long",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "Long",
+      "key_quotes": [
+        "Baxter's coming off the lows here. We love this one in 2026. Defensives, healthc care, staples are going to do the best in the typically the most volatile year of the four-year cycle and we're excited to see that."
+      ]
+    },
+    {
+      "ticker": "BYU",
+      "tom_sentiment": "Long",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "Long",
+      "key_quotes": [
+        "BU's just coming off the mat. That's up almost double off the lows.",
+        "It was just a way to get people into China that missed the the Baba train."
+      ]
+    },
+    {
+      "ticker": "CCI",
+      "tom_sentiment": "Long",
+      "conviction": 8,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "Long",
+      "key_quotes": [
+        "Crown Castle, this is going to be a winner in 2026.",
+        "Dividend payer, pure play, paying down debt, sold off the unprofitable B business that was sucking all the cash. We love this play."
+      ]
+    },
+    {
+      "ticker": "CPS",
+      "tom_sentiment": "Long",
+      "conviction": 9,
+      "price_target_or_upside": "$100",
+      "actionable": "Hold",
+      "position_status": "Long",
+      "key_quotes": [
+        "Cooper Standard straight up. I mean, you all have been with me for a while. $510 initial basis in May of 2022 when we came out on the claiming countdown on Fox Business. Things been straight up to went up to 40. Eight bagger. Now it's at 35 headed to 100.",
+        "This thing's going to earn over $10 at the top of this cycle a couple years out."
+      ]
+    },
+    {
+      "ticker": "RRC",
+      "tom_sentiment": "Long",
+      "conviction": 8,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "Long",
+      "key_quotes": [
+        "Comtock resources has been straight up.",
+        "You're going to see a lot of these and be like, should I get out? They've moved so much. We're going to look at the monthly chart in a little bit and you're going to see how most of these haven't even begun even though they're up double and triple from where we started talking about them on the podcast."
+      ]
+    },
+    {
+      "ticker": "DEO",
+      "tom_sentiment": "Long",
+      "conviction": 9,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "Long",
+      "key_quotes": [
+        "Dagio, this is going to be a 2026 play. Defensives, dividend payers, uh, staples in volatility. We absolutely love this here.",
+        "Play on the premiumization, people drinking less and drinking better, higher margin stuff."
+      ]
+    },
+    {
+      "ticker": "DIS",
+      "tom_sentiment": "Long",
+      "conviction": 8,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "Long",
+      "key_quotes": [
+        "Disney's just getting started.",
+        "I mean, look, it's up off $85 basis, but it's it's it's got a long runway ahead."
+      ]
+    },
+    {
+      "ticker": "EL",
+      "tom_sentiment": "Long",
+      "conviction": 8,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "Long",
+      "key_quotes": [
+        "Estee Lauder has been a rocket ship off the lows. already doubled off the lows, just getting started. This is a long-term play."
+      ]
+    },
+    {
+      "ticker": "ETSY",
+      "tom_sentiment": "Long",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "Long",
+      "key_quotes": [
+        "Etsy cash flow's been strong. Stock is kind of consolidating here, waiting for some certainty from the new CEO, uh but continues to generate cash. They just authorize a huge buyback. So, we're comfortable there."
+      ]
+    },
+    {
+      "ticker": "GNRC",
+      "tom_sentiment": "Long",
+      "conviction": 8,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "Long",
+      "key_quotes": [
+        "GenerRack, you know, continues to do exactly what it does every cycle. Has a huge run, then it works its way higher just like we're doing here. Then it consolidates back and and then it has its final parabolic move every five years. No change here.",
+        "Still the leader in home standby generators and a monster call option on the data center play. They've got a half a billion dollar backlog on that as well."
+      ]
+    },
+    {
+      "ticker": "GOOS",
+      "tom_sentiment": "Long",
+      "conviction": 8,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "Long",
+      "key_quotes": [
+        "Canada Goose continues to provide record free cash flow, record revenues, familyowned.",
+        "This thing will work higher over time. We love it. It's a play on the China recovery and it's going well. China luxury is going well."
+      ]
+    },
+    {
+      "ticker": "GXO",
+      "tom_sentiment": "Long",
+      "conviction": 8,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "Long",
+      "key_quotes": [
+        "GXO Logistics, yes, it's doubled off the the lows from April and yes, it's just getting started.",
+        "We did a full 1-hour interview, 45minute interview with the new CEO, Patrick Keller."
+      ]
+    },
+    {
+      "ticker": "HRL",
+      "tom_sentiment": "Long",
+      "conviction": 8,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "Long",
+      "key_quotes": [
+        "Hormell again getting ready for the defensive play in 2026. Dividend payers staples protein play."
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "tom_sentiment": "Long",
+      "conviction": 8,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "Long",
+      "key_quotes": [
+        "Intel has been a rocket ship this year. Double off the lows. No one wanted it in September of last year at 18 and 19 bucks when I went on Vney and Co. and Vney looked at me like I had three heads. Now it's up double.",
+        "This is going to work higher over time. Consolidating parabolic gains in the short term."
+      ]
+    },
+    {
+      "ticker": "NOV",
+      "tom_sentiment": "Long",
+      "conviction": 9,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "Long",
+      "key_quotes": [
+        "National Oil Well, Varco, uh, up 50% off the lows. Early days, ladies and gentlemen.",
+        "This is going to be a multi-year play on energy."
+      ]
+    },
+    {
+      "ticker": "PFE",
+      "tom_sentiment": "Long",
+      "conviction": 9,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "Long",
+      "key_quotes": [
+        "Fizer just getting started here. Uh short-term noise with nervous sellside people into year end with their bonuses.",
+        "This is going to be a perfect play. 7% yield for 2020 six easing cycle defensive healthc care lowest relative valuation in 25 years. generational opportunity."
+      ]
+    },
+    {
+      "ticker": "PYPL",
+      "tom_sentiment": "Long",
+      "conviction": 10,
+      "price_target_or_upside": "$150-$200",
+      "actionable": "Buy",
+      "position_status": "Long",
+      "key_quotes": [
+        "PayPal, record- free cash flow, revenue growing, margins increasing, and these sellside idiots can't get out of their way. This is these are the exact same idiots that were downgrading Alibaba at $60 a share. This thing is a cash flow monster.",
+        "I'm telling you, this is a hundred times better business than SoFi will ever be in their wildest, wetest dreams.",
+        "While everyone was bitching and moaning about PayPal is not moving, we were in the market buying it like crazy this week. So, thank you very much, Cellside. You're the same that gave us the opportunity in Alibaba and we have sent you Christmas cards because you made us a boatload of money off of your calls enabling us to get a ton of stock at cheap prices."
+      ]
+    },
+    {
+      "ticker": "PZZA",
+      "tom_sentiment": "Long",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "Long",
+      "key_quotes": [
+        "Papa John's pizza, wait till those dividend checks come from Trump. Right now they're going to the military. $1,776. Uh that's a lot of people. That money goes straight into consumer discretionary."
+      ]
+    },
+    {
+      "ticker": "QXO",
+      "tom_sentiment": "Long",
+      "conviction": 8,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "Long",
+      "key_quotes": [
+        "QXO, that's Brad Jacob's new vehicle. I'm going to see him again in person in um January when I'm doing my TV in New York.",
+        "He invited me to his book signing and I'm reading his new book, How to Make a Few More Billion Dollars, which is absolutely amazing uh and very inspiring. We love that."
+      ]
+    },
+    {
+      "ticker": "SWK",
+      "tom_sentiment": "Long",
+      "conviction": 8,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "Long",
+      "key_quotes": [
+        "Stanley Black & Decker housing play rates going down. Housing's going to be a theme in 2026. We're excited.",
+        "Took longer because Powell was belligerent, but now it's happening and it's going to work."
+      ]
+    },
+    {
+      "ticker": "VFC",
+      "tom_sentiment": "Long",
+      "conviction": 9,
+      "price_target_or_upside": "Close to if not all all-time highs over the next 5 years.",
+      "actionable": "Hold",
+      "position_status": "Long",
+      "key_quotes": [
+        "VF Corp. Okay, again, uh doubled off the bottom. It's early days, ladies and gentlemen.",
+        "I'm telling you, Bracken, this Bracken will take this thing back up close to if not all all-time highs over the next 5 years. This guy knows exactly what he's doing."
+      ]
+    },
+    {
+      "ticker": "AAP",
+      "tom_sentiment": "Long",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Hold",
+      "position_status": "Long",
+      "key_quotes": [
+        "Advance Auto, same story. Building its base. They're doing everything they said they were going to do. This will work its way higher."
+      ]
+    },
+    {
+      "ticker": "F",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Monitor",
+      "position_status": "N/A",
+      "key_quotes": [
+        "Ford's 19.5 billion pivot brings hybrids back, keeps F-150 Lightning alive."
+      ]
+    },
+    {
+      "ticker": "SLB",
+      "tom_sentiment": "Positive",
+      "conviction": 7,
+      "price_target_or_upside": "N/A",
+      "actionable": "Monitor",
+      "position_status": "N/A",
+      "key_quotes": [
+        "SLB, we've covered that a million times. We like it. We just like National Oil Well Varco better."
+      ]
+    },
+    {
+      "ticker": "KRO",
+      "tom_sentiment": "Negative",
+      "conviction": 2,
+      "price_target_or_upside": "N/A",
+      "actionable": "Avoid",
+      "position_status": "N/A",
+      "key_quotes": [
+        "This is a really lowquality business. I would call this a trading vehicle that you might catch a lucky double here, but it's too much risk for me."
+      ]
+    },
+    {
+      "ticker": "BRSL",
+      "tom_sentiment": "Negative",
+      "conviction": 1,
+      "price_target_or_upside": "N/A",
+      "actionable": "Avoid",
+      "position_status": "N/A",
+      "key_quotes": [
+        "I have no interest in this."
+      ]
+    },
+    {
+      "ticker": "HQY",
+      "tom_sentiment": "Neutral",
+      "conviction": 5,
+      "price_target_or_upside": "N/A",
+      "actionable": "Neutral",
+      "position_status": "N/A",
+      "key_quotes": [
+        "It's a lot of this good news. It's it's it's running on all cylinders. A lot of the good news is priced in. It could go higher. It's not for us. We like it. We like stocks when no one wants them, not when everyone wants them."
+      ]
+    }
+  ],
+  "new_or_recent_additions": [
+    "New healthcare sector position (details to be released after the new year)"
+  ],
+  "actionable_ideas_ranked": [
+    {
+      "rank": 1,
+      "idea": "Buy PayPal (PYPL)",
+      "conviction": 10
+    },
+    {
+      "rank": 2,
+      "idea": "Hold National Oil Well Varco (NOV)",
+      "conviction": 9
+    },
+    {
+      "rank": 3,
+      "idea": "Hold Pfizer (PFE)",
+      "conviction": 9
+    },
+    {
+      "rank": 4,
+      "idea": "Hold VF Corp (VFC)",
+      "conviction": 9
+    },
+    {
+      "rank": 5,
+      "idea": "Hold Cooper Standard (CPS)",
+      "conviction": 9
+    },
+    {
+      "rank": 6,
+      "idea": "Hold Boeing (BA)",
+      "conviction": 9
+    },
+    {
+      "rank": 7,
+      "idea": "Hold Diageo (DEO)",
+      "conviction": 9
+    },
+    {
+      "rank": 8,
+      "idea": "Hold Alibaba (BABA)",
+      "conviction": 8
+    },
+    {
+      "rank": 9,
+      "idea": "Hold Crown Castle (CCI)",
+      "conviction": 8
+    },
+    {
+      "rank": 10,
+      "idea": "Hold Hormel (HRL)",
+      "conviction": 8
+    }
+  ],
+  "risks_and_contrarian_flags": [
+    "Potential for a 15% correction in 2026 if Kevin Warsh is chosen as Fed chair.",
+    "Market is underestimating the risk of a hawkish Fed."
+  ],
+  "technical_takeaways": "Equal weight and Russell Small Cap indexes broke to new highs, indicating good market breadth. Europe breaking out to new highs. Hong Kong consolidating for a move higher. The dollar is resuming its downtrend. Commercial buying in energy futures suggests higher prices in 2026."
+}

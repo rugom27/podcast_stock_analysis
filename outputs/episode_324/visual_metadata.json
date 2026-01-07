@@ -1,0 +1,368 @@
+[
+  {
+    "timestamp_seconds": 416,
+    "description": "Market Check: Dow Jones, S&P 500, NASDAQ Composite",
+    "confidence": 0.95,
+    "found_in_chunk": 0
+  },
+  {
+    "timestamp_seconds": 441,
+    "description": "Magnificent Seven Stocks: Alphabet, Amazon, Apple, Meta",
+    "confidence": 0.95,
+    "found_in_chunk": 0
+  },
+  {
+    "timestamp_seconds": 452,
+    "description": "Magnificent Seven Stocks: Alphabet, Amazon, Apple, Meta",
+    "confidence": 0.95,
+    "found_in_chunk": 0
+  },
+  {
+    "timestamp_seconds": 300,
+    "description": "Magnificent Seven Stock Performance Table",
+    "confidence": 0.95,
+    "found_in_chunk": 1
+  },
+  {
+    "timestamp_seconds": 404,
+    "description": "Dentsply Sirona (XRAY) Stock Price Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 1
+  },
+  {
+    "timestamp_seconds": 546,
+    "description": "S&P Communication Services Sector Bullish Percent Index Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 1
+  },
+  {
+    "timestamp_seconds": 634,
+    "description": "Crude Oil WTI Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 1
+  },
+  {
+    "timestamp_seconds": 600,
+    "description": "S&P Industrials Sector Bullish Percent Index",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 603,
+    "description": "S&P Technology Sector Bullish Percent Index",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 606,
+    "description": "S&P Materials Sector Bullish Percent Index",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 610,
+    "description": "Nasdaq 100 Bullish Percent Index",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 614,
+    "description": "NYSE Bullish Percent Index",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 616,
+    "description": "S&P 100 Bullish Percent Index",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 617,
+    "description": "S&P Real Estate Sector Bullish Percent Index",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 623,
+    "description": "S&P 500 Bullish Percent Index",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 639,
+    "description": "S&P Consumer Staples Sector Bullish Percent Index",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 642,
+    "description": "S&P Telecom Services Sector Bullish Percent Index",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 645,
+    "description": "DJTA Bullish Percent Index",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 646,
+    "description": "TSX Composite Bullish Percent Index",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 648,
+    "description": "S&P Utilities Sector Bullish Percent Index",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 656,
+    "description": "US Dollar Index - Cash Settle (EOD)/S&P 500 Large Cap Index",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 704,
+    "description": "Vaneck Vectors Gold Miners ETF/S&P 500 Large Cap Index",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 723,
+    "description": "IBB - iShares Nasdaq Biotechnology ETF/S&P 500 Large Cap Index",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 732,
+    "description": "ITA - iShares U.S. Aerospace & Defense ETF/S&P 500 Large Cap Index",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 745,
+    "description": "IWM - iShares Russell 2000 ETF/S&P 500 Large Cap Index",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 757,
+    "description": "IYR - iShares U.S. Real Estate ETF/S&P 500 Large Cap Index",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 802,
+    "description": "IYT - iShares Transportation Average ETF/S&P 500 Large Cap Index",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 805,
+    "description": "QQQ - Invesco QQQ Trust/S&P 500 Large Cap Index",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 812,
+    "description": "TLT - iShares 20+ Year Treasury Bond ETF/S&P 500 Large Cap Index",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 813,
+    "description": "XHB - SPDR S&P Homebuilders ETF/S&P 500 Large Cap Index",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 836,
+    "description": "XLB - Materials Select Sector SPDR Fund/S&P 500 Large Cap Index",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 853,
+    "description": "XLC - Communication Services Select Sector SPDR Fund/S&P 500 Large Cap Index",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 855,
+    "description": "XLE - Energy Select Sector SPDR Fund/S&P 500 Large Cap Index",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 899,
+    "description": "XLF - Financial Select Sector SPDR Fund/S&P 500 Large Cap Index",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 910,
+    "description": "XLI - Industrial Select Sector SPDR Fund/S&P 500 Large Cap Index",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 919,
+    "description": "XLK - Technology Select Sector SPDR Fund/S&P 500 Large Cap Index",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 920,
+    "description": "XLP - Consumer Staples Select Sector SPDR Fund/S&P 500 Large Cap Index",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 934,
+    "description": "XLU - Utilities Select Sector SPDR Fund/S&P 500 Large Cap Index",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 939,
+    "description": "XLV - Health Care Select Sector SPDR Fund/S&P 500 Large Cap Index",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 943,
+    "description": "XLY - Consumer Discretionary Select Sector SPDR Fund/S&P 500 Large Cap Index",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 945,
+    "description": "XOP - SPDR S&P Oil & Gas Exploration & Production ETF/S&P 500 Large Cap Index",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 949,
+    "description": "XRT - SPDR S&P Retail ETF/S&P 500 Large Cap Index",
+    "confidence": 0.95,
+    "found_in_chunk": 2
+  },
+  {
+    "timestamp_seconds": 1500,
+    "description": "6th Years of President Term Seasonal Pattern 1949-2024",
+    "confidence": 0.95,
+    "found_in_chunk": 5
+  },
+  {
+    "timestamp_seconds": 1515,
+    "description": "Year Six In Office Has Been Very Strong For The Bulls",
+    "confidence": 0.95,
+    "found_in_chunk": 5
+  },
+  {
+    "timestamp_seconds": 1536,
+    "description": "Exhibit 4: The new home median price is (3%) lower than existing home price in August",
+    "confidence": 0.95,
+    "found_in_chunk": 5
+  },
+  {
+    "timestamp_seconds": 1544,
+    "description": "A not so magnificent 2025",
+    "confidence": 0.95,
+    "found_in_chunk": 5
+  },
+  {
+    "timestamp_seconds": 1616,
+    "description": "Exhibit 21: S&P 500 = 50% asset light vs. 70% manufacturing in 1980",
+    "confidence": 0.95,
+    "found_in_chunk": 5
+  },
+  {
+    "timestamp_seconds": 1620,
+    "description": "Average daily volume, options",
+    "confidence": 0.95,
+    "found_in_chunk": 5
+  },
+  {
+    "timestamp_seconds": 1625,
+    "description": "S&P 500: Annual Returns & Average Return in the Following Year: 1928 - 2025",
+    "confidence": 0.95,
+    "found_in_chunk": 5
+  },
+  {
+    "timestamp_seconds": 1626,
+    "description": "9-Month Return Differential, S&P 500 Quality Index Minus S&P 500",
+    "confidence": 0.95,
+    "found_in_chunk": 5
+  },
+  {
+    "timestamp_seconds": 1631,
+    "description": "S&P 500 Information Technology Sector Relative Total",
+    "confidence": 0.95,
+    "found_in_chunk": 5
+  },
+  {
+    "timestamp_seconds": 1633,
+    "description": "Q4 Estimates Rising Which Points to a Strong Earnings Year Ahead",
+    "confidence": 0.95,
+    "found_in_chunk": 5
+  },
+  {
+    "timestamp_seconds": 1634,
+    "description": "Exhibit 1: S&P 500 Valuations - on 19 of 20 valuation metrics we track, the index is more expensive than the historical average (as of 11/30/25)",
+    "confidence": 0.95,
+    "found_in_chunk": 5
+  },
+  {
+    "timestamp_seconds": 1636,
+    "description": "Exhibit 27: 70% of homeowners had a below 5% mortgage rate in 2Q 2025",
+    "confidence": 0.95,
+    "found_in_chunk": 5
+  },
+  {
+    "timestamp_seconds": 1639,
+    "description": "S&P 500 Total Return Drivers",
+    "confidence": 0.95,
+    "found_in_chunk": 5
+  },
+  {
+    "timestamp_seconds": 2341,
+    "description": "Papa John's North America Comparable Sales (YoY)",
+    "confidence": 0.95,
+    "found_in_chunk": 7
+  },
+  {
+    "timestamp_seconds": 2512,
+    "description": "KZA Dividend Yield",
+    "confidence": 0.95,
+    "found_in_chunk": 7
+  },
+  {
+    "timestamp_seconds": 2516,
+    "description": "High Dividend Yield still cheap and underowned",
+    "confidence": 0.95,
+    "found_in_chunk": 7
+  },
+  {
+    "timestamp_seconds": 2516,
+    "description": "Exhibit 18: Dividend Yield is neglected by active managers",
+    "confidence": 0.95,
+    "found_in_chunk": 7
+  },
+  {
+    "timestamp_seconds": 2519,
+    "description": "Federal Tax Refunds, FY, $BN",
+    "confidence": 0.95,
+    "found_in_chunk": 7
+  },
+  {
+    "timestamp_seconds": 2529,
+    "description": "Consumer Sentiment Index and subsequent 12 month S&P 500 returns",
+    "confidence": 0.95,
+    "found_in_chunk": 7
+  }
+]

@@ -1,0 +1,644 @@
+[
+  {
+    "timestamp_seconds": 257,
+    "description": "Market Check: Dow Jones, S&P 500, NASDAQ Composite",
+    "confidence": 0.95,
+    "found_in_chunk": 0
+  },
+  {
+    "timestamp_seconds": 310,
+    "description": "Artificial Intelligence: Salesforce, IBM, Adobe Systems, ARM Holdings, Symbiotic",
+    "confidence": 0.95,
+    "found_in_chunk": 0
+  },
+  {
+    "timestamp_seconds": 324,
+    "description": "Intel Stock Price Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 0
+  },
+  {
+    "timestamp_seconds": 365,
+    "description": "Big Tech: Apple, Microsoft, Amazon, Alphabet, Nvidia",
+    "confidence": 0.95,
+    "found_in_chunk": 0
+  },
+  {
+    "timestamp_seconds": 300,
+    "description": "Big Tech Stock Performance Table",
+    "confidence": 0.95,
+    "found_in_chunk": 1
+  },
+  {
+    "timestamp_seconds": 308,
+    "description": "Dow Winners Stock Performance Table",
+    "confidence": 0.95,
+    "found_in_chunk": 1
+  },
+  {
+    "timestamp_seconds": 326,
+    "description": "S&P 500 Winners Stock Performance Table",
+    "confidence": 0.95,
+    "found_in_chunk": 1
+  },
+  {
+    "timestamp_seconds": 340,
+    "description": "NASDAQ Winners Stock Performance Table",
+    "confidence": 0.95,
+    "found_in_chunk": 1
+  },
+  {
+    "timestamp_seconds": 404,
+    "description": "Semiconductors Stock Performance Table",
+    "confidence": 0.95,
+    "found_in_chunk": 1
+  },
+  {
+    "timestamp_seconds": 435,
+    "description": "Hyperscaler CAPEX Bar Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 1
+  },
+  {
+    "timestamp_seconds": 528,
+    "description": "Intel Stock Performance Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 1
+  },
+  {
+    "timestamp_seconds": 655,
+    "description": "Tech SPDR Stock Performance Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 1
+  },
+  {
+    "timestamp_seconds": 821,
+    "description": "Magnificent 7 Stock Performance Table",
+    "confidence": 0.95,
+    "found_in_chunk": 1
+  },
+  {
+    "timestamp_seconds": 1257,
+    "description": "Stock Market Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 4
+  },
+  {
+    "timestamp_seconds": 1531,
+    "description": "Treasuries Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 4
+  },
+  {
+    "timestamp_seconds": 1611,
+    "description": "Treasuries Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 4
+  },
+  {
+    "timestamp_seconds": 1627,
+    "description": "PayPal (PYPL) - FCF Yield Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 5
+  },
+  {
+    "timestamp_seconds": 1846,
+    "description": "Stock Close Dec 31, 2024, Dec 22, 2025, YTD Return (%) Table",
+    "confidence": 0.95,
+    "found_in_chunk": 5
+  },
+  {
+    "timestamp_seconds": 1804,
+    "description": "Aggregate NTM Capex Estimates YoY % Change chart",
+    "confidence": 0.95,
+    "found_in_chunk": 6
+  },
+  {
+    "timestamp_seconds": 1804,
+    "description": "Change in FCF/Common Equity chart",
+    "confidence": 0.95,
+    "found_in_chunk": 6
+  },
+  {
+    "timestamp_seconds": 1815,
+    "description": "Retail Cash - Proportion of Industry Volume by Month chart",
+    "confidence": 0.95,
+    "found_in_chunk": 6
+  },
+  {
+    "timestamp_seconds": 1825,
+    "description": "US Dollar Index chart",
+    "confidence": 0.95,
+    "found_in_chunk": 6
+  },
+  {
+    "timestamp_seconds": 1918,
+    "description": "Health Care Stocks Are Under-Owned chart",
+    "confidence": 0.95,
+    "found_in_chunk": 6
+  },
+  {
+    "timestamp_seconds": 1952,
+    "description": "Mortgage Rates May Start to Converge With Treasury Yields chart",
+    "confidence": 0.95,
+    "found_in_chunk": 6
+  },
+  {
+    "timestamp_seconds": 2002,
+    "description": "Global Defensives as A % of Global Market Cap chart",
+    "confidence": 0.95,
+    "found_in_chunk": 6
+  },
+  {
+    "timestamp_seconds": 2033,
+    "description": "US Core Inflation Eases to Slowest Since 2021 chart",
+    "confidence": 0.95,
+    "found_in_chunk": 6
+  },
+  {
+    "timestamp_seconds": 2043,
+    "description": "Nearly all major equity markets have outperformed the US in 2025 chart",
+    "confidence": 0.95,
+    "found_in_chunk": 6
+  },
+  {
+    "timestamp_seconds": 2106,
+    "description": "Transition Technology chart",
+    "confidence": 0.95,
+    "found_in_chunk": 6
+  },
+  {
+    "timestamp_seconds": 2112,
+    "description": "Value vs. Growth dynamics have been diverging between the US and Europe chart",
+    "confidence": 0.95,
+    "found_in_chunk": 6
+  },
+  {
+    "timestamp_seconds": 2123,
+    "description": "Household Wealth: Bottom 50% chart",
+    "confidence": 0.95,
+    "found_in_chunk": 6
+  },
+  {
+    "timestamp_seconds": 2222,
+    "description": "Active equity fund on course for record year of outflows chart",
+    "confidence": 0.95,
+    "found_in_chunk": 6
+  },
+  {
+    "timestamp_seconds": 2226,
+    "description": "CPI Housing Inflation chart",
+    "confidence": 0.95,
+    "found_in_chunk": 6
+  },
+  {
+    "timestamp_seconds": 2236,
+    "description": "Household Cash as Percent of Total Financial Assets chart",
+    "confidence": 0.95,
+    "found_in_chunk": 6
+  },
+  {
+    "timestamp_seconds": 2100,
+    "description": "Household Cash as Percent of Total Financial Assets Line Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 7
+  },
+  {
+    "timestamp_seconds": 2108,
+    "description": "Annualized returns of U.S. stocks by size Bar Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 7
+  },
+  {
+    "timestamp_seconds": 2118,
+    "description": "Retail Traders Average Portfolio Stock Allocation Line Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 7
+  },
+  {
+    "timestamp_seconds": 2143,
+    "description": "S&P 500 Average Annualized Monthly Percent Price Gains Bar Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 7
+  },
+  {
+    "timestamp_seconds": 2145,
+    "description": "Retail Traders Average Portfolio Stock Allocation Line Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 7
+  },
+  {
+    "timestamp_seconds": 2206,
+    "description": "Japan 10-Year Yield Line Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 7
+  },
+  {
+    "timestamp_seconds": 2225,
+    "description": "BofA Bull & Bear Indicator Line Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 7
+  },
+  {
+    "timestamp_seconds": 2235,
+    "description": "Broad Market P/E and EPS Growth Table",
+    "confidence": 0.95,
+    "found_in_chunk": 7
+  },
+  {
+    "timestamp_seconds": 2244,
+    "description": "Cyclicals EPS Revisions vs. ISM Manufacturing Line Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 7
+  },
+  {
+    "timestamp_seconds": 2245,
+    "description": "Relative importance of variable in explaining Russell 2000 returns Bar Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 7
+  },
+  {
+    "timestamp_seconds": 2247,
+    "description": "US: Median size of new single-family homes declining Line Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 7
+  },
+  {
+    "timestamp_seconds": 2257,
+    "description": "Contribution to annual S&P 500 price return Bar Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 7
+  },
+  {
+    "timestamp_seconds": 2310,
+    "description": "Contribution to annual S&P 500 price return Bar Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 7
+  },
+  {
+    "timestamp_seconds": 2321,
+    "description": "Existing Home Sales Line Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 7
+  },
+  {
+    "timestamp_seconds": 2327,
+    "description": "New-Vehicle Average Transaction Price Line Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 7
+  },
+  {
+    "timestamp_seconds": 2331,
+    "description": "Sales of Electrified Vehicles Hits a Milestone Bar Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 7
+  },
+  {
+    "timestamp_seconds": 2334,
+    "description": "Lennar's average selling price net of incentives Bar Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 7
+  },
+  {
+    "timestamp_seconds": 2348,
+    "description": "BoFA Restaurants Food Distribution Coverage YTD Share Price Performance Bar Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 7
+  },
+  {
+    "timestamp_seconds": 2419,
+    "description": "Russell 2000 annual EPS growth Bar Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 7
+  },
+  {
+    "timestamp_seconds": 2538,
+    "description": "Russell 2000 annual EPS growth Bar Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 7
+  },
+  {
+    "timestamp_seconds": 3152,
+    "description": "Pfizer Stock Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 9
+  },
+  {
+    "timestamp_seconds": 3156,
+    "description": "Pfizer Free Cash Flow Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 9
+  },
+  {
+    "timestamp_seconds": 3157,
+    "description": "Pfizer Total Revenues Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 9
+  },
+  {
+    "timestamp_seconds": 3158,
+    "description": "Pfizer Return on Capital Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 9
+  },
+  {
+    "timestamp_seconds": 3159,
+    "description": "Pfizer Gross Profit Margin Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 9
+  },
+  {
+    "timestamp_seconds": 3200,
+    "description": "Pfizer Price Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 9
+  },
+  {
+    "timestamp_seconds": 3201,
+    "description": "Pfizer Capital Structure Table",
+    "confidence": 0.95,
+    "found_in_chunk": 9
+  },
+  {
+    "timestamp_seconds": 3000,
+    "description": "PFE Pfizer Inc. Free Cash Flow (LTM) chart",
+    "confidence": 0.95,
+    "found_in_chunk": 10
+  },
+  {
+    "timestamp_seconds": 3002,
+    "description": "PFE Pfizer Inc. Gross Profit Margin (%FY) chart",
+    "confidence": 0.95,
+    "found_in_chunk": 10
+  },
+  {
+    "timestamp_seconds": 3004,
+    "description": "Pfizer Inc. NYSE:PFE chart",
+    "confidence": 0.95,
+    "found_in_chunk": 10
+  },
+  {
+    "timestamp_seconds": 3320,
+    "description": "Health Care Sector annual total return vs. S&P 500 chart",
+    "confidence": 0.95,
+    "found_in_chunk": 10
+  },
+  {
+    "timestamp_seconds": 3369,
+    "description": "Health Care S&P 500 Weight % chart",
+    "confidence": 0.95,
+    "found_in_chunk": 10
+  },
+  {
+    "timestamp_seconds": 3421,
+    "description": "Avg S&P 500 Health Care & S&P 500 Returns By Presidential Cycle chart",
+    "confidence": 0.95,
+    "found_in_chunk": 10
+  },
+  {
+    "timestamp_seconds": 3324,
+    "description": "Revenue (Billions $) bar chart",
+    "confidence": 0.95,
+    "found_in_chunk": 11
+  },
+  {
+    "timestamp_seconds": 3417,
+    "description": "Revenue bar chart",
+    "confidence": 0.95,
+    "found_in_chunk": 11
+  },
+  {
+    "timestamp_seconds": 3438,
+    "description": "Delivering Operating Margin Expansion through Productivity Gains chart",
+    "confidence": 0.95,
+    "found_in_chunk": 11
+  },
+  {
+    "timestamp_seconds": 3617,
+    "description": "Pfizer Trading at a Massive Discount to Global Pharma Peers chart",
+    "confidence": 0.95,
+    "found_in_chunk": 11
+  },
+  {
+    "timestamp_seconds": 3642,
+    "description": "PFE Pfizer Inc. Dividend Yield (NTM) chart",
+    "confidence": 0.95,
+    "found_in_chunk": 11
+  },
+  {
+    "timestamp_seconds": 3633,
+    "description": "Adjusted EPS is guided to $2.80 to $3.00",
+    "confidence": 0.95,
+    "found_in_chunk": 12
+  },
+  {
+    "timestamp_seconds": 3647,
+    "description": "COVID revenue representing ~$0.18 EPS headwind",
+    "confidence": 0.95,
+    "found_in_chunk": 12
+  },
+  {
+    "timestamp_seconds": 3653,
+    "description": "A higher tax rate rising to 15% from 11%, ~$0.12 headwind",
+    "confidence": 0.95,
+    "found_in_chunk": 12
+  },
+  {
+    "timestamp_seconds": 3736,
+    "description": "Management cut 2025 COVID-19 sales expectations to $6.5B from ~$9B",
+    "confidence": 0.95,
+    "found_in_chunk": 12
+  },
+  {
+    "timestamp_seconds": 3756,
+    "description": "Pfizer expects ~$17B of annual revenue impact from loss of exclusivity by 2030 relative to 2025, with a $1.5B LOE headwind anticipated in 2026",
+    "confidence": 0.95,
+    "found_in_chunk": 12
+  },
+  {
+    "timestamp_seconds": 3834,
+    "description": "2026 adjusted S&A expenses are expected to be $12.5B to $13.5B, down from $13.1B to $14.1B in 2025, representing a ~4% YoY decline as cost savings continue to materialize",
+    "confidence": 0.95,
+    "found_in_chunk": 12
+  },
+  {
+    "timestamp_seconds": 3900,
+    "description": "Q3 2025 Results Table",
+    "confidence": 0.95,
+    "found_in_chunk": 13
+  },
+  {
+    "timestamp_seconds": 3905,
+    "description": "Lithium Price Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 13
+  },
+  {
+    "timestamp_seconds": 4006,
+    "description": "Lithium Price Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 13
+  },
+  {
+    "timestamp_seconds": 4010,
+    "description": "Lithium Price Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 13
+  },
+  {
+    "timestamp_seconds": 4500,
+    "description": "CONMED Corporation stock chart",
+    "confidence": 0.95,
+    "found_in_chunk": 15
+  },
+  {
+    "timestamp_seconds": 4516,
+    "description": "WD-40 Company stock chart",
+    "confidence": 0.95,
+    "found_in_chunk": 15
+  },
+  {
+    "timestamp_seconds": 4518,
+    "description": "Stock chart",
+    "confidence": 0.95,
+    "found_in_chunk": 15
+  },
+  {
+    "timestamp_seconds": 4533,
+    "description": "WD-40 Company stock chart",
+    "confidence": 0.95,
+    "found_in_chunk": 15
+  },
+  {
+    "timestamp_seconds": 4545,
+    "description": "Stock chart",
+    "confidence": 0.95,
+    "found_in_chunk": 15
+  },
+  {
+    "timestamp_seconds": 4551,
+    "description": "Stock chart",
+    "confidence": 0.95,
+    "found_in_chunk": 15
+  },
+  {
+    "timestamp_seconds": 4559,
+    "description": "Bristol-Myers Squibb Company stock chart",
+    "confidence": 0.95,
+    "found_in_chunk": 15
+  },
+  {
+    "timestamp_seconds": 4601,
+    "description": "Stock chart",
+    "confidence": 0.95,
+    "found_in_chunk": 15
+  },
+  {
+    "timestamp_seconds": 4624,
+    "description": "Nike Inc. stock chart",
+    "confidence": 0.95,
+    "found_in_chunk": 15
+  },
+  {
+    "timestamp_seconds": 4702,
+    "description": "Bausch Health Companies Inc. stock chart",
+    "confidence": 0.95,
+    "found_in_chunk": 15
+  },
+  {
+    "timestamp_seconds": 4714,
+    "description": "Bausch Health Companies Inc. stock chart",
+    "confidence": 0.95,
+    "found_in_chunk": 15
+  },
+  {
+    "timestamp_seconds": 4731,
+    "description": "Wabash National Corporation stock chart",
+    "confidence": 0.95,
+    "found_in_chunk": 15
+  },
+  {
+    "timestamp_seconds": 4740,
+    "description": "Stock chart",
+    "confidence": 0.95,
+    "found_in_chunk": 15
+  },
+  {
+    "timestamp_seconds": 4746,
+    "description": "Wabash National Corporation financial data",
+    "confidence": 0.95,
+    "found_in_chunk": 15
+  },
+  {
+    "timestamp_seconds": 4852,
+    "description": "Amphastar Pharmaceuticals, Inc. stock chart",
+    "confidence": 0.95,
+    "found_in_chunk": 15
+  },
+  {
+    "timestamp_seconds": 4914,
+    "description": "Stock chart",
+    "confidence": 0.95,
+    "found_in_chunk": 15
+  },
+  {
+    "timestamp_seconds": 4954,
+    "description": "Goodyear Tire & Rubber Co. stock chart",
+    "confidence": 0.95,
+    "found_in_chunk": 15
+  },
+  {
+    "timestamp_seconds": 4994,
+    "description": "Goodyear Tire & Rubber Co. stock chart",
+    "confidence": 0.95,
+    "found_in_chunk": 15
+  },
+  {
+    "timestamp_seconds": 4800,
+    "description": "Goodyear Tire & Rubber Company Free Cash Flow Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 16
+  },
+  {
+    "timestamp_seconds": 4802,
+    "description": "Stockcharts.com chart",
+    "confidence": 0.95,
+    "found_in_chunk": 16
+  },
+  {
+    "timestamp_seconds": 4835,
+    "description": "Stockcharts.com chart",
+    "confidence": 0.95,
+    "found_in_chunk": 16
+  },
+  {
+    "timestamp_seconds": 4845,
+    "description": "Greggs plc Free Cash Flow Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 16
+  },
+  {
+    "timestamp_seconds": 4859,
+    "description": "Balance Sheet",
+    "confidence": 0.95,
+    "found_in_chunk": 16
+  },
+  {
+    "timestamp_seconds": 4908,
+    "description": "Stockcharts.com chart",
+    "confidence": 0.95,
+    "found_in_chunk": 16
+  },
+  {
+    "timestamp_seconds": 4936,
+    "description": "Stockcharts.com chart",
+    "confidence": 0.95,
+    "found_in_chunk": 16
+  },
+  {
+    "timestamp_seconds": 4958,
+    "description": "SM Energy Company Free Cash Flow Chart",
+    "confidence": 0.95,
+    "found_in_chunk": 16
+  }
+]

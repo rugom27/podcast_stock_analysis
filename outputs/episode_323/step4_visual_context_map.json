@@ -1,0 +1,644 @@
+[
+  {
+    "image_filename": "t1257_Stock_Market_Chart.jpg",
+    "timestamp_seconds": 1257,
+    "chart_description": "Stock_Market_Chart",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t1531_Treasuries_Chart.jpg",
+    "timestamp_seconds": 1531,
+    "chart_description": "Treasuries_Chart",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t1611_Treasuries_Chart.jpg",
+    "timestamp_seconds": 1611,
+    "chart_description": "Treasuries_Chart",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t1627_PayPal__PYPL____FCF_Yield.jpg",
+    "timestamp_seconds": 1627,
+    "chart_description": "PayPal__PYPL____FCF_Yield",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t1804_Aggregate_NTM_Capex_Estim.jpg",
+    "timestamp_seconds": 1804,
+    "chart_description": "Aggregate_NTM_Capex_Estim",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t1804_Change_in_FCF_Common_Equi.jpg",
+    "timestamp_seconds": 1804,
+    "chart_description": "Change_in_FCF_Common_Equi",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t1815_Retail_Cash___Proportion_.jpg",
+    "timestamp_seconds": 1815,
+    "chart_description": "Retail_Cash___Proportion_",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t1825_US_Dollar_Index_chart.jpg",
+    "timestamp_seconds": 1825,
+    "chart_description": "US_Dollar_Index_chart",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t1846_Stock_Close_Dec_31__2024_.jpg",
+    "timestamp_seconds": 1846,
+    "chart_description": "Stock_Close_Dec_31__2024_",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t1918_Health_Care_Stocks_Are_Un.jpg",
+    "timestamp_seconds": 1918,
+    "chart_description": "Health_Care_Stocks_Are_Un",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t1952_Mortgage_Rates_May_Start_.jpg",
+    "timestamp_seconds": 1952,
+    "chart_description": "Mortgage_Rates_May_Start_",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t2002_Global_Defensives_as_A___.jpg",
+    "timestamp_seconds": 2002,
+    "chart_description": "Global_Defensives_as_A___",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t2033_US_Core_Inflation_Eases_t.jpg",
+    "timestamp_seconds": 2033,
+    "chart_description": "US_Core_Inflation_Eases_t",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t2043_Nearly_all_major_equity_m.jpg",
+    "timestamp_seconds": 2043,
+    "chart_description": "Nearly_all_major_equity_m",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t2100_Household_Cash_as_Percent.jpg",
+    "timestamp_seconds": 2100,
+    "chart_description": "Household_Cash_as_Percent",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t2106_Transition_Technology_cha.jpg",
+    "timestamp_seconds": 2106,
+    "chart_description": "Transition_Technology_cha",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t2108_Annualized_returns_of_U_S.jpg",
+    "timestamp_seconds": 2108,
+    "chart_description": "Annualized_returns_of_U_S",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t2112_Value_vs__Growth_dynamics.jpg",
+    "timestamp_seconds": 2112,
+    "chart_description": "Value_vs__Growth_dynamics",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t2118_Retail_Traders_Average_Po.jpg",
+    "timestamp_seconds": 2118,
+    "chart_description": "Retail_Traders_Average_Po",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t2123_Household_Wealth__Bottom_.jpg",
+    "timestamp_seconds": 2123,
+    "chart_description": "Household_Wealth__Bottom_",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t2143_S_P_500_Average_Annualize.jpg",
+    "timestamp_seconds": 2143,
+    "chart_description": "S_P_500_Average_Annualize",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t2145_Retail_Traders_Average_Po.jpg",
+    "timestamp_seconds": 2145,
+    "chart_description": "Retail_Traders_Average_Po",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t2206_Japan_10_Year_Yield_Line_.jpg",
+    "timestamp_seconds": 2206,
+    "chart_description": "Japan_10_Year_Yield_Line_",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t2222_Active_equity_fund_on_cou.jpg",
+    "timestamp_seconds": 2222,
+    "chart_description": "Active_equity_fund_on_cou",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t2225_BofA_Bull___Bear_Indicato.jpg",
+    "timestamp_seconds": 2225,
+    "chart_description": "BofA_Bull___Bear_Indicato",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t2226_CPI_Housing_Inflation_cha.jpg",
+    "timestamp_seconds": 2226,
+    "chart_description": "CPI_Housing_Inflation_cha",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t2235_Broad_Market_P_E_and_EPS_.jpg",
+    "timestamp_seconds": 2235,
+    "chart_description": "Broad_Market_P_E_and_EPS_",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t2236_Household_Cash_as_Percent.jpg",
+    "timestamp_seconds": 2236,
+    "chart_description": "Household_Cash_as_Percent",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t2244_Cyclicals_EPS_Revisions_v.jpg",
+    "timestamp_seconds": 2244,
+    "chart_description": "Cyclicals_EPS_Revisions_v",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t2245_Relative_importance_of_va.jpg",
+    "timestamp_seconds": 2245,
+    "chart_description": "Relative_importance_of_va",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t2247_US__Median_size_of_new_si.jpg",
+    "timestamp_seconds": 2247,
+    "chart_description": "US__Median_size_of_new_si",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t2257_Contribution_to_annual_S_.jpg",
+    "timestamp_seconds": 2257,
+    "chart_description": "Contribution_to_annual_S_",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t2310_Contribution_to_annual_S_.jpg",
+    "timestamp_seconds": 2310,
+    "chart_description": "Contribution_to_annual_S_",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t2321_Existing_Home_Sales_Line_.jpg",
+    "timestamp_seconds": 2321,
+    "chart_description": "Existing_Home_Sales_Line_",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t2327_New_Vehicle_Average_Trans.jpg",
+    "timestamp_seconds": 2327,
+    "chart_description": "New_Vehicle_Average_Trans",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t2331_Sales_of_Electrified_Vehi.jpg",
+    "timestamp_seconds": 2331,
+    "chart_description": "Sales_of_Electrified_Vehi",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t2334_Lennar_s_average_selling_.jpg",
+    "timestamp_seconds": 2334,
+    "chart_description": "Lennar_s_average_selling_",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t2348_BoFA_Restaurants_Food_Dis.jpg",
+    "timestamp_seconds": 2348,
+    "chart_description": "BoFA_Restaurants_Food_Dis",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t2419_Russell_2000_annual_EPS_g.jpg",
+    "timestamp_seconds": 2419,
+    "chart_description": "Russell_2000_annual_EPS_g",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t2538_Russell_2000_annual_EPS_g.jpg",
+    "timestamp_seconds": 2538,
+    "chart_description": "Russell_2000_annual_EPS_g",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t257_Market_Check__Dow_Jones__.jpg",
+    "timestamp_seconds": 257,
+    "chart_description": "Market_Check__Dow_Jones__",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t3000_PFE_Pfizer_Inc__Free_Cash.jpg",
+    "timestamp_seconds": 3000,
+    "chart_description": "PFE_Pfizer_Inc__Free_Cash",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t3002_PFE_Pfizer_Inc__Gross_Pro.jpg",
+    "timestamp_seconds": 3002,
+    "chart_description": "PFE_Pfizer_Inc__Gross_Pro",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t3004_Pfizer_Inc__NYSE_PFE_char.jpg",
+    "timestamp_seconds": 3004,
+    "chart_description": "Pfizer_Inc__NYSE_PFE_char",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t300_Big_Tech_Stock_Performanc.jpg",
+    "timestamp_seconds": 300,
+    "chart_description": "Big_Tech_Stock_Performanc",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t308_Dow_Winners_Stock_Perform.jpg",
+    "timestamp_seconds": 308,
+    "chart_description": "Dow_Winners_Stock_Perform",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t310_Artificial_Intelligence__.jpg",
+    "timestamp_seconds": 310,
+    "chart_description": "Artificial_Intelligence__",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t3152_Pfizer_Stock_Chart.jpg",
+    "timestamp_seconds": 3152,
+    "chart_description": "Pfizer_Stock_Chart",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t3156_Pfizer_Free_Cash_Flow_Cha.jpg",
+    "timestamp_seconds": 3156,
+    "chart_description": "Pfizer_Free_Cash_Flow_Cha",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t3157_Pfizer_Total_Revenues_Cha.jpg",
+    "timestamp_seconds": 3157,
+    "chart_description": "Pfizer_Total_Revenues_Cha",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t3158_Pfizer_Return_on_Capital_.jpg",
+    "timestamp_seconds": 3158,
+    "chart_description": "Pfizer_Return_on_Capital_",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t3159_Pfizer_Gross_Profit_Margi.jpg",
+    "timestamp_seconds": 3159,
+    "chart_description": "Pfizer_Gross_Profit_Margi",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t3200_Pfizer_Price_Chart.jpg",
+    "timestamp_seconds": 3200,
+    "chart_description": "Pfizer_Price_Chart",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t3201_Pfizer_Capital_Structure_.jpg",
+    "timestamp_seconds": 3201,
+    "chart_description": "Pfizer_Capital_Structure_",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t324_Intel_Stock_Price_Chart.jpg",
+    "timestamp_seconds": 324,
+    "chart_description": "Intel_Stock_Price_Chart",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t326_S_P_500_Winners_Stock_Per.jpg",
+    "timestamp_seconds": 326,
+    "chart_description": "S_P_500_Winners_Stock_Per",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t3320_Health_Care_Sector_annual.jpg",
+    "timestamp_seconds": 3320,
+    "chart_description": "Health_Care_Sector_annual",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t3324_Revenue__Billions____bar_.jpg",
+    "timestamp_seconds": 3324,
+    "chart_description": "Revenue__Billions____bar_",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t3369_Health_Care_S_P_500_Weigh.jpg",
+    "timestamp_seconds": 3369,
+    "chart_description": "Health_Care_S_P_500_Weigh",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t340_NASDAQ_Winners_Stock_Perf.jpg",
+    "timestamp_seconds": 340,
+    "chart_description": "NASDAQ_Winners_Stock_Perf",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t3417_Revenue_bar_chart.jpg",
+    "timestamp_seconds": 3417,
+    "chart_description": "Revenue_bar_chart",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t3421_Avg_S_P_500_Health_Care__.jpg",
+    "timestamp_seconds": 3421,
+    "chart_description": "Avg_S_P_500_Health_Care__",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t3438_Delivering_Operating_Marg.jpg",
+    "timestamp_seconds": 3438,
+    "chart_description": "Delivering_Operating_Marg",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t3617_Pfizer_Trading_at_a_Massi.jpg",
+    "timestamp_seconds": 3617,
+    "chart_description": "Pfizer_Trading_at_a_Massi",
+    "transcript_context": "adjusted EPS guidance of 3 to 315 and noted results are currently tracking toward the top end of the range. Fully year revenue guidance was narrowed to 62 billion consistent with the prior 61 to64 billion range two. Looking ahead to 2026, management expects revenue of 59.5 billion to 62.5 broadly in line with expectations including 4% operational growth at the midpoint excluding COVID and loss of LOE. Ex adjusted EPS is guided to 280 to $3 modestly below street estimate of 305 as several headwinds weigh on results. These include 22 cents of dilution from the 3S bio and metsera deals, a $ 1.5 billion in decline in COVID revenue, representing 18% EPS headwind, 1.5 billion of patent expirations, and a higher tax rate rising to 15% from 11%, a 12 cents headwind. Three, the Metsera acquisition is gaining traction with management guiding to at least 15 obesity drug trials in 2026, the majority in phase three. The first MSEA product remains targeted for a 2028 launch with meaningful contributions expected in the years that follow. management also believes it now has the most advanced GIPR oral candidate in the industry which it views as a significant opportunity to address the masses with the only key monthly clo do dosing data with the key monthly dosing data expected in Q1 four management cut 2025 CO 19 sales expectations to 6.5 billion from 9 billion as global infection rates remain muted co revenue is expected to decline further to 5 billion in 2026, representing just 8.2% of total sales versus 57% in 2022 as Fizer continues to"
+  },
+  {
+    "image_filename": "t3633_Adjusted_EPS_is_guided_to.jpg",
+    "timestamp_seconds": 3633,
+    "chart_description": "Adjusted_EPS_is_guided_to",
+    "transcript_context": "adjusted EPS guidance of 3 to 315 and noted results are currently tracking toward the top end of the range. Fully year revenue guidance was narrowed to 62 billion consistent with the prior 61 to64 billion range two. Looking ahead to 2026, management expects revenue of 59.5 billion to 62.5 broadly in line with expectations including 4% operational growth at the midpoint excluding COVID and loss of LOE. Ex adjusted EPS is guided to 280 to $3 modestly below street estimate of 305 as several headwinds weigh on results. These include 22 cents of dilution from the 3S bio and metsera deals, a $ 1.5 billion in decline in COVID revenue, representing 18% EPS headwind, 1.5 billion of patent expirations, and a higher tax rate rising to 15% from 11%, a 12 cents headwind. Three, the Metsera acquisition is gaining traction with management guiding to at least 15 obesity drug trials in 2026, the majority in phase three. The first MSEA product remains targeted for a 2028 launch with meaningful contributions expected in the years that follow. management also believes it now has the most advanced GIPR oral candidate in the industry which it views as a significant opportunity to address the masses with the only key monthly clo do dosing data with the key monthly dosing data expected in Q1 four management cut 2025 CO 19 sales expectations to 6.5 billion from 9 billion as global infection rates remain muted co revenue is expected to decline further to 5 billion in 2026, representing just 8.2% of total sales versus 57% in 2022 as Fizer continues to exit the COVID driven error. Five, Fiser expects 17 billion in annual revenue impact from the loss of exclusivity by 2030 relative to 2025 with a 1.5 billion LOE headwind anticipated in 2026."
+  },
+  {
+    "image_filename": "t3642_PFE_Pfizer_Inc__Dividend_.jpg",
+    "timestamp_seconds": 3642,
+    "chart_description": "PFE_Pfizer_Inc__Dividend_",
+    "transcript_context": "adjusted EPS guidance of 3 to 315 and noted results are currently tracking toward the top end of the range. Fully year revenue guidance was narrowed to 62 billion consistent with the prior 61 to64 billion range two. Looking ahead to 2026, management expects revenue of 59.5 billion to 62.5 broadly in line with expectations including 4% operational growth at the midpoint excluding COVID and loss of LOE. Ex adjusted EPS is guided to 280 to $3 modestly below street estimate of 305 as several headwinds weigh on results. These include 22 cents of dilution from the 3S bio and metsera deals, a $ 1.5 billion in decline in COVID revenue, representing 18% EPS headwind, 1.5 billion of patent expirations, and a higher tax rate rising to 15% from 11%, a 12 cents headwind. Three, the Metsera acquisition is gaining traction with management guiding to at least 15 obesity drug trials in 2026, the majority in phase three. The first MSEA product remains targeted for a 2028 launch with meaningful contributions expected in the years that follow. management also believes it now has the most advanced GIPR oral candidate in the industry which it views as a significant opportunity to address the masses with the only key monthly clo do dosing data with the key monthly dosing data expected in Q1 four management cut 2025 CO 19 sales expectations to 6.5 billion from 9 billion as global infection rates remain muted co revenue is expected to decline further to 5 billion in 2026, representing just 8.2% of total sales versus 57% in 2022 as Fizer continues to exit the COVID driven error. Five, Fiser expects 17 billion in annual revenue impact from the loss of exclusivity by 2030 relative to 2025 with a 1.5 billion LOE headwind anticipated in 2026. Management remains confident that the internal pipeline along with acquisition of Biohaven, CGN, and Metera and the licensing agreement with 3S Bio positions the company well for 2029 and"
+  },
+  {
+    "image_filename": "t3647_COVID_revenue_representin.jpg",
+    "timestamp_seconds": 3647,
+    "chart_description": "COVID_revenue_representin",
+    "transcript_context": "adjusted EPS guidance of 3 to 315 and noted results are currently tracking toward the top end of the range. Fully year revenue guidance was narrowed to 62 billion consistent with the prior 61 to64 billion range two. Looking ahead to 2026, management expects revenue of 59.5 billion to 62.5 broadly in line with expectations including 4% operational growth at the midpoint excluding COVID and loss of LOE. Ex adjusted EPS is guided to 280 to $3 modestly below street estimate of 305 as several headwinds weigh on results. These include 22 cents of dilution from the 3S bio and metsera deals, a $ 1.5 billion in decline in COVID revenue, representing 18% EPS headwind, 1.5 billion of patent expirations, and a higher tax rate rising to 15% from 11%, a 12 cents headwind. Three, the Metsera acquisition is gaining traction with management guiding to at least 15 obesity drug trials in 2026, the majority in phase three. The first MSEA product remains targeted for a 2028 launch with meaningful contributions expected in the years that follow. management also believes it now has the most advanced GIPR oral candidate in the industry which it views as a significant opportunity to address the masses with the only key monthly clo do dosing data with the key monthly dosing data expected in Q1 four management cut 2025 CO 19 sales expectations to 6.5 billion from 9 billion as global infection rates remain muted co revenue is expected to decline further to 5 billion in 2026, representing just 8.2% of total sales versus 57% in 2022 as Fizer continues to exit the COVID driven error. Five, Fiser expects 17 billion in annual revenue impact from the loss of exclusivity by 2030 relative to 2025 with a 1.5 billion LOE headwind anticipated in 2026. Management remains confident that the internal pipeline along with acquisition of Biohaven, CGN, and Metera and the licensing agreement with 3S Bio positions the company well for 2029 and beyond to be strong growth years. By the end of 2025, the portfolio recent of"
+  },
+  {
+    "image_filename": "t3653_A_higher_tax_rate_rising_.jpg",
+    "timestamp_seconds": 3653,
+    "chart_description": "A_higher_tax_rate_rising_",
+    "transcript_context": "adjusted EPS guidance of 3 to 315 and noted results are currently tracking toward the top end of the range. Fully year revenue guidance was narrowed to 62 billion consistent with the prior 61 to64 billion range two. Looking ahead to 2026, management expects revenue of 59.5 billion to 62.5 broadly in line with expectations including 4% operational growth at the midpoint excluding COVID and loss of LOE. Ex adjusted EPS is guided to 280 to $3 modestly below street estimate of 305 as several headwinds weigh on results. These include 22 cents of dilution from the 3S bio and metsera deals, a $ 1.5 billion in decline in COVID revenue, representing 18% EPS headwind, 1.5 billion of patent expirations, and a higher tax rate rising to 15% from 11%, a 12 cents headwind. Three, the Metsera acquisition is gaining traction with management guiding to at least 15 obesity drug trials in 2026, the majority in phase three. The first MSEA product remains targeted for a 2028 launch with meaningful contributions expected in the years that follow. management also believes it now has the most advanced GIPR oral candidate in the industry which it views as a significant opportunity to address the masses with the only key monthly clo do dosing data with the key monthly dosing data expected in Q1 four management cut 2025 CO 19 sales expectations to 6.5 billion from 9 billion as global infection rates remain muted co revenue is expected to decline further to 5 billion in 2026, representing just 8.2% of total sales versus 57% in 2022 as Fizer continues to exit the COVID driven error. Five, Fiser expects 17 billion in annual revenue impact from the loss of exclusivity by 2030 relative to 2025 with a 1.5 billion LOE headwind anticipated in 2026. Management remains confident that the internal pipeline along with acquisition of Biohaven, CGN, and Metera and the licensing agreement with 3S Bio positions the company well for 2029 and beyond to be strong growth years. By the end of 2025, the portfolio recent of recently launched and acquired products is expected to generate 10 billion in revenue growing at double-digit rates"
+  },
+  {
+    "image_filename": "t365_Big_Tech__Apple__Microsof.jpg",
+    "timestamp_seconds": 365,
+    "chart_description": "Big_Tech__Apple__Microsof",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t3736_Management_cut_2025_COVID.jpg",
+    "timestamp_seconds": 3736,
+    "chart_description": "Management_cut_2025_COVID",
+    "transcript_context": "billion of patent expirations, and a higher tax rate rising to 15% from 11%, a 12 cents headwind. Three, the Metsera acquisition is gaining traction with management guiding to at least 15 obesity drug trials in 2026, the majority in phase three. The first MSEA product remains targeted for a 2028 launch with meaningful contributions expected in the years that follow. management also believes it now has the most advanced GIPR oral candidate in the industry which it views as a significant opportunity to address the masses with the only key monthly clo do dosing data with the key monthly dosing data expected in Q1 four management cut 2025 CO 19 sales expectations to 6.5 billion from 9 billion as global infection rates remain muted co revenue is expected to decline further to 5 billion in 2026, representing just 8.2% of total sales versus 57% in 2022 as Fizer continues to exit the COVID driven error. Five, Fiser expects 17 billion in annual revenue impact from the loss of exclusivity by 2030 relative to 2025 with a 1.5 billion LOE headwind anticipated in 2026. Management remains confident that the internal pipeline along with acquisition of Biohaven, CGN, and Metera and the licensing agreement with 3S Bio positions the company well for 2029 and beyond to be strong growth years. By the end of 2025, the portfolio recent of recently launched and acquired products is expected to generate 10 billion in revenue growing at double-digit rates with growth expected to accelerate into the latter part of the decade and help offset patent expiration headwind. Six. The cost realignment program is now on track to deliver the majority of the 7.2 billion in total net cost savings by 2026, a full year ahead of prior expectations with 500 million rate reinvested to strengthen R&D productivity. 7 2026 uh um uh sales SI SINA expenses are expected to be 12.5 billion to 13.5 billion down from 13.1 billion to 14 SGNA expenses by the way okay are expected to be 12.5 to 13.5 down from 13.1 to 14.1 representing a 4% year-on-year decline as cost savings continue to materialize. This is expected to support the stable gross and operating margins for the year with adjusted gross margins projected in the mid 70% range and management seeing a clear path to consistently returning to the mid to high 70% range over time. Eight, Fiser expects robust operating cash flow in 2026 with the bulk of cash restructuring payments now behind the company and the final 2.6 6 billion repatriation tax payment occurring in 2026 with capex expected to be slightly"
+  },
+  {
+    "image_filename": "t3756_Pfizer_expects___17B_of_a.jpg",
+    "timestamp_seconds": 3756,
+    "chart_description": "Pfizer_expects___17B_of_a",
+    "transcript_context": "product remains targeted for a 2028 launch with meaningful contributions expected in the years that follow. management also believes it now has the most advanced GIPR oral candidate in the industry which it views as a significant opportunity to address the masses with the only key monthly clo do dosing data with the key monthly dosing data expected in Q1 four management cut 2025 CO 19 sales expectations to 6.5 billion from 9 billion as global infection rates remain muted co revenue is expected to decline further to 5 billion in 2026, representing just 8.2% of total sales versus 57% in 2022 as Fizer continues to exit the COVID driven error. Five, Fiser expects 17 billion in annual revenue impact from the loss of exclusivity by 2030 relative to 2025 with a 1.5 billion LOE headwind anticipated in 2026. Management remains confident that the internal pipeline along with acquisition of Biohaven, CGN, and Metera and the licensing agreement with 3S Bio positions the company well for 2029 and beyond to be strong growth years. By the end of 2025, the portfolio recent of recently launched and acquired products is expected to generate 10 billion in revenue growing at double-digit rates with growth expected to accelerate into the latter part of the decade and help offset patent expiration headwind. Six. The cost realignment program is now on track to deliver the majority of the 7.2 billion in total net cost savings by 2026, a full year ahead of prior expectations with 500 million rate reinvested to strengthen R&D productivity. 7 2026 uh um uh sales SI SINA expenses are expected to be 12.5 billion to 13.5 billion down from 13.1 billion to 14 SGNA expenses by the way okay are expected to be 12.5 to 13.5 down from 13.1 to 14.1 representing a 4% year-on-year decline as cost savings continue to materialize. This is expected to support the stable gross and operating margins for the year with adjusted gross margins projected in the mid 70% range and management seeing a clear path to consistently returning to the mid to high 70% range over time. Eight, Fiser expects robust operating cash flow in 2026 with the bulk of cash restructuring payments now behind the company and the final 2.6 6 billion repatriation tax payment occurring in 2026 with capex expected to be slightly above 3 billion for the year. This sets up solid free cash flow generation on a go forward basis. Nine management reaffirmed its commitment to maintaining and growing the dividend over time with the current quarterly dividend at 43 per share and the forward dividend yield now close to 7%. 10 management expects to exit the year"
+  },
+  {
+    "image_filename": "t3834_2026_adjusted_S_A_expense.jpg",
+    "timestamp_seconds": 3834,
+    "chart_description": "2026_adjusted_S_A_expense",
+    "transcript_context": "with growth expected to accelerate into the latter part of the decade and help offset patent expiration headwind. Six. The cost realignment program is now on track to deliver the majority of the 7.2 billion in total net cost savings by 2026, a full year ahead of prior expectations with 500 million rate reinvested to strengthen R&D productivity. 7 2026 uh um uh sales SI SINA expenses are expected to be 12.5 billion to 13.5 billion down from 13.1 billion to 14 SGNA expenses by the way okay are expected to be 12.5 to 13.5 down from 13.1 to 14.1 representing a 4% year-on-year decline as cost savings continue to materialize. This is expected to support the stable gross and operating margins for the year with adjusted gross margins projected in the mid 70% range and management seeing a clear path to consistently returning to the mid to high 70% range over time. Eight, Fiser expects robust operating cash flow in 2026 with the bulk of cash restructuring payments now behind the company and the final 2.6 6 billion repatriation tax payment occurring in 2026 with capex expected to be slightly above 3 billion for the year. This sets up solid free cash flow generation on a go forward basis. Nine management reaffirmed its commitment to maintaining and growing the dividend over time with the current quarterly dividend at 43 per share and the forward dividend yield now close to 7%. 10 management expects to exit the year with gross leverage slightly above the 2.7 times which is expected to remain relatively stable through the LOE period. Entering 2026, Fizer retains 6 billion of business development capacity. We've highlighted all the key things in the earnings call and now we're going on to Albamaro. Uh note we have taken profits on a portion of this position as it is now up 139% or 2.4x off our blended basis of 6129 in a very short period of time. This is much faster than we expected. It remains a core position, but we don't want to be pigs, so we're taking some profits. Um, so here are the key things we've highlighted and underlined for you. Uh, 10 key points. Number one, revenue of 1.31 billion declined 3.5% year-on-year, but beat consensus by 28 million as 8% volume growth in both energy storage and ketchin was more than offset by price declines of 16% and 5% respectively. Adjusted loss per share of 19 cents beat street estimates by 69 cents and"
+  },
+  {
+    "image_filename": "t3900_Q3_2025_Results_Table.jpg",
+    "timestamp_seconds": 3900,
+    "chart_description": "Q3_2025_Results_Table",
+    "transcript_context": "the mid to high 70% range over time. Eight, Fiser expects robust operating cash flow in 2026 with the bulk of cash restructuring payments now behind the company and the final 2.6 6 billion repatriation tax payment occurring in 2026 with capex expected to be slightly above 3 billion for the year. This sets up solid free cash flow generation on a go forward basis. Nine management reaffirmed its commitment to maintaining and growing the dividend over time with the current quarterly dividend at 43 per share and the forward dividend yield now close to 7%. 10 management expects to exit the year with gross leverage slightly above the 2.7 times which is expected to remain relatively stable through the LOE period. Entering 2026, Fizer retains 6 billion of business development capacity. We've highlighted all the key things in the earnings call and now we're going on to Albamaro. Uh note we have taken profits on a portion of this position as it is now up 139% or 2.4x off our blended basis of 6129 in a very short period of time. This is much faster than we expected. It remains a core position, but we don't want to be pigs, so we're taking some profits. Um, so here are the key things we've highlighted and underlined for you. Uh, 10 key points. Number one, revenue of 1.31 billion declined 3.5% year-on-year, but beat consensus by 28 million as 8% volume growth in both energy storage and ketchin was more than offset by price declines of 16% and 5% respectively. Adjusted loss per share of 19 cents beat street estimates by 69 cents and improved 88% from the 155 loss last year. Two, despite lower lithium prices in Q3, management made meaningful progress on profitability with adjusted EVID of 226 million up 7% yearonear and margins improving 170 basis points to 17.3 based on cost removed from the business and recovering lithium prices. management expects operating leverage could eventually push adjusted ebida margins above 30% uh $15 per kg LCE. For context, lithium prices are now over $14 kilogram LCE, knocking on the door of management's target. Again, while this may seem like a big move from summer lows, it pays to zoom out. We are still in early days as it relates to lithium prices, which is why it remains a core position. Three, global lithium ion battery demand for stationary storage jumped 105% year-to- date, led by North America and Europe at 145% each and China at 60%. The market has been a major upside surprise for management with demand exceeding expectations and slower than expected supply growth tightening the market. Lithium demand"
+  },
+  {
+    "image_filename": "t3905_Lithium_Price_Chart.jpg",
+    "timestamp_seconds": 3905,
+    "chart_description": "Lithium_Price_Chart",
+    "transcript_context": "cash flow in 2026 with the bulk of cash restructuring payments now behind the company and the final 2.6 6 billion repatriation tax payment occurring in 2026 with capex expected to be slightly above 3 billion for the year. This sets up solid free cash flow generation on a go forward basis. Nine management reaffirmed its commitment to maintaining and growing the dividend over time with the current quarterly dividend at 43 per share and the forward dividend yield now close to 7%. 10 management expects to exit the year with gross leverage slightly above the 2.7 times which is expected to remain relatively stable through the LOE period. Entering 2026, Fizer retains 6 billion of business development capacity. We've highlighted all the key things in the earnings call and now we're going on to Albamaro. Uh note we have taken profits on a portion of this position as it is now up 139% or 2.4x off our blended basis of 6129 in a very short period of time. This is much faster than we expected. It remains a core position, but we don't want to be pigs, so we're taking some profits. Um, so here are the key things we've highlighted and underlined for you. Uh, 10 key points. Number one, revenue of 1.31 billion declined 3.5% year-on-year, but beat consensus by 28 million as 8% volume growth in both energy storage and ketchin was more than offset by price declines of 16% and 5% respectively. Adjusted loss per share of 19 cents beat street estimates by 69 cents and improved 88% from the 155 loss last year. Two, despite lower lithium prices in Q3, management made meaningful progress on profitability with adjusted EVID of 226 million up 7% yearonear and margins improving 170 basis points to 17.3 based on cost removed from the business and recovering lithium prices. management expects operating leverage could eventually push adjusted ebida margins above 30% uh $15 per kg LCE. For context, lithium prices are now over $14 kilogram LCE, knocking on the door of management's target. Again, while this may seem like a big move from summer lows, it pays to zoom out. We are still in early days as it relates to lithium prices, which is why it remains a core position. Three, global lithium ion battery demand for stationary storage jumped 105% year-to- date, led by North America and Europe at 145% each and China at 60%. The market has been a major upside surprise for management with demand exceeding expectations and slower than expected supply growth tightening the market. Lithium demand for energy storage seems systems is now expected to increase more than 2.5x to a"
+  },
+  {
+    "image_filename": "t4006_Lithium_Price_Chart.jpg",
+    "timestamp_seconds": 4006,
+    "chart_description": "Lithium_Price_Chart",
+    "transcript_context": "ketchin was more than offset by price declines of 16% and 5% respectively. Adjusted loss per share of 19 cents beat street estimates by 69 cents and improved 88% from the 155 loss last year. Two, despite lower lithium prices in Q3, management made meaningful progress on profitability with adjusted EVID of 226 million up 7% yearonear and margins improving 170 basis points to 17.3 based on cost removed from the business and recovering lithium prices. management expects operating leverage could eventually push adjusted ebida margins above 30% uh $15 per kg LCE. For context, lithium prices are now over $14 kilogram LCE, knocking on the door of management's target. Again, while this may seem like a big move from summer lows, it pays to zoom out. We are still in early days as it relates to lithium prices, which is why it remains a core position. Three, global lithium ion battery demand for stationary storage jumped 105% year-to- date, led by North America and Europe at 145% each and China at 60%. The market has been a major upside surprise for management with demand exceeding expectations and slower than expected supply growth tightening the market. Lithium demand for energy storage seems systems is now expected to increase more than 2.5x to a range of 430 to 1 1070 KTLCE by 2030 from 200 in 2024 implying a 15 to 30% kagger and potentially reaching half of total lithium demand four despite the noise global EV demand remains strong growing 30% year to date this mostly China continues to represent 60% of the global EV V market maintaining strong demand even after suppressing surpassing 50% market penetration. Europe accounts for 20% of the market with 31% growth while the US makes up just 10% of the market with 12% growth. Global EV demand still drives over 70% of lithium demand and management expects the market to remain healthy with continued growth ahead. Five operating cash flow came in at 356 million in Q3, up 57% year-on-year, bringing year-to- date operating cash flow to 949, up 29%. Management continues to expect fullear operating cash flow conversion above 80% well above the long-term target of 60 70%. Uh driven by 350 million of customer prepayment earlier in the year and ongoing working capital improvements. Most importantly, management now expects to generate 300 to 400 million in free cash flow for the full year compared to the the year's original expectation of break even and last quarter's call for just positive. Six management announced agreements to sell its controlling 51% stake in Ketchin's refining catalyst solutions business and Ketchin's interest in the Euroat joint venture from combined pre-tax proceeds of 660 million. Both transactions are expected to close in the first half of 2026 with proceeds supporting further balance sheet deleveraging 7."
+  },
+  {
+    "image_filename": "t4010_Lithium_Price_Chart.jpg",
+    "timestamp_seconds": 4010,
+    "chart_description": "Lithium_Price_Chart",
+    "transcript_context": "Adjusted loss per share of 19 cents beat street estimates by 69 cents and improved 88% from the 155 loss last year. Two, despite lower lithium prices in Q3, management made meaningful progress on profitability with adjusted EVID of 226 million up 7% yearonear and margins improving 170 basis points to 17.3 based on cost removed from the business and recovering lithium prices. management expects operating leverage could eventually push adjusted ebida margins above 30% uh $15 per kg LCE. For context, lithium prices are now over $14 kilogram LCE, knocking on the door of management's target. Again, while this may seem like a big move from summer lows, it pays to zoom out. We are still in early days as it relates to lithium prices, which is why it remains a core position. Three, global lithium ion battery demand for stationary storage jumped 105% year-to- date, led by North America and Europe at 145% each and China at 60%. The market has been a major upside surprise for management with demand exceeding expectations and slower than expected supply growth tightening the market. Lithium demand for energy storage seems systems is now expected to increase more than 2.5x to a range of 430 to 1 1070 KTLCE by 2030 from 200 in 2024 implying a 15 to 30% kagger and potentially reaching half of total lithium demand four despite the noise global EV demand remains strong growing 30% year to date this mostly China continues to represent 60% of the global EV V market maintaining strong demand even after suppressing surpassing 50% market penetration. Europe accounts for 20% of the market with 31% growth while the US makes up just 10% of the market with 12% growth. Global EV demand still drives over 70% of lithium demand and management expects the market to remain healthy with continued growth ahead. Five operating cash flow came in at 356 million in Q3, up 57% year-on-year, bringing year-to- date operating cash flow to 949, up 29%. Management continues to expect fullear operating cash flow conversion above 80% well above the long-term target of 60 70%. Uh driven by 350 million of customer prepayment earlier in the year and ongoing working capital improvements. Most importantly, management now expects to generate 300 to 400 million in free cash flow for the full year compared to the the year's original expectation of break even and last quarter's call for just positive. Six management announced agreements to sell its controlling 51% stake in Ketchin's refining catalyst solutions business and Ketchin's interest in the Euroat joint venture from combined pre-tax proceeds of 660 million. Both transactions are expected to close in the first half of 2026 with proceeds supporting further balance sheet deleveraging 7. Albamaro further lowered fullear capex expectations to 600 million, a 65%"
+  },
+  {
+    "image_filename": "t404_Semiconductors_Stock_Perf.jpg",
+    "timestamp_seconds": 404,
+    "chart_description": "Semiconductors_Stock_Perf",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t435_Hyperscaler_CAPEX_Bar_Cha.jpg",
+    "timestamp_seconds": 435,
+    "chart_description": "Hyperscaler_CAPEX_Bar_Cha",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t4500_CONMED_Corporation_stock_.jpg",
+    "timestamp_seconds": 4500,
+    "chart_description": "CONMED_Corporation_stock_",
+    "transcript_context": "raising equity. And the answer is uh no, they're bringing down the share count modestly. So, we like that. I think you're going to be okay here. We like the idea. Way to go, Ron Burgundy. On to the next. J El okay wants to know about Goose and Jay says they're burning cash. Well Jay, your numbers are wrong. They continue to generate record free cash flow, record revenues, stock is still down even though it's had a huge move off the lows and off of our basis. It's just getting started. So um check yourself before you wreck yourself. go directly to the SEC filings uh if you don't have Koi Fin that pulls directly from the SEC filings and uh go from there. Barry Kimbro, what's your thoughts on Align Tech? We don't like Align Tech, but we do like the space and uh we are going to leave that there. Line is not for us. It could work, but we have no edge there. Manny B Conmed, CNMD. I think we covered this a couple weeks ago. Uh, and I think we said okay. Let's just double check that. Yeah, I think you'll be okay there. Next, Jack Law Comber, uh, Dublin, Ireland. How you doing, Jack? WDFC. What is that? WD40. It's okay, but there are higher and better uses of your cash. Uh you're certainly not going to get a double off of it. And um you know, with declining revenues, well, no, revenues are okay. I just think it's rich. I I I wouldn't be a buyer here, but I don't think you're going to get hurt. Harry G. Bristol Meyers. It definitely clicks the healthc care box. This one's not for me, but um I think it's going to work with the whole sector. It's been flat. I think it's probably on its way to do better things than it's been doing for the last five plus years. So, I would say okay, but Fizer's better in terms of multiples you can get, depending how you express it. Jason M, uh Jason M, uh we're going to get back to you on that one. We can't talk about it now. You can interpret it that as you will. Tom, merry Christmas. Nike, uh, we like Nike. We like the turnaround. As a matter of fact, one of their directors, um, named Tim Apple, aka Tim Cook, bought a ton of stock, or not a ton, he bought $3 million of stock. And, uh, I"
+  },
+  {
+    "image_filename": "t4516_WD_40_Company_stock_chart.jpg",
+    "timestamp_seconds": 4516,
+    "chart_description": "WD_40_Company_stock_chart",
+    "transcript_context": "like the idea. Way to go, Ron Burgundy. On to the next. J El okay wants to know about Goose and Jay says they're burning cash. Well Jay, your numbers are wrong. They continue to generate record free cash flow, record revenues, stock is still down even though it's had a huge move off the lows and off of our basis. It's just getting started. So um check yourself before you wreck yourself. go directly to the SEC filings uh if you don't have Koi Fin that pulls directly from the SEC filings and uh go from there. Barry Kimbro, what's your thoughts on Align Tech? We don't like Align Tech, but we do like the space and uh we are going to leave that there. Line is not for us. It could work, but we have no edge there. Manny B Conmed, CNMD. I think we covered this a couple weeks ago. Uh, and I think we said okay. Let's just double check that. Yeah, I think you'll be okay there. Next, Jack Law Comber, uh, Dublin, Ireland. How you doing, Jack? WDFC. What is that? WD40. It's okay, but there are higher and better uses of your cash. Uh you're certainly not going to get a double off of it. And um you know, with declining revenues, well, no, revenues are okay. I just think it's rich. I I I wouldn't be a buyer here, but I don't think you're going to get hurt. Harry G. Bristol Meyers. It definitely clicks the healthc care box. This one's not for me, but um I think it's going to work with the whole sector. It's been flat. I think it's probably on its way to do better things than it's been doing for the last five plus years. So, I would say okay, but Fizer's better in terms of multiples you can get, depending how you express it. Jason M, uh Jason M, uh we're going to get back to you on that one. We can't talk about it now. You can interpret it that as you will. Tom, merry Christmas. Nike, uh, we like Nike. We like the turnaround. As a matter of fact, one of their directors, um, named Tim Apple, aka Tim Cook, bought a ton of stock, or not a ton, he bought $3 million of stock. And, uh, I think this one's going to work. I think it's going to take longer than everyone thinks. And I think VF Corp is a better bang for your buck because you're going to get a higher multiples. You know, when Nike recovers, you get a double. When VF recovers from our basis, you get three to five bags. And we like three to"
+  },
+  {
+    "image_filename": "t4518_Stock_chart.jpg",
+    "timestamp_seconds": 4518,
+    "chart_description": "Stock_chart",
+    "transcript_context": "On to the next. J El okay wants to know about Goose and Jay says they're burning cash. Well Jay, your numbers are wrong. They continue to generate record free cash flow, record revenues, stock is still down even though it's had a huge move off the lows and off of our basis. It's just getting started. So um check yourself before you wreck yourself. go directly to the SEC filings uh if you don't have Koi Fin that pulls directly from the SEC filings and uh go from there. Barry Kimbro, what's your thoughts on Align Tech? We don't like Align Tech, but we do like the space and uh we are going to leave that there. Line is not for us. It could work, but we have no edge there. Manny B Conmed, CNMD. I think we covered this a couple weeks ago. Uh, and I think we said okay. Let's just double check that. Yeah, I think you'll be okay there. Next, Jack Law Comber, uh, Dublin, Ireland. How you doing, Jack? WDFC. What is that? WD40. It's okay, but there are higher and better uses of your cash. Uh you're certainly not going to get a double off of it. And um you know, with declining revenues, well, no, revenues are okay. I just think it's rich. I I I wouldn't be a buyer here, but I don't think you're going to get hurt. Harry G. Bristol Meyers. It definitely clicks the healthc care box. This one's not for me, but um I think it's going to work with the whole sector. It's been flat. I think it's probably on its way to do better things than it's been doing for the last five plus years. So, I would say okay, but Fizer's better in terms of multiples you can get, depending how you express it. Jason M, uh Jason M, uh we're going to get back to you on that one. We can't talk about it now. You can interpret it that as you will. Tom, merry Christmas. Nike, uh, we like Nike. We like the turnaround. As a matter of fact, one of their directors, um, named Tim Apple, aka Tim Cook, bought a ton of stock, or not a ton, he bought $3 million of stock. And, uh, I think this one's going to work. I think it's going to take longer than everyone thinks. And I think VF Corp is a better bang for your buck because you're going to get a higher multiples. You know, when Nike recovers, you get a double. When VF recovers from our basis, you get three to five bags. And we like three to five bags that better than a double. So,"
+  },
+  {
+    "image_filename": "t4533_WD_40_Company_stock_chart.jpg",
+    "timestamp_seconds": 4533,
+    "chart_description": "WD_40_Company_stock_chart",
+    "transcript_context": "Jay, your numbers are wrong. They continue to generate record free cash flow, record revenues, stock is still down even though it's had a huge move off the lows and off of our basis. It's just getting started. So um check yourself before you wreck yourself. go directly to the SEC filings uh if you don't have Koi Fin that pulls directly from the SEC filings and uh go from there. Barry Kimbro, what's your thoughts on Align Tech? We don't like Align Tech, but we do like the space and uh we are going to leave that there. Line is not for us. It could work, but we have no edge there. Manny B Conmed, CNMD. I think we covered this a couple weeks ago. Uh, and I think we said okay. Let's just double check that. Yeah, I think you'll be okay there. Next, Jack Law Comber, uh, Dublin, Ireland. How you doing, Jack? WDFC. What is that? WD40. It's okay, but there are higher and better uses of your cash. Uh you're certainly not going to get a double off of it. And um you know, with declining revenues, well, no, revenues are okay. I just think it's rich. I I I wouldn't be a buyer here, but I don't think you're going to get hurt. Harry G. Bristol Meyers. It definitely clicks the healthc care box. This one's not for me, but um I think it's going to work with the whole sector. It's been flat. I think it's probably on its way to do better things than it's been doing for the last five plus years. So, I would say okay, but Fizer's better in terms of multiples you can get, depending how you express it. Jason M, uh Jason M, uh we're going to get back to you on that one. We can't talk about it now. You can interpret it that as you will. Tom, merry Christmas. Nike, uh, we like Nike. We like the turnaround. As a matter of fact, one of their directors, um, named Tim Apple, aka Tim Cook, bought a ton of stock, or not a ton, he bought $3 million of stock. And, uh, I think this one's going to work. I think it's going to take longer than everyone thinks. And I think VF Corp is a better bang for your buck because you're going to get a higher multiples. You know, when Nike recovers, you get a double. When VF recovers from our basis, you get three to five bags. And we like three to five bags that better than a double. So, uh, BHC, this is from Max M. BHC. Is this this, uh, yeah, it's B. This is a value trap. It's probably going to work. I mean, there"
+  },
+  {
+    "image_filename": "t4545_Stock_chart.jpg",
+    "timestamp_seconds": 4545,
+    "chart_description": "Stock_chart",
+    "transcript_context": "just getting started. So um check yourself before you wreck yourself. go directly to the SEC filings uh if you don't have Koi Fin that pulls directly from the SEC filings and uh go from there. Barry Kimbro, what's your thoughts on Align Tech? We don't like Align Tech, but we do like the space and uh we are going to leave that there. Line is not for us. It could work, but we have no edge there. Manny B Conmed, CNMD. I think we covered this a couple weeks ago. Uh, and I think we said okay. Let's just double check that. Yeah, I think you'll be okay there. Next, Jack Law Comber, uh, Dublin, Ireland. How you doing, Jack? WDFC. What is that? WD40. It's okay, but there are higher and better uses of your cash. Uh you're certainly not going to get a double off of it. And um you know, with declining revenues, well, no, revenues are okay. I just think it's rich. I I I wouldn't be a buyer here, but I don't think you're going to get hurt. Harry G. Bristol Meyers. It definitely clicks the healthc care box. This one's not for me, but um I think it's going to work with the whole sector. It's been flat. I think it's probably on its way to do better things than it's been doing for the last five plus years. So, I would say okay, but Fizer's better in terms of multiples you can get, depending how you express it. Jason M, uh Jason M, uh we're going to get back to you on that one. We can't talk about it now. You can interpret it that as you will. Tom, merry Christmas. Nike, uh, we like Nike. We like the turnaround. As a matter of fact, one of their directors, um, named Tim Apple, aka Tim Cook, bought a ton of stock, or not a ton, he bought $3 million of stock. And, uh, I think this one's going to work. I think it's going to take longer than everyone thinks. And I think VF Corp is a better bang for your buck because you're going to get a higher multiples. You know, when Nike recovers, you get a double. When VF recovers from our basis, you get three to five bags. And we like three to five bags that better than a double. So, uh, BHC, this is from Max M. BHC. Is this this, uh, yeah, it's B. This is a value trap. It's probably going to work. I mean, there all these guys pulse in. They've been in it forever and they continue to it's been a bad use of capital. Uh I just don't see the growth. It's"
+  },
+  {
+    "image_filename": "t4551_Stock_chart.jpg",
+    "timestamp_seconds": 4551,
+    "chart_description": "Stock_chart",
+    "transcript_context": "don't have Koi Fin that pulls directly from the SEC filings and uh go from there. Barry Kimbro, what's your thoughts on Align Tech? We don't like Align Tech, but we do like the space and uh we are going to leave that there. Line is not for us. It could work, but we have no edge there. Manny B Conmed, CNMD. I think we covered this a couple weeks ago. Uh, and I think we said okay. Let's just double check that. Yeah, I think you'll be okay there. Next, Jack Law Comber, uh, Dublin, Ireland. How you doing, Jack? WDFC. What is that? WD40. It's okay, but there are higher and better uses of your cash. Uh you're certainly not going to get a double off of it. And um you know, with declining revenues, well, no, revenues are okay. I just think it's rich. I I I wouldn't be a buyer here, but I don't think you're going to get hurt. Harry G. Bristol Meyers. It definitely clicks the healthc care box. This one's not for me, but um I think it's going to work with the whole sector. It's been flat. I think it's probably on its way to do better things than it's been doing for the last five plus years. So, I would say okay, but Fizer's better in terms of multiples you can get, depending how you express it. Jason M, uh Jason M, uh we're going to get back to you on that one. We can't talk about it now. You can interpret it that as you will. Tom, merry Christmas. Nike, uh, we like Nike. We like the turnaround. As a matter of fact, one of their directors, um, named Tim Apple, aka Tim Cook, bought a ton of stock, or not a ton, he bought $3 million of stock. And, uh, I think this one's going to work. I think it's going to take longer than everyone thinks. And I think VF Corp is a better bang for your buck because you're going to get a higher multiples. You know, when Nike recovers, you get a double. When VF recovers from our basis, you get three to five bags. And we like three to five bags that better than a double. So, uh, BHC, this is from Max M. BHC. Is this this, uh, yeah, it's B. This is a value trap. It's probably going to work. I mean, there all these guys pulse in. They've been in it forever and they continue to it's been a bad use of capital. Uh I just don't see the growth. It's okay. This is this is a value trap. That's not what we do. It could work, but I don't think it's going to be"
+  },
+  {
+    "image_filename": "t4559_Bristol_Myers_Squibb_Comp.jpg",
+    "timestamp_seconds": 4559,
+    "chart_description": "Bristol_Myers_Squibb_Comp",
+    "transcript_context": "thoughts on Align Tech? We don't like Align Tech, but we do like the space and uh we are going to leave that there. Line is not for us. It could work, but we have no edge there. Manny B Conmed, CNMD. I think we covered this a couple weeks ago. Uh, and I think we said okay. Let's just double check that. Yeah, I think you'll be okay there. Next, Jack Law Comber, uh, Dublin, Ireland. How you doing, Jack? WDFC. What is that? WD40. It's okay, but there are higher and better uses of your cash. Uh you're certainly not going to get a double off of it. And um you know, with declining revenues, well, no, revenues are okay. I just think it's rich. I I I wouldn't be a buyer here, but I don't think you're going to get hurt. Harry G. Bristol Meyers. It definitely clicks the healthc care box. This one's not for me, but um I think it's going to work with the whole sector. It's been flat. I think it's probably on its way to do better things than it's been doing for the last five plus years. So, I would say okay, but Fizer's better in terms of multiples you can get, depending how you express it. Jason M, uh Jason M, uh we're going to get back to you on that one. We can't talk about it now. You can interpret it that as you will. Tom, merry Christmas. Nike, uh, we like Nike. We like the turnaround. As a matter of fact, one of their directors, um, named Tim Apple, aka Tim Cook, bought a ton of stock, or not a ton, he bought $3 million of stock. And, uh, I think this one's going to work. I think it's going to take longer than everyone thinks. And I think VF Corp is a better bang for your buck because you're going to get a higher multiples. You know, when Nike recovers, you get a double. When VF recovers from our basis, you get three to five bags. And we like three to five bags that better than a double. So, uh, BHC, this is from Max M. BHC. Is this this, uh, yeah, it's B. This is a value trap. It's probably going to work. I mean, there all these guys pulse in. They've been in it forever and they continue to it's been a bad use of capital. Uh I just don't see the growth. It's okay. This is this is a value trap. That's not what we do. It could work, but I don't think it's going to be great. Uh, Wabash National WNC."
+  },
+  {
+    "image_filename": "t4601_Stock_chart.jpg",
+    "timestamp_seconds": 4601,
+    "chart_description": "Stock_chart",
+    "transcript_context": "Jack? WDFC. What is that? WD40. It's okay, but there are higher and better uses of your cash. Uh you're certainly not going to get a double off of it. And um you know, with declining revenues, well, no, revenues are okay. I just think it's rich. I I I wouldn't be a buyer here, but I don't think you're going to get hurt. Harry G. Bristol Meyers. It definitely clicks the healthc care box. This one's not for me, but um I think it's going to work with the whole sector. It's been flat. I think it's probably on its way to do better things than it's been doing for the last five plus years. So, I would say okay, but Fizer's better in terms of multiples you can get, depending how you express it. Jason M, uh Jason M, uh we're going to get back to you on that one. We can't talk about it now. You can interpret it that as you will. Tom, merry Christmas. Nike, uh, we like Nike. We like the turnaround. As a matter of fact, one of their directors, um, named Tim Apple, aka Tim Cook, bought a ton of stock, or not a ton, he bought $3 million of stock. And, uh, I think this one's going to work. I think it's going to take longer than everyone thinks. And I think VF Corp is a better bang for your buck because you're going to get a higher multiples. You know, when Nike recovers, you get a double. When VF recovers from our basis, you get three to five bags. And we like three to five bags that better than a double. So, uh, BHC, this is from Max M. BHC. Is this this, uh, yeah, it's B. This is a value trap. It's probably going to work. I mean, there all these guys pulse in. They've been in it forever and they continue to it's been a bad use of capital. Uh I just don't see the growth. It's okay. This is this is a value trap. That's not what we do. It could work, but I don't think it's going to be great. Uh, Wabash National WNC. Uh, revenues declining, cash flow declining. WNC. Yeah. I mean, but you're probably going to wind up with a double on this one. Let's just take a look at the balance sheet. Engineered solutions for logistics. Well, logistics is going up. We know that from our position with GXO. Let's just see if they're going to make stay in business until the cycle turn. So, this is an issue. They got 91 million of cash and 160 million of receivables on $400 million of debt. That's not bad. Uh"
+  },
+  {
+    "image_filename": "t4624_Nike_Inc__stock_chart.jpg",
+    "timestamp_seconds": 4624,
+    "chart_description": "Nike_Inc__stock_chart",
+    "transcript_context": "no, revenues are okay. I just think it's rich. I I I wouldn't be a buyer here, but I don't think you're going to get hurt. Harry G. Bristol Meyers. It definitely clicks the healthc care box. This one's not for me, but um I think it's going to work with the whole sector. It's been flat. I think it's probably on its way to do better things than it's been doing for the last five plus years. So, I would say okay, but Fizer's better in terms of multiples you can get, depending how you express it. Jason M, uh Jason M, uh we're going to get back to you on that one. We can't talk about it now. You can interpret it that as you will. Tom, merry Christmas. Nike, uh, we like Nike. We like the turnaround. As a matter of fact, one of their directors, um, named Tim Apple, aka Tim Cook, bought a ton of stock, or not a ton, he bought $3 million of stock. And, uh, I think this one's going to work. I think it's going to take longer than everyone thinks. And I think VF Corp is a better bang for your buck because you're going to get a higher multiples. You know, when Nike recovers, you get a double. When VF recovers from our basis, you get three to five bags. And we like three to five bags that better than a double. So, uh, BHC, this is from Max M. BHC. Is this this, uh, yeah, it's B. This is a value trap. It's probably going to work. I mean, there all these guys pulse in. They've been in it forever and they continue to it's been a bad use of capital. Uh I just don't see the growth. It's okay. This is this is a value trap. That's not what we do. It could work, but I don't think it's going to be great. Uh, Wabash National WNC. Uh, revenues declining, cash flow declining. WNC. Yeah. I mean, but you're probably going to wind up with a double on this one. Let's just take a look at the balance sheet. Engineered solutions for logistics. Well, logistics is going up. We know that from our position with GXO. Let's just see if they're going to make stay in business until the cycle turn. So, this is an issue. They got 91 million of cash and 160 million of receivables on $400 million of debt. That's not bad. Uh let's see what their cash flow is doing here. Yeah, they're going to live 100 million of cash. Let's take a look at their income statement bringing down the share count. I think you're okay there. Next, Kim Arnold,"
+  },
+  {
+    "image_filename": "t4702_Bausch_Health_Companies_I.jpg",
+    "timestamp_seconds": 4702,
+    "chart_description": "Bausch_Health_Companies_I",
+    "transcript_context": "uh, BHC, this is from Max M. BHC. Is this this, uh, yeah, it's B. This is a value trap. It's probably going to work. I mean, there all these guys pulse in. They've been in it forever and they continue to it's been a bad use of capital. Uh I just don't see the growth. It's okay. This is this is a value trap. That's not what we do. It could work, but I don't think it's going to be great. Uh, Wabash National WNC. Uh, revenues declining, cash flow declining. WNC. Yeah. I mean, but you're probably going to wind up with a double on this one. Let's just take a look at the balance sheet. Engineered solutions for logistics. Well, logistics is going up. We know that from our position with GXO. Let's just see if they're going to make stay in business until the cycle turn. So, this is an issue. They got 91 million of cash and 160 million of receivables on $400 million of debt. That's not bad. Uh let's see what their cash flow is doing here. Yeah, they're going to live 100 million of cash. Let's take a look at their income statement bringing down the share count. I think you're okay there. Next, Kim Arnold, Amphasar Pharmaceuticals. Uh when we get to smaller companies, uh I tend to not do individual stocks because I have no edge on the drug approval. We're generalists. So I would say it's not for me. Next, Christian D. What's your opinion on Howard Hughes? Uh, they'll benefit from the housing recovery. This is a Aman's new vehicle. Um, not for me. Next, Brian Mlan. Uh, now New is a bag of bag of you know what I it's it'll work for bounds, but it's just been so mismanaged. Uh, Ricardo at Goto, first time caller, Goodyear tire. The answer is no. There's too much competition from the Koreans and the Japanese. And the other thing is this is going to work for a bounce and it's going to be fine in the short term. It's"
+  },
+  {
+    "image_filename": "t4714_Bausch_Health_Companies_I.jpg",
+    "timestamp_seconds": 4714,
+    "chart_description": "Bausch_Health_Companies_I",
+    "transcript_context": "all these guys pulse in. They've been in it forever and they continue to it's been a bad use of capital. Uh I just don't see the growth. It's okay. This is this is a value trap. That's not what we do. It could work, but I don't think it's going to be great. Uh, Wabash National WNC. Uh, revenues declining, cash flow declining. WNC. Yeah. I mean, but you're probably going to wind up with a double on this one. Let's just take a look at the balance sheet. Engineered solutions for logistics. Well, logistics is going up. We know that from our position with GXO. Let's just see if they're going to make stay in business until the cycle turn. So, this is an issue. They got 91 million of cash and 160 million of receivables on $400 million of debt. That's not bad. Uh let's see what their cash flow is doing here. Yeah, they're going to live 100 million of cash. Let's take a look at their income statement bringing down the share count. I think you're okay there. Next, Kim Arnold, Amphasar Pharmaceuticals. Uh when we get to smaller companies, uh I tend to not do individual stocks because I have no edge on the drug approval. We're generalists. So I would say it's not for me. Next, Christian D. What's your opinion on Howard Hughes? Uh, they'll benefit from the housing recovery. This is a Aman's new vehicle. Um, not for me. Next, Brian Mlan. Uh, now New is a bag of bag of you know what I it's it'll work for bounds, but it's just been so mismanaged. Uh, Ricardo at Goto, first time caller, Goodyear tire. The answer is no. There's too much competition from the Koreans and the Japanese. And the other thing is this is going to work for a bounce and it's going to be fine in the short term. It's just such a crap business and it's just burning too much cash. Revenues are no showing no sign of recovery. So, it's a trade and a gamble, not an investment. VNOM, this is a lower quality energy"
+  },
+  {
+    "image_filename": "t4731_Wabash_National_Corporati.jpg",
+    "timestamp_seconds": 4731,
+    "chart_description": "Wabash_National_Corporati",
+    "transcript_context": "great. Uh, Wabash National WNC. Uh, revenues declining, cash flow declining. WNC. Yeah. I mean, but you're probably going to wind up with a double on this one. Let's just take a look at the balance sheet. Engineered solutions for logistics. Well, logistics is going up. We know that from our position with GXO. Let's just see if they're going to make stay in business until the cycle turn. So, this is an issue. They got 91 million of cash and 160 million of receivables on $400 million of debt. That's not bad. Uh let's see what their cash flow is doing here. Yeah, they're going to live 100 million of cash. Let's take a look at their income statement bringing down the share count. I think you're okay there. Next, Kim Arnold, Amphasar Pharmaceuticals. Uh when we get to smaller companies, uh I tend to not do individual stocks because I have no edge on the drug approval. We're generalists. So I would say it's not for me. Next, Christian D. What's your opinion on Howard Hughes? Uh, they'll benefit from the housing recovery. This is a Aman's new vehicle. Um, not for me. Next, Brian Mlan. Uh, now New is a bag of bag of you know what I it's it'll work for bounds, but it's just been so mismanaged. Uh, Ricardo at Goto, first time caller, Goodyear tire. The answer is no. There's too much competition from the Koreans and the Japanese. And the other thing is this is going to work for a bounce and it's going to be fine in the short term. It's just such a crap business and it's just burning too much cash. Revenues are no showing no sign of recovery. So, it's a trade and a gamble, not an investment. VNOM, this is a lower quality energy producer. Uh, I think energy is going to play well in 2026. There's no way I'm buying it up here. So, hard pass. Jack G. Um, Jack, we covered that in the article of the week. What's causing that for next year and why are we not concerned? This"
+  },
+  {
+    "image_filename": "t4740_Stock_chart.jpg",
+    "timestamp_seconds": 4740,
+    "chart_description": "Stock_chart",
+    "transcript_context": "great. Uh, Wabash National WNC. Uh, revenues declining, cash flow declining. WNC. Yeah. I mean, but you're probably going to wind up with a double on this one. Let's just take a look at the balance sheet. Engineered solutions for logistics. Well, logistics is going up. We know that from our position with GXO. Let's just see if they're going to make stay in business until the cycle turn. So, this is an issue. They got 91 million of cash and 160 million of receivables on $400 million of debt. That's not bad. Uh let's see what their cash flow is doing here. Yeah, they're going to live 100 million of cash. Let's take a look at their income statement bringing down the share count. I think you're okay there. Next, Kim Arnold, Amphasar Pharmaceuticals. Uh when we get to smaller companies, uh I tend to not do individual stocks because I have no edge on the drug approval. We're generalists. So I would say it's not for me. Next, Christian D. What's your opinion on Howard Hughes? Uh, they'll benefit from the housing recovery. This is a Aman's new vehicle. Um, not for me. Next, Brian Mlan. Uh, now New is a bag of bag of you know what I it's it'll work for bounds, but it's just been so mismanaged. Uh, Ricardo at Goto, first time caller, Goodyear tire. The answer is no. There's too much competition from the Koreans and the Japanese. And the other thing is this is going to work for a bounce and it's going to be fine in the short term. It's just such a crap business and it's just burning too much cash. Revenues are no showing no sign of recovery. So, it's a trade and a gamble, not an investment. VNOM, this is a lower quality energy producer. Uh, I think energy is going to play well in 2026. There's no way I'm buying it up here. So, hard pass. Jack G. Um, Jack, we covered that in the article of the week. What's causing that for next year and why are we not concerned? This is a new investor inquiry. Uh, just uh Greg's UK,"
+  },
+  {
+    "image_filename": "t4746_Wabash_National_Corporati.jpg",
+    "timestamp_seconds": 4746,
+    "chart_description": "Wabash_National_Corporati",
+    "transcript_context": "declining. WNC. Yeah. I mean, but you're probably going to wind up with a double on this one. Let's just take a look at the balance sheet. Engineered solutions for logistics. Well, logistics is going up. We know that from our position with GXO. Let's just see if they're going to make stay in business until the cycle turn. So, this is an issue. They got 91 million of cash and 160 million of receivables on $400 million of debt. That's not bad. Uh let's see what their cash flow is doing here. Yeah, they're going to live 100 million of cash. Let's take a look at their income statement bringing down the share count. I think you're okay there. Next, Kim Arnold, Amphasar Pharmaceuticals. Uh when we get to smaller companies, uh I tend to not do individual stocks because I have no edge on the drug approval. We're generalists. So I would say it's not for me. Next, Christian D. What's your opinion on Howard Hughes? Uh, they'll benefit from the housing recovery. This is a Aman's new vehicle. Um, not for me. Next, Brian Mlan. Uh, now New is a bag of bag of you know what I it's it'll work for bounds, but it's just been so mismanaged. Uh, Ricardo at Goto, first time caller, Goodyear tire. The answer is no. There's too much competition from the Koreans and the Japanese. And the other thing is this is going to work for a bounce and it's going to be fine in the short term. It's just such a crap business and it's just burning too much cash. Revenues are no showing no sign of recovery. So, it's a trade and a gamble, not an investment. VNOM, this is a lower quality energy producer. Uh, I think energy is going to play well in 2026. There's no way I'm buying it up here. So, hard pass. Jack G. Um, Jack, we covered that in the article of the week. What's causing that for next year and why are we not concerned? This is a new investor inquiry. Uh, just uh Greg's UK, Gre G. This is a Dunkin Donuts"
+  },
+  {
+    "image_filename": "t4800_Goodyear_Tire___Rubber_Co.jpg",
+    "timestamp_seconds": 4800,
+    "chart_description": "Goodyear_Tire___Rubber_Co",
+    "transcript_context": "bringing down the share count. I think you're okay there. Next, Kim Arnold, Amphasar Pharmaceuticals. Uh when we get to smaller companies, uh I tend to not do individual stocks because I have no edge on the drug approval. We're generalists. So I would say it's not for me. Next, Christian D. What's your opinion on Howard Hughes? Uh, they'll benefit from the housing recovery. This is a Aman's new vehicle. Um, not for me. Next, Brian Mlan. Uh, now New is a bag of bag of you know what I it's it'll work for bounds, but it's just been so mismanaged. Uh, Ricardo at Goto, first time caller, Goodyear tire. The answer is no. There's too much competition from the Koreans and the Japanese. And the other thing is this is going to work for a bounce and it's going to be fine in the short term. It's just such a crap business and it's just burning too much cash. Revenues are no showing no sign of recovery. So, it's a trade and a gamble, not an investment. VNOM, this is a lower quality energy producer. Uh, I think energy is going to play well in 2026. There's no way I'm buying it up here. So, hard pass. Jack G. Um, Jack, we covered that in the article of the week. What's causing that for next year and why are we not concerned? This is a new investor inquiry. Uh, just uh Greg's UK, Gre G. This is a Dunkin Donuts of the UK. Let's take a look at it. Negative free cash flow. Revenues are growing. Let's take a look at the balance sheet. $45 million of cash. How much debt? half a billion. I I wouldn't do this one. I I like it looks like it wants to bounce and maybe you'll get a double, but they're better uses of your money. Uh, another investor inquiry. Sim Simmon Simon Bu, we own it from much lower levels. Um, another investor and SM Energy from Sagar Kaneka."
+  },
+  {
+    "image_filename": "t4802_Stockcharts_com_chart.jpg",
+    "timestamp_seconds": 4802,
+    "chart_description": "Stockcharts_com_chart",
+    "transcript_context": "you're okay there. Next, Kim Arnold, Amphasar Pharmaceuticals. Uh when we get to smaller companies, uh I tend to not do individual stocks because I have no edge on the drug approval. We're generalists. So I would say it's not for me. Next, Christian D. What's your opinion on Howard Hughes? Uh, they'll benefit from the housing recovery. This is a Aman's new vehicle. Um, not for me. Next, Brian Mlan. Uh, now New is a bag of bag of you know what I it's it'll work for bounds, but it's just been so mismanaged. Uh, Ricardo at Goto, first time caller, Goodyear tire. The answer is no. There's too much competition from the Koreans and the Japanese. And the other thing is this is going to work for a bounce and it's going to be fine in the short term. It's just such a crap business and it's just burning too much cash. Revenues are no showing no sign of recovery. So, it's a trade and a gamble, not an investment. VNOM, this is a lower quality energy producer. Uh, I think energy is going to play well in 2026. There's no way I'm buying it up here. So, hard pass. Jack G. Um, Jack, we covered that in the article of the week. What's causing that for next year and why are we not concerned? This is a new investor inquiry. Uh, just uh Greg's UK, Gre G. This is a Dunkin Donuts of the UK. Let's take a look at it. Negative free cash flow. Revenues are growing. Let's take a look at the balance sheet. $45 million of cash. How much debt? half a billion. I I wouldn't do this one. I I like it looks like it wants to bounce and maybe you'll get a double, but they're better uses of your money. Uh, another investor inquiry. Sim Simmon Simon Bu, we own it from much lower levels. Um, another investor and SM Energy from Sagar Kaneka."
+  },
+  {
+    "image_filename": "t4835_Stockcharts_com_chart.jpg",
+    "timestamp_seconds": 4835,
+    "chart_description": "Stockcharts_com_chart",
+    "transcript_context": "So I would say it's not for me. Next, Christian D. What's your opinion on Howard Hughes? Uh, they'll benefit from the housing recovery. This is a Aman's new vehicle. Um, not for me. Next, Brian Mlan. Uh, now New is a bag of bag of you know what I it's it'll work for bounds, but it's just been so mismanaged. Uh, Ricardo at Goto, first time caller, Goodyear tire. The answer is no. There's too much competition from the Koreans and the Japanese. And the other thing is this is going to work for a bounce and it's going to be fine in the short term. It's just such a crap business and it's just burning too much cash. Revenues are no showing no sign of recovery. So, it's a trade and a gamble, not an investment. VNOM, this is a lower quality energy producer. Uh, I think energy is going to play well in 2026. There's no way I'm buying it up here. So, hard pass. Jack G. Um, Jack, we covered that in the article of the week. What's causing that for next year and why are we not concerned? This is a new investor inquiry. Uh, just uh Greg's UK, Gre G. This is a Dunkin Donuts of the UK. Let's take a look at it. Negative free cash flow. Revenues are growing. Let's take a look at the balance sheet. $45 million of cash. How much debt? half a billion. I I wouldn't do this one. I I like it looks like it wants to bounce and maybe you'll get a double, but they're better uses of your money. Uh, another investor inquiry. Sim Simmon Simon Bu, we own it from much lower levels. Um, another investor and SM Energy from Sagar Kaneka. SM another energy company. We like that theme. Um I don't think this has come down enough relative to the price of energy. There are better energy plays like we like comtock which yes it's up almost triple from where we bought it but it's going higher. Uh national oil well Varco is only up 40 50% from where we bought it. That's going to be a multibagger even from these levels. I would play it that way. These EMP names I don't think have come down enough relative to the price. Plus, this one's burning a ton of cash. So, hard pass. Uh, and that's that. With"
+  },
+  {
+    "image_filename": "t4845_Greggs_plc_Free_Cash_Flow.jpg",
+    "timestamp_seconds": 4845,
+    "chart_description": "Greggs_plc_Free_Cash_Flow",
+    "transcript_context": "recovery. This is a Aman's new vehicle. Um, not for me. Next, Brian Mlan. Uh, now New is a bag of bag of you know what I it's it'll work for bounds, but it's just been so mismanaged. Uh, Ricardo at Goto, first time caller, Goodyear tire. The answer is no. There's too much competition from the Koreans and the Japanese. And the other thing is this is going to work for a bounce and it's going to be fine in the short term. It's just such a crap business and it's just burning too much cash. Revenues are no showing no sign of recovery. So, it's a trade and a gamble, not an investment. VNOM, this is a lower quality energy producer. Uh, I think energy is going to play well in 2026. There's no way I'm buying it up here. So, hard pass. Jack G. Um, Jack, we covered that in the article of the week. What's causing that for next year and why are we not concerned? This is a new investor inquiry. Uh, just uh Greg's UK, Gre G. This is a Dunkin Donuts of the UK. Let's take a look at it. Negative free cash flow. Revenues are growing. Let's take a look at the balance sheet. $45 million of cash. How much debt? half a billion. I I wouldn't do this one. I I like it looks like it wants to bounce and maybe you'll get a double, but they're better uses of your money. Uh, another investor inquiry. Sim Simmon Simon Bu, we own it from much lower levels. Um, another investor and SM Energy from Sagar Kaneka. SM another energy company. We like that theme. Um I don't think this has come down enough relative to the price of energy. There are better energy plays like we like comtock which yes it's up almost triple from where we bought it but it's going higher. Uh national oil well Varco is only up 40 50% from where we bought it. That's going to be a multibagger even from these levels. I would play it that way. These EMP names I don't think have come down enough relative to the price. Plus, this one's burning a ton of cash. So, hard pass. Uh, and that's that. With that said, we'll see everyone next week. Um, we'll I don't know which day, but it will be same place uh either Wednesday"
+  },
+  {
+    "image_filename": "t4852_Amphastar_Pharmaceuticals.jpg",
+    "timestamp_seconds": 4852,
+    "chart_description": "Amphastar_Pharmaceuticals",
+    "transcript_context": "Um, not for me. Next, Brian Mlan. Uh, now New is a bag of bag of you know what I it's it'll work for bounds, but it's just been so mismanaged. Uh, Ricardo at Goto, first time caller, Goodyear tire. The answer is no. There's too much competition from the Koreans and the Japanese. And the other thing is this is going to work for a bounce and it's going to be fine in the short term. It's just such a crap business and it's just burning too much cash. Revenues are no showing no sign of recovery. So, it's a trade and a gamble, not an investment. VNOM, this is a lower quality energy producer. Uh, I think energy is going to play well in 2026. There's no way I'm buying it up here. So, hard pass. Jack G. Um, Jack, we covered that in the article of the week. What's causing that for next year and why are we not concerned? This is a new investor inquiry. Uh, just uh Greg's UK, Gre G. This is a Dunkin Donuts of the UK. Let's take a look at it. Negative free cash flow. Revenues are growing. Let's take a look at the balance sheet. $45 million of cash. How much debt? half a billion. I I wouldn't do this one. I I like it looks like it wants to bounce and maybe you'll get a double, but they're better uses of your money. Uh, another investor inquiry. Sim Simmon Simon Bu, we own it from much lower levels. Um, another investor and SM Energy from Sagar Kaneka. SM another energy company. We like that theme. Um I don't think this has come down enough relative to the price of energy. There are better energy plays like we like comtock which yes it's up almost triple from where we bought it but it's going higher. Uh national oil well Varco is only up 40 50% from where we bought it. That's going to be a multibagger even from these levels. I would play it that way. These EMP names I don't think have come down enough relative to the price. Plus, this one's burning a ton of cash. So, hard pass. Uh, and that's that. With that said, we'll see everyone next week. Um, we'll I don't know which day, but it will be same place uh either Wednesday or Thursday. In the meantime, make it a great one. Merry Christmas and bye for"
+  },
+  {
+    "image_filename": "t4859_Balance_Sheet.jpg",
+    "timestamp_seconds": 4859,
+    "chart_description": "Balance_Sheet",
+    "transcript_context": "Uh, now New is a bag of bag of you know what I it's it'll work for bounds, but it's just been so mismanaged. Uh, Ricardo at Goto, first time caller, Goodyear tire. The answer is no. There's too much competition from the Koreans and the Japanese. And the other thing is this is going to work for a bounce and it's going to be fine in the short term. It's just such a crap business and it's just burning too much cash. Revenues are no showing no sign of recovery. So, it's a trade and a gamble, not an investment. VNOM, this is a lower quality energy producer. Uh, I think energy is going to play well in 2026. There's no way I'm buying it up here. So, hard pass. Jack G. Um, Jack, we covered that in the article of the week. What's causing that for next year and why are we not concerned? This is a new investor inquiry. Uh, just uh Greg's UK, Gre G. This is a Dunkin Donuts of the UK. Let's take a look at it. Negative free cash flow. Revenues are growing. Let's take a look at the balance sheet. $45 million of cash. How much debt? half a billion. I I wouldn't do this one. I I like it looks like it wants to bounce and maybe you'll get a double, but they're better uses of your money. Uh, another investor inquiry. Sim Simmon Simon Bu, we own it from much lower levels. Um, another investor and SM Energy from Sagar Kaneka. SM another energy company. We like that theme. Um I don't think this has come down enough relative to the price of energy. There are better energy plays like we like comtock which yes it's up almost triple from where we bought it but it's going higher. Uh national oil well Varco is only up 40 50% from where we bought it. That's going to be a multibagger even from these levels. I would play it that way. These EMP names I don't think have come down enough relative to the price. Plus, this one's burning a ton of cash. So, hard pass. Uh, and that's that. With that said, we'll see everyone next week. Um, we'll I don't know which day, but it will be same place uh either Wednesday or Thursday. In the meantime, make it a great one. Merry Christmas and bye for now. Heat. Heat."
+  },
+  {
+    "image_filename": "t4908_Stockcharts_com_chart.jpg",
+    "timestamp_seconds": 4908,
+    "chart_description": "Stockcharts_com_chart",
+    "transcript_context": "the week. What's causing that for next year and why are we not concerned? This is a new investor inquiry. Uh, just uh Greg's UK, Gre G. This is a Dunkin Donuts of the UK. Let's take a look at it. Negative free cash flow. Revenues are growing. Let's take a look at the balance sheet. $45 million of cash. How much debt? half a billion. I I wouldn't do this one. I I like it looks like it wants to bounce and maybe you'll get a double, but they're better uses of your money. Uh, another investor inquiry. Sim Simmon Simon Bu, we own it from much lower levels. Um, another investor and SM Energy from Sagar Kaneka. SM another energy company. We like that theme. Um I don't think this has come down enough relative to the price of energy. There are better energy plays like we like comtock which yes it's up almost triple from where we bought it but it's going higher. Uh national oil well Varco is only up 40 50% from where we bought it. That's going to be a multibagger even from these levels. I would play it that way. These EMP names I don't think have come down enough relative to the price. Plus, this one's burning a ton of cash. So, hard pass. Uh, and that's that. With that said, we'll see everyone next week. Um, we'll I don't know which day, but it will be same place uh either Wednesday or Thursday. In the meantime, make it a great one. Merry Christmas and bye for now. Heat. Heat. Heat. Hey, heat. Hey, heat."
+  },
+  {
+    "image_filename": "t4914_Stock_chart.jpg",
+    "timestamp_seconds": 4914,
+    "chart_description": "Stock_chart",
+    "transcript_context": "is a new investor inquiry. Uh, just uh Greg's UK, Gre G. This is a Dunkin Donuts of the UK. Let's take a look at it. Negative free cash flow. Revenues are growing. Let's take a look at the balance sheet. $45 million of cash. How much debt? half a billion. I I wouldn't do this one. I I like it looks like it wants to bounce and maybe you'll get a double, but they're better uses of your money. Uh, another investor inquiry. Sim Simmon Simon Bu, we own it from much lower levels. Um, another investor and SM Energy from Sagar Kaneka. SM another energy company. We like that theme. Um I don't think this has come down enough relative to the price of energy. There are better energy plays like we like comtock which yes it's up almost triple from where we bought it but it's going higher. Uh national oil well Varco is only up 40 50% from where we bought it. That's going to be a multibagger even from these levels. I would play it that way. These EMP names I don't think have come down enough relative to the price. Plus, this one's burning a ton of cash. So, hard pass. Uh, and that's that. With that said, we'll see everyone next week. Um, we'll I don't know which day, but it will be same place uh either Wednesday or Thursday. In the meantime, make it a great one. Merry Christmas and bye for now. Heat. Heat. Heat. Hey, heat. Hey, heat."
+  },
+  {
+    "image_filename": "t4936_Stockcharts_com_chart.jpg",
+    "timestamp_seconds": 4936,
+    "chart_description": "Stockcharts_com_chart",
+    "transcript_context": "Negative free cash flow. Revenues are growing. Let's take a look at the balance sheet. $45 million of cash. How much debt? half a billion. I I wouldn't do this one. I I like it looks like it wants to bounce and maybe you'll get a double, but they're better uses of your money. Uh, another investor inquiry. Sim Simmon Simon Bu, we own it from much lower levels. Um, another investor and SM Energy from Sagar Kaneka. SM another energy company. We like that theme. Um I don't think this has come down enough relative to the price of energy. There are better energy plays like we like comtock which yes it's up almost triple from where we bought it but it's going higher. Uh national oil well Varco is only up 40 50% from where we bought it. That's going to be a multibagger even from these levels. I would play it that way. These EMP names I don't think have come down enough relative to the price. Plus, this one's burning a ton of cash. So, hard pass. Uh, and that's that. With that said, we'll see everyone next week. Um, we'll I don't know which day, but it will be same place uh either Wednesday or Thursday. In the meantime, make it a great one. Merry Christmas and bye for now. Heat. Heat. Heat. Hey, heat. Hey, heat."
+  },
+  {
+    "image_filename": "t4954_Goodyear_Tire___Rubber_Co.jpg",
+    "timestamp_seconds": 4954,
+    "chart_description": "Goodyear_Tire___Rubber_Co",
+    "transcript_context": "half a billion. I I wouldn't do this one. I I like it looks like it wants to bounce and maybe you'll get a double, but they're better uses of your money. Uh, another investor inquiry. Sim Simmon Simon Bu, we own it from much lower levels. Um, another investor and SM Energy from Sagar Kaneka. SM another energy company. We like that theme. Um I don't think this has come down enough relative to the price of energy. There are better energy plays like we like comtock which yes it's up almost triple from where we bought it but it's going higher. Uh national oil well Varco is only up 40 50% from where we bought it. That's going to be a multibagger even from these levels. I would play it that way. These EMP names I don't think have come down enough relative to the price. Plus, this one's burning a ton of cash. So, hard pass. Uh, and that's that. With that said, we'll see everyone next week. Um, we'll I don't know which day, but it will be same place uh either Wednesday or Thursday. In the meantime, make it a great one. Merry Christmas and bye for now. Heat. Heat. Heat. Hey, heat. Hey, heat."
+  },
+  {
+    "image_filename": "t4958_SM_Energy_Company_Free_Ca.jpg",
+    "timestamp_seconds": 4958,
+    "chart_description": "SM_Energy_Company_Free_Ca",
+    "transcript_context": "bounce and maybe you'll get a double, but they're better uses of your money. Uh, another investor inquiry. Sim Simmon Simon Bu, we own it from much lower levels. Um, another investor and SM Energy from Sagar Kaneka. SM another energy company. We like that theme. Um I don't think this has come down enough relative to the price of energy. There are better energy plays like we like comtock which yes it's up almost triple from where we bought it but it's going higher. Uh national oil well Varco is only up 40 50% from where we bought it. That's going to be a multibagger even from these levels. I would play it that way. These EMP names I don't think have come down enough relative to the price. Plus, this one's burning a ton of cash. So, hard pass. Uh, and that's that. With that said, we'll see everyone next week. Um, we'll I don't know which day, but it will be same place uh either Wednesday or Thursday. In the meantime, make it a great one. Merry Christmas and bye for now. Heat. Heat. Heat. Hey, heat. Hey, heat."
+  },
+  {
+    "image_filename": "t4994_Goodyear_Tire___Rubber_Co.jpg",
+    "timestamp_seconds": 4994,
+    "chart_description": "Goodyear_Tire___Rubber_Co",
+    "transcript_context": "comtock which yes it's up almost triple from where we bought it but it's going higher. Uh national oil well Varco is only up 40 50% from where we bought it. That's going to be a multibagger even from these levels. I would play it that way. These EMP names I don't think have come down enough relative to the price. Plus, this one's burning a ton of cash. So, hard pass. Uh, and that's that. With that said, we'll see everyone next week. Um, we'll I don't know which day, but it will be same place uh either Wednesday or Thursday. In the meantime, make it a great one. Merry Christmas and bye for now. Heat. Heat. Heat. Hey, heat. Hey, heat."
+  },
+  {
+    "image_filename": "t528_Intel_Stock_Performance_C.jpg",
+    "timestamp_seconds": 528,
+    "chart_description": "Intel_Stock_Performance_C",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t655_Tech_SPDR_Stock_Performan.jpg",
+    "timestamp_seconds": 655,
+    "chart_description": "Tech_SPDR_Stock_Performan",
+    "transcript_context": ""
+  },
+  {
+    "image_filename": "t821_Magnificent_7_Stock_Perfo.jpg",
+    "timestamp_seconds": 821,
+    "chart_description": "Magnificent_7_Stock_Perfo",
+    "transcript_context": ""
+  }
+]
